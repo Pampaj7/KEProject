@@ -1,5 +1,5 @@
-# KGCreation.py
 import networkx as nx
+
 
 def create_knowledge_graph():
     # Create a directed graph
