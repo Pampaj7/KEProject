@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1000px;
+                 height: 500px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#medical-image-analysis", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#medical-image-analysis", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#medical-image-analysis"}, {"color": "#97c2fc", "id": "Medical image analysis", "label": "Medical image analysis", "shape": "dot", "title": "Medical image analysis"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#computer-vision", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#computer-vision", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#computer-vision"}, {"color": "#97c2fc", "id": "http://schema.org/Thing", "label": "http://schema.org/Thing", "shape": "dot", "title": "http://schema.org/Thing"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#representative-learning", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#representative-learning", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#representative-learning"}, {"color": "#97c2fc", "id": "Representation learning", "label": "Representation learning", "shape": "dot", "title": "Representation learning"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#recurrent-neural-networks", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#recurrent-neural-networks", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#recurrent-neural-networks"}, {"color": "#97c2fc", "id": "Recurrent neural networks", "label": "Recurrent neural networks", "shape": "dot", "title": "Recurrent neural networks"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-neural-networks", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-neural-networks", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-neural-networks"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#climate-science", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#climate-science", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#climate-science"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#unsupervised-learning", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#unsupervised-learning", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#unsupervised-learning"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#natural-language-processing", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#natural-language-processing", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#natural-language-processing"}, {"color": "#97c2fc", "id": "Natural language processing", "label": "Natural language processing", "shape": "dot", "title": "Natural language processing"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#speech-recognition", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#speech-recognition", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#speech-recognition"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#semi-supervised-learning", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#semi-supervised-learning", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#semi-supervised-learning"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#artificial-neural-networks", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#artificial-neural-networks", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#artificial-neural-networks"}, {"color": "#97c2fc", "id": "Climate science", "label": "Climate science", "shape": "dot", "title": "Climate science"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#transformers", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#transformers", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#transformers"}, {"color": "#97c2fc", "id": "Transformers", "label": "Transformers", "shape": "dot", "title": "Transformers"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#machine-translation", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#machine-translation", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#machine-translation"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-learning", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-learning", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-learning"}, {"color": "#97c2fc", "id": "Computer vision", "label": "Computer vision", "shape": "dot", "title": "Computer vision"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#algorithm", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#algorithm", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#algorithm"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#drug-design", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#drug-design", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#drug-design"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#material-inspection", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#material-inspection", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#material-inspection"}, {"color": "#97c2fc", "id": "Artificial neural networks", "label": "Artificial neural networks", "shape": "dot", "title": "Artificial neural networks"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#supervised-learning", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#supervised-learning", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#supervised-learning"}, {"color": "#97c2fc", "id": "Semi-supervised learning", "label": "Semi-supervised learning", "shape": "dot", "title": "Semi-supervised learning"}, {"color": "#97c2fc", "id": "Machine translation", "label": "Machine translation", "shape": "dot", "title": "Machine translation"}, {"color": "#97c2fc", "id": "Supervised learning", "label": "Supervised learning", "shape": "dot", "title": "Supervised learning"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-belief-networks", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-belief-networks", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-belief-networks"}, {"color": "#97c2fc", "id": "Deep belief networks", "label": "Deep belief networks", "shape": "dot", "title": "Deep belief networks"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#convolutional-neural-networks", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#convolutional-neural-networks", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#convolutional-neural-networks"}, {"color": "#97c2fc", "id": "Convolutional neural networks", "label": "Convolutional neural networks", "shape": "dot", "title": "Convolutional neural networks"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#bioinformatics", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#bioinformatics", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#bioinformatics"}, {"color": "#97c2fc", "id": "Deep learning", "label": "Deep learning", "shape": "dot", "title": "Deep learning"}, {"color": "#97c2fc", "id": "Material inspection", "label": "Material inspection", "shape": "dot", "title": "Material inspection"}, {"color": "#97c2fc", "id": "Algorithm", "label": "Algorithm", "shape": "dot", "title": "Algorithm"}, {"color": "#97c2fc", "id": "Speech recognition", "label": "Speech recognition", "shape": "dot", "title": "Speech recognition"}, {"color": "#97c2fc", "id": "Unsupervised learning", "label": "Unsupervised learning", "shape": "dot", "title": "Unsupervised learning"}, {"color": "#97c2fc", "id": "Bioinformatics", "label": "Bioinformatics", "shape": "dot", "title": "Bioinformatics"}, {"color": "#97c2fc", "id": "Deep neural networks", "label": "Deep neural networks", "shape": "dot", "title": "Deep neural networks"}, {"color": "#97c2fc", "id": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#board-game-programs", "label": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#board-game-programs", "shape": "dot", "title": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#board-game-programs"}, {"color": "#97c2fc", "id": "Board game programs", "label": "Board game programs", "shape": "dot", "title": "Board game programs"}, {"color": "#97c2fc", "id": "Drug design", "label": "Drug design", "shape": "dot", "title": "Drug design"}]);
+                  edges = new vis.DataSet([{"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#medical-image-analysis", "title": "http://schema.org/name", "to": "Medical image analysis"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#computer-vision", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#representative-learning", "title": "http://schema.org/name", "to": "Representation learning"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#recurrent-neural-networks", "title": "http://schema.org/name", "to": "Recurrent neural networks"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-neural-networks", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#climate-science", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#unsupervised-learning", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#natural-language-processing", "title": "http://schema.org/name", "to": "Natural language processing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#speech-recognition", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#semi-supervised-learning", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#artificial-neural-networks", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#climate-science", "title": "http://schema.org/name", "to": "Climate science"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#transformers", "title": "http://schema.org/name", "to": "Transformers"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#machine-translation", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-learning", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#computer-vision", "title": "http://schema.org/name", "to": "Computer vision"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#algorithm", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#drug-design", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#material-inspection", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#representative-learning", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#medical-image-analysis", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#artificial-neural-networks", "title": "http://schema.org/name", "to": "Artificial neural networks"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#recurrent-neural-networks", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#natural-language-processing", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#supervised-learning", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#semi-supervised-learning", "title": "http://schema.org/name", "to": "Semi-supervised learning"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#machine-translation", "title": "http://schema.org/name", "to": "Machine translation"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#supervised-learning", "title": "http://schema.org/name", "to": "Supervised learning"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-belief-networks", "title": "http://schema.org/name", "to": "Deep belief networks"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#convolutional-neural-networks", "title": "http://schema.org/name", "to": "Convolutional neural networks"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#bioinformatics", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-learning", "title": "http://schema.org/name", "to": "Deep learning"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#material-inspection", "title": "http://schema.org/name", "to": "Material inspection"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#algorithm", "title": "http://schema.org/name", "to": "Algorithm"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#convolutional-neural-networks", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#speech-recognition", "title": "http://schema.org/name", "to": "Speech recognition"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#unsupervised-learning", "title": "http://schema.org/name", "to": "Unsupervised learning"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-belief-networks", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#bioinformatics", "title": "http://schema.org/name", "to": "Bioinformatics"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#deep-neural-networks", "title": "http://schema.org/name", "to": "Deep neural networks"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#transformers", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#board-game-programs", "title": "http://schema.org/name", "to": "Board game programs"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#drug-design", "title": "http://schema.org/name", "to": "Drug design"}, {"from": "file:///Users/pampaj/Desktop/VSProject/KEProject/KG/knowledge_graph.json#board-game-programs", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"font": {"size": 12}}, "edges": {"color": {"inherit": true}, "smooth": false}, "physics": {"barnesHut": {"gravitationalConstant": -80000, "centralGravity": 0.3, "springLength": 200, "springConstant": 0.04, "damping": 0.09, "avoidOverlap": 0}, "minVelocity": 0.75}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

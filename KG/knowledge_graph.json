@@ -1,0 +1,117 @@
+{
+    "@context": {
+        "schema": "http://schema.org/"
+    },
+    "@graph": [
+        {
+            "@id": "#algorithm",
+            "@type": "schema:Thing",
+            "schema:name": "Algorithm"
+        },
+        {
+            "@id": "#deep-learning",
+            "@type": "schema:Thing",
+            "schema:name": "Deep learning"
+        },
+        {
+            "@id": "#artificial-neural-networks",
+            "@type": "schema:Thing",
+            "schema:name": "Artificial neural networks"
+        },
+        {
+            "@id": "#representative-learning",
+            "@type": "schema:Thing",
+            "schema:name": "Representation learning"
+        },
+        {
+            "@id": "#supervised-learning",
+            "@type": "schema:Thing",
+            "schema:name": "Supervised learning"
+        },
+        {
+            "@id": "#semi-supervised-learning",
+            "@type": "schema:Thing",
+            "schema:name": "Semi-supervised learning"
+        },
+        {
+            "@id": "#unsupervised-learning",
+            "@type": "schema:Thing",
+            "schema:name": "Unsupervised learning"
+        },
+        {
+            "@id": "#deep-neural-networks",
+            "@type": "schema:Thing",
+            "schema:name": "Deep neural networks"
+        },
+        {
+            "@id": "#deep-belief-networks",
+            "@type": "schema:Thing",
+            "schema:name": "Deep belief networks"
+        },
+        {
+            "@id": "#recurrent-neural-networks",
+            "@type": "schema:Thing",
+            "schema:name": "Recurrent neural networks"
+        },
+        {
+            "@id": "#convolutional-neural-networks",
+            "@type": "schema:Thing",
+            "schema:name": "Convolutional neural networks"
+        },
+        {
+            "@id": "#transformers",
+            "@type": "schema:Thing",
+            "schema:name": "Transformers"
+        },
+        {
+            "@id": "#computer-vision",
+            "@type": "schema:Thing",
+            "schema:name": "Computer vision"
+        },
+        {
+            "@id": "#speech-recognition",
+            "@type": "schema:Thing",
+            "schema:name": "Speech recognition"
+        },
+        {
+            "@id": "#natural-language-processing",
+            "@type": "schema:Thing",
+            "schema:name": "Natural language processing"
+        },
+        {
+            "@id": "#machine-translation",
+            "@type": "schema:Thing",
+            "schema:name": "Machine translation"
+        },
+        {
+            "@id": "#bioinformatics",
+            "@type": "schema:Thing",
+            "schema:name": "Bioinformatics"
+        },
+        {
+            "@id": "#drug-design",
+            "@type": "schema:Thing",
+            "schema:name": "Drug design"
+        },
+        {
+            "@id": "#medical-image-analysis",
+            "@type": "schema:Thing",
+            "schema:name": "Medical image analysis"
+        },
+        {
+            "@id": "#climate-science",
+            "@type": "schema:Thing",
+            "schema:name": "Climate science"
+        },
+        {
+            "@id": "#material-inspection",
+            "@type": "schema:Thing",
+            "schema:name": "Material inspection"
+        },
+        {
+            "@id": "#board-game-programs",
+            "@type": "schema:Thing",
+            "schema:name": "Board game programs"
+        }
+    ]
+}

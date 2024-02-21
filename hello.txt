@@ -1,0 +1,45 @@
+import wikipediaapi
+import networkx as nx
+import matplotlib.pyplot as plt
+
+def fetch_wikipedia_page(topic):
+    wiki_wiki = wikipediaapi.Wikipedia('en')
+    page = wiki_wiki.page(topic)
+    if page.exists():
+        return page.text
+    else:
+        return None
+
+def build_knowledge_graph(topic, depth=1):
+    G = nx.Graph()
+    visited = set()
+
+    def add_related_pages(page_name, depth):
+        if depth <= 0 or page_name in visited:
+            return
+        visited.add(page_name)
+        page_content = fetch_wikipedia_page(page_name)
+        if page_content:
+            G.add_node(page_name)
+            links = page_content.split('\n')
+            for link in links:
+                if link.startswith('*'):
+                    related_page_name = link[2:]
+                    G.add_node(related_page_name)
+                    G.add_edge(page_name, related_page_name)
+                    add_related_pages(related_page_name, depth-1)
+
+    add_related_pages(topic, depth)
+    return G
+
+def draw_knowledge_graph(G):
+    pos = nx.spring_layout(G)
+    plt.figure(figsize=(10, 10))
+    nx.draw(G, pos, with_labels=True, node_size=3000, node_color='skyblue', font_size=10, font_weight='bold')
+    plt.show()
+
+if __name__ == "__main__":
+    topic = "Python (programming language)"
+    depth = 1
+    G = build_knowledge_graph(topic, depth)
+    draw_knowledge_graph(G)
