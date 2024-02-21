@@ -6,7 +6,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 g = Graph()
-result = g.parse("knowledge_graph.json", format="json-ld")
+result = g.parse("firstpack.json", format="json-ld")
 #result = g.parse("firstpack.json", format="json-ld")
 
 for subj, pred, obj in g:
@@ -22,7 +22,7 @@ G = rdflib_to_networkx_multidigraph(result)
 pos = nx.spring_layout(G, k = 0.5)
 edge_labels = nx.get_edge_attributes(G, 'c' )
 nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels)
-nx.draw(G, with_labels=True)
+nx.draw(G, with_labels=False, node_size=30, font_weight='bold', edge_cmap=plt.cm.Blues, pos = pos)
 
 #if not in interactive mode for
 plt.show()
