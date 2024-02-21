@@ -6,56 +6,47 @@
         {
             "@id": "#algorithm",
             "@type": "schema:Thing",
-            "schema:name": "Algorithm",
-            "schema:description": "A finite sequence."
+            "schema:name": "Algorithm"
         },
         {
-            "@id": "#problem",
+            "@id": "#algorithm",
             "@type": "schema:Thing",
-            "schema:name": "Problem",
-            "schema:description": "A problem to be solved."
+            "schema:description": "In mathematics and computer science, an algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation."
+        },
+        {
+            "@id": "#algorithm",
+            "@type": "schema:Thing",
+            "schema:image": "https://example.com/algorithm.png"
         },
         {
             "@id": "#heuristic",
             "@type": "schema:Thing",
-            "schema:name": "Heuristic",
-            "schema:description": "An approach to problem solving that may not be fully specified or may not guarantee correct or optimal results."
+            "schema:name": "Heuristic"
         },
         {
-            "@id": "#recommender system",
+            "@id": "#heuristic",
             "@type": "schema:Thing",
-            "schema:name": "Recommender system",
-            "schema:description": "A system that makes recommendations to users based on their interests and preferences."
+            "schema:description": "A heuristic is an approach to problem solving that may not be fully specified or may not guarantee correct or optimal results, especially in problem domains where there is no well-defined correct or optimal result."
         },
         {
-            "@id": "#computation",
+            "@id": "#heuristic",
             "@type": "schema:Thing",
-            "schema:name": "Computation",
-            "schema:description": "A process of calculating a function."
+            "schema:image": "https://example.com/heuristic.png"
         },
         {
-            "@id": "#transition",
+            "@id": "#recommenderSystem",
             "@type": "schema:Thing",
-            "schema:name": "Transition",
-            "schema:description": "A change from one state to another."
+            "schema:name": "Recommender System"
         },
         {
-            "@id": "#state",
+            "@id": "#recommenderSystem",
             "@type": "schema:Thing",
-            "schema:name": "State",
-            "schema:description": "A particular condition or situation."
+            "schema:description": "Social media recommender systems rely on heuristics in such a way that, although widely characterized as 'algorithms' in 21st century popular media, cannot deliver correct results due to the nature of the problem."
         },
         {
-            "@id": "#input",
+            "@id": "#recommenderSystem",
             "@type": "schema:Thing",
-            "schema:name": "Input",
-            "schema:description": "Data or information that is entered into a system or process."
-        },
-        {
-            "@id": "#output",
-            "@type": "schema:Thing",
-            "schema:name": "Output",
-            "schema:description": "Data or information that is produced by a system or process."
+            "schema:image": "https://example.com/recommenderSystem.png"
         }
     ]
 }

@@ -30,7 +30,7 @@ def get_json_ld():
             {"role": "user",
              "content": "****,  **Build a knowledge Graph and give me the json-ld format from this text, I want something like this:{'@context': "
                         "{'schema': 'http://schema.org/'},'@graph': [{'@id': ''#algorithm','@type': 'schema:Thing','"
-                        "schema:name': 'Algorithm','schema:description': 'A finite sequence.'},:" + text}
+                        "schema:name': 'Algorithm'},:" + text}
         ]
 
     )

@@ -6,7 +6,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 g = Graph()
-result = g.parse("firstpack.json", format="json-ld")
+result = g.parse("knowledge_graph.json", format="json-ld")
 #result = g.parse("firstpack.json", format="json-ld")
 
 for subj, pred, obj in g:
