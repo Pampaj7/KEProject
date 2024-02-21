@@ -1,6 +1,5 @@
 import networkx as nx
 
-
 def create_knowledge_graph():
     # Create a directed graph
     G = nx.DiGraph()
