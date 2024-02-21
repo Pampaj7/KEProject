@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "@type": "Person",
+    "name": "Artificial intelligence"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Artificial intelligence"
+  },
+  "datePublished": "1956",
+  "dateModified": "2023",
+  "description": "Artificial intelligence is the intelligence of machines or software, as opposed to the intelligence of other living beings, primarily of humans. It is a field of study in computer science that develops and studies intelligent machines.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://example.com/ai-image.jpg"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "url": "https://example.com/ai-article.html"
+  },
+  "keywords": [
+    "Artificial intelligence",
+    "machine learning",
+    "deep learning",
+    "transformer architecture"
+  ],
+  "genre": {
+    "@type": "ComputerProgram",
+    "name": "Artificial intelligence"
+  },
+  "isPartOf": {
+    "@type": "Book",
+    "title": "Artificial Intelligence: A Modern Approach",
+    "publisher": "Prentice Hall"
+  },
+  "hasVersion": {
+    "@type": "Article",
+    "name": "Artificial Intelligence: A Modern Approach",
+    "version": "1st edition"
+  }
+}
