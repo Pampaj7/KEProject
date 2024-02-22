@@ -32,8 +32,8 @@
         <style type="text/css">
 
              #mynetwork {
-                 width: 1000px;
-                 height: 500px;
+                 width: 1600px;
+                 height: 1200px;
                  background-color: #ffffff;
                  border: 1px solid lightgray;
                  position: relative;
@@ -89,7 +89,7 @@
 
                   // parsing and collecting nodes and edges from the python
                   nodes = new vis.DataSet([{"color": "#97c2fc", "id": "http://example.com/deep-learning", "label": "http://example.com/deep-learning", "shape": "dot", "title": "http://example.com/deep-learning"}, {"color": "#97c2fc", "id": "http://schema.org/Thing", "label": "http://schema.org/Thing", "shape": "dot", "title": "http://schema.org/Thing"}, {"color": "#97c2fc", "id": "http://example.com/algorithm", "label": "http://example.com/algorithm", "shape": "dot", "title": "http://example.com/algorithm"}, {"color": "#97c2fc", "id": "Algorithm", "label": "Algorithm", "shape": "dot", "title": "Algorithm"}, {"color": "#97c2fc", "id": "Deep learning", "label": "Deep learning", "shape": "dot", "title": "Deep learning"}]);
-                  edges = new vis.DataSet([{"from": "http://example.com/deep-learning", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "http://example.com/algorithm", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "http://example.com/algorithm", "title": "http://schema.org/name", "to": "Algorithm"}, {"from": "http://example.com/deep-learning", "title": "http://schema.org/name", "to": "Deep learning"}]);
+                  edges = new vis.DataSet([{"from": "http://example.com/deep-learning", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "http://example.com/algorithm", "title": "http://schema.org/name", "to": "Algorithm"}, {"from": "http://example.com/algorithm", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "http://example.com/deep-learning", "title": "http://schema.org/name", "to": "Deep learning"}]);
 
                   nodeColors = {};
                   allNodes = nodes.get({ returnType: "Object" });

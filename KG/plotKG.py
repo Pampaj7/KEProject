@@ -35,7 +35,7 @@ def visualize_with_matplotlib(G):
 
 def visualize_with_pyvis(g, output_file):
     """Convert RDF graph to a pyvis network graph and visualize it."""
-    nt = Network("500px", "1000px", notebook=False)  # Adjust size as needed
+    nt = Network("1200px", "1600px", notebook=False)  # Adjust size as needed
     # Add nodes and edges
     for subj, pred, obj in g:
         nt.add_node(str(subj), title=str(subj))
