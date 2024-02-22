@@ -3,7 +3,8 @@ import wikiTextExtractor as we
 
 
 def get_json_ld():
-    text = (we.fetch_wikipedia_summary())
+    #text = (we.fetch_wikipedia_summary())
+    text = ""
 
     client = OpenAI(
         api_key="LL-5OPT3xLPTWxSff1zUH42hQxtOBQPTLhqOlnHCMLrDYpRGIwgXaum7Rj8LWu31eXV",
