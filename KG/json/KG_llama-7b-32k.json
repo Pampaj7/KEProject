@@ -1,0 +1,87 @@
+{
+    "@context": {
+        "schema": "http://schema.org/",
+        "@graph": [
+            {
+                "@id": "https://en.wikipedia.org/wiki/Algorithm",
+                "@type": "schema:Thing",
+                "schema:name": "Algorithm"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Deep_learning",
+                "@type": "schema:Thing",
+                "schema:name": "Deep learning"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+                "@type": "schema:Thing",
+                "schema:name": "Artificial neural network"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Supervised_learning",
+                "@type": "schema:Thing",
+                "schema:name": "Supervised learning"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Semi-supervised_learning",
+                "@type": "schema:Thing",
+                "schema:name": "Semi-supervised learning"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Unsupervised_learning",
+                "@type": "schema:Thing",
+                "schema:name": "Unsupervised learning"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Computer_vision",
+                "@type": "schema:Thing",
+                "schema:name": "Computer vision"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Speech_recognition",
+                "@type": "schema:Thing",
+                "schema:name": "Speech recognition"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Natural_language_processing",
+                "@type": "schema:Thing",
+                "schema:name": "Natural language processing"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Machine_translation",
+                "@type": "schema:Thing",
+                "schema:name": "Machine translation"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Bioinformatics",
+                "@type": "schema:Thing",
+                "schema:name": "Bioinformatics"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Drug_design",
+                "@type": "schema:Thing",
+                "schema:name": "Drug design"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Medical_image_analysis",
+                "@type": "schema:Thing",
+                "schema:name": "Medical image analysis"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Climate_science",
+                "@type": "schema:Thing",
+                "schema:name": "Climate science"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Material_inspection",
+                "@type": "schema:Thing",
+                "schema:name": "Material inspection"
+            },
+            {
+                "@id": "https://en.wikipedia.org/wiki/Board_game",
+                "@type": "schema:Thing",
+                "schema:name": "Board game"
+            }
+        ]
+    }
+}

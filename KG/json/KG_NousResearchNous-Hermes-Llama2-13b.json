@@ -1,0 +1,115 @@
+{
+    "@context": {
+        "schema": "http://schema.org/"
+    },
+    "@graph": [
+        {
+            "@id": "##algorithm",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Algorithm": ""
+        },
+        {
+            "@id": "##deep_learning",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Deep Learning": ""
+        },
+        {
+            "@id": "##description",
+            "@type": "schema:description",
+            "schema": "name",
+            "Description": ""
+        },
+        {
+            "@id": "##method",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Method": ""
+        },
+        {
+            "@id": "##supervised",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Supervised": ""
+        },
+        {
+            "@id": "##semi_supervised",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Semi-Supervised": ""
+        },
+        {
+            "@id": "##unsupervised",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Unsupervised": ""
+        },
+        {
+            "@id": "##application",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Application": ""
+        },
+        {
+            "@id": "##computer_vision",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Computer Vision": ""
+        },
+        {
+            "@id": "##speech_recognition",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Speech Recognition": ""
+        },
+        {
+            "@id": "##natural_language_processing",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Natural Language Processing": ""
+        },
+        {
+            "@id": "##machine_translation",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Machine Translation": ""
+        },
+        {
+            "@id": "##bioinformatics",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Bioinformatics": ""
+        },
+        {
+            "@id": "##drug_design",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Drug Design": ""
+        },
+        {
+            "@id": "##medical_image_analysis",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Medical Image Analysis": ""
+        },
+        {
+            "@id": "##climate_science",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Climate Science": ""
+        },
+        {
+            "@id": "##material_inspection",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Material Inspection": ""
+        },
+        {
+            "@id": "##board_game_programs",
+            "@type": "schema:Thing",
+            "schema": "name",
+            "Board Game Programs": ""
+        }
+    ]
+}

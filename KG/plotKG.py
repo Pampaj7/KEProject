@@ -1,3 +1,5 @@
+import os
+
 from rdflib import Graph
 from rdflib.extras.external_graph_libs import rdflib_to_networkx_multidigraph
 import networkx as nx
@@ -31,7 +33,7 @@ def visualize_with_matplotlib(G):
     plt.show()
 
 
-def visualize_with_pyvis(g, output_file="rdf_graph.html"):
+def visualize_with_pyvis(g, output_file):
     """Convert RDF graph to a pyvis network graph and visualize it."""
     nt = Network("500px", "1000px", notebook=False)  # Adjust size as needed
     # Add nodes and edges
@@ -70,13 +72,20 @@ def visualize_with_pyvis(g, output_file="rdf_graph.html"):
 
 
 # Load RDF graph
-rdf_graph = load_rdf_graph("knowledge_graph.json")
+folder_path = "json/"
+jSONlist = []
+for filename in os.listdir(folder_path):
+    if os.path.isfile(os.path.join(folder_path, filename)):
+        jSONlist.append(folder_path + filename)
 
-# Convert to NetworkX graph for matplotlib visualization
-G = rdflib_to_networkx_multidigraph(rdf_graph)
+for i in jSONlist:
+    rdf_graph = load_rdf_graph(i)
 
-# Visualize using matplotlib
-visualize_with_matplotlib(G)
+    # Convert to NetworkX graph for matplotlib visualization
+    G = rdflib_to_networkx_multidigraph(rdf_graph)
 
-# Visualize using pyvis for an interactive graph
-visualize_with_pyvis(rdf_graph)
+    # Visualize using matplotlib
+    visualize_with_matplotlib(G)
+    output_file = "html/" + os.path.splitext(os.path.basename(i))[0] + ".html"
+    # Visualize using pyvis for an interactive graph
+    visualize_with_pyvis(rdf_graph, output_file)

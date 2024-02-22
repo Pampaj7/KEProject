@@ -1,0 +1,25 @@
+{
+    "@context": "http://schema.org",
+    "@graph": [
+        {
+            "@id": "#algorithm",
+            "@type": "schema:Thing",
+            "schema:name": "Algorithm"
+        },
+        {
+            "@type": "schema:Description",
+            "schema:value": "Deep learning is the subset of machine learning methods based on artificial neural networks (ANNs) with representation learning. The adjective 'deep' refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised."
+        },
+        {
+            "@type": "schema: Application",
+            "schema:category": "Computer Vision",
+            "schema:value": "Artificial neural networks were inspired by information processing and distributed communication nodes in biological systems."
+        },
+        {
+            "@type": "schema:Award",
+            "schema:description": "ANNs have various differences from biological brains. Specifically, artificial neural networks tend to be static and symbolic, while the biological brain of most living organisms is dynamic (plastic) and analog.",
+            "schema:name": "ANNs",
+            "schema:value": "low quality models for brain function"
+        }
+    ]
+}

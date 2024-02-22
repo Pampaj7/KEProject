@@ -1,0 +1,32 @@
+{
+    "@context": {
+        "schema": "http://schema.org/"
+    },
+    "@graph": [
+        {
+            "@id": "https://example.com/algorithm",
+            "@type": "schema:Thing",
+            "schema:name": "Algorithm"
+        },
+        {
+            "@type": "schema:Thing",
+            "schema:name": "Deep learning",
+            "description": "The subset of machine learning methods based on artificial neural networks (ANNs) with representation learning. The adjective \"deep\" refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised.",
+            "potentialAction": {
+                "@type": "schema:SearchAction",
+                "target": "https://www.example.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        },
+        {
+            "@type": "schema:Thing",
+            "schema:name": "Artificial neural networks",
+            "description": "Artificial neural networks were inspired by information processing and distributed communication nodes in biological systems. ANNs have various differences from biological brains. Specifically, artificial neural networks tend to be static and symbolic, while the biological brain of most living organisms is dynamic (plastic) and analog. ANNs are generally seen as low quality models for brain function.",
+            "potentialAction": {
+                "@type": "schema:SearchAction",
+                "target": "https://www.example.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    ]
+}

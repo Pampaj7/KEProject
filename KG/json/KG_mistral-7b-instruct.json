@@ -1,0 +1,159 @@
+{
+    "@context": {
+        "schema": "http://schema.org/",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema"
+    },
+    "@graph": [
+        {
+            "@id": "#Algorithm",
+            "@type": "schema:Thing",
+            "schema:name": "Algorithm"
+        },
+        {
+            "@id": "#DeepLearning",
+            "@type": "schema:Definition",
+            "schema:name": "Deep learning",
+            "schema:definition": "A subset of machine learning methods based on artificial neural networks (ANNs) with representation learning."
+        },
+        {
+            "@id": "#DeepLearningMethod",
+            "@type": "schema:Thing",
+            "schema:name": "Deep learning method"
+        },
+        {
+            "@id": "#NeuralNetwork",
+            "@type": "schema:Thing",
+            "schema:name": "Artificial neural network (ANN)"
+        },
+        {
+            "@id": "#DeepNeuralNetwork",
+            "@type": {
+                "@id": "schema:NeuralNetwork",
+                "@context": {
+                    "hasType": "rdfs:subClassOf"
+                }
+            },
+            "schema:name": "Deep neural network"
+        },
+        {
+            "@id": "#DeepBeliefNetwork",
+            "@type": {
+                "@id": " schema:NeuralNetwork",
+                "@context": {
+                    "hasType": "rdfs:subClassOf"
+                }
+            },
+            "schema:name": "Deep belief network"
+        },
+        {
+            "@id": "#RecurrentNeuralNetwork",
+            "@type": {
+                "@id": " schema:NeuralNetwork",
+                "@context": {
+                    "hasType": "rdfs:subClassOf"
+                }
+            },
+            "schema:name": "Recurrent neural network"
+        },
+        {
+            "@id": "#ConvolutionalNeuralNetwork",
+            "@type": {
+                "@id": " schema:NeuralNetwork",
+                "@context": {
+                    "hasType": "rdfs:subClassOf"
+                }
+            },
+            "schema:name": "Convolutional neural network"
+        },
+        {
+            "@id": "#Transformer",
+            "@type": {
+                "@id": " schema:NeuralNetwork",
+                "@context": {
+                    "hasType": "rdfs:subClassOf"
+                }
+            },
+            "schema:name": "Transformer"
+        },
+        {
+            "@id": "#ComputerVision",
+            "@type": "schema:DomainOrOrganization",
+            "schema:name": "Computer vision"
+        },
+        {
+            "@id": "#SpeechRecognition",
+            "@type": "schema:DomainOrOrganization",
+            "schema:name": "Speech recognition"
+        },
+        {
+            "@id": "#NaturalLanguageProcessing",
+            "@type": "schema:DomainOrOrganization",
+            "schema:name": "Natural language processing"
+        },
+        {
+            "@id": "#MachineTranslation",
+            "@type": "schema:DomainOrOrganization",
+            "schema:name": "Machine translation"
+        },
+        {
+            "@id": "#Bioinformatics",
+            "@type": "schema:DomainOrOrganization",
+            "schema:name": "Bioinformatics"
+        },
+        {
+            "@id": "#DrugDesign",
+            "@type": "schema:DomainOrOrganization",
+            "schema:name": "Drug design"
+        },
+        {
+            "@id": "#MedicalImageAnalysis",
+            "@type": "schema:DomainOrOrganization",
+            "schema:name": "Medical image analysis"
+        },
+        {
+            "@id": "#ClimateScience",
+            "@type": "schema:DomainOrOrganization",
+            "schema:name": "Climate science"
+        },
+        {
+            "@id": "#MaterialInspection",
+            "@type": "schema:DomainOrOrganization",
+            "schema:name": "Material inspection"
+        },
+        {
+            "@id": "#BoardGamePrograms",
+            "@type": "schema:DomainOrOrganization",
+            "schema:name": "Board game programs"
+        },
+        {
+            "@id": "#BiologicalBrain",
+            "@type": "schema:Thing",
+            "schema:name": "Biological brain"
+        },
+        {
+            "@id": "#StaticSymbolic",
+            "@type": "schema:Thing",
+            "schema:name": "Static and symbolic"
+        },
+        {
+            "@id": "#DynamicAnalog",
+            "@type": "schema:Thing",
+            "schema:name": "Dynamic and analog"
+        },
+        {
+            "@id": "#LowQualityModel",
+            "@type": "schema:Thing",
+            "schema:name": "Low quality model"
+        },
+        {
+            "@id": "#InspiredBy",
+            "@type": "schema:RelatedTo",
+            "schema:name": "Inspired by"
+        },
+        {
+            "@id": "#AppliedTo",
+            "@type": "schema:RelatedTo",
+            "schema:name": "Applied to"
+        }
+    ]
+}

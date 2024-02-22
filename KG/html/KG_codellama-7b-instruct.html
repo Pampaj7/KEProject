@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1000px;
+                 height: 500px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#bioinformatics", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#bioinformatics", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#bioinformatics"}, {"color": "#97c2fc", "id": "Bioinformatics", "label": "Bioinformatics", "shape": "dot", "title": "Bioinformatics"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#drug-design", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#drug-design", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#drug-design"}, {"color": "#97c2fc", "id": "http://schema.org/Thing", "label": "http://schema.org/Thing", "shape": "dot", "title": "http://schema.org/Thing"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#differences-between-biological-brains-and-artificial-neural-networks", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#differences-between-biological-brains-and-artificial-neural-networks", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#differences-between-biological-brains-and-artificial-neural-networks"}, {"color": "#97c2fc", "id": "Differences Between Biological Brains and Artificial Neural Networks", "label": "Differences Between Biological Brains and Artificial Neural Networks", "shape": "dot", "title": "Differences Between Biological Brains and Artificial Neural Networks"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#medical-image-analysis", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#medical-image-analysis", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#medical-image-analysis"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#board-game-programs", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#board-game-programs", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#board-game-programs"}, {"color": "#97c2fc", "id": "Board Game Programs", "label": "Board Game Programs", "shape": "dot", "title": "Board Game Programs"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#artificial-neural-networks", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#artificial-neural-networks", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#artificial-neural-networks"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning-methods", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning-methods", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning-methods"}, {"color": "#97c2fc", "id": "Deep Learning Methods", "label": "Deep Learning Methods", "shape": "dot", "title": "Deep Learning Methods"}, {"color": "#97c2fc", "id": "Drug Design", "label": "Drug Design", "shape": "dot", "title": "Drug Design"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning"}, {"color": "#97c2fc", "id": "Deep Learning", "label": "Deep Learning", "shape": "dot", "title": "Deep Learning"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#biological-brains", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#biological-brains", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#biological-brains"}, {"color": "#97c2fc", "id": "Biological Brains", "label": "Biological Brains", "shape": "dot", "title": "Biological Brains"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#speech-recognition", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#speech-recognition", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#speech-recognition"}, {"color": "#97c2fc", "id": "Speech Recognition", "label": "Speech Recognition", "shape": "dot", "title": "Speech Recognition"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#machine-translation", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#machine-translation", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#machine-translation"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#computer-vision", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#computer-vision", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#computer-vision"}, {"color": "#97c2fc", "id": "Computer Vision", "label": "Computer Vision", "shape": "dot", "title": "Computer Vision"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning-architectures", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning-architectures", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning-architectures"}, {"color": "#97c2fc", "id": "Deep Learning Architectures", "label": "Deep Learning Architectures", "shape": "dot", "title": "Deep Learning Architectures"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#material-inspection", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#material-inspection", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#material-inspection"}, {"color": "#97c2fc", "id": "Material Inspection", "label": "Material Inspection", "shape": "dot", "title": "Material Inspection"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#natural-language-processing", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#natural-language-processing", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#natural-language-processing"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#algorithm", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#algorithm", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#algorithm"}, {"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#climate-science", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#climate-science", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#climate-science"}, {"color": "#97c2fc", "id": "Medical Image Analysis", "label": "Medical Image Analysis", "shape": "dot", "title": "Medical Image Analysis"}, {"color": "#97c2fc", "id": "Machine Translation", "label": "Machine Translation", "shape": "dot", "title": "Machine Translation"}, {"color": "#97c2fc", "id": "Climate Science", "label": "Climate Science", "shape": "dot", "title": "Climate Science"}, {"color": "#97c2fc", "id": "Algorithm", "label": "Algorithm", "shape": "dot", "title": "Algorithm"}, {"color": "#97c2fc", "id": "Artificial Neural Networks", "label": "Artificial Neural Networks", "shape": "dot", "title": "Artificial Neural Networks"}, {"color": "#97c2fc", "id": "Natural Language Processing", "label": "Natural Language Processing", "shape": "dot", "title": "Natural Language Processing"}]);
+                  edges = new vis.DataSet([{"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#bioinformatics", "title": "http://schema.org/name", "to": "Bioinformatics"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#drug-design", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#differences-between-biological-brains-and-artificial-neural-networks", "title": "http://schema.org/name", "to": "Differences Between Biological Brains and Artificial Neural Networks"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#medical-image-analysis", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#board-game-programs", "title": "http://schema.org/name", "to": "Board Game Programs"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#artificial-neural-networks", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning-methods", "title": "http://schema.org/name", "to": "Deep Learning Methods"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#drug-design", "title": "http://schema.org/name", "to": "Drug Design"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning", "title": "http://schema.org/name", "to": "Deep Learning"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#board-game-programs", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning-methods", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#biological-brains", "title": "http://schema.org/name", "to": "Biological Brains"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#speech-recognition", "title": "http://schema.org/name", "to": "Speech Recognition"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#machine-translation", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#speech-recognition", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#computer-vision", "title": "http://schema.org/name", "to": "Computer Vision"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning-architectures", "title": "http://schema.org/name", "to": "Deep Learning Architectures"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#material-inspection", "title": "http://schema.org/name", "to": "Material Inspection"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#material-inspection", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#natural-language-processing", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#computer-vision", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#algorithm", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#biological-brains", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#bioinformatics", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#climate-science", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#differences-between-biological-brains-and-artificial-neural-networks", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#medical-image-analysis", "title": "http://schema.org/name", "to": "Medical Image Analysis"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#machine-translation", "title": "http://schema.org/name", "to": "Machine Translation"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#climate-science", "title": "http://schema.org/name", "to": "Climate Science"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#algorithm", "title": "http://schema.org/name", "to": "Algorithm"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#deep-learning-architectures", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#artificial-neural-networks", "title": "http://schema.org/name", "to": "Artificial Neural Networks"}, {"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_codellama-7b-instruct.json#natural-language-processing", "title": "http://schema.org/name", "to": "Natural Language Processing"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"font": {"size": 12}}, "edges": {"color": {"inherit": true}, "smooth": false}, "physics": {"barnesHut": {"gravitationalConstant": -80000, "centralGravity": 0.3, "springLength": 200, "springConstant": 0.04, "damping": 0.09, "avoidOverlap": 0}, "minVelocity": 0.75}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
