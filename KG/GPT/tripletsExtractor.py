@@ -26,15 +26,14 @@ def get_wikipedia_text():
         return "Page not found for the topic."
 
 
-def get_AI_response(text = get_wikipedia_text()):
-
+def get_AI_response(text=get_wikipedia_text()):
     client = OpenAI(
         api_key="LL-5OPT3xLPTWxSff1zUH42hQxtOBQPTLhqOlnHCMLrDYpRGIwgXaum7Rj8LWu31eXV",
         base_url="https://api.llama-api.com"
     )
 
     models = [
-        "llama-7b-chat",
+        "llama-13b-chat",
         # "llama-7b-32k", "llama-13b-chat", "llama-70b-chat", "mixtral-8x7b-instruct",
         # "mistral-7b-instruct", "mistral-7b", "NousResearch/Nous-Hermes-Llama2-13b", "falcon-7b-instruct",
         # "falcon-40b-instruct", "alpaca-7b", "codellama-7b-instruct", "codellama-34b-instruct", "vicuna-7b",
@@ -46,12 +45,17 @@ def get_AI_response(text = get_wikipedia_text()):
         print("Waiting for:", i)
         response = client.chat.completions.create(
             model=i,
+            temperature=0,
+            seed=42,
             messages=[
                 {"role": "user",
-                 "content": "Please analyze the provided text and extract key information "
-                            "in the form of triplets, consisting of subject, predicate, and object, "
-                            "to help construct a Knowledge Graph. Ensure to identify main concepts, "
-                            "their attributes, and relationships between them. Format your response without useless text"+ text}
+                 "content": "You will perform the open information extraction task. You will identify the named "
+                            "entities in the content and then extract the relations between them."
+                            "Based on the provided testimony, you will return triples which is formated as <named "
+                            "entity A,"
+                            "relation, named entity B>." + text + "The extracted triples formated as <named entity A, "
+                                                                  "relation, named entity B> are:"
+                 }
 
             ]
 
@@ -61,22 +65,14 @@ def get_AI_response(text = get_wikipedia_text()):
     return responses, models
 
 
-def write_triplets_to_file(triplets_text, filename="triplets.txt"):
-    # Split the text into lines
-    lines = triplets_text.strip().split('\n')
+text_from_wiki = get_wikipedia_text()
+text_from_AI = get_AI_response(text_from_wiki)
 
-    # Open a file to write the triplets
-    with open(filename, 'w', encoding='utf-8') as file:
-        for line in lines:
-            # Assuming each line is a triplet formatted as "Subject: ..., Predicate: ..., Object: ..."
-            parts = line.split('\n')
-            # Reformat each part to extract the specific information after the colon
-            for part in parts:
-                subject = part.split("Subject: ")[1].split("\n")[0] if "Subject: " in part else ""
-                predicate = part.split("Predicate: ")[1].split("\n")[0] if "Predicate: " in part else ""
-                object = part.split("Object: ")[1].split("\n")[0] if "Object: " in part else ""
-                # Write the formatted triplet to the file
-                file.write(f"{subject} - {predicate} - {object}\n")
+# Define the filename
+text_from_AItxt = 'extracted_text_from_llama.txt'
+# Open the file in write mode and write the triples
 
 
-print(get_wikipedia_text())
+with open(text_from_AItxt, 'w') as file:
+    file.write(text_from_AI[0][0])
+

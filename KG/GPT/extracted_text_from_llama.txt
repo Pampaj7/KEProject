@@ -1,0 +1,14 @@
+Sure, I'd be happy to help! Based on the provided testimony, here are the extracted triples in the format of <named entity A, relation, named entity B>:
+
+1. <Deep Learning, is a subset of, Machine Learning>
+2. <Artificial Neural Networks, are inspired by, Biological Brain>
+3. <Multiple Layers, are used in, Artificial Neural Networks>
+4. <Representation Learning, is a method used in, Deep Learning>
+5. <Computer Vision, is an application of, Deep Learning>
+6. <Natural Language Processing, is an application of, Deep Learning>
+7. <Machine Translation, is an application of, Deep Learning>
+8. <Bioinformatics, is an application of, Deep Learning>
+9. <Drug Design, is an application of, Deep Learning>
+10. <Medical Image Analysis, is an application of, Deep Learning>
+
+I hope these triples are helpful! Let me know if you have any further questions or if there's anything else I can assist you with.

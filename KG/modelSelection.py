@@ -3,7 +3,7 @@ import wikiTextExtractor as we
 
 
 def get_json_ld():
-    #text = (we.fetch_wikipedia_summary())
+    text = (we.fetch_wikipedia_summary())
     text = ""
 
     client = OpenAI(
@@ -13,10 +13,10 @@ def get_json_ld():
 
     models = [
         "llama-7b-chat",
-        "llama-7b-32k", "llama-13b-chat", "llama-70b-chat", "mixtral-8x7b-instruct",
-        "mistral-7b-instruct", "mistral-7b", "NousResearch/Nous-Hermes-Llama2-13b", "falcon-7b-instruct",
-        "falcon-40b-instruct", "alpaca-7b", "codellama-7b-instruct", "codellama-34b-instruct", "vicuna-7b",
-        "vicuna-13b",
+        #"llama-7b-32k", "llama-13b-chat", "llama-70b-chat", "mixtral-8x7b-instruct",
+        #"mistral-7b-instruct", "mistral-7b", "NousResearch/Nous-Hermes-Llama2-13b", "falcon-7b-instruct",
+        #"falcon-40b-instruct", "alpaca-7b", "codellama-7b-instruct", "codellama-34b-instruct", "vicuna-7b",
+        #"vicuna-13b",
     ]
 
     responses = []
@@ -26,9 +26,7 @@ def get_json_ld():
             model=i,
             messages=[
                 {"role": "user",
-                 "content": "**Build a knowledge Graph and give me the json-ld format from this text, I want something like this:{'@context': "
-                            "{'schema': 'http://schema.org/'},'@graph': [{'@id': ''#algorithm','@type': 'schema:Thing','"
-                            "schema:name': 'Algorithm'},:" + text}
+                 "content": "Extract triplets like subject-predicate-object from this text: " + text}
 
             ]
 
