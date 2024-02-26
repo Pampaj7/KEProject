@@ -1,22 +1,22 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:_Artificial_Neural_Networks ns1:are_inspired_by ns1:Biological_Brain .
+ns1:Bioinformatics ns1:isanapplicationof ns1:DeepLearning .
 
-ns1:_Bioinformatics ns1:is_an_application_of ns1:Deep_Learning .
+ns1:ComputerVision ns1:isanapplicationof ns1:DeepLearning .
 
-ns1:_Computer_Vision ns1:is_an_application_of ns1:Deep_Learning .
+ns1:DrugDesign ns1:isanapplicationof ns1:DeepLearning .
 
-ns1:_Deep_Learning ns1:is_a_subset_of ns1:Machine_Learning .
+ns1:MachineTranslation ns1:isanapplicationof ns1:DeepLearning .
 
-ns1:_Drug_Design ns1:is_an_application_of ns1:Deep_Learning .
+ns1:MedicalImageAnalysis ns1:isanapplicationof ns1:DeepLearning .
 
-ns1:_Machine_Translation ns1:is_an_application_of ns1:Deep_Learning .
+ns1:MultipleLayers ns1:areusedin ns1:ArtificialNeuralNetworks .
 
-ns1:_Medical_Image_Analysis ns1:is_an_application_of ns1:Deep_Learning .
+ns1:NaturalLanguageProcessing ns1:isanapplicationof ns1:DeepLearning .
 
-ns1:_Multiple_Layers ns1:are_used_in ns1:Artificial_Neural_Networks .
+ns1:RepresentationLearning ns1:isamethodusedin ns1:DeepLearning .
 
-ns1:_Natural_Language_Processing ns1:is_an_application_of ns1:Deep_Learning .
+ns1:ArtificialNeuralNetworks ns1:areinspiredby ns1:BiologicalBrain .
 
-ns1:_Representation_Learning ns1:is_a_method_used_in ns1:Deep_Learning .
+ns1:DeepLearning ns1:isasubsetof ns1:MachineLearning .
 

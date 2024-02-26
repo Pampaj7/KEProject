@@ -1,28 +1,25 @@
-1. <Deep learning, is the subset of, machine learning methods>
-2. <Deep learning, based on, artificial neural networks>
-3. <Artificial neural networks, have, representation learning>
-4. <Deep, refers to, use of multiple layers in the network>
-5. <Methods, can be, supervised>
-6. <Methods, can be, semi-supervised>
-7. <Methods, can be, unsupervised>
-8. <Deep-learning architectures, include, deep neural networks>
-9. <Deep-learning architectures, include, deep belief networks>
-10. <Deep-learning architectures, include, recurrent neural networks>
-11. <Deep-learning architectures, include, convolutional neural networks>
-12. <Deep-learning architectures, include, transformers>
-13. <Deep-learning architectures, applied to, computer vision>
-14. <Deep-learning architectures, applied to, speech recognition>
-15. <Deep-learning architectures, applied to, natural language processing>
-16. <Deep-learning architectures, applied to, machine translation>
-17. <Deep-learning architectures, applied to, bioinformatics>
-18. <Deep-learning architectures, applied to, drug design>
-19. <Deep-learning architectures, applied to, medical image analysis>
-20. <Deep-learning architectures, applied to, climate science>
-21. <Deep-learning architectures, applied to, material inspection>
-22. <Deep-learning architectures, applied to, board game programs>
-23. <Artificial neural networks, were inspired by, information processing>
-24. <Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
-25. <Artificial neural networks, have, various differences from biological brains>
-26. <Artificial neural networks, tend to be, static and symbolic>
-27. <Biological brain of most living organisms, is, dynamic (plastic) and analog>
-28. <ANNs, are generally seen as, low quality models for brain function>
+<Deep learning, is the subset of, machine learning methods>
+<Deep learning, based on, artificial neural networks>
+<Artificial neural networks, inspired by, information processing and distributed communication nodes in biological systems>
+<Artificial neural networks, have various differences from, biological brains>
+<Deep learning, is a class of, machine learning algorithms>
+<Deep learning, refers to, computer-simulate or automate human learning processes>
+<Deep learning models, are based on, multi-layered artificial neural networks>
+<Deep learning, can learn, which features to optimally place in which level>
+<Deep learning architectures, can be constructed with, a greedy layer-by-layer method>
+<Deep learning algorithms, can be applied to, unsupervised learning tasks>
+<Deep neural networks, are generally interpreted in terms of, the universal approximation theorem or probabilistic inference>
+<George Cybenko, published the first proof for, sigmoid activation functions>
+<Kurt Hornik, generalised to, feed-forward multi-layer architectures>
+<Lu et al., proved that, if the width of a deep neural network with ReLU activation is strictly larger than the input dimension, then the network can approximate any Lebesgue integrable function>
+<Artificial neural network, has two types, feedforward neural networks and recurrent neural networks>
+<Wilhelm Lenz and Ernst Ising, created and analyzed, the Ising model>
+<Shun'ichi Amari, made this architecture, adaptive>
+<John Hopfield, popularised, His learning RNN>
+<Frank Rosenblatt, developed and explored, all of the basic ingredients of the deep learning systems>
+<Rina Dechter, proposed, term deep learning>
+<Alexey Ivakhnenko and Lapa, published, the first general, working learning algorithm for supervised, deep, feedforward, multilayer perceptrons>
+<Shun'ichi Amari, published, the first deep learning multilayer perceptron trained by stochastic gradient descent>
+<Seppo Linnainmaa, published, the reverse mode of automatic differentiation of discrete connected networks of nested differentiable functions>
+<Gottfried Wilhelm Leibniz, derived, the chain rule>
+<Henry J. Kelley, had, a continuous precursor of backpropagation>

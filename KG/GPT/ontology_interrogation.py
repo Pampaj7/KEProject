@@ -1,7 +1,7 @@
 from rdflib import Graph
 
 g = Graph()
-g.parse("ontology_GPT-4model.txt.ttl", format="ttl")
+g.parse("ontology_GPT-4model.ttl", format="ttl")
 
 # Assuming g is your RDFLib Graph containing the ontology
 sparql_query = """
@@ -9,7 +9,7 @@ PREFIX ns1: <http://example.org/myontology/>
 
 SELECT ?subject ?application
 WHERE {
-  ?subject ns1:applied_to ?app .
+  ?subject ns1:basedon ?app .
   BIND(STRAFTER(STR(?app), STR(ns1:)) AS ?application)
 }
 """

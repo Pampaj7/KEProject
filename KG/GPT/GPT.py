@@ -10,8 +10,17 @@ os.environ["OPENAI_API_KEY"] = "sk-JOhc8jz8YPwMR2Y6lMNYT3BlbkFJ7A0W6KnE2OEWBoDLi
 openai.api_key = "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"
 
 
+def summarize_text(text, max_length=10000):
+    """
+    Dummy function to represent text summarization.
+    In practice, you would use a more sophisticated approach or an API.
+    """
+    # This is a placeholder. You might use an actual summarization model here.
+    return text[:max_length]
+
+
 # Function definitions
-def get_wikipedia_text(topic="deep learning"):
+def get_wikipedia_text(topic="Deep learning"):
     """Fetches the summary of a given topic from Wikipedia."""
     search_results = wikipedia.search(topic)
     if not search_results:
@@ -19,8 +28,9 @@ def get_wikipedia_text(topic="deep learning"):
 
     top_result_title = search_results[0]
     try:
-        summary = wikipedia.summary(top_result_title)
-        return summary
+        page = wikipedia.page(top_result_title)
+        print(page.content)
+        return page.content
     except wikipedia.exceptions.DisambiguationError as e:
         return f"Multiple pages found for the topic. Consider being more specific. Suggestions: {e.options}"
     except wikipedia.exceptions.PageError:
@@ -36,10 +46,10 @@ def ai_response(prompt):
 
 # Main execution flow
 if __name__ == "__main__":
-    testimony = get_wikipedia_text()
+    testimony = summarize_text(get_wikipedia_text())
     prompt_template = """
     You will perform the open information extraction task. You will identify the named entities in the content and then extract the relations between them.
-    Based on the provided testimony, you will return triples which are formatted as <named entity A, relation, named entity B>.
+    Based on the provided testimony, you will return triples which are formatted as <named entity A, relation, named entity B> without enumerating them.
 
     START of the testimony:
     {testimony}

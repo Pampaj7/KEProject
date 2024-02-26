@@ -3,15 +3,19 @@ import matplotlib.pyplot as plt
 from rdflib import Graph, URIRef, RDF, Namespace
 import re
 
+from pyvis.network import Network
+
 filename = ['GPT-4model.txt', "extracted_text_from_llama.txt"]
+
 
 def normalize_name(name):
     # Replace spaces with underscores and remove < and > characters
-    name = name.replace(" ", "_").replace("<", "").replace(">", "").replace(".", "")
+    name = name.replace(" ", "").replace("<", "").replace(">", "").replace(".", "").replace("-", "").replace("'", "")
     # Add more normalization as needed, e.g., removing or replacing other special characters
     name = re.sub(r'\d+', '', name)
 
     return name
+
 
 def create_ontology(triplets, filename):
     # Initialize RDF graph
@@ -34,7 +38,6 @@ def create_ontology(triplets, filename):
     # Serialize the graph to a file (Turtle format is a common choice for ontologies)
     filename_without_extension = filename.replace(".txt", "")
 
-
     g.serialize(destination="ontology_" + filename_without_extension + ".ttl", format="turtle")
 
     print("Ontology created and saved to 'ontology_" + filename_without_extension + ".ttl")
@@ -42,20 +45,27 @@ def create_ontology(triplets, filename):
 
 def KG_creation(filename):
     triplets = []
+    filename_without_extension = filename.replace(".txt", "").replace(".txt", "")
+
     with open(filename, 'r') as file:
         for line in file:
             cleaned_line = line.strip().strip('<>')
             parts = cleaned_line.split(', ')
             if len(parts) == 3:
-                triplets.append(parts)
+                # Normalize names for each part of the triplet
+                normalized_subject = normalize_name(parts[0])
+                normalized_relation = normalize_name(parts[1])
+                normalized_object = normalize_name(parts[2])
+                triplets.append((normalized_subject, normalized_relation, normalized_object))
 
-    #draw the graph
+    # draw the graph
     G = nx.DiGraph()
-    for subject, relation, predicate in triplets:
-        G.add_edge(subject, predicate, relation=relation)
+    for subject, relation, object in triplets:
+        # Names are already normalized in the triplets
+        G.add_edge(subject, object, relation=relation)
 
     # Choose a layout
-    pos = nx.spring_layout(G, k=0.5)  # k adjusts the distance between nodes
+    pos = nx.random_layout(G)  # Adjust the spacing between nodes as needed
 
     # Draw the graph
     plt.figure(figsize=(14, 10))
@@ -67,15 +77,25 @@ def KG_creation(filename):
                         for u, v, d in G.edges(data=True)])
     nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, label_pos=0.5, font_size=8)
 
-    plt.title('Knowledge Graph Visualization')
+    plt.title('Knowledge Graph Visualization: ' + filename_without_extension)
     plt.axis('off')
-    filename_without_extension = filename.replace(".txt", "")
-    plt.savefig('knowledge_graph' + filename_without_extension + '.png')
+    plt.savefig('knowledge_graph_' + filename_without_extension + '.png')
     plt.show()
 
-    # Now also create the ontology
+    # Now also create the ontology with normalized names
     create_ontology(triplets, filename)
 
+    visualize_with_pyvis(G, 'knowledge_graph' + filename_without_extension + '.html', filename_without_extension)
+
+
+def visualize_with_pyvis(g, output_file, filename_without_extension):
+    """Convert networkx graph to a pyvis network graph and visualize it."""
+    nt = Network("1200px", "1600px", notebook=True)  # Adjust size as needed
+    # networkx graph to pyvis network conversion
+    nt.from_nx(g)
+    # Set visualization options if needed
+    nt.show(output_file)
+    nt.save_graph('knowledge_graph' + filename_without_extension + '.html')
 
 
 KG_creation(filename[0])
