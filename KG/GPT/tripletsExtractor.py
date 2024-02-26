@@ -11,7 +11,7 @@ def get_wikipedia_text():
     if not search_results:
         return "No results found for the topic."
 
-    # Get the top search result's title
+    # Get the top search result's titlepip
     top_result_title = search_results[0]
 
     try:

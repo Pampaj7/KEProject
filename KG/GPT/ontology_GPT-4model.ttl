@@ -1,0 +1,37 @@
+@prefix ns1: <http://example.org/myontology/> .
+
+ns1:_ANNs ns1:are_generally_seen_as ns1:low_quality_models_for_brain_function .
+
+ns1:_Artificial_neural_networks ns1:have ns1:representation_learning,
+        ns1:various_differences_from_biological_brains ;
+    ns1:tend_to_be ns1:static_and_symbolic ;
+    ns1:were_inspired_by ns1:distributed_communication_nodes_in_biological_systems,
+        ns1:information_processing .
+
+ns1:_Biological_brain_of_most_living_organisms ns1:is ns1:dynamic_\(plastic\)_and_analog .
+
+ns1:_Deep ns1:refers_to ns1:use_of_multiple_layers_in_the_network .
+
+ns1:_Deep-learning_architectures ns1:applied_to ns1:bioinformatics,
+        ns1:board_game_programs,
+        ns1:climate_science,
+        ns1:computer_vision,
+        ns1:drug_design,
+        ns1:machine_translation,
+        ns1:material_inspection,
+        ns1:medical_image_analysis,
+        ns1:natural_language_processing,
+        ns1:speech_recognition ;
+    ns1:include ns1:convolutional_neural_networks,
+        ns1:deep_belief_networks,
+        ns1:deep_neural_networks,
+        ns1:recurrent_neural_networks,
+        ns1:transformers .
+
+ns1:_Deep_learning ns1:based_on ns1:artificial_neural_networks ;
+    ns1:is_the_subset_of ns1:machine_learning_methods .
+
+ns1:_Methods ns1:can_be ns1:semi-supervised,
+        ns1:supervised,
+        ns1:unsupervised .
+
