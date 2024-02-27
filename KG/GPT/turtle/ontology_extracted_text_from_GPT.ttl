@@ -11,21 +11,16 @@ ns1:Artificialneuralnetworks ns1:have ns1:variousdifferencesfrombiologicalbrains
 ns1:Deeplearning ns1:basedon ns1:artificialneuralnetworks ;
     ns1:isthesubsetof ns1:machinelearningmethods .
 
-ns1:Deeplearningarchitectures ns1:appliedto ns1:bioinformatics,
+ns1:Deeplearningarchitectures ns1:havebeenappliedto ns1:bioinformatics,
         ns1:boardgameprograms,
         ns1:climatescience,
-        ns1:computervision,
         ns1:drugdesign,
+        ns1:fieldsincludingcomputervision,
         ns1:machinetranslation,
         ns1:materialinspection,
         ns1:medicalimageanalysis,
         ns1:naturallanguageprocessing,
-        ns1:speechrecognition ;
-    ns1:include ns1:convolutionalneuralnetworks,
-        ns1:deepbeliefnetworks,
-        ns1:deepneuralnetworks,
-        ns1:recurrentneuralnetworks,
-        ns1:transformers .
+        ns1:speechrecognition .
 
 ns1:Methods ns1:canbe ns1:semisupervised,
         ns1:supervised,

@@ -5,9 +5,6 @@ import re
 import os
 from pyvis.network import Network
 
-filename = ["extracted_text_from_GPT.txt", "extracted_text_from_llama-13b-chat.txt", "extracted_text_from_llama-70b-chat.txt",
-            "extracted_text_from_mistral-7b-instruct.txt", "extracted_text_from_mixtral-8x7b-instruct.txt", "extracted_text_from_vicuna-13b.txt"]
-
 
 def normalize_name(name):
     # Replace spaces with underscores and remove < and > characters
@@ -101,5 +98,3 @@ def visualize_with_pyvis(g, output_file, filename_without_extension):
     nt.save_graph('plots/knowledge_graph_' + filename_without_extension + '.html')
 
 
-for file in filename:
-    KG_creation(file)

@@ -16,6 +16,4 @@
 16. <Deep learning architectures, applied to, Material inspection>
 17. <Deep learning architectures, applied to, Board game programs>
 18. <Artificial neural networks (ANNs), have differences from, Biological brains>
-19. <Artificial neural networks (ANNs), tend to be, Static and symbolic>
-20. <Biological brain, tends to be, Dynamic (plastic) and analog>
-21. <Artificial neural networks (ANNs), generally seen as, Low quality models for brain function>.
+19. <Artificial neural networks, seen as, Low quality models for brain function>.

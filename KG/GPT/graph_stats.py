@@ -1,5 +1,4 @@
 import networkx as nx
-import matplotlib.pyplot as plt
 from networkx.algorithms import isomorphism
 import numpy as np
 from scipy.linalg import eigh
@@ -112,6 +111,7 @@ def detect_and_analyze_communities(G, title):
     plt.title(f"Community Structure - {title}")
     plt.show()
 
+
 def visualize_embeddings(embeddings, title):
     tsne = TSNE(n_components=2, random_state=42)
     embeddings_2d = tsne.fit_transform(embeddings)
@@ -120,6 +120,7 @@ def visualize_embeddings(embeddings, title):
     plt.scatter(embeddings_2d[:, 0], embeddings_2d[:, 1])
     plt.title(f"Node Embeddings Visualization - {title}")
     plt.show()
+
 
 # Example usage:
 G1 = nx.gnp_random_graph(100, 0.1, seed=42)
@@ -144,8 +145,8 @@ compare_embeddings(embeddings_G1, embeddings_G2)
 analyze_connected_components(G1, "Graph 1")
 analyze_connected_components(G2, "Graph 2")
 
-#detect_and_analyze_communities(G1, "Graph 1")
-#detect_and_analyze_communities(G2, "Graph 2")
+# detect_and_analyze_communities(G1, "Graph 1")
+# detect_and_analyze_communities(G2, "Graph 2")
 
-visualize_embeddings(embeddings_G1, "Graph 1") #trash
+visualize_embeddings(embeddings_G1, "Graph 1")  # trash
 visualize_embeddings(embeddings_G2, "Graph 2")

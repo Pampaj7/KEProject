@@ -15,9 +15,8 @@ def summarize_text(text, max_length=10000):
     return text[:max_length]
 
 
-def get_wikipedia_text():
+def get_wikipedia_text(topic):
 
-    topic = "deep learning"
     search_results = wikipedia.search(topic)
 
     if not search_results:
@@ -38,14 +37,27 @@ def get_wikipedia_text():
         return "Page not found for the topic."
 
 
-def GPTResponse(prompt):
-    """Gets a response from an AI model for a given prompt."""
+def GPTResponse(topic):
+
+    testimony = summarize_text(get_wikipedia_text(topic))
+    prompt_template = """
+    You will perform the open information extraction task. You will identify the named entities in the content and then extract the relations between them.
+    Based on the provided testimony, you will return triples which are formatted as <named entity A, relation, named entity B> without enumerating them.
+
+    START of the testimony:
+    {testimony}
+    END of the testimony.
+
+    The extracted triples formatted as <named entity A, relation, named entity B> are:
+    """
+    prompt = prompt_template.format(testimony=testimony)
+
     chat = ChatOpenAI(model_name="gpt-4", temperature=0)
     res = chat.predict(prompt)
-    return res
+    save_text_to_file(res, "extracted_text_from_GPT.txt", "tripletsTXTs")
 
 
-def modelsResponse(text=get_wikipedia_text()):
+def modelsResponse(text):
     output_directory = "tripletsTXTs"
     client = OpenAI(
         api_key="LL-5OPT3xLPTWxSff1zUH42hQxtOBQPTLhqOlnHCMLrDYpRGIwgXaum7Rj8LWu31eXV",
@@ -100,21 +112,3 @@ def save_text_to_file(text, filename, output_directory):
     print(f"Content saved to {filepath}")
 
 
-
-text_from_wiki = get_wikipedia_text()
-modelsResponse(text_from_wiki)
-
-testimony = summarize_text(get_wikipedia_text())
-prompt_template = """
-You will perform the open information extraction task. You will identify the named entities in the content and then extract the relations between them.
-Based on the provided testimony, you will return triples which are formatted as <named entity A, relation, named entity B> without enumerating them.
-
-START of the testimony:
-{testimony}
-END of the testimony.
-
-The extracted triples formatted as <named entity A, relation, named entity B> are:
-"""
-prompt = prompt_template.format(testimony=testimony)
-output_text = GPTResponse(prompt)
-save_text_to_file(output_text, "extracted_text_from_GPT.txt", "tripletsTXTs")

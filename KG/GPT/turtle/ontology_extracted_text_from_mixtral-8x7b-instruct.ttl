@@ -1,6 +1,6 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:Biologicalbrain ns1:tendstobe ns1:Dynamicplasticandanalog .
+ns1:Artificialneuralnetworks ns1:seenas ns1:Lowqualitymodelsforbrainfunction .
 
 ns1:Deeplearning ns1:basedon ns1:ArtificialneuralnetworksANNs ;
     ns1:subsetof ns1:Machinelearningmethods ;
@@ -21,8 +21,6 @@ ns1:Methodsusedindeeplearning ns1:canbe ns1:Semisupervised,
         ns1:Supervised,
         ns1:Unsupervised .
 
-ns1:ArtificialneuralnetworksANNs ns1:generallyseenas ns1:Lowqualitymodelsforbrainfunction ;
-    ns1:havedifferencesfrom ns1:Biologicalbrains ;
-    ns1:inspiredby ns1:Biologicalsystems ;
-    ns1:tendtobe ns1:Staticandsymbolic .
+ns1:ArtificialneuralnetworksANNs ns1:havedifferencesfrom ns1:Biologicalbrains ;
+    ns1:inspiredby ns1:Biologicalsystems .
 
