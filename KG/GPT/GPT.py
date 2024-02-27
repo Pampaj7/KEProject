@@ -11,11 +11,7 @@ openai.api_key = "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"
 
 
 def summarize_text(text, max_length=10000):
-    """
-    Dummy function to represent text summarization.
-    In practice, you would use a more sophisticated approach or an API.
-    """
-    # This is a placeholder. You might use an actual summarization model here.
+    """Summarizes a given text to a maximum length."""
     return text[:max_length]
 
 

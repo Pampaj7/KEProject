@@ -5,6 +5,9 @@ import numpy as np
 from scipy.linalg import eigh
 from node2vec import Node2Vec
 from sklearn.metrics.pairwise import cosine_similarity
+import community as community_louvain
+from sklearn.manifold import TSNE
+import matplotlib.pyplot as plt
 
 
 def calculate_and_plot_metrics(G, title):
@@ -86,6 +89,38 @@ def compare_embeddings(embeddings1, embeddings2):
     print(f"Average Cosine Similarity: {avg_similarity}")
 
 
+def analyze_connected_components(G, title):
+    connected_components = list(nx.connected_components(G))
+    largest_cc = max(connected_components, key=len)
+    print(f"[{title}] Number of Connected Components: {len(connected_components)}")
+    print(f"[{title}] Largest Connected Component Size: {len(largest_cc)}")
+    # if print the same thing is because the try pre-existing graphs
+
+
+def detect_and_analyze_communities(G, title):
+    partition = community_louvain.best_partition(G)  # TODO should work check lib conflicts
+    num_communities = len(set(partition.values()))
+    print(f"[{title}] Number of Communities Detected: {num_communities}")
+
+    # Visualize the community structure
+    plt.figure(figsize=(8, 8))
+    pos = nx.spring_layout(G)
+    cmap = plt.get_cmap('viridis')
+    nx.draw_networkx_nodes(G, pos, partition.keys(), node_size=40,
+                           cmap=cmap, node_color=list(partition.values()))
+    nx.draw_networkx_edges(G, pos, alpha=0.5)
+    plt.title(f"Community Structure - {title}")
+    plt.show()
+
+def visualize_embeddings(embeddings, title):
+    tsne = TSNE(n_components=2, random_state=42)
+    embeddings_2d = tsne.fit_transform(embeddings)
+
+    plt.figure(figsize=(8, 8))
+    plt.scatter(embeddings_2d[:, 0], embeddings_2d[:, 1])
+    plt.title(f"Node Embeddings Visualization - {title}")
+    plt.show()
+
 # Example usage:
 G1 = nx.gnp_random_graph(100, 0.1, seed=42)
 G2 = nx.gnp_random_graph(100, 0.5, seed=42)
@@ -106,4 +141,11 @@ embeddings_G2 = generate_embeddings(G2)
 
 compare_embeddings(embeddings_G1, embeddings_G2)
 
+analyze_connected_components(G1, "Graph 1")
+analyze_connected_components(G2, "Graph 2")
 
+#detect_and_analyze_communities(G1, "Graph 1")
+#detect_and_analyze_communities(G2, "Graph 2")
+
+visualize_embeddings(embeddings_G1, "Graph 1") #trash
+visualize_embeddings(embeddings_G2, "Graph 2")

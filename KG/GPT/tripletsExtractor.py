@@ -76,3 +76,4 @@ text_from_AItxt = 'extracted_text_from_llama.txt'
 with open(text_from_AItxt, 'w') as file:
     file.write(text_from_AI[0][0])
 
+
