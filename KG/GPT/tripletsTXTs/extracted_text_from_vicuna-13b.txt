@@ -1,0 +1,22 @@
+1. Deep learning: <deep learning, is a subset of, machine learning methods>
+2. machine learning methods: <machine learning methods, have representation learning, based on artificial neural networks (ANNs)>
+3. artificial neural networks (ANNs): <artificial neural networks (ANNs), have multiple layers, use methods such as supervised, semi-supervised or unsupervised>
+4. deep neural networks: <deep neural networks, are a type of, deep-learning architectures>
+5. deep belief networks: <deep belief networks, are a type of, deep-learning architectures>
+6. recurrent neural networks: <recurrent neural networks, are a type of, deep-learning architectures>
+7. convolutional neural networks: <convolutional neural networks, are a type of, deep-learning architectures>
+8. transformers: <transformers, are a type of, deep-learning architectures>
+9. computer vision: <computer vision, has been applied to, deep-learning architectures>
+10. speech recognition: <speech recognition, has been applied to, deep-learning architectures>
+11. natural language processing: <natural language processing, has been applied to, deep-learning architectures>
+12. machine translation: <machine translation, has been applied to, deep-learning architectures>
+13. bioinformatics: <bioinformatics, has been applied to, deep-learning architectures>
+14. drug design: <drug design, has been applied to, deep-learning architectures>
+15. medical image analysis: <medical image analysis, has been applied to, deep-learning architectures>
+16. climate science: <climate science, has been applied to, deep-learning architectures>
+17. material inspection: <material inspection, has been applied to, deep-learning architectures>
+18. board game programs: <board game programs, have been applied to, deep-learning architectures>
+19. biological systems: <biological systems, inspired, artificial neural networks>
+20. ANNs: <artificial neural networks (ANNs), tend to be, static and symbolic>
+21. biological brain: <biological brain, of most living organisms, is dynamic (plastic) and analog>
+22. ANNs: <artificial neural networks (ANNs), are generally seen as, low quality models for brain function>

@@ -1,0 +1,21 @@
+1. <Deep learning, subset of, Machine learning methods>
+2. <Deep learning, based on, Artificial neural networks (ANNs)>
+3. <Artificial neural networks (ANNs), inspired by, Biological systems>
+4. <Artificial neural networks (ANNs), have differences from, Biological brains>
+5. <Artificial neural networks, static and symbolic, Biological brain, dynamic (plastic) and analog>
+6. <Artificial neural networks, low quality models, Brain function>
+7. <Deep learning, methods used can be, Supervised>
+8. <Deep learning, methods used can be, Semi-supervised>
+9. <Deep learning, methods used can be, Unsupervised>
+10. <Deep learning architectures, applied to, Computer vision>
+11. <Deep learning architectures, applied to, Speech recognition>
+12. <Deep learning architectures, applied to, Natural language processing>
+13. <Deep learning architectures, applied to, Machine translation>
+14. <Deep learning architectures, applied to, Bioinformatics>
+15. <Deep learning architectures, applied to, Drug design>
+16. <Deep learning architectures, applied to, Medical image analysis>
+17. <Deep learning architectures, applied to, Climate science>
+18. <Deep learning architectures, applied to, Material inspection>
+19. <Deep learning architectures, applied to, Board game programs>
+20. <Deep learning architectures, produced results, Comparable to human expert performance>
+21. <Deep learning architectures, produced results, Surpassing human expert performance>

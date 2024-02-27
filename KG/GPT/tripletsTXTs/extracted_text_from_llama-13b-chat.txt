@@ -1,4 +1,4 @@
-Sure, I'd be happy to help! Based on the provided testimony, here are the extracted triples in the format of <named entity A, relation, named entity B>:
+Sure! I'm ready to help you with the open information extraction task. Based on the provided testimony, here are the extracted triples formatted as <named entity A, relation, named entity B>:
 
 1. <Deep Learning, is a subset of, Machine Learning>
 2. <Artificial Neural Networks, are inspired by, Biological Brain>
@@ -11,4 +11,4 @@ Sure, I'd be happy to help! Based on the provided testimony, here are the extrac
 9. <Drug Design, is an application of, Deep Learning>
 10. <Medical Image Analysis, is an application of, Deep Learning>
 
-I hope these triples are helpful! Let me know if you have any further questions or if there's anything else I can assist you with.
+Please let me know if you need any further assistance!
