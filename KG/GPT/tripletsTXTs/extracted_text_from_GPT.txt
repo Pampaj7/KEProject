@@ -1,0 +1,28 @@
+<Deep learning, is the subset of, machine learning methods>
+<Deep learning, based on, artificial neural networks>
+<Artificial neural networks, with, representation learning>
+<The adjective "deep", refers to, the use of multiple layers in the network>
+<Methods, can be, supervised>
+<Methods, can be, semi-supervised>
+<Methods, can be, unsupervised>
+<Deep-learning architectures, include, deep neural networks>
+<Deep-learning architectures, include, deep belief networks>
+<Deep-learning architectures, include, recurrent neural networks>
+<Deep-learning architectures, include, convolutional neural networks>
+<Deep-learning architectures, include, transformers>
+<Deep-learning architectures, applied to, computer vision>
+<Deep-learning architectures, applied to, speech recognition>
+<Deep-learning architectures, applied to, natural language processing>
+<Deep-learning architectures, applied to, machine translation>
+<Deep-learning architectures, applied to, bioinformatics>
+<Deep-learning architectures, applied to, drug design>
+<Deep-learning architectures, applied to, medical image analysis>
+<Deep-learning architectures, applied to, climate science>
+<Deep-learning architectures, applied to, material inspection>
+<Deep-learning architectures, applied to, board game programs>
+<Artificial neural networks, were inspired by, information processing>
+<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
+<Artificial neural networks, have, various differences from biological brains>
+<Artificial neural networks, tend to be, static and symbolic>
+<The biological brain of most living organisms, is, dynamic (plastic) and analog>
+<ANNs, are generally seen as, low quality models for brain function>

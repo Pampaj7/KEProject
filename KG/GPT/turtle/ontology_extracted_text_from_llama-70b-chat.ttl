@@ -1,0 +1,34 @@
+@prefix ns1: <http://example.org/myontology/> .
+
+ns1:Artificialneuralnetworks ns1:inspiredby ns1:biologicalsystems .
+
+ns1:Bioinformatics ns1:hasbeenappliedto ns1:deeplearning .
+
+ns1:Boardgameprograms ns1:hasbeenappliedto ns1:deeplearning .
+
+ns1:Climatescience ns1:hasbeenappliedto ns1:deeplearning .
+
+ns1:Computervision ns1:hasbeenappliedto ns1:deeplearning .
+
+ns1:Convolutionalneuralnetworks ns1:isatypeof ns1:deeplearning .
+
+ns1:Deeplearning ns1:isasubsetof ns1:machinelearning .
+
+ns1:Deepneuralnetworks ns1:isatypeof ns1:deeplearning .
+
+ns1:Drugdesign ns1:hasbeenappliedto ns1:deeplearning .
+
+ns1:Machinetranslation ns1:hasbeenappliedto ns1:deeplearning .
+
+ns1:Materialinspection ns1:hasbeenappliedto ns1:deeplearning .
+
+ns1:Medicalimageanalysis ns1:hasbeenappliedto ns1:deeplearning .
+
+ns1:Naturallanguageprocessing ns1:hasbeenappliedto ns1:deeplearning .
+
+ns1:Recurrentneuralnetworks ns1:isatypeof ns1:deeplearning .
+
+ns1:Speechrecognition ns1:hasbeenappliedto ns1:deeplearning .
+
+ns1:Transformers ns1:isatypeof ns1:deeplearning .
+

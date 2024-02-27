@@ -2,15 +2,18 @@ import networkx as nx
 import matplotlib.pyplot as plt
 from rdflib import Graph, URIRef, RDF, Namespace
 import re
-
+import os
 from pyvis.network import Network
 
-filename = ['GPT-4model.txt', "extracted_text_from_llama.txt"]
+filename = ["extracted_text_from_GPT.txt", "extracted_text_from_llama-13b-chat.txt", "extracted_text_from_llama-70b-chat.txt",
+            "extracted_text_from_mistral-7b-instruct.txt", "extracted_text_from_mixtral-8x7b-instruct.txt", "extracted_text_from_vicuna-13b.txt"]
 
 
 def normalize_name(name):
     # Replace spaces with underscores and remove < and > characters
-    name = name.replace(" ", "").replace("<", "").replace(">", "").replace(".", "").replace("-", "").replace("'", "")
+    name = (name.replace(" ", "").replace("<", "").replace(">", "").
+            replace(".", "").replace("-", "").replace("'", "").
+            replace('"', "").replace("(", "").replace(")", "").replace(",", "").replace(":", "").replace(";", ""))
     # Add more normalization as needed, e.g., removing or replacing other special characters
     name = re.sub(r'\d+', '', name)
 
@@ -38,7 +41,7 @@ def create_ontology(triplets, filename):
     # Serialize the graph to a file (Turtle format is a common choice for ontologies)
     filename_without_extension = filename.replace(".txt", "")
 
-    g.serialize(destination="ontology_" + filename_without_extension + ".ttl", format="turtle")
+    g.serialize(destination="turtle/ontology_" + filename_without_extension + ".ttl", format="turtle")
 
     print("Ontology created and saved to 'ontology_" + filename_without_extension + ".ttl")
 
@@ -47,7 +50,9 @@ def KG_creation(filename):
     triplets = []
     filename_without_extension = filename.replace(".txt", "").replace(".txt", "")
 
-    with open(filename, 'r') as file:
+    full_path = os.path.join("tripletsTXTs/", filename)
+
+    with open(full_path, 'r') as file:
         for line in file:
             cleaned_line = line.strip().strip('<>')
             parts = cleaned_line.split(', ')
@@ -79,8 +84,7 @@ def KG_creation(filename):
 
     plt.title('Knowledge Graph Visualization: ' + filename_without_extension)
     plt.axis('off')
-    plt.savefig('knowledge_graph_' + filename_without_extension + '.png')
-    plt.show()
+    plt.savefig('plots/knowledge_graph_' + filename_without_extension + '.png')
 
     # Now also create the ontology with normalized names
     create_ontology(triplets, filename)
@@ -94,9 +98,8 @@ def visualize_with_pyvis(g, output_file, filename_without_extension):
     # networkx graph to pyvis network conversion
     nt.from_nx(g)
     # Set visualization options if needed
-    nt.show(output_file)
-    nt.save_graph('knowledge_graph' + filename_without_extension + '.html')
+    nt.save_graph('plots/knowledge_graph_' + filename_without_extension + '.html')
 
 
-KG_creation(filename[0])
-KG_creation(filename[1])
+for file in filename:
+    KG_creation(file)

@@ -1,0 +1,19 @@
+@prefix ns1: <http://example.org/myontology/> .
+
+ns1:Deeplearning ns1:hasproducedresultscomparabletoorsurpassinghumanexpertperformancein ns1:Bioinformatics,
+        ns1:Boardgameprograms,
+        ns1:Climatescience,
+        ns1:Computervision,
+        ns1:Drugdesign,
+        ns1:Machinetranslation,
+        ns1:Materialinspection,
+        ns1:Medicalimageanalysis,
+        ns1:Naturallanguageprocessing,
+        ns1:Speechrecognition ;
+    ns1:isasubsetof ns1:Machinelearningmethods ;
+    ns1:uses ns1:Artificialneuralnetworks .
+
+ns1:Artificialneuralnetworks ns1:aredifferentfrom ns1:Biologicalbrains ;
+    ns1:areinspiredby ns1:Biologicalsystems ;
+    ns1:areseenas ns1:Lowqualitymodelsforbrainfunction .
+

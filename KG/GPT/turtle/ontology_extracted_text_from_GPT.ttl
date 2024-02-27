@@ -1,0 +1,37 @@
+@prefix ns1: <http://example.org/myontology/> .
+
+ns1:ANNs ns1:aregenerallyseenas ns1:lowqualitymodelsforbrainfunction .
+
+ns1:Artificialneuralnetworks ns1:have ns1:variousdifferencesfrombiologicalbrains ;
+    ns1:tendtobe ns1:staticandsymbolic ;
+    ns1:wereinspiredby ns1:distributedcommunicationnodesinbiologicalsystems,
+        ns1:informationprocessing ;
+    ns1:with ns1:representationlearning .
+
+ns1:Deeplearning ns1:basedon ns1:artificialneuralnetworks ;
+    ns1:isthesubsetof ns1:machinelearningmethods .
+
+ns1:Deeplearningarchitectures ns1:appliedto ns1:bioinformatics,
+        ns1:boardgameprograms,
+        ns1:climatescience,
+        ns1:computervision,
+        ns1:drugdesign,
+        ns1:machinetranslation,
+        ns1:materialinspection,
+        ns1:medicalimageanalysis,
+        ns1:naturallanguageprocessing,
+        ns1:speechrecognition ;
+    ns1:include ns1:convolutionalneuralnetworks,
+        ns1:deepbeliefnetworks,
+        ns1:deepneuralnetworks,
+        ns1:recurrentneuralnetworks,
+        ns1:transformers .
+
+ns1:Methods ns1:canbe ns1:semisupervised,
+        ns1:supervised,
+        ns1:unsupervised .
+
+ns1:Theadjectivedeep ns1:refersto ns1:theuseofmultiplelayersinthenetwork .
+
+ns1:Thebiologicalbrainofmostlivingorganisms ns1:is ns1:dynamicplasticandanalog .
+

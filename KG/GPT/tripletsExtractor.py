@@ -1,10 +1,22 @@
 import wikipedia
 from openai import OpenAI
 import os
+import openai
+from wikipedia import wikipedia
+from langchain.chat_models import ChatOpenAI
+
+# Configuration settings
+os.environ["OPENAI_API_KEY"] = "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"
+openai.api_key = "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"
+
+
+def summarize_text(text, max_length=10000):
+    """Summarizes a given text to a maximum length."""
+    return text[:max_length]
 
 
 def get_wikipedia_text():
-    # Search for the topic on Wikipedia
+
     topic = "deep learning"
     search_results = wikipedia.search(topic)
 
@@ -26,7 +38,14 @@ def get_wikipedia_text():
         return "Page not found for the topic."
 
 
-def get_AI_response(text=get_wikipedia_text()):
+def GPTResponse(prompt):
+    """Gets a response from an AI model for a given prompt."""
+    chat = ChatOpenAI(model_name="gpt-4", temperature=0)
+    res = chat.predict(prompt)
+    return res
+
+
+def modelsResponse(text=get_wikipedia_text()):
     output_directory = "tripletsTXTs"
     client = OpenAI(
         api_key="LL-5OPT3xLPTWxSff1zUH42hQxtOBQPTLhqOlnHCMLrDYpRGIwgXaum7Rj8LWu31eXV",
@@ -34,7 +53,6 @@ def get_AI_response(text=get_wikipedia_text()):
     )
 
     models = [
-        "llama-13b-chat",  # ok
         # "llama-7b-32k", #trash
         "llama-13b-chat",  # god
         "llama-70b-chat",  # ok
@@ -47,7 +65,7 @@ def get_AI_response(text=get_wikipedia_text()):
         # "alpaca-7b", #trash
         # "codellama-7b-instruct", #trash
         # "codellama-34b-instruct", #trash
-        "vicuna-7b",  # ok dai
+        # "vicuna-7b",  # ok dai
         "vicuna-13b",  # top
     ]
 
@@ -70,12 +88,33 @@ def get_AI_response(text=get_wikipedia_text()):
         # Define the filename based on the model name
         filename = f'extracted_text_from_{model.replace("/", "_")}.txt'
 
-        filepath = os.path.join(output_directory, filename)
-        # Open the file in write mode and write the triples
-        with open(filepath, 'w') as file:
-            file.write(response.choices[0].message.content)
-        print(f"Output saved to {filepath}")
+        # Save the response to a file
+        save_text_to_file(response.choices[0].message.content, filename, output_directory)
+
+
+def save_text_to_file(text, filename, output_directory):
+    """Saves the provided text to a file."""
+    filepath = os.path.join(output_directory, filename)
+    with open(filepath, 'w') as file:
+        file.write(text)
+    print(f"Content saved to {filepath}")
+
 
 
 text_from_wiki = get_wikipedia_text()
-get_AI_response(text_from_wiki)
+modelsResponse(text_from_wiki)
+
+testimony = summarize_text(get_wikipedia_text())
+prompt_template = """
+You will perform the open information extraction task. You will identify the named entities in the content and then extract the relations between them.
+Based on the provided testimony, you will return triples which are formatted as <named entity A, relation, named entity B> without enumerating them.
+
+START of the testimony:
+{testimony}
+END of the testimony.
+
+The extracted triples formatted as <named entity A, relation, named entity B> are:
+"""
+prompt = prompt_template.format(testimony=testimony)
+output_text = GPTResponse(prompt)
+save_text_to_file(output_text, "extracted_text_from_GPT.txt", "tripletsTXTs")
