@@ -67,12 +67,12 @@ def KG_creation(filename):
         G.add_edge(subject, object, relation=relation)
 
     # Choose a layout
-    pos = nx.random_layout(G)  # Adjust the spacing between nodes as needed
+    pos = nx.kamada_kawai_layout(G)  # Adjust the spacing between nodes as needed
 
     # Draw the graph
     plt.figure(figsize=(14, 10))
-    nx.draw(G, pos, with_labels=True, node_color='skyblue', node_size=500,
-            edge_color='gray', linewidths=0.5, font_size=10)
+    nx.draw(G, pos, with_labels=True, node_color='skyblue', node_size=1000,
+            edge_color='gray', linewidths=0.7, font_size=14)
 
     # Draw edge labels
     edge_labels = dict([((u, v,), d['relation'])
@@ -88,6 +88,8 @@ def KG_creation(filename):
 
     visualize_with_pyvis(G, 'knowledge_graph' + filename_without_extension + '.html', filename_without_extension)
 
+    return G
+
 
 def visualize_with_pyvis(g, output_file, filename_without_extension):
     """Convert networkx graph to a pyvis network graph and visualize it."""
@@ -96,5 +98,3 @@ def visualize_with_pyvis(g, output_file, filename_without_extension):
     nt.from_nx(g)
     # Set visualization options if needed
     nt.save_graph('plots/knowledge_graph_' + filename_without_extension + '.html')
-
-

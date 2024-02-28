@@ -13,7 +13,5 @@ ns1:Deeplearning ns1:hasproducedresultscomparabletoorsurpassinghumanexpertperfor
     ns1:isasubsetof ns1:Machinelearningmethods ;
     ns1:uses ns1:Artificialneuralnetworks .
 
-ns1:Artificialneuralnetworks ns1:aredifferentfrom ns1:Biologicalbrains ;
-    ns1:areinspiredby ns1:Biologicalsystems ;
-    ns1:areseenas ns1:Lowqualitymodelsforbrainfunction .
+ns1:Artificialneuralnetworks ns1:areinspiredby ns1:Biologicalsystems .
 

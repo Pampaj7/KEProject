@@ -1,18 +1,14 @@
+Here are the extracted triples formatted as <named entity A, relation, named entity B> based on the provided testimony:
+
 1. Deep learning, is a subset of, machine learning
 2. Artificial neural networks, inspired by, biological systems
-3. Deep neural networks, is a type of, deep learning
-4. Recurrent neural networks, is a type of, deep learning
-5. Convolutional neural networks, is a type of, deep learning
-6. Transformers, is a type of, deep learning
-7. Computer vision, has been applied to, deep learning
-8. Speech recognition, has been applied to, deep learning
-9. Natural language processing, has been applied to, deep learning
-10. Machine translation, has been applied to, deep learning
-11. Bioinformatics, has been applied to, deep learning
-12. Drug design, has been applied to, deep learning
-13. Medical image analysis, has been applied to, deep learning
-14. Climate science, has been applied to, deep learning
-15. Material inspection, has been applied to, deep learning
-16. Board game programs, has been applied to, deep learning
+3. Deep neural networks, have been applied to, computer vision
+4. Recurrent neural networks, have been applied to, speech recognition
+5. Convolutional neural networks, have been applied to, natural language processing
+6. Transformers, have been applied to, machine translation
+7. Bioinformatics, have been applied to, drug design
+8. Medical image analysis, have been applied to, climate science
+9. Material inspection, have been applied to, board game programs
+10. Artificial neural networks, are generally seen as, low quality models for brain function.
 
-Please note that the named entities in the text are proper nouns (such as "Deep learning," "Artificial neural networks," etc.), and the relations are in the format of "is a subset of," "inspired by," "is a type of," "has been applied to," etc. The named entities and relations are based on the provided testimony.
+Please note that the named entities in the testimony are not explicitly stated, so I had to infer them based on the context. Also, some of the relations are not explicitly stated, so I had to infer them based on the context as well.

@@ -34,12 +34,8 @@ def calculate_and_plot_metrics(G, title):
     plt.legend()
     plt.show()
 
-    # Clustering coefficient
-    clustering = nx.average_clustering(G)
-    print(f"[{title}] Average Clustering Coefficient: {clustering:.4f}")
-
     # Diameter and Average Path Length (for connected components)
-    if nx.is_connected(G):
+    if nx.is_strongly_connected(G):
         diameter = nx.diameter(G)
         avg_path_length = nx.average_shortest_path_length(G)
         print(f"[{title}] Diameter: {diameter}")
@@ -122,31 +118,34 @@ def visualize_embeddings(embeddings, title):
     plt.show()
 
 
-# Example usage:
-G1 = nx.gnp_random_graph(100, 0.1, seed=42)
-G2 = nx.gnp_random_graph(100, 0.5, seed=42)
+"""
+def test():
+    # Example usage:
+    G1 = nx.gnp_random_graph(100, 0.1, seed=42)
+    G2 = nx.gnp_random_graph(100, 0.5, seed=42)
 
-calculate_and_plot_metrics(G1, "Graph 1")
-calculate_and_plot_metrics(G2, "Graph 2")
+    calculate_and_plot_metrics(G1, "Graph 1")
+    calculate_and_plot_metrics(G2, "Graph 2")
 
-check_isomorphism(G1, G2)
+    check_isomorphism(G1, G2)
 
-# Spectral analysis
-L1 = nx.laplacian_matrix(G1).toarray()
-L2 = nx.laplacian_matrix(G2).toarray()
-plot_spectrum(L1, "Graph 1")
-plot_spectrum(L2, "Graph 2")
+    # Spectral analysis
+    L1 = nx.laplacian_matrix(G1).toarray()
+    L2 = nx.laplacian_matrix(G2).toarray()
+    plot_spectrum(L1, "Graph 1")
+    plot_spectrum(L2, "Graph 2")
 
-embeddings_G1 = generate_embeddings(G1)
-embeddings_G2 = generate_embeddings(G2)
+    embeddings_G1 = generate_embeddings(G1)
+    embeddings_G2 = generate_embeddings(G2)
 
-compare_embeddings(embeddings_G1, embeddings_G2)
+    compare_embeddings(embeddings_G1, embeddings_G2)
 
-analyze_connected_components(G1, "Graph 1")
-analyze_connected_components(G2, "Graph 2")
+    analyze_connected_components(G1, "Graph 1")
+    analyze_connected_components(G2, "Graph 2")
 
-# detect_and_analyze_communities(G1, "Graph 1")
-# detect_and_analyze_communities(G2, "Graph 2")
+    # detect_and_analyze_communities(G1, "Graph 1")
+    # detect_and_analyze_communities(G2, "Graph 2")
 
-visualize_embeddings(embeddings_G1, "Graph 1")  # trash
-visualize_embeddings(embeddings_G2, "Graph 2")
+    visualize_embeddings(embeddings_G1, "Graph 1")  # trash
+    visualize_embeddings(embeddings_G2, "Graph 2")
+"""

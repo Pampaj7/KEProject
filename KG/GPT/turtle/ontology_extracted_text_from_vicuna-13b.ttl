@@ -1,43 +1,11 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:ANNsartificialneuralnetworksANNs ns1:aregenerallyseenas ns1:lowqualitymodelsforbrainfunction ;
-    ns1:tendtobe ns1:staticandsymbolic .
+ns1:Artificialneuralnetworksaregenerallyseenas ns1:lowqualitymodelsfor ns1:brainfunction .
 
-ns1:Deeplearningdeeplearning ns1:isasubsetof ns1:machinelearningmethods .
+ns1:Artificialneuralnetworkswereinspiredby ns1:informationprocessinganddistributedcommunicationnodesin ns1:biologicalsystems .
 
-ns1:bioinformaticsbioinformatics ns1:hasbeenappliedto ns1:deeplearningarchitectures .
+ns1:Deeplearningmethod ns1:hasproducedresultscomparabletoandinsomecasessurpassing ns1:humanexpertperformance ;
+    ns1:isbasedon ns1:artificialneuralnetworks .
 
-ns1:biologicalbrainbiologicalbrain ns1:ofmostlivingorganisms ns1:isdynamicplasticandanalog .
-
-ns1:biologicalsystemsbiologicalsystems ns1:inspired ns1:artificialneuralnetworks .
-
-ns1:boardgameprogramsboardgameprograms ns1:havebeenappliedto ns1:deeplearningarchitectures .
-
-ns1:climatescienceclimatescience ns1:hasbeenappliedto ns1:deeplearningarchitectures .
-
-ns1:computervisioncomputervision ns1:hasbeenappliedto ns1:deeplearningarchitectures .
-
-ns1:convolutionalneuralnetworksconvolutionalneuralnetworks ns1:areatypeof ns1:deeplearningarchitectures .
-
-ns1:deepbeliefnetworksdeepbeliefnetworks ns1:areatypeof ns1:deeplearningarchitectures .
-
-ns1:deepneuralnetworksdeepneuralnetworks ns1:areatypeof ns1:deeplearningarchitectures .
-
-ns1:drugdesigndrugdesign ns1:hasbeenappliedto ns1:deeplearningarchitectures .
-
-ns1:machinelearningmethodsmachinelearningmethods ns1:haverepresentationlearning ns1:basedonartificialneuralnetworksANNs .
-
-ns1:machinetranslationmachinetranslation ns1:hasbeenappliedto ns1:deeplearningarchitectures .
-
-ns1:materialinspectionmaterialinspection ns1:hasbeenappliedto ns1:deeplearningarchitectures .
-
-ns1:medicalimageanalysismedicalimageanalysis ns1:hasbeenappliedto ns1:deeplearningarchitectures .
-
-ns1:naturallanguageprocessingnaturallanguageprocessing ns1:hasbeenappliedto ns1:deeplearningarchitectures .
-
-ns1:recurrentneuralnetworksrecurrentneuralnetworks ns1:areatypeof ns1:deeplearningarchitectures .
-
-ns1:speechrecognitionspeechrecognition ns1:hasbeenappliedto ns1:deeplearningarchitectures .
-
-ns1:transformerstransformers ns1:areatypeof ns1:deeplearningarchitectures .
+ns1:Deeplearningorganization ns1:isasubsetof ns1:machinelearning .
 

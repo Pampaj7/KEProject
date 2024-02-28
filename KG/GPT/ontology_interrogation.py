@@ -5,17 +5,52 @@ def interrogate():
     g = Graph()
     g.parse("turtle/ontology_extracted_text_from_GPT.ttl", format="ttl")
 
-    # Assuming g is your RDFLib Graph containing the ontology
-    sparql_query = """
+    sparql_query_deep_based_on = """
     PREFIX ns1: <http://example.org/myontology/>
-    
-    SELECT ?subject ?application
+
+    SELECT ?basedOn
     WHERE {
-      ?subject ns1:issoldas ?app .
-      BIND(STRAFTER(STR(?app), STR(ns1:)) AS ?application)
+      ns1:Deeplearning ns1:basedon ?basedOn .
     }
     """
 
-    # Execute the query
-    for row in g.query(sparql_query):
+    for row in g.query(sparql_query_deep_based_on):
+        print(f"Deep Learning is based on: {row.basedOn}")
+
+    sparql_query_applications = """
+    PREFIX ns1: <http://example.org/myontology/>
+
+    SELECT ?application
+    WHERE {
+      ns1:Deeplearningarchitectures ns1:havebeenappliedto ?application .
+    }
+    """
+
+    for row in g.query(sparql_query_applications):
         print(f"Application: {row.application}")
+
+    sparql_query_inspirations = """
+    PREFIX ns1: <http://example.org/myontology/>
+
+    SELECT ?inspiration
+    WHERE {
+      ns1:Artificialneuralnetworks ns1:wereinspiredby ?inspiration .
+    }
+    """
+
+    for row in g.query(sparql_query_inspirations):
+        print(f"Inspiration: {row.inspiration}")
+
+    sparql_query_characteristics = """
+    PREFIX ns1: <http://example.org/myontology/>
+
+    SELECT ?characteristic
+    WHERE {
+      ns1:Artificialneuralnetworks ns1:tendtobe ?characteristic .
+    }
+    """
+
+    for row in g.query(sparql_query_characteristics):
+        print(f"Characteristic: {row.characteristic}")
+
+

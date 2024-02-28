@@ -10,6 +10,4 @@
 10. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Medical image analysis"),
 11. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Climate science"),
 12. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Material inspection"),
-13. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Board game programs"),
-14. ("Artificial neural networks", "are different from", "Biological brains"),
-15. ("Artificial neural networks", "are seen as", "Low quality models for brain function").
+13. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Board game programs").

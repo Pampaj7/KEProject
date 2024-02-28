@@ -1,19 +1,26 @@
 1. <Deep learning, subset of, Machine learning methods>
 2. <Deep learning, based on, Artificial neural networks (ANNs)>
-3. <Artificial neural networks (ANNs), inspired by, Biological systems>
+3. <Artificial neural networks, inspired by, Biological systems>
 4. <Deep learning, uses, Multiple layers in the network>
 5. <Methods used in deep learning, can be, Supervised>
 6. <Methods used in deep learning, can be, Semi-supervised>
 7. <Methods used in deep learning, can be, Unsupervised>
-8. <Deep learning architectures, applied to, Computer vision>
-9. <Deep learning architectures, applied to, Speech recognition>
-10. <Deep learning architectures, applied to, Natural language processing>
-11. <Deep learning architectures, applied to, Machine translation>
-12. <Deep learning architectures, applied to, Bioinformatics>
-13. <Deep learning architectures, applied to, Drug design>
-14. <Deep learning architectures, applied to, Medical image analysis>
-15. <Deep learning architectures, applied to, Climate science>
-16. <Deep learning architectures, applied to, Material inspection>
-17. <Deep learning architectures, applied to, Board game programs>
-18. <Artificial neural networks (ANNs), have differences from, Biological brains>
-19. <Artificial neural networks, seen as, Low quality models for brain function>.
+8. <Deep learning architectures, include, Deep neural networks>
+9. <Deep learning architectures, include, Deep belief networks>
+10. <Deep learning architectures, include, Recurrent neural networks>
+11. <Deep learning architectures, include, Convolutional neural networks>
+12. <Deep learning architectures, include, Transformers>
+13. <Deep learning applications, include, Computer vision>
+14. <Deep learning applications, include, Speech recognition>
+15. <Deep learning applications, include, Natural language processing>
+16. <Deep learning applications, include, Machine translation>
+17. <Deep learning applications, include, Bioinformatics>
+18. <Deep learning applications, include, Drug design>
+19. <Deep learning applications, include, Medical image analysis>
+20. <Deep learning applications, include, Climate science>
+21. <Deep learning applications, include, Material inspection>
+22. <Deep learning applications, include, Board game programs>
+23. <Artificial neural networks, have differences from, Biological brains>
+24. <Artificial neural networks, tend to be, Static and symbolic>
+25. <Biological brain, of most living organisms, is dynamic (plastic) and analog>
+26. <Artificial neural networks, generally seen as, Low quality models for brain function>.

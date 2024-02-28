@@ -3,7 +3,7 @@ from openai import OpenAI
 import os
 import openai
 from wikipedia import wikipedia
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 
 # Configuration settings
 os.environ["OPENAI_API_KEY"] = "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"
