@@ -11,18 +11,16 @@ openai.api_key = "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"
 
 
 def summarize_text(text, max_length=10000):
-    """Summarizes a given text to a maximum length."""
     return text[:max_length]
 
 
 def get_wikipedia_text(topic):
 
     search_results = wikipedia.search(topic)
-
     if not search_results:
         return "No results found for the topic."
 
-    # Get the top search result's titlepip
+    # Get the top search result's title
     top_result_title = search_results[0]
 
     try:

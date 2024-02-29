@@ -2,9 +2,6 @@
 <Deep learning, based on, artificial neural networks>
 <Artificial neural networks, with, representation learning>
 <The adjective "deep", refers to, the use of multiple layers in the network>
-<Methods, can be, supervised>
-<Methods, can be, semi-supervised>
-<Methods, can be, unsupervised>
 <Deep-learning architectures, have been applied to, fields including computer vision>
 <Deep-learning architectures, have been applied to, speech recognition>
 <Deep-learning architectures, have been applied to, natural language processing>

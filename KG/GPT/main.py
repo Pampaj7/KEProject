@@ -20,4 +20,5 @@ for file in filename:
     gs.calculate_and_plot_metrics(g, file)
     #gs.plot_spectrum(g, file)
 
+#some basic interrogation
 oi.interrogate()

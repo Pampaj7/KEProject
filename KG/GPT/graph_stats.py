@@ -10,10 +10,7 @@ import matplotlib.pyplot as plt
 
 
 def calculate_and_plot_metrics(G, title):
-    """
-    Calculate and print graph metrics, and plot the degree distribution.
-    """
-    # Basic metrics
+
     nodes = G.number_of_nodes()
     edges = G.number_of_edges()
     density = nx.density(G)
@@ -45,18 +42,14 @@ def calculate_and_plot_metrics(G, title):
 
 
 def check_isomorphism(G1, G2):
-    """
-    Check if two graphs are isomorphic and print the result.
-    """
+
     matcher = isomorphism.GraphMatcher(G1, G2)
     are_isomorphic = matcher.is_isomorphic()
     print(f"Graph 1 and Graph 2 are isomorphic: {are_isomorphic}")
 
 
 def plot_spectrum(L, title):
-    """
-    Plot the spectrum of a Laplacian matrix.
-    """
+
     eigenvalues = np.sort(eigh(L, eigvals_only=True))
     plt.figure(figsize=(10, 6))
     plt.plot(eigenvalues, marker='o')
@@ -67,7 +60,6 @@ def plot_spectrum(L, title):
     plt.show()
 
 
-# Generate node embeddings for two graphs
 def generate_embeddings(G):
     node2vec = Node2Vec(G, dimensions=64, walk_length=30, num_walks=200, workers=4)
     model = node2vec.fit(window=10, min_count=1, batch_words=4)
@@ -75,10 +67,7 @@ def generate_embeddings(G):
     return embeddings
 
 
-# Compare two sets of embeddings
 def compare_embeddings(embeddings1, embeddings2):
-    # Simple comparison: average cosine similarity between corresponding nodes
-    # Note: Assumes node sets of G1 and G2 are the same. For different node sets, additional steps are needed.
     similarity = cosine_similarity(embeddings1, embeddings2)
     avg_similarity = np.mean(similarity)
     print(f"Average Cosine Similarity: {avg_similarity}")

@@ -22,10 +22,6 @@ ns1:Deeplearningarchitectures ns1:havebeenappliedto ns1:bioinformatics,
         ns1:naturallanguageprocessing,
         ns1:speechrecognition .
 
-ns1:Methods ns1:canbe ns1:semisupervised,
-        ns1:supervised,
-        ns1:unsupervised .
-
 ns1:Theadjectivedeep ns1:refersto ns1:theuseofmultiplelayersinthenetwork .
 
 ns1:Thebiologicalbrainofmostlivingorganisms ns1:is ns1:dynamicplasticandanalog .
