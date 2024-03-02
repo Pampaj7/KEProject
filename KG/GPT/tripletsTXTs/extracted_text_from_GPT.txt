@@ -1,20 +1,46 @@
-<Deep learning, is the subset of, machine learning methods>
-<Deep learning, based on, artificial neural networks>
-<Artificial neural networks, with, representation learning>
-<The adjective "deep", refers to, the use of multiple layers in the network>
-<Deep-learning architectures, have been applied to, fields including computer vision>
-<Deep-learning architectures, have been applied to, speech recognition>
-<Deep-learning architectures, have been applied to, natural language processing>
-<Deep-learning architectures, have been applied to, machine translation>
-<Deep-learning architectures, have been applied to, bioinformatics>
-<Deep-learning architectures, have been applied to, drug design>
-<Deep-learning architectures, have been applied to, medical image analysis>
-<Deep-learning architectures, have been applied to, climate science>
-<Deep-learning architectures, have been applied to, material inspection>
-<Deep-learning architectures, have been applied to, board game programs>
-<Artificial neural networks, were inspired by, information processing>
-<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
-<Artificial neural networks, have, various differences from biological brains>
-<Artificial neural networks, tend to be, static and symbolic>
-<The biological brain of most living organisms, is, dynamic (plastic) and analog>
-<ANNs, are generally seen as, low quality models for brain function>
+<Venus, is one of, the most famous planets in our solar system>
+<Venus, has, extreme temperature>
+<Venus, has, atmospheric pressure>
+<Venus, has, volcanic activity>
+<scientists, are interested in studying, Venus>
+<Dava Sobel, is the author of, "The Challenge of Exploring Venus">
+<Dava Sobel, argues, studying Venus is a worthy pursuit>
+<Dava Sobel, describes, the planet's extreme conditions>
+<Dava Sobel, describes, the difficulties involved in exploring Venus>
+<Dava Sobel, highlights, the potential benefits of studying Venus>
+<Magellan spacecraft, mapped, nearly 100% of the planet's surface>
+<Venera spacecraft series, explored, the surface of Venus>
+<scientists, have faced challenges while studying, Venus>
+<Dava Sobel, argues, studying Venus is still worthwhile>
+<Dava Sobel, notes, the planet's extreme conditions are not unique to Venus>
+<Dava Sobel, argues, there is potential for extraterrestrial life on Venus>
+<Venus, is referred to as, Earth’s “sister planet”>
+<Venus, is, the second planet from the sun>
+<James Orr, is the author of, “The Challenge of Exploring Venus”>
+<James Orr, argues, studying Venus is a worthy pursuit>
+<Venus, is one of, the hottest planets in our solar system>
+<Venus, has, surface temperatures that can reach up to 460 degrees Celsius>
+<Venus, has, atmospheric pressure that is 92 times greater than Earth’s>
+<James Orr, contends, studying Venus will help scientists gain a better understanding of our planet and the universe>
+<James Orr, presents, the planet is a mirror image of Earth’s own geological history>
+<James Orr, argues, studying Venus is worthwhile>
+<James Orr, suggests, studying Venus could provide clues about the conditions needed for life to thrive>
+<Venus, is, the second planet from the sun>
+<Venus, is referred to as, the Earth's "sister planet">
+<Venus, has, atmospheric composition>
+<Venus, has, surface temperatures reaching up to 900 degrees Fahrenheit>
+<Venus, lacks, liquid water on its surface>
+<scientists, have recently discovered, Venus may not be completely devoid of life>
+<researchers, have detected signs of, phosphine in Venus' atmosphere>
+<Venus, is also known as, the Earth's sister planet>
+<Venus, is, the second planet from the Sun>
+<Venus, has, a thick atmosphere>
+<Venus, has, a rocky and mountainous surface>
+<Venus, has, average surface temperatures reaching up to 460°C (860°F)>
+<Mariner 10 mission, was, the first successful deep-space spacecraft to study the planet>
+<Magellan orbiter, mapped, about 98% of the planet's surface>
+<Venus, is a topic of interest for, scientists and space agencies>
+<Venus, is a candidate for, future human missions>
+<Venus, has long held a place in, human imagination and mythology>
+<ancient Romans, believed, Venus was the goddess of love>
+<modern day scientists, study, its atmosphere and geology>.

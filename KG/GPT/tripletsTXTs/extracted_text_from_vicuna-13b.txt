@@ -1,9 +1,10 @@
-1. Deep learning <organization, is a subset of, machine learning>
-2. Deep learning <method, is based on, artificial neural networks>
-3. Deep learning <method, can be, supervised, semi-supervised or unsupervised>
-4. Deep learning <architecture, includes, deep neural networks, deep belief networks, recurrent neural networks, convolutional neural networks and transformers>
-5. Deep learning <method, has been applied to, fields including, computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, climate science, material inspection and board game programs>
-6. Deep learning <method, has produced results comparable to and in some cases surpassing, human expert performance>
-7. Artificial neural networks <were inspired by, information processing and distributed communication nodes in, biological systems>
-8. Artificial neural networks <tend to be, static and symbolic, while the biological brain of most living organisms is, dynamic (plastic) and analog>
-9. Artificial neural networks <are generally seen as, low quality models for, brain function>
+1. Venus:1, explored:1, scientists:1
+2. Venus:1, extreme:1, conditions:1
+3. Venus:1, sister:1, planet:1
+4. Venus:1, similarities:1, Earth:1
+5. Venus:1, geological:1, history:1
+6. Venus:1, potential:1, life:1
+7. Venus:1, atmospheric:1, composition:1
+8. Venus:1, surface:1, temperatures:1
+9. Venus:1, exploration:1, space:1
+10. Venus:1, habitability:1, future:1

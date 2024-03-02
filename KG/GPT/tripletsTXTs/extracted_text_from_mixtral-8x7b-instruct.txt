@@ -1,26 +1,33 @@
-1. <Deep learning, subset of, Machine learning methods>
-2. <Deep learning, based on, Artificial neural networks (ANNs)>
-3. <Artificial neural networks, inspired by, Biological systems>
-4. <Deep learning, uses, Multiple layers in the network>
-5. <Methods used in deep learning, can be, Supervised>
-6. <Methods used in deep learning, can be, Semi-supervised>
-7. <Methods used in deep learning, can be, Unsupervised>
-8. <Deep learning architectures, include, Deep neural networks>
-9. <Deep learning architectures, include, Deep belief networks>
-10. <Deep learning architectures, include, Recurrent neural networks>
-11. <Deep learning architectures, include, Convolutional neural networks>
-12. <Deep learning architectures, include, Transformers>
-13. <Deep learning applications, include, Computer vision>
-14. <Deep learning applications, include, Speech recognition>
-15. <Deep learning applications, include, Natural language processing>
-16. <Deep learning applications, include, Machine translation>
-17. <Deep learning applications, include, Bioinformatics>
-18. <Deep learning applications, include, Drug design>
-19. <Deep learning applications, include, Medical image analysis>
-20. <Deep learning applications, include, Climate science>
-21. <Deep learning applications, include, Material inspection>
-22. <Deep learning applications, include, Board game programs>
-23. <Artificial neural networks, have differences from, Biological brains>
-24. <Artificial neural networks, tend to be, Static and symbolic>
-25. <Biological brain, of most living organisms, is dynamic (plastic) and analog>
-26. <Artificial neural networks, generally seen as, Low quality models for brain function>.
+1. <Venus, is a planet of, Solar System>
+2. <Venus, has extreme temperature of, 460 degrees Celsius>
+3. <Venus, has atmospheric pressure of, 92 times greater than Earth>
+4. <Venus, has volcanic activity>
+5. <Venus, is challenging to explore, Human>
+6. <Scientists, are interested in, Studying Venus>
+7. <Venus, has geological past, Earth>
+8. <Venus, has potential for, Extraterrestrial Life>
+9. <Author, is, Dava Sobel>
+10. <Author, argues, Studying Venus is Worthy>
+11. <Magellan spacecraft, mapped, Nearly 100% of Venus' surface>
+12. <Venera spacecraft series, explored, Surface of Venus>
+13. <Scientists, faced challenges, Transmitting data back to Earth>
+14. <Venus, has extreme conditions, Not unique to Venus>
+15. <Studying Venus, provides insights into, How planets like Earth evolved>
+16. <Venus, has potential for, Extraterrestrial Life>
+17. <Studying Venus, helps search for, Signs of such life>
+18. <Venus, is similar to, Earth in size, composition and atmosphere>
+19. <Venus, has different, Atmospheric composition than Earth>
+20. <Venus, has thick, Toxic atmosphere>
+21. <Venus, has runaway greenhouse effect, Making it the hottest planet>
+22. <Venus, lacks, Liquid water>
+23. <Venus, has solid rock and metal layer, With extreme pressure and temperatures>
+24. <Researchers, detected, Phosphine in Venus' atmosphere>
+25. <Phosphine, is produced by, Living organisms on Earth>
+26. <Presence of phosphine, provides intriguing possibilities, For future life on Venus>
+27. <Venus, is the second planet from, The Sun>
+28. <Venus, has retrograde rotation, Opposite direction of its orbit around the Sun>
+29. <Mariner 10 mission, was the first successful, Deep-space spacecraft to study Venus>
+30. <Magellan orbiter, mapped, About 98% of the planet's surface>
+31. <Venus, is a target for, Future exploration>
+32. <Venus, has potential for, Human missions>
+33. <Ongoing efforts, are made, To develop technologies for safe and efficient exploration of Venus>.

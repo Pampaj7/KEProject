@@ -1,14 +1,26 @@
-Here are the extracted triples formatted as <named entity A, relation, named entity B> based on the provided testimony:
-
-1. Deep learning, is a subset of, machine learning
-2. Artificial neural networks, inspired by, biological systems
-3. Deep neural networks, have been applied to, computer vision
-4. Recurrent neural networks, have been applied to, speech recognition
-5. Convolutional neural networks, have been applied to, natural language processing
-6. Transformers, have been applied to, machine translation
-7. Bioinformatics, have been applied to, drug design
-8. Medical image analysis, have been applied to, climate science
-9. Material inspection, have been applied to, board game programs
-10. Artificial neural networks, are generally seen as, low quality models for brain function.
-
-Please note that the named entities in the testimony are not explicitly stated, so I had to infer them based on the context. Also, some of the relations are not explicitly stated, so I had to infer them based on the context as well.
+1. Venus, explored, Earth's sister planet
+2. Venus, described, extreme conditions
+3. Venus, mentioned, challenges
+4. Venus, argued, worthy pursuit
+5. Venus, highlighted, potential benefits
+6. Venus, noted, geological history
+7. Venus, argued, potential for extraterrestrial life
+8. Venus, studied, valuable insights
+9. Venus, explored, surface
+10. Venus, explored, atmosphere
+11. Venus, detected, signs of phosphine
+12. Venus, provides, intriguing possibilities
+13. Venus, explored, rocky and mountainous
+14. Venus, seen, bright star
+15. Venus, observed, phases
+16. Venus, studied, retrograde rotation
+17. Venus, explored, Magellan orbiter
+18. Venus, mapped, surface
+19. Venus, explored, rovers
+20. Venus, candidate, human missions
+21. Venus, developed, technologies
+22. Venus, fascinating, future exploration
+23. Venus, captured, imagination
+24. Venus, drawing, scientists
+25. Venus, holds, curiosity
+26. Venus, keeps, fascination.

@@ -1,0 +1,7 @@
+Venus, isaplanet, inoursolarsystem
+Venus, hasathickatmosphere, madeupofcarbondioxide
+Venus, hasextremetemperatures, withsurfacetemperaturesreachinguptodegreesFahrenheit
+Venus, hasnoliquidwater, onitssurface
+ThestudyofVenus, hasbeenongoingfordecades, withspacecraftsuchasMagellanandVeneraexploringtheplanet
+Venus, isatargetforfutureexploration, duetoitspotentialhabitabilityandextremeconditions
+Venus, hasthepotentialtosupportlife, andcouldbeacandidateforfuturehumanmissions

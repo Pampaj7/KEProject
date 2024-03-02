@@ -1,34 +1,44 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:Artificialneuralnetworks ns1:generallyseenas ns1:Lowqualitymodelsforbrainfunction ;
-    ns1:havedifferencesfrom ns1:Biologicalbrains ;
-    ns1:inspiredby ns1:Biologicalsystems ;
-    ns1:tendtobe ns1:Staticandsymbolic .
+ns1:Author ns1:argues ns1:StudyingVenusisWorthy ;
+    ns1:is ns1:DavaSobel .
 
-ns1:Biologicalbrain ns1:ofmostlivingorganisms ns1:isdynamicplasticandanalog .
+ns1:Magellanorbiter ns1:mapped ns1:About%oftheplanetssurface .
 
-ns1:Deeplearning ns1:basedon ns1:ArtificialneuralnetworksANNs ;
-    ns1:subsetof ns1:Machinelearningmethods ;
-    ns1:uses ns1:Multiplelayersinthenetwork .
+ns1:Magellanspacecraft ns1:mapped ns1:Nearly%ofVenussurface .
 
-ns1:Deeplearningapplications ns1:include ns1:Bioinformatics,
-        ns1:Boardgameprograms,
-        ns1:Climatescience,
-        ns1:Computervision,
-        ns1:Drugdesign,
-        ns1:Machinetranslation,
-        ns1:Materialinspection,
-        ns1:Medicalimageanalysis,
-        ns1:Naturallanguageprocessing,
-        ns1:Speechrecognition .
+ns1:Marinermission ns1:wasthefirstsuccessful ns1:DeepspacespacecrafttostudyVenus .
 
-ns1:Deeplearningarchitectures ns1:include ns1:Convolutionalneuralnetworks,
-        ns1:Deepbeliefnetworks,
-        ns1:Deepneuralnetworks,
-        ns1:Recurrentneuralnetworks,
-        ns1:Transformers .
+ns1:Ongoingefforts ns1:aremade ns1:TodeveloptechnologiesforsafeandefficientexplorationofVenus .
 
-ns1:Methodsusedindeeplearning ns1:canbe ns1:Semisupervised,
-        ns1:Supervised,
-        ns1:Unsupervised .
+ns1:Phosphine ns1:isproducedby ns1:LivingorganismsonEarth .
+
+ns1:Presenceofphosphine ns1:providesintriguingpossibilities ns1:ForfuturelifeonVenus .
+
+ns1:Researchers ns1:detected ns1:PhosphineinVenusatmosphere .
+
+ns1:Scientists ns1:areinterestedin ns1:StudyingVenus ;
+    ns1:facedchallenges ns1:TransmittingdatabacktoEarth .
+
+ns1:Veneraspacecraftseries ns1:explored ns1:SurfaceofVenus .
+
+ns1:Venus ns1:hasatmosphericpressureof ns1:timesgreaterthanEarth ;
+    ns1:hasdifferent ns1:AtmosphericcompositionthanEarth ;
+    ns1:hasextremeconditions ns1:NotuniquetoVenus ;
+    ns1:hasextremetemperatureof ns1:degreesCelsius ;
+    ns1:hasgeologicalpast ns1:Earth ;
+    ns1:haspotentialfor ns1:ExtraterrestrialLife,
+        ns1:Humanmissions ;
+    ns1:hasretrograderotation ns1:OppositedirectionofitsorbitaroundtheSun ;
+    ns1:hasrunawaygreenhouseeffect ns1:Makingitthehottestplanet ;
+    ns1:hassolidrockandmetallayer ns1:Withextremepressureandtemperatures ;
+    ns1:hasthick ns1:Toxicatmosphere ;
+    ns1:isaplanetof ns1:SolarSystem ;
+    ns1:isatargetfor ns1:Futureexploration ;
+    ns1:ischallengingtoexplore ns1:Human ;
+    ns1:isthesecondplanetfrom ns1:TheSun ;
+    ns1:lacks ns1:Liquidwater .
+
+ns1:StudyingVenus ns1:helpssearchfor ns1:Signsofsuchlife ;
+    ns1:providesinsightsinto ns1:HowplanetslikeEarthevolved .
 

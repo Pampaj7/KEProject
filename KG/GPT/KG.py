@@ -10,10 +10,26 @@ def normalize_name(name):
     # Replace spaces with unpleasant characters
     name = (name.replace(" ", "").replace("<", "").replace(">", "").
             replace(".", "").replace("-", "").replace("'", "").
-            replace('"', "").replace("(", "").replace(")", "").replace(",", "").replace(":", "").replace(";", ""))
+            replace('"', "").replace("(", "").replace(")", "").replace(":", "").replace(";", ""))
     name = re.sub(r'\d+', '', name)
 
     return name
+
+def normalize_file(input_file, output_file):
+    triplets = []
+    with open(input_file, 'r') as file:
+        for line in file:
+            parts = line.strip().split(', ')
+            if len(parts) != 3:
+                continue
+            normalized_subject = normalize_name(parts[0])
+            normalized_relation = normalize_name(parts[1])
+            normalized_object = normalize_name(parts[2])
+            triplets.append((normalized_subject, normalized_relation, normalized_object))
+
+    with open(output_file, 'w') as file:
+        for triplet in triplets:
+            file.write(', '.join(triplet) + '\n')
 
 
 def create_ontology(triplets, filename):
@@ -52,12 +68,14 @@ def KG_creation(filename):
         for line in file:
             cleaned_line = line.strip().strip('<>')
             parts = cleaned_line.split(', ')
-            if len(parts) == 3:
-                # Normalize names for each part of the triplet -- works all the time
-                normalized_subject = normalize_name(parts[0])
-                normalized_relation = normalize_name(parts[1])
-                normalized_object = normalize_name(parts[2])
-                triplets.append((normalized_subject, normalized_relation, normalized_object))
+            if len(parts) != 3:
+                continue
+                
+            # Normalize names for each part of the triplet -- works all the time
+            normalized_subject = normalize_name(parts[0])
+            normalized_relation = normalize_name(parts[1])
+            normalized_object = normalize_name(parts[2])
+            triplets.append((normalized_subject, normalized_relation, normalized_object))
 
     G = nx.DiGraph()  # networkx graph
     for subject, relation, object in triplets:

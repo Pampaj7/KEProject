@@ -1,0 +1,3 @@
+Venus, isaplanet, null
+Venus, isreferredtoas, Earth’s“sisterplanet”
+Venus, hasathick, toxicatmosphere

@@ -1,17 +1,6 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:Deeplearning ns1:hasproducedresultscomparabletoorsurpassinghumanexpertperformancein ns1:Bioinformatics,
-        ns1:Boardgameprograms,
-        ns1:Climatescience,
-        ns1:Computervision,
-        ns1:Drugdesign,
-        ns1:Machinetranslation,
-        ns1:Materialinspection,
-        ns1:Medicalimageanalysis,
-        ns1:Naturallanguageprocessing,
-        ns1:Speechrecognition ;
-    ns1:isasubsetof ns1:Machinelearningmethods ;
-    ns1:uses ns1:Artificialneuralnetworks .
-
-ns1:Artificialneuralnetworks ns1:areinspiredby ns1:Biologicalsystems .
+ns1:Venus ns1:hasathick ns1:toxicatmosphere ;
+    ns1:isaplanet ns1:null ;
+    ns1:isreferredtoas <http://example.org/myontology/Earth’s“sisterplanet”> .
 

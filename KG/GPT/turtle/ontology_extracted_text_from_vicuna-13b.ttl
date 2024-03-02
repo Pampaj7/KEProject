@@ -1,11 +1,13 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:Artificialneuralnetworksaregenerallyseenas ns1:lowqualitymodelsfor ns1:brainfunction .
-
-ns1:Artificialneuralnetworkswereinspiredby ns1:informationprocessinganddistributedcommunicationnodesin ns1:biologicalsystems .
-
-ns1:Deeplearningmethod ns1:hasproducedresultscomparabletoandinsomecasessurpassing ns1:humanexpertperformance ;
-    ns1:isbasedon ns1:artificialneuralnetworks .
-
-ns1:Deeplearningorganization ns1:isasubsetof ns1:machinelearning .
+ns1:Venus ns1:atmospheric ns1:composition ;
+    ns1:exploration ns1:space ;
+    ns1:explored ns1:scientists ;
+    ns1:extreme ns1:conditions ;
+    ns1:geological ns1:history ;
+    ns1:habitability ns1:future ;
+    ns1:potential ns1:life ;
+    ns1:similarities ns1:Earth ;
+    ns1:sister ns1:planet ;
+    ns1:surface ns1:temperatures .
 

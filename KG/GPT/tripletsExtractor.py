@@ -4,6 +4,7 @@ import os
 import openai
 from wikipedia import wikipedia
 from langchain_community.chat_models import ChatOpenAI
+import KG as kg
 
 # Configuration settings
 os.environ["OPENAI_API_KEY"] = "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"
@@ -34,10 +35,7 @@ def get_wikipedia_text(topic):
         # Handle pages not found
         return "Page not found for the topic."
 
-
-def GPTResponse(topic):
-
-    testimony = summarize_text(get_wikipedia_text(topic))
+def GPTResponse(testimony):
     prompt_template = """
     You will perform the open information extraction task. You will identify the named entities in the content and then extract the relations between them.
     Based on the provided testimony, you will return triples which are formatted as <named entity A, relation, named entity B> without enumerating them.
@@ -53,10 +51,12 @@ def GPTResponse(topic):
     chat = ChatOpenAI(model_name="gpt-4", temperature=0)
     res = chat.predict(prompt)
     save_text_to_file(res, "extracted_text_from_GPT.txt", "tripletsTXTs")
-
+    kg.normalize_file("tripletsTXTs/extracted_text_from_GPT.txt", "normalizedTriplets/_normalizedextracted_text_from_GPT.txt")
 
 def modelsResponse(text):
-    output_directory = "tripletsTXTs"
+    output_directory_not_norm = "tripletsTXTs"
+    output_directory_norm = "normalizedTriplets"
+
     client = OpenAI(
         api_key="LL-5OPT3xLPTWxSff1zUH42hQxtOBQPTLhqOlnHCMLrDYpRGIwgXaum7Rj8LWu31eXV",
         base_url="https://api.llama-api.com"
@@ -99,8 +99,8 @@ def modelsResponse(text):
         filename = f'extracted_text_from_{model.replace("/", "_")}.txt'
 
         # Save the response to a file
-        save_text_to_file(response.choices[0].message.content, filename, output_directory)
-
+        save_text_to_file(response.choices[0].message.content, filename, output_directory_not_norm)
+        kg.normalize_file(f"{output_directory_not_norm}/{filename}", f"{output_directory_norm}/_normalized{filename}")
 
 def save_text_to_file(text, filename, output_directory):
     """Saves the provided text to a file."""
@@ -108,5 +108,3 @@ def save_text_to_file(text, filename, output_directory):
     with open(filepath, 'w') as file:
         file.write(text)
     print(f"Content saved to {filepath}")
-
-
