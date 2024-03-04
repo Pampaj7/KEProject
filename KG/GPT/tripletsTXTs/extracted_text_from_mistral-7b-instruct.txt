@@ -1,25 +1,13 @@
-1. (Venus, is a planet, null)
-2. (Venus, is referred to as, Earth’s “sister planet”)
-3. (Venus, is the second planet from the sun)
-4. (Venus, has extreme temperatures)
-5. (Venus, has atmospheric pressure 92 times greater than Earth’s)
-6. (Venus, has volcanic activity)
-7. (Venus, has magnetic field fluctuations)
-8. (Venus, has undergone climatic changes)
-9. (Venus, has the potential to support life)
-10. (Venus, has a thick, toxic atmosphere)
-11. (Venus, has a mirror image of Earth’s geological history)
-12. (Venus, has the potential for extraterrestrial life)
-13. (Dava Sobel, is the author of "The Challenge of Exploring Venus")
-14. (James Orr, is the author of "The Challenge of Exploring Venus")
-15. (Dava Sobel, argues for studying Venus)
-16. (James Orr, argues for studying Venus)
-17. (Studying Venus, provides insights into Earth’s future)
-18. (Studying Venus, provides insights into the conditions needed for life)
-19. (Venus, is a target for future exploration)
-20. (Venus, is a target for future human missions)
-21. (Venus, is a fascinating planet)
-22. (Venus, has already been explored for decades)
-23. (Venus, is a candidate for future rover missions)
-24. (Venus, is a candidate for future human missions)
-25. (There are ongoing efforts to develop technologies for Venus exploration)
+1. ("Deep learning", "is a subset of", "Machine learning methods"),
+2. ("Deep learning", "uses", "Artificial neural networks"),
+3. ("Artificial neural networks", "are inspired by", "Biological systems"),
+4. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Computer vision"),
+5. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Speech recognition"),
+6. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Natural language processing"),
+7. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Machine translation"),
+8. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Bioinformatics"),
+9. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Drug design"),
+10. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Medical image analysis"),
+11. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Climate science"),
+12. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Material inspection"),
+13. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Board game programs").

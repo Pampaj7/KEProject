@@ -3,9 +3,6 @@ from networkx.algorithms import isomorphism
 import numpy as np
 from scipy.linalg import eigh
 from node2vec import Node2Vec
-from sklearn.metrics.pairwise import cosine_similarity
-import community as community_louvain
-from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 
 

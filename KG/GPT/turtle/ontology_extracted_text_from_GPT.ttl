@@ -1,58 +1,32 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:DavaSobel ns1:argues ns1:studyingVenusisaworthypursuit,
-        ns1:studyingVenusisstillworthwhile,
-        ns1:thereispotentialforextraterrestriallifeonVenus ;
-    ns1:describes ns1:thedifficultiesinvolvedinexploringVenus,
-        ns1:theplanetsextremeconditions ;
-    ns1:highlights ns1:thepotentialbenefitsofstudyingVenus ;
-    ns1:istheauthorof ns1:TheChallengeofExploringVenus ;
-    ns1:notes ns1:theplanetsextremeconditionsarenotuniquetoVenus .
+ns1:ANNs ns1:aregenerallyseenas ns1:lowqualitymodelsforbrainfunction .
 
-ns1:JamesOrr ns1:argues ns1:studyingVenusisaworthypursuit,
-        ns1:studyingVenusisworthwhile ;
-    ns1:contends ns1:studyingVenuswillhelpscientistsgainabetterunderstandingofourplanetandtheuniverse ;
-    ns1:istheauthorof <http://example.org/myontology/“TheChallengeofExploringVenus”> ;
-    ns1:presents <http://example.org/myontology/theplanetisamirrorimageofEarth’sowngeologicalhistory> ;
-    ns1:suggests ns1:studyingVenuscouldprovidecluesabouttheconditionsneededforlifetothrive .
+ns1:Artificialneuralnetworks ns1:have ns1:variousdifferencesfrombiologicalbrains ;
+    ns1:tendtobe ns1:staticandsymbolic ;
+    ns1:wereinspiredby ns1:distributedcommunicationnodesinbiologicalsystems,
+        ns1:informationprocessing ;
+    ns1:with ns1:representationlearning .
 
-ns1:Magellanorbiter ns1:mapped ns1:about%oftheplanetssurface .
+ns1:Deeplearning ns1:basedon ns1:artificialneuralnetworks ;
+    ns1:isthesubsetof ns1:machinelearningmethods .
 
-ns1:Magellanspacecraft ns1:mapped ns1:nearly%oftheplanetssurface .
+ns1:Deeplearningarchitectures ns1:havebeenappliedto ns1:bioinformatics,
+        ns1:boardgameprograms,
+        ns1:climatescience,
+        ns1:drugdesign,
+        ns1:fieldsincludingcomputervision,
+        ns1:machinetranslation,
+        ns1:materialinspection,
+        ns1:medicalimageanalysis,
+        ns1:naturallanguageprocessing,
+        ns1:speechrecognition .
 
-ns1:Marinermission ns1:was ns1:thefirstsuccessfuldeepspacespacecrafttostudytheplanet .
+ns1:Methods ns1:canbe ns1:semisupervised,
+        ns1:supervised,
+        ns1:unsupervised .
 
-ns1:Veneraspacecraftseries ns1:explored ns1:thesurfaceofVenus .
+ns1:Theadjectivedeep ns1:refersto ns1:theuseofmultiplelayersinthenetwork .
 
-ns1:ancientRomans ns1:believed ns1:Venuswasthegoddessoflove .
-
-ns1:moderndayscientists ns1:study ns1:itsatmosphereandgeology .
-
-ns1:researchers ns1:havedetectedsignsof ns1:phosphineinVenusatmosphere .
-
-ns1:scientists ns1:areinterestedinstudying ns1:Venus ;
-    ns1:havefacedchallengeswhilestudying ns1:Venus ;
-    ns1:haverecentlydiscovered ns1:Venusmaynotbecompletelydevoidoflife .
-
-ns1:Venus ns1:has ns1:arockyandmountainoussurface,
-        ns1:athickatmosphere,
-        ns1:atmosphericcomposition,
-        ns1:atmosphericpressure,
-        <http://example.org/myontology/atmosphericpressurethatistimesgreaterthanEarth’s>,
-        <http://example.org/myontology/averagesurfacetemperaturesreachingupto°C°F>,
-        ns1:extremetemperature,
-        ns1:surfacetemperaturesreachinguptodegreesFahrenheit,
-        ns1:surfacetemperaturesthatcanreachuptodegreesCelsius,
-        ns1:volcanicactivity ;
-    ns1:haslongheldaplacein ns1:humanimaginationandmythology ;
-    ns1:is ns1:thesecondplanetfromtheSun,
-        ns1:thesecondplanetfromthesun ;
-    ns1:isacandidatefor ns1:futurehumanmissions ;
-    ns1:isalsoknownas ns1:theEarthssisterplanet ;
-    ns1:isatopicofinterestfor ns1:scientistsandspaceagencies ;
-    ns1:isoneof ns1:thehottestplanetsinoursolarsystem,
-        ns1:themostfamousplanetsinoursolarsystem ;
-    ns1:isreferredtoas <http://example.org/myontology/Earth’s“sisterplanet”>,
-        ns1:theEarthssisterplanet ;
-    ns1:lacks ns1:liquidwateronitssurface .
+ns1:Thebiologicalbrainofmostlivingorganisms ns1:is ns1:dynamicplasticandanalog .
 

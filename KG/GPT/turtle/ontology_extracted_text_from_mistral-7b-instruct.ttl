@@ -1,6 +1,17 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:Venus ns1:hasathick ns1:toxicatmosphere ;
-    ns1:isaplanet ns1:null ;
-    ns1:isreferredtoas <http://example.org/myontology/Earth’s“sisterplanet”> .
+ns1:Artificialneuralnetworks ns1:areinspiredby <http://example.org/myontology/Biologicalsystems,> .
+
+ns1:Deeplearning ns1:hasproducedresultscomparabletoorsurpassinghumanexpertperformancein <http://example.org/myontology/Bioinformatics,>,
+        ns1:Boardgameprograms,
+        <http://example.org/myontology/Climatescience,>,
+        <http://example.org/myontology/Computervision,>,
+        <http://example.org/myontology/Drugdesign,>,
+        <http://example.org/myontology/Machinetranslation,>,
+        <http://example.org/myontology/Materialinspection,>,
+        <http://example.org/myontology/Medicalimageanalysis,>,
+        <http://example.org/myontology/Naturallanguageprocessing,>,
+        <http://example.org/myontology/Speechrecognition,> ;
+    ns1:isasubsetof <http://example.org/myontology/Machinelearningmethods,> ;
+    ns1:uses <http://example.org/myontology/Artificialneuralnetworks,> .
 

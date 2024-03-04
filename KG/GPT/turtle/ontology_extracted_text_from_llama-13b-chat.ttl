@@ -1,11 +1,16 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:ThestudyofVenus ns1:hasbeenongoingfordecades ns1:withspacecraftsuchasMagellanandVeneraexploringtheplanet .
+ns1:ArtificialNeuralNetworks ns1:arebasedon ns1:BiologicalBrain .
 
-ns1:Venus ns1:hasathickatmosphere ns1:madeupofcarbondioxide ;
-    ns1:hasextremetemperatures ns1:withsurfacetemperaturesreachinguptodegreesFahrenheit ;
-    ns1:hasnoliquidwater ns1:onitssurface ;
-    ns1:hasthepotentialtosupportlife ns1:andcouldbeacandidateforfuturehumanmissions ;
-    ns1:isaplanet ns1:inoursolarsystem ;
-    ns1:isatargetforfutureexploration ns1:duetoitspotentialhabitabilityandextremeconditions .
+ns1:DeepLearning ns1:hasbeenappliedto ns1:Bioinformatics,
+        ns1:BoardGamePrograms,
+        ns1:ClimateScience,
+        ns1:ComputerVision,
+        ns1:DrugDesign,
+        ns1:MachineTranslation,
+        ns1:MaterialInspection,
+        ns1:MedicalImageAnalysis,
+        ns1:NaturalLanguageProcessing,
+        ns1:SpeechRecognition ;
+    ns1:isasubsetof ns1:MachineLearning .
 

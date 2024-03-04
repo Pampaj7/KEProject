@@ -18,16 +18,32 @@ def read_triplets_from_file(file_path):
 
 def calculate_matrix(path):
     correct_triplets = read_triplets_from_file("normalizedTriplets/_normalizedextracted_text_from_GPT.txt")
-    predicted_triplets = read_triplets_from_file("normalizedTriplets/" + path)
+    predicted_triplets = read_triplets_from_file("normalizedTriplets/_normalized" + path)
 
     true_positives = len(correct_triplets.intersection(predicted_triplets))
     false_positives = len(predicted_triplets.difference(correct_triplets))
     false_negatives = len(correct_triplets.difference(predicted_triplets))
 
     draw_confusion_matrix(true_positives, false_positives, false_negatives)
+    """precision, recall, f1_score = calculate_evaluation_metrics(true_positives, false_positives, false_negatives)
+
+    print(f"Precision: {precision:.2f}")
+    print(f"Recall: {recall:.2f}")
+    print(f"F1 Score: {f1_score:.2f}")"""
+    #TODO can work but need to postprocess the text
 
     return true_positives, false_positives, false_negatives
 
+
+def calculate_evaluation_metrics(true_positives, false_positives, false_negatives):
+    """
+    Calculates precision, recall, and F1 score from true positives, false positives, and false negatives.
+    """
+    precision = true_positives / (true_positives + false_positives)
+    recall = true_positives / (true_positives + false_negatives)
+    f1_score = 2 * (precision * recall) / (precision + recall)
+
+    return precision, recall, f1_score
 
 def draw_confusion_matrix(true_positives, false_positives, false_negatives):
     """

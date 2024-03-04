@@ -16,7 +16,6 @@ def summarize_text(text, max_length=10000):
 
 
 def get_wikipedia_text(topic):
-
     search_results = wikipedia.search(topic)
     if not search_results:
         return "No results found for the topic."
@@ -35,6 +34,7 @@ def get_wikipedia_text(topic):
         # Handle pages not found
         return "Page not found for the topic."
 
+
 def GPTResponse(testimony):
     prompt_template = """
     You will perform the open information extraction task. You will identify the named entities in the content and then extract the relations between them.
@@ -51,7 +51,9 @@ def GPTResponse(testimony):
     chat = ChatOpenAI(model_name="gpt-4", temperature=0)
     res = chat.predict(prompt)
     save_text_to_file(res, "extracted_text_from_GPT.txt", "tripletsTXTs")
-    kg.normalize_file("tripletsTXTs/extracted_text_from_GPT.txt", "normalizedTriplets/_normalizedextracted_text_from_GPT.txt")
+    kg.normalize_file("tripletsTXTs/extracted_text_from_GPT.txt",
+                      "normalizedTriplets/_normalizedextracted_text_from_GPT.txt")
+
 
 def modelsResponse(text):
     output_directory_not_norm = "tripletsTXTs"
@@ -101,6 +103,7 @@ def modelsResponse(text):
         # Save the response to a file
         save_text_to_file(response.choices[0].message.content, filename, output_directory_not_norm)
         kg.normalize_file(f"{output_directory_not_norm}/{filename}", f"{output_directory_norm}/_normalized{filename}")
+
 
 def save_text_to_file(text, filename, output_directory):
     """Saves the provided text to a file."""

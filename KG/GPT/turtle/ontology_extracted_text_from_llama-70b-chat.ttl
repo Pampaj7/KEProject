@@ -1,29 +1,23 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:Venus ns1:argued ns1:potentialforextraterrestriallife,
-        ns1:worthypursuit ;
-    ns1:candidate ns1:humanmissions ;
-    ns1:captured ns1:imagination ;
-    ns1:described ns1:extremeconditions ;
-    ns1:detected ns1:signsofphosphine ;
-    ns1:developed ns1:technologies ;
-    ns1:drawing ns1:scientists ;
-    ns1:explored ns1:Earthssisterplanet,
-        ns1:Magellanorbiter,
-        ns1:atmosphere,
-        ns1:rockyandmountainous,
-        ns1:rovers,
-        ns1:surface ;
-    ns1:fascinating ns1:futureexploration ;
-    ns1:highlighted ns1:potentialbenefits ;
-    ns1:holds ns1:curiosity ;
-    ns1:keeps ns1:fascination ;
-    ns1:mapped ns1:surface ;
-    ns1:mentioned ns1:challenges ;
-    ns1:noted ns1:geologicalhistory ;
-    ns1:observed ns1:phases ;
-    ns1:provides ns1:intriguingpossibilities ;
-    ns1:seen ns1:brightstar ;
-    ns1:studied ns1:retrograderotation,
-        ns1:valuableinsights .
+ns1:Artificialneuralnetworks ns1:aregenerallyseenas ns1:lowqualitymodelsforbrainfunction ;
+    ns1:inspiredby ns1:biologicalsystems .
+
+ns1:Bioinformatics ns1:havebeenappliedto ns1:drugdesign .
+
+ns1:Convolutionalneuralnetworks ns1:havebeenappliedto ns1:naturallanguageprocessing .
+
+ns1:Deeplearning ns1:isasubsetof ns1:machinelearning .
+
+ns1:Deepneuralnetworks ns1:havebeenappliedto ns1:computervision .
+
+ns1:HerearetheextractedtriplesformattedasnamedentityA ns1:relation ns1:namedentityBbasedontheprovidedtestimony .
+
+ns1:Materialinspection ns1:havebeenappliedto ns1:boardgameprograms .
+
+ns1:Medicalimageanalysis ns1:havebeenappliedto ns1:climatescience .
+
+ns1:Recurrentneuralnetworks ns1:havebeenappliedto ns1:speechrecognition .
+
+ns1:Transformers ns1:havebeenappliedto ns1:machinetranslation .
 

@@ -1,10 +1,5 @@
-Venus, explored, scientists
-Venus, extreme, conditions
-Venus, sister, planet
-Venus, similarities, Earth
-Venus, geological, history
-Venus, potential, life
-Venus, atmospheric, composition
-Venus, surface, temperatures
-Venus, exploration, space
-Venus, habitability, future
+Deeplearningorganization, isasubsetof, machinelearning
+Deeplearningmethod, isbasedon, artificialneuralnetworks
+Deeplearningmethod, hasproducedresultscomparabletoandinsomecasessurpassing, humanexpertperformance
+Artificialneuralnetworkswereinspiredby, informationprocessinganddistributedcommunicationnodesin, biologicalsystems
+Artificialneuralnetworksaregenerallyseenas, lowqualitymodelsfor, brainfunction

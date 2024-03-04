@@ -2,6 +2,7 @@ import tripletsExtractor as te
 import KG as kg
 import ontology_interrogation as oi
 import graph_stats as gs
+import confusion_matrix as cm
 
 filename = ["extracted_text_from_GPT.txt", "extracted_text_from_llama-13b-chat.txt",
             "extracted_text_from_llama-70b-chat.txt",
@@ -12,13 +13,14 @@ filename = ["extracted_text_from_GPT.txt", "extracted_text_from_llama-13b-chat.t
 topic = "deep learning"
 text_from_wikipedia = te.get_wikipedia_text(topic)
 te.modelsResponse(text_from_wikipedia)
-te.GPTResponse(topic)
+te.GPTResponse(text_from_wikipedia)
 
 # Create KG from triplets
 for file in filename:
     g = kg.KG_creation(file)
     gs.calculate_and_plot_metrics(g, file)
     #gs.plot_spectrum(g, file)
+    cm.calculate_matrix(file)
 
 #some basic interrogation
 oi.interrogate()
