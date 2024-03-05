@@ -28,14 +28,6 @@ def calculate_and_plot_metrics(G, title):
     plt.legend()
     plt.show()
 
-    # Diameter and Average Path Length (for connected components)
-    if nx.is_strongly_connected(G):
-        diameter = nx.diameter(G)
-        avg_path_length = nx.average_shortest_path_length(G)
-        print(f"[{title}] Diameter: {diameter}")
-        print(f"[{title}] Average Path Length: {avg_path_length:.4f}")
-    else:
-        print(f"[{title}] Graph is not fully connected; consider component-wise metrics.")
 
 
 def check_isomorphism(G1, G2):
@@ -104,7 +96,7 @@ def visualize_embeddings(embeddings, title):
     plt.show()
 
 
-"""
+
 def test():
     # Example usage:
     G1 = nx.gnp_random_graph(100, 0.1, seed=42)
@@ -134,4 +126,5 @@ def test():
 
     visualize_embeddings(embeddings_G1, "Graph 1")  # trash
     visualize_embeddings(embeddings_G2, "Graph 2")
-"""
+
+

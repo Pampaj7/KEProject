@@ -2,9 +2,130 @@
 
 ns1:Affordablesmartphones ns1:made ns1:greateraccesstotheInternet .
 
-ns1:ArtificialNeuralNetworks ns1:arebasedon ns1:BiologicalBrain .
+ns1:ArtificialNeuralNetworks ns1:arebasedon ns1:BiologicalBrain ;
+    ns1:areinspiredby ns1:BiologicalBrain .
 
 ns1:BlueMovie ns1:wasreleased ns1:UnitedStates .
+
+ns1:DavaSobel ns1:argues ns1:studyingVenus .
+
+ns1:Erotica ns1:is ns1:ageneraldistinctionofadultcontent .
+
+ns1:EugènePirousfilm ns1:isillegal ns1:BedtimefortheBride .
+
+ns1:GoldenAgeofPorn ns1:occurred ns1:UnitedStates .
+
+ns1:Homevideo ns1:ledto ns1:globalgrowthinthepornographybusiness .
+
+<http://example.org/myontology/Ihopethishelps!LetmeknowifyouhaveanyotherquestionsSure!HerearetheextractedtriplesformattedasnamedentityA> ns1:relation ns1:namedentityBbasedontheprovidedtext .
+
+ns1:MAVEN ns1:arrivedat ns1:Venus ;
+    ns1:providingvaluabledataon ns1:Venussatmosphere .
+
+ns1:Magellanspacecraft ns1:mapped ns1:Venussurface .
+
+ns1:MultipleLayers ns1:areusedin ns1:DeepLearning .
+
+ns1:NASA ns1:hassent ns1:severalmissionstoexploreVenus .
+
+ns1:Obscenitylaws ns1:have ns1:beenusedtosuppresseroticdepictions .
+
+<http://example.org/myontology/PleaseletmeknowiftheresanythingelseIcanhelpwith!Sure!IdbehappytohelpyouextracttriplesfromthetextyouprovidedHerearethetriplesformattedasnamedentityA> ns1:relation ns1:namedentityBbasedonthetext .
+
+ns1:Pornography ns1:has ns1:evolvedfromcavepaintings ;
+    ns1:is ns1:intendedforsexualarousal,
+        ns1:sexualsubjectmaterial .
+
+ns1:RepresentationLearning ns1:isamethodusedin ns1:DeepLearning .
+
+ns1:Scientists ns1:facedchallenges ns1:transmittingdatabacktoEarth .
+
+ns1:Surfacehasfeaturessuchasmountains ns1:valleys ns1:andoceansofmoltenlava .
+
+ns1:TheJapanesespaceprobeAkatsuki ns1:collecteddata ns1:onVenusatmosphereandsurfaceconditions .
+
+ns1:TheMagellanspacecraft ns1:mapped ns1:about%ofVenussurface .
+
+ns1:ThomasEdisonsfilm ns1:wasdenouncedasobscene ns1:BedtimefortheBride .
+
+ns1:Veneraspacecraftseries ns1:explored ns1:Venussurface .
+
+ns1:VenushasasimilaratmospheretoEarthEarthVenusatmosphereiscomposedmostlyofcarbondioxide ns1:withcloudsofsulfuricacid ns1:similartoEarthsatmosphere .
+
+ns1:Venushasmountains ns1:volcanoes ns1:andvastoceansoflavaEarththeMagellanspacecraftmappedVenussurfaceandfoundthatithasgeologicalfeaturessimilartoEarth .
+
+ns1:VenusisaprimetargetforexplorationEarthscientistsareinterestedinexploringVenustolearnmoreaboutitsgeology ns1:atmosphere ns1:andpotentialforsupportinglife .
+
+ns1:VenusnamedentityA ns1:hasrelation ns1:challengingconditionsnamedentityB,
+        ns1:extremeconditionsnamedentityB,
+        ns1:extremegreenhouseeffectnamedentityB,
+        ns1:uniquefeaturesnamedentityB ;
+    ns1:isrelation ns1:acompletelydifferentworldnamedentityB,
+        ns1:afascinatingworldnamedentityB,
+        ns1:anexcitingworldtoexplorenamedentityB,
+        ns1:theclosestplanettoEarthnamedentityB ;
+    ns1:trapsrelation ns1:heatinawaythatmakestemperaturesnamedentityB .
+
+ns1:WorldWideWeb ns1:ledto ns1:globalgrowthinthepornographybusiness .
+
+ns1:Bioinformatics ns1:isanapplicationof ns1:DeepLearning .
+
+ns1:ComputerVision ns1:isanapplicationof ns1:DeepLearning .
+
+ns1:DrugDesign ns1:isanapplicationof ns1:DeepLearning .
+
+ns1:FannyHill ns1:isprosecutedandbanned ns1:KamaSutra .
+
+ns1:KamaSutra ns1:iscelebrated ns1:FannyHill .
+
+ns1:MachineTranslation ns1:isanapplicationof ns1:DeepLearning .
+
+ns1:MedicalImageAnalysis ns1:isanapplicationof ns1:DeepLearning .
+
+ns1:NaturalLanguageProcessing ns1:isanapplicationof ns1:DeepLearning .
+
+ns1:Venus ns1:explored ns1:Earth,
+        ns1:throughorbitersandlanders ;
+    ns1:has ns1:evidenceofwater,
+        ns1:potentialforlife,
+        ns1:thickatmosphere,
+        ns1:thicklayeroflava,
+        ns1:uniquefeatures ;
+    ns1:hasadense ns1:toxicatmosphere ;
+    ns1:hasalottoteachusabout ns1:thesolarsystemandtheuniverse ;
+    ns1:hasapotentialforlife ns1:despiteitsextremeconditionsandinhospitableenvironment ;
+    ns1:hasascaldingsurfacetemperature ns1:reachinguptodegreesFahrenheit ;
+    ns1:hasathickatmosphere ns1:composedprimarilyofcarbondioxide,
+        ns1:thatmakesitextremelyhot,
+        ns1:thattrapsheat,
+        ns1:whichtrapsheatandcreatesagreenhouseeffect ;
+    ns1:hasauniquerotationperiod ns1:withtheplanetrotatingslowlyonitsaxis ;
+    ns1:hasextremeconditions ns1:Earth,
+        ns1:notuniquetoit ;
+    ns1:hasextremepressure ns1:overtimesgreaterthanEarths ;
+    ns1:hasextremesurfacetemperatures ns1:reachinguptodegreesFahrenheit ;
+    ns1:hasextremetemperatures ns1:reachinguptodegreesFahrenheitonthesurface ;
+    ns1:hasextremeweather ns1:includingmassivestorms ;
+    ns1:hasmysteriousrockymountains ns1:thatcovermostoftheplanetssurface ;
+    ns1:hastracesofphosphorusandmethane ns1:essentialelementsforlife ;
+    ns1:hasvolcanoes ns1:thatcreatenewlandformsandshapetheplanetsterrain ;
+    ns1:is ns1:closestplanettoEarth,
+        ns1:essentialforunderstandingtheuniverse,
+        ns1:fascinatingtargetforexploration,
+        ns1:mirrorimageofEarth,
+        ns1:nextfrontierforspaceexploration ;
+    ns1:isachallengingenvironment ns1:tostudy ;
+    ns1:isafascinatingplanet ns1:withmanymysteriestounravel ;
+    ns1:isexplored ns1:Earth ;
+    ns1:islocated ns1:inoursolarsystem ;
+    ns1:islocatedin ns1:theinnersolarsystem ;
+    ns1:issimilartoEarth ns1:insizeandcomposition ;
+    ns1:isthesecondplanetfromthesun ns1:Earthssisterplanet ;
+    ns1:knownas ns1:Earthssisterplanet ;
+    ns1:potentialforextraterrestriallife ns1:searchingforsignsoflife ;
+    ns1:studied ns1:byscientistsinrecentyears .
+
+ns1:studyingVenus ns1:canprovidevaluableinsights ns1:howplanetslikeEarthevolved .
 
 ns1:DeepLearning ns1:hasbeenappliedto ns1:Bioinformatics,
         ns1:BoardGamePrograms,
@@ -17,26 +138,4 @@ ns1:DeepLearning ns1:hasbeenappliedto ns1:Bioinformatics,
         ns1:NaturalLanguageProcessing,
         ns1:SpeechRecognition ;
     ns1:isasubsetof ns1:MachineLearning .
-
-ns1:Erotica ns1:is ns1:ageneraldistinctionofadultcontent .
-
-ns1:EugènePirousfilm ns1:isillegal ns1:BedtimefortheBride .
-
-ns1:GoldenAgeofPorn ns1:occurred ns1:UnitedStates .
-
-ns1:Homevideo ns1:ledto ns1:globalgrowthinthepornographybusiness .
-
-ns1:Obscenitylaws ns1:have ns1:beenusedtosuppresseroticdepictions .
-
-ns1:Pornography ns1:has ns1:evolvedfromcavepaintings ;
-    ns1:is ns1:intendedforsexualarousal,
-        ns1:sexualsubjectmaterial .
-
-ns1:ThomasEdisonsfilm ns1:wasdenouncedasobscene ns1:BedtimefortheBride .
-
-ns1:WorldWideWeb ns1:ledto ns1:globalgrowthinthepornographybusiness .
-
-ns1:FannyHill ns1:isprosecutedandbanned ns1:KamaSutra .
-
-ns1:KamaSutra ns1:iscelebrated ns1:FannyHill .
 

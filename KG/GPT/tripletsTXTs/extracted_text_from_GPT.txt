@@ -80,4 +80,64 @@
 <Artificial neural networks, have, various differences from biological brains>
 <Artificial neural networks, tend to be, static and symbolic>
 <The biological brain of most living organisms, is, dynamic (plastic) and analog>
+<ANNs, are generally seen as, low quality models for brain function><Deep learning, is the subset of, machine learning methods>
+<Deep learning, based on, artificial neural networks>
+<Artificial neural networks, with, representation learning>
+<The adjective "deep", refers to, the use of multiple layers in the network>
+<Deep-learning architectures, have been applied to, fields including computer vision>
+<Deep-learning architectures, have been applied to, speech recognition>
+<Deep-learning architectures, have been applied to, natural language processing>
+<Deep-learning architectures, have been applied to, machine translation>
+<Deep-learning architectures, have been applied to, bioinformatics>
+<Deep-learning architectures, have been applied to, drug design>
+<Deep-learning architectures, have been applied to, medical image analysis>
+<Deep-learning architectures, have been applied to, climate science>
+<Deep-learning architectures, have been applied to, material inspection>
+<Deep-learning architectures, have been applied to, board game programs>
+<Artificial neural networks, were inspired by, information processing>
+<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
+<Artificial neural networks, have, various differences from biological brains>
+<Artificial neural networks, tend to be, static and symbolic>
+<The biological brain of most living organisms, is, dynamic (plastic) and analog>
+<ANNs, are generally seen as, low quality models for brain function><Deep learning, is the subset of, machine learning methods>
+<Deep learning, based on, artificial neural networks>
+<Artificial neural networks, with, representation learning>
+<The adjective "deep", refers to, the use of multiple layers in the network>
+<Deep-learning architectures, have been applied to, fields including computer vision>
+<Deep-learning architectures, have been applied to, speech recognition>
+<Deep-learning architectures, have been applied to, natural language processing>
+<Deep-learning architectures, have been applied to, machine translation>
+<Deep-learning architectures, have been applied to, bioinformatics>
+<Deep-learning architectures, have been applied to, drug design>
+<Deep-learning architectures, have been applied to, medical image analysis>
+<Deep-learning architectures, have been applied to, climate science>
+<Deep-learning architectures, have been applied to, material inspection>
+<Deep-learning architectures, have been applied to, board game programs>
+<Artificial neural networks, were inspired by, information processing>
+<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
+<Artificial neural networks, have, various differences from biological brains>
+<Artificial neural networks, tend to be, static and symbolic>
+<The biological brain of most living organisms, is, dynamic (plastic) and analog>
+<ANNs, are generally seen as, low quality models for brain function><Deep learning, is the subset of, machine learning methods>
+<Deep learning, based on, artificial neural networks>
+<Artificial neural networks, with, representation learning>
+<The adjective "deep", refers to, the use of multiple layers in the network>
+<Methods, can be, supervised>
+<Methods, can be, semi-supervised>
+<Methods, can be, unsupervised>
+<Deep-learning architectures, have been applied to, fields including computer vision>
+<Deep-learning architectures, have been applied to, speech recognition>
+<Deep-learning architectures, have been applied to, natural language processing>
+<Deep-learning architectures, have been applied to, machine translation>
+<Deep-learning architectures, have been applied to, bioinformatics>
+<Deep-learning architectures, have been applied to, drug design>
+<Deep-learning architectures, have been applied to, medical image analysis>
+<Deep-learning architectures, have been applied to, climate science>
+<Deep-learning architectures, have been applied to, material inspection>
+<Deep-learning architectures, have been applied to, board game programs>
+<Artificial neural networks, were inspired by, information processing>
+<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
+<Artificial neural networks, have, various differences from biological brains>
+<Artificial neural networks, tend to be, static and symbolic>
+<The biological brain of most living organisms, is, dynamic (plastic) and analog>
 <ANNs, are generally seen as, low quality models for brain function>

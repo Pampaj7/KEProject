@@ -19,8 +19,14 @@ ns1:Artificialneuralnetworksaregenerallyseenas ns1:lowqualitymodelsfor ns1:brain
 
 ns1:Artificialneuralnetworkswereinspiredby ns1:informationprocessinganddistributedcommunicationnodesin ns1:biologicalsystems .
 
+ns1:DavaSobel ns1:supportstheideathatstudyingVenusisaworthypursuit ns1:despitethechallengesitpresents .
+
 ns1:Deeplearningmethod ns1:hasproducedresultscomparabletoandinsomecasessurpassing ns1:humanexpertperformance ;
     ns1:isbasedon ns1:artificialneuralnetworks .
+
+ns1:Despiteitsproximity ns1:Venusisanincrediblyhostileenvironment ns1:withsurfacetemperaturesthatcanreachuptodegreesCelsiusandpressuresimilartothatfoundatthebottomoftheocean .
+
+ns1:Despitetheinhospitableconditions ns1:scientistsarestilllearningmoreaboutVenus ns1:andtheplanetcontinuestocapturetheimaginationofthepublic .
 
 ns1:Erotica ns1:hasnotevolvedfrom ns1:cavepaintings ;
     ns1:isatypeof ns1:content,
@@ -38,7 +44,31 @@ ns1:Erotica ns1:hasnotevolvedfrom ns1:cavepaintings ;
     ns1:isnotdistinguishedfrom ns1:pornography ;
     ns1:isnotindicatedfortheconsumptionby ns1:adults .
 
+ns1:EvidenceofweatherpatternsonVenus ns1:suchasthunderstormsandwinds ns1:suggeststhatitmayhaveamoredynamicandvariedclimatethanpreviouslythought .
+
+ns1:ExploringVenusisanongoingendeavor ns1:andthereisstillmuchwedonotknowabouttheplanet ns1:butadvancesintechnologyandourunderstandingofplanetarysciencemayleadtoabetterunderstandingofthismysteriousplanetinthefutureVenusisaplanetinoursolarsystem .
+
+ns1:FromtheancientRomanswhobelieveditwasthegoddessoflove ns1:tothemoremoderndayscientistswhostudyitsatmosphereandgeology ns1:Venushascapturedourcuriosityandfascination .
+
 ns1:GoldenAgeofPorn ns1:followed ns1:BlueMovie .
+
+ns1:However ns1:despitethesesimilarities ns1:Venusisstillshroudedinmysteryandhasyettobefullyexplored .
+
+ns1:Inaddition ns1:theatmosphereonVenusexertsacrushingpressureofabouttimesgreaterthanthatonEarth ns1:makingitimpossibleforhumanstoexploretheplanetssurfacedirectly .
+
+ns1:Infact ns1:Venushasthelargestvolcanoinoursolarsystem ns1:ashieldvolcanocalledOlympusMons .
+
+ns1:Inrecentyears ns1:therehavebeenproposalstosendhumanstoVenus ns1:withthegoalofexploringtheplanetssurfaceandunderstandingitsformationandevolution .
+
+ns1:Inthes ns1:theSovietUnionsentthefirstspacecrafttoVenus ns1:calledVenera .
+
+ns1:Ithasasimilaratmosphere ns1:size ns1:andgravity .
+
+ns1:Later ns1:theMagellanorbiterinmappedabout%oftheplanetssurface ns1:providingevenmoredetailedinformationabouttheplanetstopography .
+
+ns1:NASAhasplanstolaunchanewspacecraft ns1:theDragonfly ns1:toexplorethesurfaceofVenusandsearchforsignsoflife .
+
+ns1:OftencomparedtoEarth ns1:Venusisarockyplanetwithathickatmosphere ns1:anditiscoveredinathicklayerofclouds .
 
 ns1:Pornography ns1:hasevolvedfrom ns1:cavepaintings ;
     ns1:isatypeof ns1:art,
@@ -57,6 +87,10 @@ ns1:Pornography ns1:hasevolvedfrom ns1:cavepaintings ;
 
 ns1:Pornographyisusedforfantasypurposessexeducationmaterial ns1:ismorelikelynottousecondoms ns1:STIs .
 
+ns1:ResearchershaveusedradarandotherremotesensingtechniquestomonitorVenusweatherpatterns ns1:clouds ns1:andtemperatures .
+
+ns1:Scientistsuseindirectmethods ns1:suchasstudyingtheplanetsmagneticfieldanditsradioactiveisotopes ns1:togaininsightsintoVenussgeology .
+
 ns1:Sexualsubjectmaterial ns1:hasevolvedfrom ns1:cavepaintings ;
     ns1:isatypeof ns1:art,
         ns1:content,
@@ -71,6 +105,54 @@ ns1:Sexualsubjectmaterial ns1:hasevolvedfrom ns1:cavepaintings ;
     ns1:isindicatedfortheconsumptionby ns1:adults ;
     ns1:isintendedfor ns1:sexualarousal .
 
+ns1:StudyingVenuswillprovideuswithvitalknowledgeabouttheoriginoflife ns1:geologicalprocesses ns1:andeventhefutureofourownplanet .
+
+ns1:TheMagellanspacecraft ns1:launchedin ns1:wasthefirsttoflyoverthesurfaceofVenusandtookhighresolutionimagesoftheplanetssurface .
+
+ns1:Theauthor ns1:DavaSobel ns1:arguesthatstudyingVenusisaworthypursuitdespitethechallengesitpresents .
+
+ns1:TheauthordiscussesthevariouswaysinwhichVenusisbeingstudied ns1:includingusingradiowavestomaptheplanetssurface ns1:andstudyingtheatmospherewithinstrumentsontheMagellanspacecraft .
+
+ns1:ThedatacollectedbytheMagellanshowedthatVenushasmountains ns1:volcanoes ns1:andvastoceansoflava .
+
+ns1:Theplanetrotatesonitsaxisintheoppositedirectionofmostplanets ns1:includingEarth ns1:resultinginadaythatlastsalmostEarthhours .
+
+ns1:Theplanetsextremetemperature ns1:atmosphericpressure ns1:andvolcanicactivitymakeitachallengingplacetoexplore .
+
+ns1:Theplanetsthickatmosphere ns1:composedprimarilyofcarbondioxide ns1:trapsheatandmakesthesurfacetemperaturesoartoarounddegreesFahrenheit .
+
+ns1:ThepresenceofwateronVenussuggeststhattheplanetmayhavehadliquidwaterinthepast ns1:oreventoday ns1:andthatlifemayhaveexistedontheplanetatsomepointinitshistory .
+
+ns1:ThepressureonVenusisaroundtimesgreaterthanthatonEarth ns1:andthetemperaturecanreachuptodegreeCelsius ns1:makingitextremelydifficultforanylifeformtosurvivethere .
+
+ns1:Theseclouds ns1:knownasstratosphericacidclouds ns1:canbehundredsofkilometersthickandarethoughttoberesponsiblefortrappingasignificantamountofheatwithintheatmosphere .
+
+ns1:Thethickatmosphere ns1:hightemperatures ns1:andlackofwatermakeVenusahostileenvironmentforhumanlife .
+
+ns1:Venushasathickatmosphere ns1:mostlycomposedofcarbondioxide ns1:withcloudsofsulfuricacid .
+
+ns1:Venushasmassivevolcanoes ns1:vastmountains ns1:andicypolarcaps .
+
+ns1:Venushasuniquefeaturessuchasvolcanoes ns1:deepcanyons ns1:andcraters .
+
+ns1:Venushasvolcanoes ns1:mountains ns1:andevenvastoceans .
+
+ns1:Venusisanattractiveobjectduetoitscloseproximitytothesun ns1:strikingbeauty ns1:andfascinatinghistory .
+
+ns1:Venusishometoseveralpotentialresources ns1:includingwaterandpreciousmetals ns1:thatcouldbevaluableforspaceexploration .
+
+ns1:Venusisknownforitsextremetemperatures ns1:thickclouds ns1:andhostileenvironment .
+
+ns1:Venusisstilloneofthemanyplanetsofoursolarsystem ns1:thereismuchwestilldonotknowaboutit ns1:andscientistsandspaceenthusiastsalikeareeagertoexploreandlearnmoreaboutit .
+
+ns1:Venusrotatesintheoppositedirectionofmostplanets ns1:includingEarth ns1:whichmakesitaretrograde .
+
+ns1:Venussrotationisunique ns1:spinningclockwiseretrograderotationincontrasttomostplanetsinoursolarsystem ns1:whichrotatecounterclockwisewhenviewedfromabove .
+
+ns1:Venussthickatmosphere ns1:whichtrapsheat ns1:leadstoarunawaygreenhouseeffect .
+
+ns1:Wehavediscoveredthatitiscoveredinvolcanoes ns1:mountains ns1:andvastplains .
+
 ns1:book ns1:prosecution ns1:FannyHill .
 
 ns1:film ns1:denunciation ns1:kiss .
@@ -81,7 +163,66 @@ ns1:pornographybusiness ns1:ledtoglobalgrowth ns1:homevideoandtheWorldWideWeb .
 
 ns1:pornographyconsumption ns1:isassociatedwith ns1:greatersupportforgenderequality .
 
+ns1:scientists ns1:havefacedchallengeswhilestudying ns1:Venus .
+
 ns1:sexeducationmaterial ns1:ismorelikelynottousecondoms ns1:STIs .
 
 ns1:stcentury ns1:began ns1:greateraccesstotheInternetandaffordablesmartphonesPornographyisaformofmedia .
+
+ns1:Venus ns1:canprovidevaluableinsightsintohowplanetslikeEarthevolved ns1:studiedVenus ;
+    ns1:has <http://example.org/myontology/NASA’sMagellanspacecraft>,
+        <http://example.org/myontology/NASA’sPerseverancerover>,
+        ns1:afastanddenseatmosphere,
+        ns1:ancientriverbeds,
+        ns1:arunawaygreenhouseeffect,
+        ns1:athickcloudsofsulfuricacid,
+        ns1:avarietyofmeasurements,
+        ns1:chemicalcompoundsintheatmosphere,
+        ns1:cloudsmadeofsulfuricacid,
+        ns1:computersimulationsandmodels,
+        ns1:continuedexploration,
+        ns1:detailedmathematicalmodels,
+        <http://example.org/myontology/evidenceofgeologicalactivityontheplanet’ssurface>,
+        ns1:evidenceoflife,
+        ns1:extremeatmosphere,
+        ns1:extremeweatherconditions,
+        ns1:geologicalactivity,
+        ns1:geologicalfeatures,
+        ns1:harshconditions,
+        ns1:mountains,
+        ns1:newchemicalcompounds,
+        ns1:nitricacid,
+        ns1:pastwatererosion,
+        ns1:potentialhabitability,
+        ns1:scientifictools,
+        ns1:scorchingsurface,
+        ns1:sevenyears,
+        ns1:signsofpastlife,
+        ns1:signsofpastsurfacewater,
+        <http://example.org/myontology/simulationsoftheplanet’satmosphereandclimate>,
+        ns1:spacecraft,
+        ns1:spacemissions,
+        ns1:spacemissionstoVenus,
+        ns1:sulfuricacid,
+        ns1:surfacetemperature,
+        ns1:surfacetemperatureofuptodegreesFahrenheit,
+        ns1:surfacetemperaturesthatcanreachuptodegreeCelsius,
+        ns1:theEuropeanSpaceAgency,
+        ns1:theVenusExpressspacecraft,
+        ns1:thepossibilityofunlockingourunderstandingofourownplanetanditsoriginsVenusisachallengingandfascinatingplacetoexplore,
+        ns1:thepotentialtosupportlife,
+        ns1:thickatmosphere,
+        ns1:volcanoes,
+        ns1:watererosion,
+        ns1:windsthatcanreachspeedsofmilesperhour ;
+    ns1:hasbeenexploredby ns1:Magellanspacecraft,
+        ns1:Veneraspacecraftseries ;
+    ns1:hasextremeconditions ns1:Earth ;
+    ns1:hasgeologicalhistory ns1:Earth ;
+    ns1:haspotentialbenefits ns1:studying ;
+    ns1:haspotentialforextraterrestriallife ns1:studiedVenus ;
+    ns1:is ns1:calledbothEarthlikeandascorchinghellhole,
+        ns1:thesecondplanetfromthesun ;
+    ns1:iscomposedof ns1:carbondioxide ;
+    ns1:thesecondplanetfromthesun ns1:isknownforbeingEarthsclosesttwinplanet .
 

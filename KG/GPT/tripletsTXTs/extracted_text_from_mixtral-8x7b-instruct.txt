@@ -119,4 +119,591 @@
 23. <Artificial neural networks, have differences from, Biological brains>
 24. <Artificial neural networks, tend to be, Static and symbolic>
 25. <Biological brain, of most living organisms, is dynamic (plastic) and analog>
-26. <Artificial neural networks, generally seen as, Low quality models for brain function>.
+26. <Artificial neural networks, generally seen as, Low quality models for brain function>.1. <Deep learning, subset of, Machine learning methods>
+2. <Deep learning, based on, Artificial neural networks (ANNs)>
+3. <Artificial neural networks, inspired by, Biological systems>
+4. <Deep learning, uses, Multiple layers in the network>
+5. <Methods used in deep learning, can be, Supervised>
+6. <Methods used in deep learning, can be, Semi-supervised>
+7. <Methods used in deep learning, can be, Unsupervised>
+8. <Deep learning architectures, include, Deep neural networks>
+9. <Deep learning architectures, include, Deep belief networks>
+10. <Deep learning architectures, include, Recurrent neural networks>
+11. <Deep learning architectures, include, Convolutional neural networks>
+12. <Deep learning architectures, include, Transformers>
+13. <Deep learning applications, include, Computer vision>
+14. <Deep learning applications, include, Speech recognition>
+15. <Deep learning applications, include, Natural language processing>
+16. <Deep learning applications, include, Machine translation>
+17. <Deep learning applications, include, Bioinformatics>
+18. <Deep learning applications, include, Drug design>
+19. <Deep learning applications, include, Medical image analysis>
+20. <Deep learning applications, include, Climate science>
+21. <Deep learning applications, include, Material inspection>
+22. <Deep learning applications, include, Board game programs>
+23. <Artificial neural networks, have differences from, Biological brains>
+24. <Artificial neural networks, tend to be, Static and symbolic>
+25. <Biological brain, of most living organisms, is dynamic (plastic) and analog>
+26. <Artificial neural networks, generally seen as, Low quality models for brain function>.1. <Venus, is one of the most famous planets, solar system>
+2. <Venus, has, extreme temperature>
+3. <Venus, has, atmospheric pressure>
+4. <Venus, has, volcanic activity>
+5. <scientists, are still interested in, studying Venus>
+6. <scientists, want to learn, geological past of Venus>
+7. <scientists, want to learn, potential for extraterrestrial life on Venus>
+8. <Dava Sobel, is the author of, "The Challenge of Exploring Venus">
+9. <Dava Sobel, argues that, studying Venus is a worthy pursuit>
+10. <author, evaluates, how well the idea that studying Venus is a worthy pursuit is supported>1. <Sobel, describes, planet's extreme conditions>
+2. <Sobel, describes, difficulties involved in exploring Venus>
+3. <Sobel, highlights, potential benefits of studying Venus>
+4. <Sobel, mentions, Magellan spacecraft>
+5. <Magellan spacecraft, mapped, nearly 100% of Venus's surface>
+6. <Sobel, mentions, Venera spacecraft series>
+7. <Venera spacecraft series, explored, surface of Venus>
+8. <Sobel, mentions, challenges scientists have faced>
+9. <Challenges, include, difficulty of transmitting data back to Earth>1. <Dava Sobel, argues, studying Venus>
+2. <Venus, has, extreme conditions>
+3. <Earth, evolved, similarly to Venus>
+4. <Venus, potential for, extraterrestrial life>
+5. <studying Venus, can help, search for signs of life>
+6. <Dava Sobel, supports, studying Venus>
+7. <Dava Sobel, mentions, successful missions to Venus>1. <Venus, is one of the most famous planets, solar system>
+2. <Venus, extreme temperature, >
+3. <Venus, atmospheric pressure, >
+4. <Venus, volcanic activity, >
+5. <scientists, interested in, studying Venus>
+6. <Venus, geological past, >
+7. <Venus, potential for, extraterrestrial life>
+8. <author, Dava Sobel, >
+9. <author, Dava Sobel, The Challenge of Exploring Venus>
+10. <The Challenge of Exploring Venus, describes, extreme conditions>
+11. <The Challenge of Exploring Venus, describes, difficulties>
+12. <The Challenge of Exploring Venus, highlights, potential benefits>
+13. <The Challenge of Exploring Venus, mentions, successful missions>
+14. <The Challenge of Exploring Venus, mentions, challenges>
+15. <Venus, not unique, extreme conditions>
+16. <Venus, potential for, extraterrestrial life>
+17. <studying Venus, provides, valuable insights>
+18. <Venus, Earth and other planets, geological history>
+19. <Venus, Earth, similarities>
+20. <Venus, second planet, sun>
+21. <scientists, yet to explore, Venus extensively>
+22. <Venus, remote sensing, insights>
+23. <prospect, exciting and risky, exploring Venus>
+24. <author, James Orr, >
+25. <article, The Challenge of Exploring Venus, author James Orr>
+26. <Venus, worthwhile pursuit, regardless of dangers>
+27. <Venus, hottest planets, solar system>
+28. <Venus, surface temperatures, up to 460 degrees Celsius>
+29. <Venus, atmospheric pressure, 92 times greater than Earth’s>
+30. <studying Venus, help, gain a better understanding>
+31. <Venus, mirror image, Earth’s own geological history>
+32. <Venus, past and present, offer insights>
+33. <Venus, Earth’s geological and climate systems, deeper understanding>
+34. <Venus, potential to support life>
+35. <Venus, oceans, past>
+36. <Venus, resources, needed to support future life>
+37. <studying Venus, provide clues, conditions needed for life>
+38. <knowledge, help, develop strategies to sustain life>
+39. <Venus, study, unlock new insights>
+40. <Venus, valuable lessons, future>
+41. <Venus, atmosphere, made up almost entirely of carbon dioxide>
+42. <Venus, clouds, sulfuric acid>
+43. <Venus, thick, toxic atmosphere>
+44. <Venus, runaway greenhouse effect, heat>
+45. <Venus, surface temperatures, 900 degrees Fahrenheit>
+46. <Venus, surface, covered in a thick layer>
+47. <Venus, liquid water, absence>
+48. <Venus, life, highly unlikely>
+49. <water, key ingredient, life>1. <Venus, is known as, Earth's sister planet>
+2. <Venus, has, a thick atmosphere composed primarily of carbon dioxide>
+3. <Venus, has, clouds made of sulfuric acid>
+4. <Venus, has, a rocky and mountainous surface>
+5. <Venus, has, volcanoes and craters>
+6. <Venus, has, extreme average surface temperatures reaching up to 460°C (860°F)>
+7. <Venus, was observed telescopically, in the 17th century>
+8. <Venus, goes through phases, similar to those of the Moon>
+9. <Venus, was studied by, the Mariner 10 mission in 1973>
+10. <Venus, was mapped by, the Magellan orbiter in 1990>
+11. <Venus, is a target for, future exploration>
+12. <Venus, has potential for, habitability>
+13. <Venus, has been explored for, decades>
+14. <Venus, has, a dense and suffocating atmosphere>
+15. <Venus, has surface temperatures that can reach up to 900 degrees Fahrenheit>
+16. <Venus, may have, liquid water beneath its thick crust>
+17. <Venus, has been explored by, NASA's Magellan spacecraft>
+18. <Venus, revealed, vast volcanic landscapes, deep craters, and evidence of past rivers and lakes by NASA's Magellan spacecraft>
+19. <Venus, may have had, a much more Earth-like climate in the past>
+20. <Venus, is set to be explored by, NASA's Dragonfly>
+21. <Venus, exploration, is set to take advantage of recent advances in technology>
+22. <Venus, exploration, is not without its challenges>
+23. <Venus, exploration, must consider the dense atmosphere and runaway greenhouse effect>
+24. <Venus, any spacecraft that hopes to explore it, must be designed with these challenges in mind>
+25. <Venus, any life that may exist there, would have to be adapted to survive in extreme conditions>
+26. <Venus, the future of its exploration, is set to continue>1. <Venus, is known for, bright and enchanting visibility>
+2. <Venus, is composed primarily of, carbon dioxide>
+3. <Venus, has a temperature of, 865 degrees Fahrenheit>
+4. <Venus, has water in, atmosphere>
+5. <Venus, has a retrograde rotation>
+6. <Venus, signs of geological activity include, volcanic eruptions and evidence of plate tectonics>
+7. <Venus, has a more Earth-like climate, in the past>
+8. <Venus, was observed by, Nicolaus Copernicus>
+9. <Venus, has a similar atmosphere, size, and gravity, to Earth>
+10. <Venus, has been explored by, Venera 1, Venera 2, and Magellan spacecraft>
+11. <Venus, has a thick atmosphere composed mostly of, carbon dioxide and sulfuric acid>
+12. <Venus, may have had liquid water in, the past>
+13. <Venus, is a target for exploration due to its, potential for supporting life>
+14. <Venus, has a surface temperature that can reach up to, 864 degrees Fahrenheit>
+15. <Venus, traps heat on its surface causing, a runaway greenhouse effect>
+16. <Venus, has been studied by, Venus Express>
+17. <Venus, proposed for exploration by, DAVINCI spacecraft>
+18. <Venus, has a thick atmosphere that is 95%, carbon dioxide>
+19. <Venus, has mountains, volcanoes, and vast oceans of lava, on its surface>
+20. <Venus, data collected by, Magellan spacecraft>
+21. <Venus, data collected by, Venus Express>
+22. <Venus, proposed mission by NASA, Venus Next>1. <Venus, is the second planet from, the Sun>
+2. <Venus, is often referred to as, Earth's sister planet>
+3. <Venus, has a thick and dense atmosphere, that traps heat>
+4. <Venus, has surface temperatures that can reach up to, 900 degrees Fahrenheit>
+5. <Venus, has been explored by spacecraft such as, Venera 2, Magellan, Venus Express, and Venus Reconnaissance Orbiter>
+6. <The exploration of Venus, is challenging due to, extreme heat, pressure, and radiation>
+7. <Venus, has a unique opportunity to study, extreme conditions not found on Earth>
+8. <Venus, has a dense atmosphere composed primarily of, carbon dioxide>
+9. <Venus, has clouds of, sulfuric acid>
+10. <Venus, has evidence of, water in the clouds>
+11. <Venus, has a very slow rotation period of, 243 Earth days>
+12. <Venus, will be explored by NASA's Perseverance rover to, search for signs of past life and collect samples>1. <Venus, is the second planet from, the sun>
+2. <Venus, is similar in size and composition to, Earth>
+3. <Venus, has extreme temperatures reaching up to, 900 degrees Fahrenheit>
+4. <Venus, has a thick layer of clouds of, sulfuric acid>
+5. <Venus, traps heat in a runaway greenhouse effect, making it nearly impossible to survive>
+6. <Venus, plays a crucial role in the formation of planets in the solar system, and scientists hope to learn more about the processes>
+7. <Venus, has a similar geological makeup to Earth, with mountains, valleys, and other features>
+8. <Venus, has the potential for life, and scientists are exploring the possibility>
+9. <Venus, is often called the Earth's ""sister planet"", due to its many similarities>
+10. <Venus, has a thick, toxic atmosphere composed primarily of, carbon dioxide and sulfuric acid>
+11. <Venus, has some of the largest and most active volcanoes in our solar system>
+12. <Venus, has mountains that are nearly twice as high as Earth's Mount Everest>
+13. <Venus, has mysterious rocky mountains that cover most of the planet's surface, believed to have formed through a process of volcanic activity and tectonic activity>
+14. <Understanding Venus, is essential to studying our own planet's climate and geology, and it may also help us learn about the potential for habitability on other planets in our solar system>1. <Venus, has captured the imagination of, humans>
+2. <Venus, is the planet closest to, the sun>
+3. <Venus, has a thick atmosphere that traps heat, the planet's surface>
+4. <The planet's surface, is extremely hot, Venus>
+5. <Venus, is so warm that it is hot enough to melt lead, >
+6. <Venus, is shrouded in a thick layer of clouds, >
+7. <The thick layer of clouds, make it difficult to see the surface below, Venus>
+8. <Venus' atmosphere, is almost entirely made up of, carbon dioxide>
+9. <Venus' atmosphere, has very little water vapor or other gases, >
+10. <Venus' atmosphere, has very little oxygen, >
+11. <Venus, has a unique rotation period, >
+12. <It takes Venus, roughly 243 Earth days, to rotate on its axis>
+13. <Venus' rotation period, causes the daylight, to last for several Earth weeks>
+14. <There is a chance that life may exist on Venus, >
+15. <Scientists have seen evidence of, volcanic activity, on Venus>
+16. <Volcanic activity, suggests that there may be heat sources within the planet's interior, >
+17. <Scientists have found, rocks on the planet's surface, that are covered in layers of salt>
+18. <Rocks covered in layers of salt, could indicate that there was once a large ocean on Venus, >
+19. <Exploring Venus, is a challenging task, given its extreme conditions>
+20. <The potential rewards, are enormous, from exploring Venus>
+21. <Discovering more about Venus' past and present, may help us better understand the conditions under which life can exist in the universe>
+22. <Venus, has been explored in many ways, >
+23. <Telescopic observations, have been an important tool for studying Venus>
+24. <Spacecraft missions, have helped scientists to better understand Venus' atmosphere, volcanic activity, and surface features>
+25. <Orbiters, have been instrumental in providing scientists with data about Venus' weather patterns, atmosphere, and surface features>
+26. <Astrobiology, is a new way to study Venus>
+27. <Venus, has conditions that may have been suitable for life in the past, for astrobiologists>
+28. <Underneath the thick clouds, there may be a habitable environment, on Venus>
+29. <Scientists are still trying to understand why Venus has such an extreme atmosphere, >
+30. <They are also trying to determine what causes the planet's volcanic activity and why it has experienced so many massive eruptions in the past, >
+31. <Venus, is known for its extreme temperatures and pressure, >
+32. <The first thing to note about Venus is its thick atmosphere, >
+33. <The thick atmosphere, creates a greenhouse effect, >
+34. <The greenhouse effect, causes the planet to heat up to an average of 900 degrees Fahrenheit, Venus>.1. <Earth, has atmosphere, thin atmosphere>
+2. <Earth's atmosphere, allows, heat dissipation>
+3. <Earth's atmosphere, keeps, temperatures relatively stable>
+4. <Venus, has, extreme temperatures>
+5. <Venus, has, thick layer of clouds>
+6. <Venus' clouds, made of, sulfuric acid>
+7. <Venus' clouds, block, sunlight>
+8. <Venus' clouds, absorb, some of the sun's harmful radiation>
+9. <Venus, has, geological activity>
+10. <Venus, has, mountains>
+11. <Venus, has, volcanoes>
+12. <Venus, had, more hospitable environment>
+13. <Venus, might have had, life>
+14. <Venus' atmosphere, composed of, carbon dioxide>
+15. <Venus' atmosphere, exerts, intense atmosphere pressure>
+16. <Venus' surface pressure, greater than, Earth's surface pressure>
+17. <Venus, studied by, space-based telescopes and probes>
+18. <Venus, similar to, Earth, in terms of size and composition>
+19. <Venus, larger than, Earth, by 10%>
+20. <Venus, has, water vapor, in its atmosphere>
+21. <Venus, rotates, in retrograde rotation>
+22. <Venus, has, water, in the past or present>
+23. <Venus, potential to teach, about life in the universe>
+24. <Venus Atmospheric Probe (VAP), study, Venus' atmosphere>
+25. <Venus Atmospheric Probe (VAP), launched, in 2070>
+26. <Venus Atmospheric Probe (VAP), use, balloon-powered lander>
+27. <Venus Atmospheric Probe (VAP), study, clouds and atmospheric conditions>
+28. <Venus Atmospheric Probe (VAP), potential to provide, information about life on Venus>1. <Venus, is the closest planet to, the Sun>, with an average distance of 225 million miles.
+2. <Venus, has surface temperatures that can reach, up to 900 degrees Fahrenheit>.
+3. <Venus, has a thick atmosphere that traps heat, resulting in a runaway greenhouse effect>.
+4. <NASA, has sent several missions to, Venus>, including the Magellan spacecraft and the Japanese space probe Akatsuki.
+5. <Venus, is the target of a proposed new mission called, the Venus Atmosphere and Magellan-Like Explorer (VAMLEX)>.
+6. <Venus, has a thick layer of clouds that reflect sunlight, making it the brightest planet in the sky>.
+7. <Venus, has an extremely harsh environment with surface temperatures that can reach up to 900 degrees Fahrenheit and pressures that are over 90 times greater than those on Earth>.
+8. <Scientists, are working to develop new technologies to explore Venus>, using Venus flybys and rovers.
+9. <Venus, has potential to sustain life>, with the discovery of organic molecules on Venus.
+10. <Studying Venus, provides vital knowledge about the origin of life, geological processes, and the future of our own planet>.
+11. <Studying Venus, is a crucial step towards deep space exploration beyond our solar system>.
+12. <The Magellan probe, successfully orbited Venus, providing scientists with a wealth of data about the planet's atmosphere>.1. <Venus, is the second planet in, solar system>
+2. <Venus, has a thick atmosphere, composed primarily of carbon dioxide>
+3. <Venus, has sulfuric acid clouds, in its atmosphere>
+4. <Venus, has pressure around, 100 times greater than Earth>
+5. <Venus, has temperature up to, 460-degree Celsius>
+6. <Venus, rotates on its axis, in the opposite direction of Earth>
+7. <Venus, has a day that lasts almost, 24 Earth hours>
+8. <Venus, has a runaway greenhouse effect, creating a thick blanket of clouds>
+9. <Venus, has vast, sweeping patterns of dark and light regions, Venetian continents>
+10. <Venus, has evidence of Venetian continents, formed through volcanic activity>
+11. <Venus, has geysers, suggesting underground water oceans>
+12. <Venus, has water vapor, released into the atmosphere from geysers>
+13. <Venus, is characterized by, unique geological features>
+14. <Venus, is a planet unlike any other, in our solar system>
+15. <Venus, has potential for, microbial life forms>
+16. <Venus, has a retrograde rotation, on its axis>
+17. <Venus, moves in a pattern known as regression, in its orbit>
+18. <Venus, has a volcanic landscape, with massive shield volcanoes>
+19. <Venus, was once covered in thick, flowing lava>
+20. <Venus, has a rich history, of cooling and solidifying>1. <Venus, has atmosphere, dense and toxic one>
+2. <Venus, has temperature, extremely high>
+3. <Venus, traps, heat from the sun>
+4. <Venus, has mission, NASA's Magellan spacecraft>
+5. <NASA's Magellan spacecraft, collects, data about Venus' topography>
+6. <Venus, has, mountains, vast plains, and a large volcano>
+7. <Venus, had, ancient climate>
+8. <Venus, evolved into, hostile planet>
+9. <Venus, is, hottest planet in our solar system>
+10. <Venus, has temperature, can melt lead>
+11. <Venus, has thick atmosphere, traps heat>
+12. <Venus, has greenhouse effect>
+13. <Venus, has evidence, of ancient oceans and rivers>
+14. <Venus, has, volcanic activity>
+15. <Venus, experiences, massive storms>
+16. <Venus, has, vast dry lakes, towering volcanoes, and deep canyons>
+17. <Exploring Venus, is, ongoing endeavor>
+18. <Studying Venus, has potential benefits, learning about Venus' geology and climate, discovering evidence of past life, and understanding the conditions that could lead to life on other planets>
+19. <Studying Venus, has practical applications, identifying potentially habitable environments in our own solar system, understanding our own planet's climate and potentially help us address the challenges of climate change>
+20. <Venus, is, second planet from the sun>
+21. <Venus, is, largest planet in our solar system>
+22. <Venus, is similar to, Earth in size and composition>
+23. <Venus, presents, challenges for human exploration>
+24. <Venus, has, thick atmosphere>
+25. <Venus, has, extreme temperatures and radiation>
+26. <Venus, has potential, for learning about Venus' geology and climate, discovering evidence of past life, and understanding the conditions that could lead to life on other planets>
+27. <Venus, has successful missions, such as the Magellan mission>
+28. <Magellan mission, mapped, 100% of Venus' surface>
+29. <Magellan mission, provided, valuable information about Venus' atmosphere and geology>
+30. <Studying Venus, could help, understand our own planet's climate and potentially help us address the challenges of climate change>.1. <Venus, is located, between the sun and earth>
+2. <Venus, has a thick atmosphere, of carbon dioxide>
+3. <Venus, has clouds made of, sulfuric acid>
+4. <Venus, has atmospheric pressure, 90 times that of Earth>
+5. <Venus, has an extreme greenhouse effect, with temperatures up to 460 degrees Celsius>
+6. <Venus, has surface features, such as impact craters, volcanoes, and mountains>
+7. <Venus, has evidence of water vapor, discovered by NASA's Venus Express spacecraft>
+8. <Venus, is a challenge for human exploration, due to thick atmosphere, high temperatures, and lack of water>
+9. <Venus, is a fascinating subject for study, due to its similarities to Earth and wealth of information about the solar system>
+10. <Venus, is the closest planet to Earth>
+11. <Venus, has a mirror image to Earth in many ways, but also has unique qualities>
+12. <Studying Venus, helps understand more about our own planet and its environment>
+13. <Studying Venus, is essential for space exploration>
+14. <Studying Venus, can help understand the possibility of life elsewhere in the universe>
+15. <Mars, has been a subject of fascination, but Venus has taken center stage for space exploration>
+16. <Venus, has an atmosphere that is around 95 times thicker than Earth's>
+17. <Venus, has surface temperatures that can reach up to 464 degrees Celsius>
+18. <Venus, has challenges for exploration due to the greenhouse effect and heat>1. <Venus, is known as, Earth's sister planet>
+2. <Venus, is the second planet from, the sun>
+3. <Venus, is the closest planet to, Earth>
+4. <Venus, has, thick clouds of sulfuric acid>
+5. <Exploring Venus, is a challenge due to, the thick atmosphere>
+6. <Exploring Venus, is important to, understand the Earth's place in the solar system>
+7. <Exploring Venus, can lead to, important scientific discoveries>
+8. <Venus, has unique conditions that can help understand, the origins of life on Earth>
+9. <Venus, has been studied using, radio waves, Magellan spacecraft, and spacecraft>
+10. <Venus, has geological features similar to, Earth>
+11. <Venus, can provide insights into, the formation and evolution of other planets>
+12. <Venus, can help understand, how planets can develop and maintain hostile environments>
+13. <Exploring Venus, can contribute to, new technologies and discoveries>
+14. <Venus, has an abundance of, heavy iron and metallic compounds>
+15. <The Discovery Orbiter mission, is a upcoming mission to, Venus>
+16. <The Discovery Orbiter mission, is set to launch in, 2026>
+17. <The Discovery Orbiter mission, will study, Venus' atmosphere, surface, and geological features>
+18. <The Discovery Orbiter mission, will be equipped with, a laser altimeter, a thermal infrared mapper, and an ultraviolet spectrometer>
+19. <The InSight mission, collected data and samples from, the Martian surface>
+20. <The InSight mission, was also designed to study, the deep interior of Venus>
+21. <The InSight mission, used, seismic waves to detect possible water underground>
+22. <The InSight mission, made important discoveries about, the planet's structure and composition>.1. <Venus, has a surface temperature of, up to 900 degrees Fahrenheit>
+2. <recent space exploration missions, uncovered, valuable information about Venus's atmosphere>
+3. <Venus, has, subsurface oceans with liquid water>
+4. <scientists, speculate, Venus may have once harbored life>
+5. <some researchers, believe, there may still be life on Venus today>
+6. <Venus's atmosphere, is composed of, primarily carbon dioxide>
+7. <sulfuric acid and nitric acid, are present in, significant amounts in Venus's atmosphere>
+8. <Venus, has signs of, geological activity>
+9. <scientists, have detected, signs of past water erosion on Venus's surface>
+10. <space exploration missions to Venus, are currently underway, for learning more about Venus>
+11. <scientists, believe, Venus still holds the potential for habitability>
+12. <Venus, has, extreme atmosphere>
+13. <Venus's surface temperatures can reach, up to 460-degree Celsius>
+14. <Venus's atmosphere, is full of, carbon dioxide>
+15. <clouds on Venus, are made of, sulfuric acid>
+16. <scientists, have found, evidence that Venus might have been home to liquid water and perhaps even life in the past>
+17. <Venus, has, ancient riverbeds>
+18. <European Space Agency, launched, the Venus Express spacecraft>
+19. <Venus Express, discovered, new chemical compounds in the atmosphere>
+20. <Venus Express, provided, evidence of geological activity on the planet’s surface>
+21. <scientists, use, detailed mathematical models to create simulations of Venus’ atmosphere and climate>
+22. <simulations, help, understand how Venus’ extreme conditions developed and how they impact the planet>1. <Emily Lander, presents, The Challenge of Exploring Venus>
+2. <Venus, provides, valuable information about our planet>
+3. <Studying Venus, gives, insights into Earth's climate, atmosphere, and geology>
+4. <Venus, is essential for, space exploration>
+5. <Understanding Venus's environment and atmosphere, helps, develop technologies for exploring other planets and moons>
+6. <Venus, is the closest planet to, Earth>
+7. <Studying Venus, has many practical applications>
+8. <Studying Venus's greenhouse effect, helps, better understand climate change>
+9. <Missions to Venus, necessary for, developing technology for deep space exploration>
+10. <Venus, has similar conditions to, the outer planets' harsh environments>
+11. <Studying Venus, provides, necessary knowledge to survive in outer space conditions>
+12. <Venus, is incredibly similar to, Earth>
+13. <Studying Venus, helps understand, the conditions necessary for life to develop on other planets>
+14. <Venus, similar in size and mass to, Earth>
+15. <Venus, composed of roughly the same gases as, Earth's atmosphere>
+16. <Venus, a valuable test subject for, studying the potential impacts of global warming>
+17. <Venus, home to several potential resources, including water and precious metals>
+18. <The study of Venus, a key step in, understanding the potential for life beyond Earth>
+19. <Exploring Venus, presents challenges including, intense heat, lethal radiation, and other hazards>
+20. <Temperatures on Venus, can reach up to, 480 degrees Celsius>
+21. <Venus's atmosphere, toxic and inhospitable to, humans>
+22. <New technologies and techniques, necessary for, exploring the planet from afar>
+23. <Studying Venus, unique challenges that scientists can learn from, the extreme pressures and temperatures on Venus's surface>
+24. <Studying Venus, helps better understand, the processes that have led to the formation of planets like our own>
+25. <Past missions to Venus, successful in, gathering valuable data>
+26. <Technologies developed for Venus missions, applicable to, other areas, such as space exploration>
+27. <Venus research, has potential impact on, human society>1. <James Peterson, supports, studying Venus>
+2. <Venus, has, similarities with Earth>
+3. <Venus, has, differences with Earth>
+4. <Venus, has, thick and toxic atmosphere>
+5. <Venus, has, extremely high surface temperatures>
+6. <Venus, rotates, in the opposite direction to Earth>
+7. <Venus, could help, learn more about early stages of planetary development>
+8. <Venus, could help, learn more about potential for life beyond Earth>
+9. <Venus, has, undergone significant changes in its atmosphere>
+10. <Venus, believed to have, liquid water in its past>
+11. <Venus, may still have, some underground reservoirs today>
+12. <Exploring Venus, needs, advanced cooling system>
+13. <Exploring Venus, needs, advanced life-support system>
+14. <Exploring Venus, needs, development of advanced propulsion systems>
+15. <Venus, has, the hottest surface temperature of any planet in our solar system>
+16. <Venus, has, very high levels of sulfuric acid in its atmosphere>
+17. <Venus, has, carbon dioxide as its primary atmospheric component>
+18. <Soviet Union, sent, the first space probe to Venus>
+19. <Magellan spacecraft, launched, in 1990>
+20. <Venus Express spacecraft, launched, in 2004>
+21. <Magellan spacecraft, still in, operation today>
+22. <Venus Express spacecraft, still busy, studying the planet's atmosphere>1. <Venus, has a thick and toxic atmosphere, Carbon Dioxide>, <Venus, has clouds of, Sulfuric Acid>, <Venus, traps heat and makes incredibly hot, Surface Temperatures>, <Venus, has surface temperatures up to, 900 degrees Fahrenheit>, <Venus, has a retrograde rotation, Orbit Around The Sun>, <Venus, has evidence of, Ancient Riverbeds and Lake Beds>, <Venus, has signs of, Potassium>, <Venus, has a highly toxic atmosphere composed primarily of, Carbon Dioxide>, <Venus, has temperatures reaching up to, 900 degrees Fahrenheit>, <Venus, has pressures 92 times greater than on, Earth>.
+
+2. <Scientists, study, Venus>, <Telescopes, provide information about, Venus' Atmosphere and Surface Features>, <Scientists, analyze, Light Reflected Off Features>, <Scientists, learn about, Venus' Composition and Weather Patterns>, <Scientists, propose, Microbial Life Forms Living in the Deep Underground>, <Scientists, suggest, Geysers or Other Forms of Volcanic Activity That Release Hydrogen and Methane>, <Scientists, explore, Venus>, <Scientists, search for, Signs of Life>.
+
+3. <Venus, is the second planet from, The Sun>, <Venus, is known as, Earth's Sister Planet>, <Venus, is often described as, The Earth's Twin>, <Venus, is the closest planet to, The Sun>, <Venus, has extreme conditions, Surface Temperatures and Atmosphere>, <Venus, has a retrograde rotation, Axis Rotation>, <Venus, has an extreme greenhouse effect, Atmosphere>, <Venus, has signs of, Liquid Water on its Surface in the Past>, <Venus, has evidence of, Volcanic and Mountainous Features>, <Venus, has evidence of, Ancient Rivers and Lakes>.
+
+4. <Space Probes, study, Venus>, <Telescopes, are used from, Earth>, <The Magellan Spacecraft, orbited, Venus>, <The Magellan Spacecraft, mapped, Over 100% of Venus' Surface>, <The Magellan Spacecraft, revealed, Vast Volcanic Regions and Massive Mountains>, <Future Missions to Venus, will likely focus on, Investigating its Surface Directly>, <Future Missions to Venus, will provide, More Detailed Information about the Planet's Geology and Climate>.1. <Venus, is a target for, future lunar missions>
+2. <Venus, is similar in size and composition to, Earth>
+3. <Studying Venus, provides valuable insights into, the evolution of Earth>
+4. <Venus, could help understand the potential for life on, other planets in the solar system>
+5. <Venus, is rich in, minerals and resources>
+6. <Venus, has extremely high temperatures, with surface temperatures reaching up to 900 degrees Fahrenheit>
+7. <Exploring Venus, is difficult for, humans and machines>
+8. <Venus, challenges should motivate us to develop, new technologies and techniques>
+9. <Venus, has the potential for contamination from, Earth-based microbes>
+10. <Venus, has the potential to release volatile compounds that could harm, the spacecraft>
+11. <Venus, has a thick, toxic atmosphere filled with, carbon dioxide and sulfuric acid>
+12. <There may be a layer of liquid sulfur just beneath the surface of, Venus' clouds>
+13. <Venus, has unique and fascinating, geological features>
+14. <Venus, is the closest planet to Earth in terms of mass, size, and composition, making it the best option to study Earth's geology>
+15. <Venus, has the strongest greenhouse effect in the solar system, which can help us understand our own planet's climate>1. <NASA's Magellan Mars orbiter, provided, scientists>
+2. <Venus, has, similarities with Earth>
+3. <Venus, allows, study of extreme conditions>
+4. <Venus, has, a retrograde rotation>
+5. <Venus Express spacecraft, used, to study Venus' atmosphere>
+6. <Venus, potential target, for future space exploration>
+7. <Venus' atmosphere, composed, mostly of carbon dioxide>
+8. <Venus, has, a greenhouse effect>
+9. <Venus, surface temperature, around 460 degrees Celsius>
+10. <Venus, covered, in solid rock>
+11. <Venus, has, enormous volcanoes>
+12. <Venus, potential for, microbial life>
+13. <Venus, home to, dazzling lightning storms>
+14. <Venus, a true enigma, for scientists>1. <Venus, is the second planet from, the sun>
+2. <Venus, has, a thick, toxic atmosphere>
+3. <Venus, is the hottest planet in, our solar system>
+4. <scientists, have been exploring, Venus>
+5. <the Magellan spacecraft, was the first to fly over, the surface of Venus>
+6. <Venus" atmosphere, is composed mainly of, carbon dioxide>
+7. <Venus' atmosphere, is 130 times denser than, Earth's>
+8. <Venus' surface, is home to some of the hottest temperatures, on the planet>
+9. <Venus' atmosphere, traps heat in a runaway greenhouse effect, similar to what happens on Earth>
+10. <scientists, are still learning more about, Venus>
+11. <Venus, was the second planet to be discovered and named by, the ancient Romans>
+12. <Venus, has a dense atmosphere, mostly composed of carbon dioxide>
+13. <Venus' atmosphere, puts immense pressure on, the surface of the planet>
+14. <Venus, rotates in the opposite direction of, most planets>
+15. <Venus, has a retrograde orbit around, the sun>
+16. <recent advancements in technology, have allowed us to use radar to map, the surface of Venus>
+17. <Venus' surface, is covered in volcanoes, mountains, and vast plains>
+18. <Venus, has the largest volcano in our solar system, Olympus Mons>
+19. <Venus' atmosphere, is fiery with surface temperatures over, 460 degrees Celsius>
+20. <Venus, may have once had water on its surface, but it was lost to the extreme temperatures and greenhouse effects>
+21. <Venus, has similarities with Earth that make it a potential candidate for, extraterrestrial life>
+22. <Venus, has the presence of water in the form of, liquid lava flows, lakes and underground reservoirs>
+23. <scientists, have detected traces of phosphorus and methane, on Venus>
+24. <phosphorus and methane, are essential elements for, life>1. <Venus, is located, Sun>, 2. <Venus, is similar in size and mass to, Earth>, 3. <Venus, has a hostile environment with, high temperatures>, 4. <Venus, has a thick atmosphere due to, sulfuric acid clouds>, 5. <Venus, has retrograde rotation due to, tidal forces with its moon>, 6. <Magellan mission, provided, detailed maps of Venus' surface>.1. <MAVEN mission, arrived at, Venus>
+2. <MAVEN mission, provided, valuable data on Venus' atmosphere>
+3. <Venus, has, similarities with Earth>
+4. <Venus, has, key differences with Earth>
+5. <Venus, thought to have, a more Earth-like climate in the past>
+6. <Venus, has, extreme temperature>
+7. <Venus, has, thick atmosphere>
+8. <Venus, takes, almost 244 Earth days to complete one rotation>
+9. <Venus, has, unique rotation period>
+10. <Venus, has, toxic atmosphere filled with sulfuric acid and other harmful chemicals>
+11. <Venus, has, a magnetic field but it is much weaker than Earth's>
+12. <Venus, has, surface temperature up to 900 degrees Fahrenheit>
+13. <Venus, has, atmospheric pressure more than 90 times that of Earth>
+14. <Venus, has, thick clouds of sulfuric acid and carbon dioxide>
+15. <Venus, has, potential to support life>
+16. <Venus Express spacecraft, launched in, 2005>
+17. <Venus Express spacecraft, began operating in, 2006>
+18. <Magellan orbiter, launched in, 1997>
+19. <Magellan orbiter, continues to operate today>
+20. <Soviet mission in 1972, failed>
+21. <European Space Agency's Venus Express spacecraft in 2008, attempted to land on Venus>1. <Venus, has atmosphere, dense atmosphere>
+2. <Dense atmosphere, composed mainly of, carbon dioxide>
+3. <Atmospheric pressure, on Venus, 90 times greater than that of Earth>
+4. <Dense atmosphere, provides opportunity for, studying climatic conditions>
+5. <Radar and other remote sensing techniques, used by, researchers to monitor weather patterns, clouds, and temperatures>
+6. <Sulfuric acid clouds, present in, Venus's atmosphere>
+7. <Sulfuric acid clouds, created by, reaction of sulfuric acid with water vapor>
+8. <Lava flows, distinctive feature of, Venus's geology>
+9. <Lava flows, formed by, molten rock spilling out of volcanoes>
+10. <Massive volcanic eruptions, theory suggests, cause of lava flows>
+11. <Extreme pressure and temperature, theory suggests, cause of lava flows>
+12. <Venus, possibility of supporting life in the past>
+13. <Day and night cycle, shared feature of, Venus and Earth>
+14. <Surface temperature, can reach up to 900 degrees Fahrenheit on Venus>
+15. <Phosphine, discovered on, Venus>
+16. <Phosphine, associated with, biological processes on Earth>
+17. <Phosphine, can also be explained by, non-biological phenomena>
+18. <Extreme greenhouse effect, feature of, Venus>
+19. <Toxic atmosphere, traps heat and makes temperatures on Venus extremely high>
+20. <Venus, has some of the strongest winds in the solar system>
+21. <Winds on Venus, can reach speeds of up to 240 miles per hour>
+22. <Robotic missions, few have been sent to Venus>
+23. <Robotic missions, none have been successful on Venus>
+24. <Scientists, eager to explore Venus and learn more about it>
+25. <Venus, may have once been covered in oceans>
+26. <Unique forms of life, may exist on Venus>
+27. <New, advanced spacecraft, being developed to withstand Venus's extreme conditions>
+28. <Laser altimetry and radar, new methods being used to study Venus from orbit>
+29. <Exploring Venus, will push the boundaries of what is possible and open up new opportunities for scientific discovery>.1. <Exploring Venus, relation, Technology Advancement>
+2. <Technology Advancement, allows, Greater Detail Exploration of Venus>
+3. <Venus, is, The Second Planet from The Sun>
+4. <Venus, can be seen with, Naked Eye>
+5. <Scientists, do not know much about, Venus>
+6. <Venus, has, Thick Atmosphere>
+7. <Atmosphere of Venus, is composed mostly of, Carbon Dioxide>
+8. <Atmospheric pressure of Venus, is approximately, 92 times greater than Earth's>
+9. <Temperature of Venus, can reach up to, 460 degrees Celsius>
+10. <Humans or any other life forms, cannot exist, On Venus's Surface>
+11. <Scientists, have studied, Venus's Atmosphere from Space>
+12. <Magellan Spacecraft, was launched in, 1990>
+13. <Magellan Spacecraft, used, Radar>
+14. <Radar, determined, Topography of Venus>
+15. <Scientists, have learned, More about Venus's Geology>
+16. <Venus, has, Volcanoes, Mountains, and Vast Oceans>
+17. <Magellan Spacecraft, discovered, Evidence of Ancient River Channels>
+18. <Ancient River Channels, suggest, Venus May Have Had Liquid Water in The Past>
+19. <Japanese Space Probe, Akatsuki, was launched in, 2012>
+20. <Akatsuki, studies, Venus's Atmosphere in Greater Detail>
+21. <Venus, is, The Second Planet in The Solar System>
+22. <Venus, has been a subject of, Fascination for Scientists and Space Enthusiasts>
+23. <Venus, is closer to Earth, Than Any of The Other Planets in The Solar System>
+24. <Venus, is famous for, Its Extreme Weather and High Temperatures>
+25. <NASA's Mariner 5, discovered, Clouds that Shrouded Oceans and Lakes of Liquid Water on Venus>
+26. <Magellan Spacecraft, provided, Further Evidence of Liquid Water on Venus's Surface>
+27. <Venus, has, An Atmosphere Composed Mostly of Carbon Dioxide>
+28. <Average Surface Temperature on Venus, is over, 400 degrees Celsius>
+29. <Pressure on Venus, is over, 90 times greater than that on Earth>
+30. <Recent Discoveries, suggest, Volcanic Activity on Venus>
+31. <Evidence of Weather Patterns on Venus, suggests, A More Dynamic and Varied Climate>
+32. <Scientists, search for, Trace Gases in Venus's Atmosphere>
+33. <Trace Gases, could be produced by, Living Organisms>
+34. <Venus, is the, Second Planet from The Sun>
+35. <Venus, is also known as, Earth's ""Sister Planet""">
+36. <Venus, has, A Thick, Dense Atmosphere>
+37. <Atmosphere of Venus, traps, Heat in a Runaway Greenhouse Effect>
+38. <Venus, has a, Surface Temperature of about, 860 degrees Fahrenheit>
+39. <Venus, is covered in, Thick Layers of Volcanic Rock and Acidic Clouds>
+40. <NASA's Magellan Spacecraft, orbited, Venus>
+41. <Venus Express Mission, was sent to, Orbit Venus>
+42. <Venus Express Mission, studied, Venus's Atmosphere and Clouds>1. <Deep learning, subset of, Machine learning methods>
+2. <Deep learning, based on, Artificial neural networks (ANNs)>
+3. <Artificial neural networks, inspired by, Biological systems>
+4. <Deep learning, uses, Multiple layers in the network>
+5. <Methods used in deep learning, can be, Supervised>
+6. <Methods used in deep learning, can be, Semi-supervised>
+7. <Methods used in deep learning, can be, Unsupervised>
+8. <Deep learning architectures, include, Deep neural networks>
+9. <Deep learning architectures, include, Deep belief networks>
+10. <Deep learning architectures, include, Recurrent neural networks>
+11. <Deep learning architectures, include, Convolutional neural networks>
+12. <Deep learning architectures, include, Transformers>
+13. <Deep learning applications, include, Computer vision>
+14. <Deep learning applications, include, Speech recognition>
+15. <Deep learning applications, include, Natural language processing>
+16. <Deep learning applications, include, Machine translation>
+17. <Deep learning applications, include, Bioinformatics>
+18. <Deep learning applications, include, Drug design>
+19. <Deep learning applications, include, Medical image analysis>
+20. <Deep learning applications, include, Climate science>
+21. <Deep learning applications, include, Material inspection>
+22. <Deep learning applications, include, Board game programs>
+23. <Artificial neural networks, have differences from, Biological brains>
+24. <Artificial neural networks, tend to be, Static and symbolic>
+25. <Biological brain, of most living organisms, is dynamic (plastic) and analog>
+26. <Artificial neural networks, generally seen as, Low quality models for brain function>.1. <Deep learning, subset of, Machine learning>
+2. <Deep learning, based on, Artificial neural networks (ANNs)>
+3. <Artificial neural networks (ANNs), inspired by, Biological systems>
+4. <Deep learning methods, include, Supervised methods>
+5. <Deep learning methods, include, Semi-supervised methods>
+6. <Deep learning methods, include, Unsupervised methods>
+7. <Deep learning architectures, include, Deep neural networks>
+8. <Deep learning architectures, include, Deep belief networks>
+9. <Deep learning architectures, include, Recurrent neural networks>
+10. <Deep learning architectures, include, Convolutional neural networks>
+11. <Deep learning architectures, include, Transformers>
+12. <Deep learning applications, include, Computer vision>
+13. <Deep learning applications, include, Speech recognition>
+14. <Deep learning applications, include, Natural language processing>
+15. <Deep learning applications, include, Machine translation>
+16. <Deep learning applications, include, Bioinformatics>
+17. <Deep learning applications, include, Drug design>
+18. <Deep learning applications, include, Medical image analysis>
+19. <Deep learning applications, include, Climate science>
+20. <Deep learning applications, include, Material inspection>
+21. <Deep learning applications, include, Board game programs>
+22. <Artificial neural networks, differences from, Biological brains>
+23. <Artificial neural networks, tend to be, Static>
+24. <Artificial neural networks, tend to be, Symbolic>
+25. <Biological brain, tend to be, Dynamic (plastic)>
+26. <Biological brain, tend to be, Analog>
+27. <Artificial neural networks, generally seen as, Low quality models for brain function>.
