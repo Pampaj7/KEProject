@@ -1,4 +1,104 @@
-1. Deep learning <organization, is a subset of, machine learning>
+1. <sex education material, is more likely not to use condoms, STIs>
+2. <pornographic studios, undergo regular testing for STIs, general public>
+3. <pornography consumption, is associated with, greater support for gender equality>
+4. <feminist groups, seek to abolish pornography, believing it to be harmful>1. Pornography, is a type of, sexual subject material
+2. Pornography, is intended for, sexual arousal
+3. Pornography, is indicated for the consumption by, adults
+4. Pornography, has evolved from, cave paintings
+5. Pornography, is classified as, adult content
+6. Pornography, is distinguished from, erotica
+7. Erotica, is a type of, sexual subject material
+8. Erotica, is intended for, sexual arousal
+9. Erotica, is not indicated for the consumption by, adults
+10. Erotica, has not evolved from, cave paintings
+11. Erotica, is not classified as, adult content
+12. Erotica, is not distinguished from, pornography
+13. Sexual subject material, is a type of, content
+14. Sexual subject material, is intended for, sexual arousal
+15. Sexual subject material, is indicated for the consumption by, adults
+16. Sexual subject material, has evolved from, cave paintings
+17. Sexual subject material, is classified as, adult content
+18. Sexual subject material, is distinguished from, erotica
+19. Adult content, is a type of, sexual subject material
+20. Adult content, is intended for, sexual arousal
+21. Adult content, is indicated for the consumption by, adults
+22. Adult content, has evolved from, cave paintings
+23. Adult content, is classified as, adult content
+24. Adult content, is distinguished from, erotica
+25. Pornography, has been, suppressed under, obscenity laws
+26. Erotica, has not been, suppressed under, obscenity laws
+27. Sexual subject material, has been, suppressed under, obscenity laws
+28. Adult content, has been, suppressed under, obscenity laws
+29. Pornography, is dated to be at least, 35,000 years old
+30. Erotica, is not dated to be at least, 35,000 years old
+31. Sexual subject material, is dated to be at least, 35,000 years old
+32. Adult content, is dated to be at least, 35,000 years old
+33. Pornography, is discovered in, Germany
+34. Erotica, is not discovered in, Germany
+35. Sexual subject material, is discovered in, Germany
+36. Adult content, is discovered in, Germany
+37. Pornography, is a type of, content
+38. Erotica, is a type of, content
+39. Sexual subject material, is a type of, content
+40. Adult content, is a type of, content
+41. Pornography, is a type of, media
+42. Erotica, is a type of, media
+43. Sexual subject material, is a type of, media
+44. Adult content, is a type of, media
+45. Pornography, is a type of, entertainment
+46. Erotica, is a type of, entertainment
+47. Sexual subject material, is a type of, entertainment
+48. Adult content, is a type of, entertainment
+49. Pornography, is a type of, industry
+50. Erotica, is not a type of, industry
+51. Sexual subject material, is a type of, industry
+52. Adult content, is a type of, industry
+53. Pornography, is a type of, product
+54. Erotica, is not a type of, product
+55. Sexual subject material, is a type of, product
+56. Adult content, is a type of, product
+57. Pornography, is a type of, art
+58. Erotica, is not a type of, art
+59. Sexual subject material, is a type of, art
+60. Adult content, is not a type of, art
+61. Pornography, is a type of, business
+62. Erotica, is not a type of, business
+63. Sexual subject material, is a type of1. <book, celebration, Kama Sutra>
+2. <book, prosecution, Fanny Hill>
+3. <film, denunciation, kiss>
+4. <film, obscenity, Bedtime for the Bride>1. <"Blue Movie", received a wide theatrical release, United States>
+2. <"Golden Age of Porn", followed, Blue Movie>
+3. <"pornography business", led to global growth, home video and the World Wide Web>
+4. <"21st century", began, greater access to the Internet and affordable smartphones>1. Pornography - is a form of media
+2. Pornography - is a widespread recreational activity
+3. Pornography - is used for mood management
+4. Pornography - is used as part of a relationship
+5. Pornography - is equated with journalism
+6. Pornography - provides a safe outlet for sexual desires
+7. Pornography - is a facilitator of sexual release
+8. Pornography - is a view into the unknown or hidden aspects
+9. Pornography - is a digitally mediated activity
+10. Pornography - is used for habitual purposes
+11. Pornography - is used for fantasy purposes.1. <sex education material, is more likely not to use condoms, STIs>
+2. <pornographic studios, undergo regular testing for STIs, general public>
+3. <pornography consumption, is associated with, greater support for gender equality>
+4. <feminist groups, seek to abolish pornography, believing it to be harmful>1. Deep learning <organization, is a subset of, machine learning>
+2. Deep learning <method, is based on, artificial neural networks>
+3. Deep learning <method, can be, supervised, semi-supervised or unsupervised>
+4. Deep learning <architecture, includes, deep neural networks, deep belief networks, recurrent neural networks, convolutional neural networks and transformers>
+5. Deep learning <method, has been applied to, fields including, computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, climate science, material inspection and board game programs>
+6. Deep learning <method, has produced results comparable to and in some cases surpassing, human expert performance>
+7. Artificial neural networks <were inspired by, information processing and distributed communication nodes in, biological systems>
+8. Artificial neural networks <tend to be, static and symbolic, while the biological brain of most living organisms is, dynamic (plastic) and analog>
+9. Artificial neural networks <are generally seen as, low quality models for, brain function>1. Deep learning <organization, is a subset of, machine learning>
+2. Deep learning <method, is based on, artificial neural networks>
+3. Deep learning <method, can be, supervised, semi-supervised or unsupervised>
+4. Deep learning <architecture, includes, deep neural networks, deep belief networks, recurrent neural networks, convolutional neural networks and transformers>
+5. Deep learning <method, has been applied to, fields including, computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, climate science, material inspection and board game programs>
+6. Deep learning <method, has produced results comparable to and in some cases surpassing, human expert performance>
+7. Artificial neural networks <were inspired by, information processing and distributed communication nodes in, biological systems>
+8. Artificial neural networks <tend to be, static and symbolic, while the biological brain of most living organisms is, dynamic (plastic) and analog>
+9. Artificial neural networks <are generally seen as, low quality models for, brain function>1. Deep learning <organization, is a subset of, machine learning>
 2. Deep learning <method, is based on, artificial neural networks>
 3. Deep learning <method, can be, supervised, semi-supervised or unsupervised>
 4. Deep learning <architecture, includes, deep neural networks, deep belief networks, recurrent neural networks, convolutional neural networks and transformers>

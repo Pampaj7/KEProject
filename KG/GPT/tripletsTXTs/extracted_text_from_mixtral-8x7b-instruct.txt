@@ -1,4 +1,100 @@
-1. <Deep learning, subset of, Machine learning methods>
+1. <sex education material, identified as, more likely not to use condoms>
+2. <sex education material, assumes, higher risk of contracting STIs>
+3. <performers working for pornographic studios, undergo, regular testing for STIs>
+4. <much of the general public, undergo, not regular testing for STIs>
+5. <higher tolerance and consumption of pornography, tends to be associated with, greater support for gender equality>
+6. <some feminist groups, seek to abolish, pornography>
+7. <some feminist groups, believe, pornography to be harmful>1. <Pornography, defined as, Sexual subject material>
+2. <Sexual subject material, intended for, Sexual arousal>
+3. <Pornography, indicated for, Adults>
+4. <Pornography, evolved from, Cave paintings>
+5. <Cave paintings, dated to, Forty millennia ago>
+6. <Adult content, distinguished as, Pornography or Erotica>
+7. <Artifacts, considered pornographic, Discovered in Germany>
+8. <Artifacts, dated to, Thirty-five thousand years old>
+9. <People, made attempts, To suppress erotic depictions>
+10. <Erotic depictions, suppressed under, Obscenity laws>1. <Kama Sutra, contained, sexual behavior>
+2. <Kama Sutra, celebrated, in the 3rd century CE>
+3. <Fanny Hill, considered, first original English prose pornography>
+4. <Fanny Hill, one of the most prosecuted and banned books, in the British English text>
+5. <a film by Thomas Edison, denounced as obscene, in the United States>
+6. <the film, depicted, a kiss>
+7. <Eugène Pirou's 1896 film, titled, Bedtime for the Bride>1. <Testimony, received, favorably in France>
+2. <Societal attitudes towards sexuality, became, more lenient in the Western world>
+3. <Legal definitions of obscenity, were made, limited>
+4. <Blue Movie, depict, unsimulated sex>
+5. <Blue Movie, received, wide theatrical release in the United States>
+6. <Blue Movie, followed, Golden Age of Porn>
+7. <Golden Age of Porn, started, 1969>
+8. <Golden Age of Porn, ended, 1984>
+9. <Home video, led to, global growth in the pornography business>
+10. <World Wide Web, led to, global growth in the pornography business>
+11. <Greater access to the Internet, began, 21st century>
+12. <Affordable smartphones, made, greater access to the Internet>1. <Pornography, considered, widespread recreational activity>
+2. <Pornography, equated with, journalism>
+3. <Pornography, offers, a view into the unknown or the hidden aspects>
+4. <Pornography, provision, a safe outlet for sexual desires>
+5. <Pornography, facilitates, sexual release>
+6. <Motivations, include, fantasy>
+7. <Motivations, include, habitual use>
+8. <Motivations, include, mood management>
+9. <Motivations, include, part of a relationship>1. <sex education material, identified as, more likely not to use condoms>
+2. <sex education material, assumes, higher risk of contracting STIs>
+3. <performers working for pornographic studios, undergo, regular testing for STIs>
+4. <much of the general public, undergo, not regular testing for STIs>
+5. <higher tolerance and consumption of pornography, tends to be associated with, greater support for gender equality>
+6. <some feminist groups, seek to abolish, pornography>
+7. <some feminist groups, believe, pornography to be harmful>1. <Deep learning, subset of, Machine learning methods>
+2. <Deep learning, based on, Artificial neural networks (ANNs)>
+3. <Artificial neural networks, inspired by, Biological systems>
+4. <Deep learning, uses, Multiple layers in the network>
+5. <Methods used in deep learning, can be, Supervised>
+6. <Methods used in deep learning, can be, Semi-supervised>
+7. <Methods used in deep learning, can be, Unsupervised>
+8. <Deep learning architectures, include, Deep neural networks>
+9. <Deep learning architectures, include, Deep belief networks>
+10. <Deep learning architectures, include, Recurrent neural networks>
+11. <Deep learning architectures, include, Convolutional neural networks>
+12. <Deep learning architectures, include, Transformers>
+13. <Deep learning applications, include, Computer vision>
+14. <Deep learning applications, include, Speech recognition>
+15. <Deep learning applications, include, Natural language processing>
+16. <Deep learning applications, include, Machine translation>
+17. <Deep learning applications, include, Bioinformatics>
+18. <Deep learning applications, include, Drug design>
+19. <Deep learning applications, include, Medical image analysis>
+20. <Deep learning applications, include, Climate science>
+21. <Deep learning applications, include, Material inspection>
+22. <Deep learning applications, include, Board game programs>
+23. <Artificial neural networks, have differences from, Biological brains>
+24. <Artificial neural networks, tend to be, Static and symbolic>
+25. <Biological brain, of most living organisms, is dynamic (plastic) and analog>
+26. <Artificial neural networks, generally seen as, Low quality models for brain function>.1. <Deep learning, subset of, Machine learning methods>
+2. <Deep learning, based on, Artificial neural networks (ANNs)>
+3. <Artificial neural networks, inspired by, Biological systems>
+4. <Deep learning, uses, Multiple layers in the network>
+5. <Methods used in deep learning, can be, Supervised>
+6. <Methods used in deep learning, can be, Semi-supervised>
+7. <Methods used in deep learning, can be, Unsupervised>
+8. <Deep learning architectures, include, Deep neural networks>
+9. <Deep learning architectures, include, Deep belief networks>
+10. <Deep learning architectures, include, Recurrent neural networks>
+11. <Deep learning architectures, include, Convolutional neural networks>
+12. <Deep learning architectures, include, Transformers>
+13. <Deep learning applications, include, Computer vision>
+14. <Deep learning applications, include, Speech recognition>
+15. <Deep learning applications, include, Natural language processing>
+16. <Deep learning applications, include, Machine translation>
+17. <Deep learning applications, include, Bioinformatics>
+18. <Deep learning applications, include, Drug design>
+19. <Deep learning applications, include, Medical image analysis>
+20. <Deep learning applications, include, Climate science>
+21. <Deep learning applications, include, Material inspection>
+22. <Deep learning applications, include, Board game programs>
+23. <Artificial neural networks, have differences from, Biological brains>
+24. <Artificial neural networks, tend to be, Static and symbolic>
+25. <Biological brain, of most living organisms, is dynamic (plastic) and analog>
+26. <Artificial neural networks, generally seen as, Low quality models for brain function>.1. <Deep learning, subset of, Machine learning methods>
 2. <Deep learning, based on, Artificial neural networks (ANNs)>
 3. <Artificial neural networks, inspired by, Biological systems>
 4. <Deep learning, uses, Multiple layers in the network>

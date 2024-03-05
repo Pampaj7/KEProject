@@ -108,6 +108,6 @@ def modelsResponse(text):
 def save_text_to_file(text, filename, output_directory):
     """Saves the provided text to a file."""
     filepath = os.path.join(output_directory, filename)
-    with open(filepath, 'w') as file:
+    with open(filepath, 'a') as file:  # XXX: 'a' is for append, 'w' is for write
         file.write(text)
     print(f"Content saved to {filepath}")

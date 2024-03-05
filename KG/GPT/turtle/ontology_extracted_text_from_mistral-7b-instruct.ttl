@@ -1,6 +1,12 @@
 @prefix ns1: <http://example.org/myontology/> .
 
+ns1:Adultcontent ns1:canbeclassifiedas <http://example.org/myontology/pornographyorerotica,> .
+
 ns1:Artificialneuralnetworks ns1:areinspiredby <http://example.org/myontology/Biologicalsystems,> .
+
+ns1:BlueMovie ns1:receivedawidetheatricalreleaseintheUnitedStates ns1: .
+
+ns1:Cavepaintings ns1:aredatedtobeatleast <http://example.org/myontology/,yearsold,> .
 
 ns1:Deeplearning ns1:hasproducedresultscomparabletoorsurpassinghumanexpertperformancein <http://example.org/myontology/Bioinformatics,>,
         ns1:Boardgameprograms,
@@ -12,6 +18,37 @@ ns1:Deeplearning ns1:hasproducedresultscomparabletoorsurpassinghumanexpertperfor
         <http://example.org/myontology/Medicalimageanalysis,>,
         <http://example.org/myontology/Naturallanguageprocessing,>,
         <http://example.org/myontology/Speechrecognition,> ;
-    ns1:isasubsetof <http://example.org/myontology/Machinelearningmethods,> ;
     ns1:uses <http://example.org/myontology/Artificialneuralnetworks,> .
+
+ns1:Pornography ns1:hasevolvedfrom <http://example.org/myontology/cavepaintings,> ;
+    ns1:isclassifiedas <http://example.org/myontology/adultcontent,> .
+
+ns1:Sexualsubjectmaterial ns1:isintendedfor <http://example.org/myontology/sexualarousal,> .
+
+ns1:ThesetriplesrepresentthefactsstatedinthetextwithoutanyexplicitmentionofpornographyorillegalitySocietalattitudestowardssexualityintheWesternworld ns1:becamemorelenient ns1:Midtwentiethcentury .
+
+<http://example.org/myontology/[EugènePirou> ns1:filmedBedtimefortheBride <http://example.org/myontology/namedentitynotprovidedafilm]> .
+
+<http://example.org/myontology/[FannyHill> ns1:wasprosecutedandbanned <http://example.org/myontology/namedentitynotprovidedaprosecutedandbannedbook]> .
+
+<http://example.org/myontology/[ThomasEdison> ns1:denouncedasobscene <http://example.org/myontology/namedentitynotprovidedafilm]> .
+
+<http://example.org/myontology/[people> ns1:considerpornas <http://example.org/myontology/facilitator],>,
+        <http://example.org/myontology/safeoutlet],>,
+        <http://example.org/myontology/satisfierofsexualdesires],> .
+
+<http://example.org/myontology/[peoplewithhigherconsumptionofpornography> ns1:areassociatedwith <http://example.org/myontology/greatersupportforgenderequality],> .
+
+<http://example.org/myontology/[performersworkingforpornographicstudios> ns1:undergoregulartestingfor <http://example.org/myontology/STIs],> .
+
+<http://example.org/myontology/[pornography> ns1:isconsideredarecreationalactivity <http://example.org/myontology/socialmedia],>,
+        <http://example.org/myontology/videogames],> ;
+    ns1:isusedfor <http://example.org/myontology/moodmanagement],>,
+        <http://example.org/myontology/relationship],> .
+
+<http://example.org/myontology/[sexeducationmaterial> ns1:isassociatedwith <http://example.org/myontology/higherriskofcontractingSTIs],> .
+
+<http://example.org/myontology/GoldenAgeofPorn–> ns1:wasfollowedby ns1:globalgrowthinthepornographybusiness .
+
+ns1:Midtwentiethcentury ns1:wasfollowedby <http://example.org/myontology/GoldenAgeofPorn–> .
 

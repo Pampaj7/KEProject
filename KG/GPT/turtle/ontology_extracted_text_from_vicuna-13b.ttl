@@ -1,5 +1,20 @@
 @prefix ns1: <http://example.org/myontology/> .
 
+ns1:Adultcontent ns1:hasevolvedfrom ns1:cavepaintings ;
+    ns1:isatypeof ns1:content,
+        ns1:entertainment,
+        ns1:industry,
+        ns1:media,
+        ns1:product,
+        ns1:sexualsubjectmaterial ;
+    ns1:isclassifiedas ns1:adultcontent ;
+    ns1:isdatedtobeatleast <http://example.org/myontology/,yearsold> ;
+    ns1:isdiscoveredin ns1:Germany ;
+    ns1:isdistinguishedfrom ns1:erotica ;
+    ns1:isindicatedfortheconsumptionby ns1:adults ;
+    ns1:isintendedfor ns1:sexualarousal ;
+    ns1:isnotatypeof ns1:art .
+
 ns1:Artificialneuralnetworksaregenerallyseenas ns1:lowqualitymodelsfor ns1:brainfunction .
 
 ns1:Artificialneuralnetworkswereinspiredby ns1:informationprocessinganddistributedcommunicationnodesin ns1:biologicalsystems .
@@ -7,5 +22,66 @@ ns1:Artificialneuralnetworkswereinspiredby ns1:informationprocessinganddistribut
 ns1:Deeplearningmethod ns1:hasproducedresultscomparabletoandinsomecasessurpassing ns1:humanexpertperformance ;
     ns1:isbasedon ns1:artificialneuralnetworks .
 
-ns1:Deeplearningorganization ns1:isasubsetof ns1:machinelearning .
+ns1:Erotica ns1:hasnotevolvedfrom ns1:cavepaintings ;
+    ns1:isatypeof ns1:content,
+        ns1:entertainment,
+        ns1:media,
+        ns1:sexualsubjectmaterial ;
+    ns1:isintendedfor ns1:sexualarousal ;
+    ns1:isnotatypeof ns1:art,
+        ns1:business,
+        ns1:industry,
+        ns1:product ;
+    ns1:isnotclassifiedas ns1:adultcontent ;
+    ns1:isnotdatedtobeatleast <http://example.org/myontology/,yearsold> ;
+    ns1:isnotdiscoveredin ns1:Germany ;
+    ns1:isnotdistinguishedfrom ns1:pornography ;
+    ns1:isnotindicatedfortheconsumptionby ns1:adults .
+
+ns1:GoldenAgeofPorn ns1:followed ns1:BlueMovie .
+
+ns1:Pornography ns1:hasevolvedfrom ns1:cavepaintings ;
+    ns1:isatypeof ns1:art,
+        ns1:business,
+        ns1:content,
+        ns1:entertainment,
+        ns1:industry,
+        ns1:media,
+        ns1:product ;
+    ns1:isclassifiedas ns1:adultcontent ;
+    ns1:isdatedtobeatleast <http://example.org/myontology/,yearsold> ;
+    ns1:isdiscoveredin ns1:Germany ;
+    ns1:isdistinguishedfrom ns1:erotica ;
+    ns1:isindicatedfortheconsumptionby ns1:adults ;
+    ns1:isintendedfor ns1:sexualarousal .
+
+ns1:Pornographyisusedforfantasypurposessexeducationmaterial ns1:ismorelikelynottousecondoms ns1:STIs .
+
+ns1:Sexualsubjectmaterial ns1:hasevolvedfrom ns1:cavepaintings ;
+    ns1:isatypeof ns1:art,
+        ns1:content,
+        ns1:entertainment,
+        ns1:industry,
+        ns1:media,
+        ns1:product ;
+    ns1:isclassifiedas ns1:adultcontent ;
+    ns1:isdatedtobeatleast <http://example.org/myontology/,yearsold> ;
+    ns1:isdiscoveredin ns1:Germany ;
+    ns1:isdistinguishedfrom ns1:erotica ;
+    ns1:isindicatedfortheconsumptionby ns1:adults ;
+    ns1:isintendedfor ns1:sexualarousal .
+
+ns1:book ns1:prosecution ns1:FannyHill .
+
+ns1:film ns1:denunciation ns1:kiss .
+
+ns1:pornographicstudios ns1:undergoregulartestingforSTIs ns1:generalpublic .
+
+ns1:pornographybusiness ns1:ledtoglobalgrowth ns1:homevideoandtheWorldWideWeb .
+
+ns1:pornographyconsumption ns1:isassociatedwith ns1:greatersupportforgenderequality .
+
+ns1:sexeducationmaterial ns1:ismorelikelynottousecondoms ns1:STIs .
+
+ns1:stcentury ns1:began ns1:greateraccesstotheInternetandaffordablesmartphonesPornographyisaformofmedia .
 

@@ -5,19 +5,77 @@ ns1:Artificialneuralnetworks ns1:aregenerallyseenas ns1:lowqualitymodelsforbrain
 
 ns1:Bioinformatics ns1:havebeenappliedto ns1:drugdesign .
 
+ns1:BlueMovie ns1:relation ns1:widetheatricalrelease .
+
 ns1:Convolutionalneuralnetworks ns1:havebeenappliedto ns1:naturallanguageprocessing .
 
 ns1:Deeplearning ns1:isasubsetof ns1:machinelearning .
 
 ns1:Deepneuralnetworks ns1:havebeenappliedto ns1:computervision .
 
-ns1:HerearetheextractedtriplesformattedasnamedentityA ns1:relation ns1:namedentityBbasedontheprovidedtestimony .
+ns1:Erotica ns1:isdistinguishedfrom ns1:Pornography .
+
+ns1:EugènePirou ns1:filmed ns1: .
+
+ns1:FannyHill ns1:prosecuted ns1:banned ;
+    ns1:written ns1: .
+
+ns1:Fantasy ns1:motivation ns1:Pornographyuse .
+
+ns1:Feministgroups ns1:relation ns1:abolishpornography .
+
+ns1:France ns1:relation ns1:favorablereception .
+
+ns1:GoldenAgeofPorn ns1:relation ns1:homevideo .
+
+ns1:Habitualuse ns1:motivation ns1:Pornographyuse .
+
+ns1:Internet ns1:relation ns1:affordablesmartphones .
+
+ns1:KamaSutra ns1:written ns1:rdcenturyCE .
 
 ns1:Materialinspection ns1:havebeenappliedto ns1:boardgameprograms .
 
 ns1:Medicalimageanalysis ns1:havebeenappliedto ns1:climatescience .
 
+ns1:Moodmanagement ns1:motivation ns1:Pornographyuse .
+
+<http://example.org/myontology/NoteThenamedentitiesinthetestimonyaresexeducationmaterial,performersworkingforpornographicstudios,peoplewhoconsumepornography,andfeministgroupsTherelationsarehigherriskofcontractingSTIs,regulartestingforSTIs,greatersupportforgenderequality,andabolishpornography,respectivelyHerearetheextractedtriplesformattedasnamedentityA> ns1:relation ns1:namedentityB,
+        ns1:namedentityBbasedontheprovidedtestimony .
+
+ns1:Obscenitylaws ns1:havebeenusedto ns1:Suppresseroticdepictions .
+
+ns1:People ns1:havemadeattemptsto ns1:Suppresseroticdepictions .
+
+ns1:Peoplewhoconsumepornography ns1:relation ns1:greatersupportforgenderequality .
+
+ns1:Performersworkingforpornographicstudios ns1:relation ns1:regulartestingforSTIs .
+
 ns1:Recurrentneuralnetworks ns1:havebeenappliedto ns1:speechrecognition .
 
+ns1:Relationship ns1:motivation ns1:Pornographyuse .
+
+ns1:Sexeducationmaterial ns1:relation ns1:higherriskofcontractingSTIs .
+
+ns1:Theoldestartifacts ns1:aredatedtobe <http://example.org/myontology/Atleast,yearsold> ;
+    ns1:werediscoveredin ns1:Germany .
+
+ns1:ThomasEdison ns1:filmed ns1:latethcentury .
+
+ns1:ThomasEdisonsfilm ns1:denounced ns1:obscene .
+
 ns1:Transformers ns1:havebeenappliedto ns1:machinetranslation .
+
+ns1:WorldWideWeb ns1:relation ns1:globalgrowth .
+
+ns1:Pornography ns1:comparison ns1:Journalism ;
+    ns1:facilitator ns1:Sexualreleaseinpeoplewithoutapartner ;
+    ns1:hasbeendefinedas ns1:Sexualsubjectmaterial ;
+    ns1:hasevolvedfrom ns1:Cavepaintings ;
+    ns1:isclassifiedas ns1:Adultcontent ;
+    ns1:isintendedfor ns1:Sexualarousal ;
+    ns1:provision ns1:Safeoutletforsexualdesires .
+
+ns1:Pornographyuse ns1:widespreadrecreationalactivity ns1:Socialmediause,
+        ns1:Videogames .
 

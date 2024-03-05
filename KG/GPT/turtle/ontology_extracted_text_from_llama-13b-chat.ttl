@@ -1,6 +1,10 @@
 @prefix ns1: <http://example.org/myontology/> .
 
+ns1:Affordablesmartphones ns1:made ns1:greateraccesstotheInternet .
+
 ns1:ArtificialNeuralNetworks ns1:arebasedon ns1:BiologicalBrain .
+
+ns1:BlueMovie ns1:wasreleased ns1:UnitedStates .
 
 ns1:DeepLearning ns1:hasbeenappliedto ns1:Bioinformatics,
         ns1:BoardGamePrograms,
@@ -13,4 +17,26 @@ ns1:DeepLearning ns1:hasbeenappliedto ns1:Bioinformatics,
         ns1:NaturalLanguageProcessing,
         ns1:SpeechRecognition ;
     ns1:isasubsetof ns1:MachineLearning .
+
+ns1:Erotica ns1:is ns1:ageneraldistinctionofadultcontent .
+
+ns1:EugènePirousfilm ns1:isillegal ns1:BedtimefortheBride .
+
+ns1:GoldenAgeofPorn ns1:occurred ns1:UnitedStates .
+
+ns1:Homevideo ns1:ledto ns1:globalgrowthinthepornographybusiness .
+
+ns1:Obscenitylaws ns1:have ns1:beenusedtosuppresseroticdepictions .
+
+ns1:Pornography ns1:has ns1:evolvedfromcavepaintings ;
+    ns1:is ns1:intendedforsexualarousal,
+        ns1:sexualsubjectmaterial .
+
+ns1:ThomasEdisonsfilm ns1:wasdenouncedasobscene ns1:BedtimefortheBride .
+
+ns1:WorldWideWeb ns1:ledto ns1:globalgrowthinthepornographybusiness .
+
+ns1:FannyHill ns1:isprosecutedandbanned ns1:KamaSutra .
+
+ns1:KamaSutra ns1:iscelebrated ns1:FannyHill .
 

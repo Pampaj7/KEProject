@@ -1,5 +1,10 @@
 @prefix ns1: <http://example.org/myontology/> .
 
+ns1:Adultcontent ns1:distinguishedas ns1:PornographyorErotica .
+
+ns1:Artifacts ns1:consideredpornographic ns1:DiscoveredinGermany ;
+    ns1:datedto ns1:Thirtyfivethousandyearsold .
+
 ns1:Artificialneuralnetworks ns1:generallyseenas ns1:Lowqualitymodelsforbrainfunction ;
     ns1:havedifferencesfrom ns1:Biologicalbrains ;
     ns1:inspiredby ns1:Biologicalsystems ;
@@ -7,8 +12,11 @@ ns1:Artificialneuralnetworks ns1:generallyseenas ns1:Lowqualitymodelsforbrainfun
 
 ns1:Biologicalbrain ns1:ofmostlivingorganisms ns1:isdynamicplasticandanalog .
 
+ns1:BlueMovie ns1:depict ns1:unsimulatedsex ;
+    ns1:followed ns1:GoldenAgeofPorn ;
+    ns1:received ns1:widetheatricalreleaseintheUnitedStates .
+
 ns1:Deeplearning ns1:basedon ns1:ArtificialneuralnetworksANNs ;
-    ns1:subsetof ns1:Machinelearningmethods ;
     ns1:uses ns1:Multiplelayersinthenetwork .
 
 ns1:Deeplearningapplications ns1:include ns1:Bioinformatics,
@@ -28,7 +36,57 @@ ns1:Deeplearningarchitectures ns1:include ns1:Convolutionalneuralnetworks,
         ns1:Recurrentneuralnetworks,
         ns1:Transformers .
 
+ns1:FannyHill ns1:considered ns1:firstoriginalEnglishprosepornography ;
+    ns1:oneofthemostprosecutedandbannedbooks ns1:intheBritishEnglishtext .
+
+ns1:GreateraccesstotheInternet ns1:began ns1:stcentury .
+
+ns1:Homevideo ns1:ledto ns1:globalgrowthinthepornographybusiness .
+
+ns1:KamaSutra ns1:celebrated ns1:intherdcenturyCE .
+
+ns1:Legaldefinitionsofobscenity ns1:weremade ns1:limited .
+
 ns1:Methodsusedindeeplearning ns1:canbe ns1:Semisupervised,
         ns1:Supervised,
         ns1:Unsupervised .
+
+ns1:Motivations ns1:include ns1:fantasy,
+        ns1:habitualuse,
+        ns1:moodmanagement .
+
+ns1:People ns1:madeattempts ns1:Tosuppresseroticdepictions .
+
+ns1:Pornography ns1:equatedwith ns1:journalism ;
+    ns1:evolvedfrom ns1:Cavepaintings ;
+    ns1:facilitates ns1:sexualrelease ;
+    ns1:indicatedfor ns1:Adults ;
+    ns1:offers ns1:aviewintotheunknownorthehiddenaspects ;
+    ns1:provision ns1:asafeoutletforsexualdesires .
+
+ns1:Sexualsubjectmaterial ns1:intendedfor ns1:Sexualarousal .
+
+ns1:Societalattitudestowardssexuality ns1:became ns1:morelenientintheWesternworld .
+
+ns1:WorldWideWeb ns1:ledto ns1:globalgrowthinthepornographybusiness .
+
+ns1:afilmbyThomasEdison ns1:denouncedasobscene ns1:intheUnitedStates .
+
+ns1:highertoleranceandconsumptionofpornography ns1:tendstobeassociatedwith ns1:greatersupportforgenderequality .
+
+ns1:muchofthegeneralpublic ns1:undergo ns1:notregulartestingforSTIs .
+
+ns1:performersworkingforpornographicstudios ns1:undergo ns1:regulartestingforSTIs .
+
+ns1:sexeducationmaterial ns1:assumes ns1:higherriskofcontractingSTIs ;
+    ns1:identifiedas ns1:morelikelynottousecondoms .
+
+ns1:somefeministgroups ns1:seektoabolish ns1:pornography .
+
+ns1:thefilm ns1:depicted ns1:akiss .
+
+ns1:Cavepaintings ns1:datedto ns1:Fortymillenniaago .
+
+ns1:GoldenAgeofPorn ns1:ended ns1: ;
+    ns1:started ns1: .
 
