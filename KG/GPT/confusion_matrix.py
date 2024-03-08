@@ -17,7 +17,7 @@ def read_triplets_from_file(file_path):
 
 
 def calculate_matrix(path):
-    correct_triplets = read_triplets_from_file("normalizedTriplets/_normalizedextracted_text_from_mixtral-8x7b-instruct.txt")
+    correct_triplets = read_triplets_from_file("normalizedTriplets/_normalizedextracted_text_from_GPT.txt")
     predicted_triplets = read_triplets_from_file("normalizedTriplets/_normalized" + path)
 
     true_positives = len(correct_triplets.intersection(predicted_triplets))

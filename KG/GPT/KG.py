@@ -82,15 +82,18 @@ def KG_creation(filename):
         # Names are already normalized in the triplets
         G.add_edge(subject, object, relation=relation)
 
-    pos = nx.kamada_kawai_layout(G)
+    pos = nx.spring_layout(G)
+
+    # Calculate node sizes based on degree.
+    degrees = dict(G.degree)
+    node_sizes = [v * 100 for v in degrees.values()]
+
+    degree_colors = [plt.cm.plasma(degrees[node] / max(degrees.values())) for node in G.nodes()]
+
     plt.figure(figsize=(14, 10))
-    nx.draw(G, pos, with_labels=True, node_color='skyblue', node_size=1000,
+    nx.draw(G, pos, with_labels=True, node_color=degree_colors, node_size=node_sizes,
             edge_color='gray', linewidths=0.7, font_size=14)
 
-    # Draw edge labels
-    edge_labels = dict([((u, v,), d['relation'])
-                        for u, v, d in G.edges(data=True)])
-    nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, label_pos=0.5, font_size=8)
     plt.title('Knowledge Graph Visualization: ' + filename_without_extension)
     plt.axis('off')
     plt.savefig('plots/knowledge_graph_' + filename_without_extension + '.png')

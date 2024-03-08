@@ -90,7 +90,7 @@ def modelsResponse(text):
             messages=[{
                 "role": "user",
                 "content": ("You will perform the open information extraction task. You will identify the named "
-                            "entities in the content and then extract the relations between them. Use basic words and "
+                            "entities in the content and then extract the relations between them. Use the same words."
                             "Based on the provided testimony, you will return triples which is formatted as <named "
                             "entity A, relation, named entity B>." + text + " The extracted triples formatted as <named entity A, "
                                                                             "relation, named entity B> are:")

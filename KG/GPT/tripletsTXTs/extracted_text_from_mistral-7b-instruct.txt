@@ -1,227 +1,226 @@
-1. ["sex education material", "is associated with", "higher risk of contracting STIs"],
-2. ["performers working for pornographic studios", "undergo regular testing for", "STIs"],
-3. ["people with higher consumption of pornography", "are associated with", "greater support for gender equality"],
-4. ["feminist groups", "seek to abolish", "pornography"]1. (Pornography, is defined as, sexual subject material),
-2. (Sexual subject material, is intended for, sexual arousal),
-3. (Pornography, is classified as, adult content),
-4. (Adult content, can be classified as, pornography or erotica),
-5. (Pornography, has evolved from, cave paintings),
-6. (Cave paintings, are dated to be at least, 35,000 years old),
-7. (People, have made attempts to suppress, pornography under obscenity laws).1. ["Kama Sutra (3rd century CE)", "was celebrated as", "named entity not provided: a celebrated text"]
-2. ["Fanny Hill (1748)", "was prosecuted and banned", "named entity not provided: a prosecuted and banned book"]
-3. ["Thomas Edison", "denounced as obscene", "named entity not provided: a film"]
-4. ["Eugène Pirou", "filmed Bedtime for the Bride (1896)", "named entity not provided: a film"]
-
-These triples represent the facts stated in the text without any explicit mention of pornography or illegality.1. ("Societal attitudes towards sexuality in the Western world", "became more lenient", "Mid-twentieth century")
-2. ("Mid-twentieth century", "was followed by", "Golden Age of Porn (1969–1984)")
-3. ("Blue Movie", "received a wide theatrical release in the United States", "1969")
-4. ("Golden Age of Porn (1969–1984)", "was followed by", "global growth in the pornography business")
-5. ("Introduction of home video and the World Wide Web in the late 20th century", "led to", "global growth in the pornography business")1. ["pornography", "is equated with", "journalism"],
-2. ["pornography", "is considered a recreational activity", "social media"],
-3. ["pornography", "is considered a recreational activity", "video games"],
-4. ["pornography", "is used for", "mood management"],
-5. ["pornography", "is used for", "relationship"],
-6. ["people", "consider porn as", "facilitator"],
-7. ["people", "consider porn as", "safe outlet"],
-8. ["people", "consider porn as", "satisfier of sexual desires"],
-9. ["people", "consider porn as", "journalism"]1. ["sex education material", "is associated with", "higher risk of contracting STIs"],
-2. ["performers working for pornographic studios", "undergo regular testing for", "STIs"],
-3. ["people with higher consumption of pornography", "are associated with", "greater support for gender equality"],
-4. ["feminist groups", "seek to abolish", "pornography"]1. ("Deep learning", "is a subset of", "Machine learning methods"),
-2. ("Deep learning", "uses", "Artificial neural networks"),
-3. ("Artificial neural networks", "are inspired by", "Biological systems"),
-4. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Computer vision"),
-5. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Speech recognition"),
-6. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Natural language processing"),
-7. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Machine translation"),
-8. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Bioinformatics"),
-9. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Drug design"),
-10. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Medical image analysis"),
-11. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Climate science"),
-12. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Material inspection"),
-13. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Board game programs").1. ("Deep learning", "is a subset of", "Machine learning methods"),
-2. ("Deep learning", "uses", "Artificial neural networks"),
-3. ("Artificial neural networks", "are inspired by", "Biological systems"),
-4. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Computer vision"),
-5. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Speech recognition"),
-6. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Natural language processing"),
-7. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Machine translation"),
-8. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Bioinformatics"),
-9. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Drug design"),
-10. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Medical image analysis"),
-11. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Climate science"),
-12. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Material inspection"),
-13. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Board game programs").1. ("Deep learning", "is a subset of", "Machine learning methods"),
-2. ("Deep learning", "uses", "Artificial neural networks"),
-3. ("Artificial neural networks", "are inspired by", "Biological systems"),
-4. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Computer vision"),
-5. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Speech recognition"),
-6. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Natural language processing"),
-7. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Machine translation"),
-8. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Bioinformatics"),
-9. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Drug design"),
-10. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Medical image analysis"),
-11. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Climate science"),
-12. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Material inspection"),
-13. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Board game programs").1. ("Deep learning", "is a subset of", "Machine learning methods"),
-2. ("Deep learning", "uses", "Artificial neural networks"),
-3. ("Artificial neural networks", "are inspired by", "Biological systems"),
-4. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Computer vision"),
-5. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Speech recognition"),
-6. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Natural language processing"),
-7. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Machine translation"),
-8. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Bioinformatics"),
-9. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Drug design"),
-10. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Medical image analysis"),
-11. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Climate science"),
-12. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Material inspection"),
-13. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Board game programs").1. ("Venus", "is one of the most famous planets in", "our solar system")
-2. ("Venus", "has extreme temperature", "")
-3. ("Venus", "has high atmospheric pressure", "")
-4. ("Venus", "has volcanic activity", "")
-5. ("Some scientists", "are interested in studying", "Venus")
-6. ("The author", "argues that", "studying Venus is a worthy pursuit")
-7. ("Dava Sobel", "is the author of", """The Challenge of Exploring Venus""")1. ["Sobel", "writes about", "Venus"],
-2. ["Venus", "has", "extreme conditions"],
-3. ["Venus", "presents", "dangers"],
-4. ["Sobel", "mentions", "Magellan spacecraft"],
-5. ["Magellan spacecraft", "mapped", "Venus"],
-6. ["Venus", "has", "geological history"],
-7. ["Earth", "and other planets", "have", "similar geological history to Venus"],
-8. ["Sobel", "mentions", "Venera spacecraft series"],
-9. ["Venera spacecraft series", "explored", "Venus"],
-10. ["Data", "difficulty", "transmission to Earth"],
-11. ["Scientists", "have faced", "challenges in studying Venus"]1. (Dava Sobel, argues, studying Venus),
-2. (studying Venus, provides, valuable insights),
-3. (planet's extreme conditions, are not unique to, Venus),
-4. (studying Venus, can help, search for extraterrestrial life),
-5. (Dava Sobel, notes, potential for extraterrestrial life on Venus).1. (Venus, is a mirror image of, Earth's geological history)
+1. (Venus, is a mirror image of, Earth's geological history)
 2. (Venus, has the potential to support, life)
 3. (Earth, has undergone, volcanic activity)
 4. (Earth, has undergone, magnetic field fluctuations)
 5. (Earth, has undergone, climatic changes)
-6. (Venus, has, extreme temperatures)
-7. (Venus, has, atmospheric pressure 92 times greater than Earth's)
-8. (Venus, has, a thick, toxic atmosphere)
-9. (Venus, has, a runaway greenhouse effect)
-10. (Venus, is the hottest planet in our solar system)
-11. (Earth, is similar in size, composition and atmosphere to Venus)
-12. (Earth, is made up of 78% nitrogen and 21% oxygen)
-13. (Venus, is made up almost entirely of carbon dioxide)
-14. (Earth, has liquid water)
+6. (Venus, has undergone, volcanic activity)
+7. (Venus, has undergone, magnetic field fluctuations)
+8. (Venus, has undergone, climatic changes)
+9. (Venus, is the second planet from, the sun)
+10. (Earth, is the third planet from, the sun)
+11. (Venus, is often referred to as, Earth's "sister planet")
+12. (Venus, is the hottest planet in, our solar system)
+13. (Venus, has a thick, toxic atmosphere)
+14. (Venus, has surface temperatures reaching up to, 900 degrees Fahrenheit)
 15. (Venus, lacks, liquid water on its surface)
-16. (Studying Venus, could provide insights into, Earth's future)
-17. (Studying Venus, could help us better understand, the conditions needed for life to survive in the universe)
-18. (Studying Venus, could unlock new insights into, our own planet and the universe)1. ("Venus", "is similar to", "Earth")
+16. (Water, is the key ingredient for, life as we know it)
+17. (Dava Sobel, argues that studying, Venus is a worthy pursuit)
+18. (James Orr, argues that studying, Venus is a worthy pursuit)
+19. (Dava Sobel, is the author of, "The Challenge of Exploring Venus")
+20. (James Orr, is the author of, "The Challenge of Exploring Venus")
+21. (Magellan spacecraft, mapped nearly 100%, of Venus' surface)
+22. (Venera spacecraft series, explored the surface of, Venus)
+23. (Scientists, have faced challenges in transmitting data back to Earth from, Venus)
+24. (Studying Venus, can provide insights into, the geological history of Earth and other planets)
+25. (Studying Venus, can help us search for signs of, extraterrestrial life)1. ("Venus", "is similar to", "Earth")
 2. ("Venus", "has a thick atmosphere composed primarily of", "carbon dioxide")
 3. ("Venus", "has a surface temperature reaching up to", "460°C (860°F)")
 4. ("Venus", "is the second planet from the Sun")
 5. ("Venus", "has a retrograde rotation")
-6. ("Venus", "has been explored by", "Mariner 10")
-7. ("Venus", "has been explored by", "Magellan orbiter")
-8. ("Venus", "is a target for future exploration")
-9. ("Venus", "has a dense and suffocating atmosphere")
-10. ("Venus", "has extreme surface temperatures")
-11. ("Venus", "has a runaway greenhouse effect")
-12. ("Venus", "may have liquid water beneath its thick crust")
+6. ("Venus", "is a target for future exploration")
+7. ("Venus", "has a significant difference in atmospheric composition compared to", "Earth")
+8. ("Venus", "has a dense and suffocating atmosphere")
+9. ("Venus", "has surface temperatures that can reach up to", "900 degrees Fahrenheit")
+10. ("Venus", "believed to have liquid water beneath its thick crust")
+11. ("NASA", "plans to launch a new spacecraft", "Dragonfly")
+12. ("Dragonfly", "is set to explore the surface of Venus and search for signs of life")
 13. ("Venus", "has vast volcanic landscapes")
 14. ("Venus", "has deep craters")
 15. ("Venus", "has evidence of past rivers and lakes")
-16. ("NASA", "plans to launch a new spacecraft to explore Venus", "Dragonfly")
-17. ("Dragonfly", "is set to take advantage of recent advances in technology")
-18. ("Dragonfly", "is set to search for signs of life on Venus")
-19. ("Venus", "poses significant technical challenges for exploration")1. ("Venus, the second planet from the sun", is_known_as, "Exploring Venus")
-2. ("Exploring Venus", discusses, "Venus, the second planet from the sun")
-3. ("Venus, the second planet from the sun", has_challenge, "hostile environment")
-4. ("Venus, the second planet from the sun", has_atmosphere, "carbon dioxide")
-5. ("Venus, the second planet from the sun", has_discovery, "water in its atmosphere")
-6. ("Venus, the second planet from the sun", has_rotation, "retrograde rotation")
-7. ("Venus, the second planet from the sun", has_history, "explored for centuries")
-8. ("Venus, the second planet from the sun", has_question, "whether or not it has ever been able to harbor life")
-9. ("Nicolaus Copernicus", made_observation, "Venus")
-10. ("Venus, the second planet from the sun", was_observed_by, "Nicolaus Copernicus")
-11. ("Venus, the second planet from the sun", was_studied_by, "Soviet Union")
-12. ("Soviet Union", sent_spacecraft, "Venera 1")
-13. ("Soviet Union", sent_spacecraft, "Venera 2")
-14. ("NASA", launched_spacecraft, "Magellan")
-15. ("Magellan", mapped, "Venus's surface")
-16. ("European Space Agency", launched_spacecraft, "Venus Express")
-17. ("Venus Express", studies, "Venus's atmosphere")
-18. ("Venus, the second planet from the sun", has_potential, "discover life")
-19. ("NASA", proposes_mission, "Venus Next")
-20. ("Venus Next", searches_for, "signs of past liquid water on Venus")1. ("Exploring Venus", "performs", "exploration of Venus")
-2. ("Venus", "is the second planet from the sun", "Sun")
-3. ("Venus", "is known as Earth's ‘twin planet'", "Earth")
-4. ("Venus", "has a thick and dense atmosphere", "Atmosphere")
-5. ("Venus", "is the hottest planet in our solar system", "Temperature")
-6. ("Venus", "was the subject of fascination for centuries", "Humans")
-7. ("Soviet Union", "launched the first spacecraft to pass Venus", "Venera 2")
-8. ("Magellan spacecraft", "provided us with our first detailed map of Venus's surface", "Venus")
-9. ("European Space Agency (ESA)", "launched the Venus Express spacecraft", "Venus")
-10. ("Russian Federal Space Agency (Roscosmos)", "launched the Venus Express spacecraft", "Venus")
-11. ("NASA", "launched the Venus Reconnaissance Orbiter (VRO)", "Venus")
-12. ("ESA and Roscosmos", "launched the Venus Express spacecraft", "Venus")
-13. ("VRO", "is equipped with specialized cameras and instruments", "VRO")
-14. ("Scientists", "study Venus to understand our own solar system", "Venus")
-15. ("Venus", "provides a unique opportunity to study extreme conditions", "Scientists")
-16. ("General public", "finds Venus a mysterious and fascinating frontier", "Venus")
-17. ("First views of Venus through telescopes", "preceded the first spacecraft explorations", "Exploring Venus")
-18. ("Venus", "is much denser than Earth", "Density")
-19. ("Venus", "has a thick atmosphere", "Atmosphere")
-20. ("Venus", "is composed primarily of carbon dioxide", "Carbon Dioxide")
-21. ("Venus", "has clouds of sulfuric acid", "Sulfuric Acid")
-22. ("Venus", "has an average temperature of 864 degrees Fahrenheit", "Temperature")
-23. ("Venus", "experiences extreme day-night cycles", "Day-Night Cycles")
-24. ("NASA", "launched the Perseverance rover to Mars", "NASA")
-25. ("Perseverance rover", "will be sent to Venus to search for signs of past life", "Venus")
-26. ("Perseverance rover", "will collect samples of Venus's rocky surface", "Venus")1. ("Venus", "is the second planet from the sun", null),
+16. ("NASA", "launched Magellan spacecraft in 2004")
+17. ("Magellan spacecraft", "was able to map almost 100% of Venus' surface")
+18. ("Venus", "has a runaway greenhouse effect")
+19. ("Venus", "poses significant technical challenges for spacecraft exploration")1. ("Exploring Venus", 1, "Venus")
+2. ("Venus", 1, "second planet from the sun")
+3. ("Venus", 1, "fascinating body")
+4. ("Venus", 1, "planet with rich atmosphere")
+5. ("Venus", 1, "planet with hostile environment")
+6. ("Venus", 1, "planet with thick atmosphere composed primarily of carbon dioxide")
+7. ("Venus", 1, "planet with surface temperature around 865 degrees Fahrenheit")
+8. ("Venus", 1, "planet with toxic atmosphere")
+9. ("Venus", 1, "planet with retrograde rotation")
+10. ("Venus", 1, "planet with signs of geological activity")
+11. ("Venus", 1, "planet with water in its atmosphere")
+12. ("Venus", 1, "planet with potential for past liquid water")
+13. ("Exploring Venus", 1, "scientists and space agencies")
+14. ("Exploring Venus", 1, "decades of exploration")
+15. ("Exploring Venus", 1, "challenging and exciting prospect")
+16. ("Exploring Venus", 1, "continues to capture our imagination")
+17. ("Nicolaus Copernicus", 1, "first to observe Venus through his telescope")
+18. ("Nicolaus Copernicus", 1, "astronomer and scientist")
+19. ("Venera 1", 1, "first spacecraft to Venus")
+20. ("Venera 1", 1, "Soviet Union's spacecraft")
+21. ("Venera 2", 1, "second spacecraft to Venus")
+22. ("Venera 2", 1, "Soviet Union's spacecraft")
+23. ("Magellan spacecraft", 1, "NASA's spacecraft")
+24. ("Magellan spacecraft", 1, "mission to map Venus's surface")
+25. ("Magellan spacecraft", 1, "successful in collecting data")
+26. ("Venus Express", 1, "European Space Agency's spacecraft")
+27. ("Venus Express", 1, "designed to study Venus's atmosphere")
+28. ("Venus Next", 1, "NASA's proposed mission")
+29. ("Venus Next", 1, "mission to search for signs of past liquid water on Venus")
+30. ("NASA", 1, "space agency")
+31. ("European Space Agency", 1, "space agency")
+32. ("scientists and public alike", 1, "people interested in Venus exploration")
+33. ("scientists and public alike", 1, "humans for centuries")
+34. ("scientists and public alike", 1, "continue to inspire us to reach for the stars")
+35. ("Earth", 1, "first planet from the sun")
+36. ("Earth", 1, "our home planet")
+37. ("Earth", 1, "similar in size, atmosphere, and gravity to Venus")
+38. ("Earth", 1, "has liquid water on its surface")
+39. ("Earth", 1, "has a more moderate temperature")
+40. ("Earth", 1, "our place in the universe")
+41. ("mysterious planet", 1, "Venus")
+42. ("mysterious planet", 1, "has yet to be fully explored")
+43. ("mysterious planet", 1, "potential to discover life")
+44. ("mysterious planet", 1, "can help us understand our place in the universe")
+45. ("centuries", 1, "period of time")
+46. ("centuries", 1, "time frame for Venus observation")
+47. ("decades", 1, "period of time")
+48. ("decades", 1, "time frame for Venus exploration")1. ("Exploring Venus", 1, "Venus: The Fascinating Exploration of Our Sister Planet Venus")
+2. ("Exploring Venus", 1, "Venus")
+3. ("Exploring Venus", 6, "Venus")
+4. ("Venus: The Fascinating Exploration of Our Sister Planet Venus", 1, "Venus")
+5. ("Venus: The Fascinating Exploration of Our Sister Planet Venus", 6, "Exploring Venus")
+6. ("Venus", 1, "Exploring Venus")
+7. ("Venus", 1, "Venus: The Fascinating Exploration of Our Sister Planet Venus")
+8. ("Venus", 6, "Exploring Venus")
+9. ("Venus", 6, "Venus: The Fascinating Exploration of Our Sister Planet Venus")
+10. ("Venus", 1, "Exploring Venus")
+11. ("Venus", 1, "Venus: The Fascinating Exploration of Our Sister Planet Venus")
+12. ("Venus", 6, "Exploring Venus")
+13. ("Venus", 6, "Venus: The Fascinating Exploration of Our Sister Planet Venus")
+14. ("Venus", 1, "Exploring Venus")
+15. ("Venus", 1, "Exploring Venus")
+16. ("Venus", 6, "Exploring Venus")
+17. ("Venus", 6, "Exploring Venus")
+18. ("Venus", 1, "Exploring Venus")
+19. ("Venus", 1, "Exploring Venus")
+20. ("Venus", 6, "Exploring Venus")
+21. ("Venus", 6, "Exploring Venus")
+22. ("Venus", 1, "Exploring Venus")
+23. ("Venus", 1, "Exploring Venus")
+24. ("Venus", 6, "Exploring Venus")
+25. ("Venus", 6, "Exploring Venus")
+26. ("Venus", 1, "Exploring Venus")
+27. ("Venus", 1, "Exploring Venus")
+28. ("Venus", 6, "Exploring Venus")
+29. ("Venus", 6, "Exploring Venus")
+30. ("Venus", 1, "Exploring Venus")
+31. ("Venus", 1, "Exploring Venus")
+32. ("Venus", 6, "Exploring Venus")
+33. ("Venus", 6, "Exploring Venus")
+34. ("Venus", 1, "Exploring Venus")
+35. ("Venus", 1, "Exploring Venus")
+36. ("Venus", 6, "Exploring Venus")
+37. ("Venus", 6, "Exploring Venus")
+38. ("Venus", 1, "Exploring Venus")
+39. ("Venus", 1, "Exploring Venus")
+40. ("Venus", 6, "Exploring Venus")
+41. ("Venus", 6, "Exploring Venus")
+42. ("Venus", 1, "Exploring Venus")
+43. ("Venus", 1, "Exploring Venus")
+44. ("Venus", 6, "Exploring Venus")
+45. ("Venus", 6, "Exploring Venus")
+46. ("Venus", 1, "Exploring Venus")
+47. ("Venus", 1, "Exploring Venus")
+48. ("Venus", 6, "Exploring Venus")
+49. ("Venus",1. ("Venus", "is the second planet from the sun", null),
 2. ("Venus", "is similar in size and composition to Earth", null),
 3. ("Venus", "has nearly the same size and mass as Earth", null),
 4. ("Venus", "is made up of a similar mix of rock and gas as Earth", null),
 5. ("Venus", "is famous for its extreme temperatures", null),
-6. ("Venus", "has temperatures that can reach up to 900 degrees Fahrenheit", null),
-7. ("Venus", "has a thick layer of clouds of sulfuric acid", "atmosphere"),
-8. ("atmosphere", "blocks most of the sun's rays", "Venus"),
-9. ("Venus", "has a thick atmosphere that traps heat", null),
-10. ("Venus", "is believed to play a crucial role in the formation of planets in the solar system", null),
-11. ("Venus", "has a similar geological makeup to Earth", null),
-12. ("Venus", "has mountains, valleys, and other features", null),
-13. ("Venus", "is worth studying for understanding the formation and evolution of the solar system", null),
-14. ("Venus", "is worth studying for better understanding the potential for life on the planet", null),
-15. ("Venus", "is a rich source of information for scientists studying our solar system", null),
-16. ("Venus", "is often called the Earth's 'sister planet'", null),
-17. ("Venus", "has a thick, toxic atmosphere", null),
-18. ("Venus", "has a thick atmosphere that blocks out most of the Sun's light", null),
-19. ("Venus", "is one of the hottest planets in our solar system", null),
-20. ("Venus", "has some of the largest and most active volcanoes in our solar system", null),
-21. ("Venus", "has mountains that are nearly twice as high as Earth's Mount Everest", null),
-22. ("Venus", "has mysterious rocky mountains that cover most of the planet's surface", null),
-23. ("Venus", "is essential to studying our own planet's climate and geology", null),
-24. ("Venus", "may help us learn about the potential for habitability on other planets in our solar system", null).1. ("Venus", "has captured the imagination of humans for centuries", "humans")
-2. ("Venus", "is closest to the sun", "Sun")
-3. ("Venus", "has been explored through telescopic observations", "telescopic observations")
-4. ("Venus", "has been studied through spacecraft missions", "spacecraft missions")
-5. ("Venus", "has a dense atmosphere", "atmosphere")
-6. ("Scientists", "have been studying Venus through telescopes for centuries", "Venus")
-7. ("The first successful mission to Venus was in 1975", "took place", "1975")
-8. ("Magellan mission", "mapped over 98% of Venus' surface", "Venus")
-9. ("Orbiters", "have been instrumental in providing scientists with data about Venus", "Venus")
-10. ("Astrobiology", "is the study of the origin, evolution, distribution, and future of life beyond Earth", "astrobiology")
-11. ("Venus", "has conditions that may have been suitable for life in the past", "possible habitats for life")
-12. ("Scientists", "are still trying to understand why Venus has such an extreme atmosphere", "Venus")
-13. ("Scientists", "are trying to determine what causes Venus' volcanic activity", "Venus")
-14. ("Venus", "has experienced so many massive eruptions in the past", "volcanic activity")
-15. ("Scientists", "are constantly working to uncover new information about Venus", "Venus")1. ("Venus", "is the second planet from the sun", null)
-2. ("Venus", "is often called Earth's 'sister planet'", null)
-3. ("Venus' atmosphere", "is primarily composed of carbon dioxide", null)
-4. ("Venus' surface temperature", "can reach up to 900 degrees Fahrenheit", null)
-5. ("Venus' atmosphere", "traps heat from the Sun and creates a runaway greenhouse effect", null)
-6. ("Scientists", "have discovered rocks on Venus' surface that are rich in water", null)
-7. ("Venus", "once had a more hospitable environment", null)
-8. ("NASA", "is currently planning a mission to explore Venus", "Venus Atmospheric Probe (VAP)")
-9. ("Venus Atmospheric Probe (VAP)", "is set to launch in 2070", null)
-10. ("Venus Atmospheric Probe (VAP)", "will use a balloon-powered lander to study Venus' atmosphere", null)
-11. ("Venus", "has the potential to teach us a lot about life in the universe", null)1. (Venus, is the closest planet to, Sun)
+6. ("Temperatures on Venus", "can reach up to 900 degrees Fahrenheit", null),
+7. ("Venus", "has a thick layer of clouds of sulfuric acid", null),
+8. ("Venus", "is believed to play a crucial role in the formation of planets in the solar system", null),
+9. ("Scientists", "hope to learn more about the processes that led to the formation of Earth and other planets", "Venus"),
+10. ("Venus", "has a similar geological makeup to Earth", null),
+11. ("Scientists", "use indirect methods to gain insights into Venus's geology", "Venus"),
+12. ("Venus", "is worth studying for understanding the formation and evolution of the solar system", null),
+13. ("Venus", "is worth studying for better understanding the potential for life on the planet", null),
+14. ("Venus", "is a fascinating world to explore", null),
+15. ("Venus", "has a thick, toxic atmosphere", null),
+16. ("Venus's atmosphere", "is composed primarily of carbon dioxide and sulfuric acid", null),
+17. ("Venus's atmosphere", "creates a thick layer that traps heat and creates a runaway greenhouse effect", null),
+18. ("Venus's atmosphere", "blocks out most of the Sun's light", null),
+19. ("Venus", "has several features that make it interesting to explore", null),
+20. ("Venus", "has the largest and most active volcanoes in our solar system", null),
+21. ("Venus", "has mountains nearly twice as high as Earth's Mount Everest", null),
+22. ("Venus's mountains", "are believed to have formed through a process of volcanic activity and tectonic activity", "Venus"),
+23. ("Scientists", "have been studying Venus for over a century", "Venus"),
+24. ("Understanding Venus", "is essential to studying our own planet's climate and geology", "Venus"),
+25. ("Understanding Venus", "may also help us learn about the potential for habitability on other planets in our solar system", "Venus").1. ("Venus", "has a thick atmosphere", ""),
+2. ("Venus", "is closest to the sun", ""),
+3. ("Venus", "has captured the imagination of humans for centuries", ""),
+4. ("Venus", "has been explored through telescopic observations", ""),
+5. ("Venus", "has been explored through spacecraft missions", ""),
+6. ("Venus", "has been explored through orbiters", ""),
+7. ("Venus", "has a dense atmosphere", ""),
+8. ("Venus", "has extreme temperatures", ""),
+9. ("Venus", "has a habitable environment (potential)", ""),
+10. ("Scientists", "have studied Venus", ""),
+11. ("Scientists", "have used telescopic observations to study Venus", ""),
+12. ("Scientists", "have launched spacecraft missions to Venus", ""),
+13. ("Scientists", "have launched orbiter missions to Venus", ""),
+14. ("Scientists", "study Venus through astrobiology", ""),
+15. ("Atmosphere (Venus)", "is mostly made up of carbon dioxide", ""),
+16. ("Atmosphere (Venus)", "creates a greenhouse effect", ""),
+17. ("Atmosphere (Venus)", "traps the sun's energy", ""),
+18. ("Surface (Venus)", "has extreme temperatures", ""),
+19. ("Surface (Venus)", "has evidence of volcanic activity", ""),
+20. ("Surface (Venus)", "may have had an ocean in the past", ""),
+21. ("Scientists", "are trying to understand why Venus has such an extreme atmosphere", ""),
+22. ("Scientists", "are trying to determine what causes Venus's volcanic activity", ""),
+23. ("Venus", "is of particular interest to astrobiologists", ""),
+24. ("Venus", "may have a habitable environment (potential) underneath its thick clouds", "").1. ("Venus", 1, "Earth")
+2. ("Venus", 1, "second planet from the sun")
+3. ("Venus", 6, "Earth's sister planet")
+4. ("Venus", 1, "mysterious and largely unexplored planet")
+5. ("Venus", 1, "second planet from the Sun")
+6. ("Venus", 1, "roughly 10% larger than Earth")
+7. ("Venus", 1, "composition of rock and metal")
+8. ("Venus", 1, "has long fascinated scientists and explorers")
+9. ("Venus", 1, "has thick atmosphere")
+10. ("Venus", 1, "composed primarily of carbon dioxide")
+11. ("Venus", 1, "has extreme heat on the surface")
+12. ("Venus", 1, "has evidence of geological activity")
+13. ("Venus", 1, "has intense atmosphere pressure")
+14. ("Venus", 1, "impossible for humans to explore directly")
+15. ("Venus", 1, "has been studied through space-based telescopes and probes")
+16. ("Venus", 1, "has similarities to Earth")
+17. ("Venus", 1, "may have once had a more hospitable environment")
+18. ("Venus", 1, "may have once had life")
+19. ("Venus", 1, "has a thick atmosphere composed primarily of carbon dioxide")
+20. ("Venus", 1, "has clouds of sulfuric acid")
+21. ("Venus", 1, "has surface temperature reaching up to 900 degrees Fahrenheit")
+22. ("Venus", 1, "has atmosphere exerting a crushing pressure")
+23. ("Venus", 1, "has been observed from orbit")
+24. ("Venus", 1, "has mountains, valleys, and volcanoes")
+25. ("Venus", 1, "has been studied using radar technology")
+26. ("Venus", 1, "has water vapor in its atmosphere")
+27. ("Venus", 1, "has unusual rotation")
+28. ("Venus", 1, "has potential to teach us about life in the universe")
+29. ("Venus", 1, "is set to launch in 2070")
+30. ("Venus Atmospheric Probe (VAP)", 6, "Venus")
+31. ("Venus Atmospheric Probe (VAP)", 1, "balloon-powered lander")
+32. ("Venus Atmospheric Probe (VAP)", 1, "study Venus' atmosphere")
+33. ("NASA", 1, "planning a mission to explore Venus")
+34. ("NASA", 1, "Venus Atmospheric Probe (VAP)")
+35. ("NASA", 1, "set to launch in 2070")
+36. ("NASA", 1, "designed to descend deep into Venus' atmosphere")
+37. ("NASA", 1, "study clouds and atmospheric conditions")
+38. ("NASA", 1, "potential to support life on Venus")
+39. ("NASA", 1, "has the potential to teach us about life in the universe")1. (Venus, is the closest planet to, Sun)
 2. (Venus, has a surface temperature that can reach, 900 degrees Fahrenheit)
 3. (Venus, has an atmosphere that traps heat in a runaway greenhouse effect)
 4. (NASA, sent several missions to Venus using probes and rovers)
@@ -237,71 +236,55 @@ These triples represent the facts stated in the text without any explicit mentio
 14. (Venus, has vast mountains)
 15. (Venus, has icy polar caps)
 16. (Scientists, have long wondered whether Venus could harbor life)
-17. (Organic molecules, have been discovered on Venus)
-18. (Studying Venus, is a crucial step towards deep space exploration beyond our solar system)
-19. (Magellan probe, successfully orbited Venus, providing scientists with a wealth of data)
-20. (Previous successful missions, have already been conducted in Venus)1. ("Venus", "is the second planet from the sun", "")
-2. ("Venus", "is roughly the same size as Earth", "")
-3. ("Venus", "has a thick atmosphere", "")
-4. ("Venus' atmosphere", "is made up mostly of carbon dioxide", "")
-5. ("Venus' atmosphere", "has clouds that are made of sulfuric acid", "")
-6. ("Venus", "is one of the hottest planets in our solar system", "")
-7. ("Venus", "may have microbial life forms", "")
-8. ("Venus' rotation", "is a retrograde rotation", "")
-9. ("Venus", "has an interesting orbit", "")
-10. ("Venus' orbit", "moves through the sky in a pattern known as 'regression'", "")
-11. ("Venus", "was once covered in thick, flowing lava", "")
-12. ("Venus", "has massive shield volcanoes", "")
-13. ("Carbon dioxide", "is the main component of Venus' atmosphere", "Venus' atmosphere")
-14. ("Sulfuric acid", "is the main component of Venus' clouds", "Venus' clouds")
-15. ("Microbial life forms", "may exist on Venus", "Venus")
-16. ("Retrograde rotation", "is Venus' mode of rotation on its axis", "Venus' rotation")
-17. ("Elliptical orbit", "is the shape of Venus' orbit around the sun", "Venus' orbit")
-18. ("Thick, flowing lava", "covered Venus in its history", "Venus")
-19. ("Massive shield volcanoes", "are a feature of Venus' surface", "Venus")1. ("Venus", 1, "hottest planet in our solar system")
-2. ("Venus", 1, "planet with a thick atmosphere")
-3. ("Venus", 1, "planet with extreme weather")
-4. ("Venus", 1, "planet with possible history of a more habitable environment")
-5. ("Venus", 1, "planet with geological features such as mountains, vast plains, and a large volcano")
-6. ("Venus", 1, "planet with evidence of ancient oceans and rivers")
-7. ("Venus", 1, "planet with signs of volcanic activity")
-8. ("Venus", 1, "planet with vast, dry lakes")
-9. ("Venus", 1, "planet with towering volcanoes")
-10. ("Venus", 1, "planet with deep canyons")
-11. ("Venus", 1, "planet with intense radiation")
-12. ("Venus", 1, "planet with intense volcanic activity")
-13. ("Venus", 1, "planet with extreme climate")
-14. ("Venus", 1, "planet with possible evidence of past life")
-15. ("Venus", 1, "planet with ongoing exploration endeavors")
-16. ("Venus", 1, "planet with potential for discovering potentially habitable environments in our own solar system")
-17. ("Venus", 1, "planet with potential for understanding our own planet's climate and potentially helping us address the challenges of climate change")
-18. ("John Doe", 1, "author")
-19. ("John Doe", 1, "writer of the article 'The Challenge of Exploring Venus'")
-20. ("Exploring Venus", 1, "topic of the article")
-21. ("Exploring Venus", 1, "subject of the essay")
-22. ("Exploring Venus", 1, "subject of the author's argument")
-23. ("The Challenge of Exploring Venus", 1, "title of the article")
-24. ("The Challenge of Exploring Venus", 1, "article written by John Doe")
-25. ("The Challenge of Exploring Venus", 1, "article that presents a compelling argument for studying Venus")
-26. ("The Challenge of Exploring Venus", 1, "article that provides evidence for the potential benefits of studying Venus")
-27. ("The Challenge of Exploring Venus", 1, "article that provides a well-thought-out perspective on the topic of studying Venus")
-28. ("NASA's Magellan spacecraft", 1, "spacecraft that has been orbiting Venus and collecting data about its topography")
-29. ("NASA's Magellan spacecraft", 1, "spacecraft that has shown that Venus has mountains, vast plains, and a large volcano")
-30. ("Venus Exploration Rover", 1, "mission that has provided a closer look at the planet's surface and discovered evidence of volcanic activity")
-31. ("Venus Exploration Rover", 1, "mission that has shown that Venus may have once had an environment that was more like Earth")
-32. ("Venus Exploration Rover", 1, "mission that has provided valuable information about Venus's atmosphere and geology")
-33. ("Venus Exploration Rover", 1, "mission that has enabled scientists to make predictions about the planet's future")
-34. ("Venus's intense radiation", 1, "condition that makes Venus a challenging planet to explore")
-35. ("Venus's intense volcanic activity", 1, "condition that makes Venus a challenging planet to explore")
-36. ("Venus's extreme climate", 1, "condition that makes Venus a challenging planet to explore")
-37. ("Venus's extreme temperatures", 1, "condition that makes Venus a challenging planet to explore")
-38. ("Venus's thick atmosphere", 1, "condition that makes Venus a challenging planet to explore")1. (Venus, is located between, Earth)
+17. (Venus, has organic molecules)
+18. (Exploring Venus, provides us with vital knowledge about the origin of life)
+19. (Exploring Venus, provides us with insights into geological processes)
+20. (Exploring Venus, provides us with insights into the future of our own planet)
+21. (Studying Venus, is a crucial step towards deep space exploration beyond our solar system)1. ("Venus", 1, "second planet in our solar system")
+2. ("Venus", 6, "rocky planet")
+3. ("Venus", 1, "Earth")
+4. ("Venus", 1, "fascinating topic")
+5. ("Venus", 1, "planet with a thick atmosphere")
+6. ("Venus", 1, "covered in a thick layer of clouds")
+7. ("Venus", 6, "has captured the interest of scientists")
+8. ("Venus", 6, "explorers")
+9. ("Venus", 6, "curious minds")
+10. ("second planet in our solar system", 1, "Venus")
+11. ("rocky planet", 1, "Venus")
+12. ("Earth", 1, "Venus")
+13. ("fascinating topic", 1, "Venus")
+14. ("planet with a thick atmosphere", 1, "Venus")
+15. ("covered in a thick layer of clouds", 1, "Venus")
+16. ("scientists", 6, "interested in Venus")
+17. ("explorers", 6, "interested in Venus")
+18. ("curious minds", 6, "interested in Venus")
+
+These triples represent various named entities and their relationships as described in the text.1. ("Venus", 1 is_known_for, "the second planet from the sun")
+2. ("Venus", 1 is_known_for, "the largest planet in our solar system")
+3. ("Venus", 1 has_property, "extreme heat")
+4. ("Venus", 1 has_property, "thick atmosphere")
+5. ("Venus", 1 had_a_relation_with, "Earth")
+6. ("Venus", 1 was_once_associated_with, "a more habitable environment")
+7. ("Venus", 1 is_associated_with, "significant discoveries")
+8. ("NASA's Magellan spacecraft", 1 performed_action_on, "Venus")
+9. ("Venus", 1 has_property, "intense radiation")
+10. ("Venus", 1 is_associated_with, "volcanic activity")
+11. ("Scientists", 1 made_discoveries_about, "Venus")
+12. ("Venus", 1 is_associated_with, "possible history of a more habitable environment")
+13. ("Exploring Venus", 1 is_a, "ongoing endeavor")
+14. ("Venus", 1 is_associated_with, "extreme weather")
+15. ("Venus", 1 has_property, "intense volcanic activity")
+16. ("Venus", 1 is_associated_with, "extreme climate")
+17. ("Scientists", 1 hope_to, "learn more about Venus in the future")
+18. ("John Doe", 1 wrote, "The Challenge of Exploring Venus")
+19. ("The Challenge of Exploring Venus", 1 is_a, "compelling argument")
+20. ("The Challenge of Exploring Venus", 1 presents, "a strong case for studying Venus")1. (Venus, is located between, Earth)
 2. (Venus, has an atmosphere composed of, carbon dioxide)
 3. (Venus, has clouds made of, sulfuric acid)
 4. (Venus, has an atmospheric pressure over 90 times that of, Earth)
 5. (Venus, has temperatures on the surface reaching up to, 460 degrees Celsius)
 6. (Venus, is a target for future exploration by, humans)
-7. (Venus, has evidence of water in its atmosphere, discovered by, NASA's Venus Express spacecraft)
+7. (Venus, has evidence of water in its atmosphere, discovered by NASA's Venus Express spacecraft)
 8. (Venus, is a mirror image of, Earth)
 9. (Venus, has a dense atmosphere that creates a, greenhouse effect)
 10. (Venus, is the closest planet to, Earth)
@@ -313,289 +296,112 @@ These triples represent the facts stated in the text without any explicit mentio
 16. (Venus, has an atmospheric pressure around 95 times thicker than, Earth's)
 17. (Venus, is a target for exploration by, scientists)
 18. (Venus, is a planet with many mysteries left to, uncover)
-19. (Venus, is the closest planet to, Earth in our solar system)
-20. (Venus, is a fascinating world with, scientists working hard to explore it)1. (Venus, is a planet, null)
+19. (Venus, is the closest planet to, Earth)
+20. (Venus, is a fascinating world for, researchers)
+21. (Venus, has a surface covered by a thick layer of, lava)
+22. (Venus, has features such as, impact craters, volcanoes, and mountains)
+23. (Venus, is a planet with a unique environment that helps us, better understand our own planet)
+24. (Venus, is a planet with potential for, life)
+25. (Venus, is a planet that holds, wealth of information about the solar system)
+26. (Venus, is a planet that presents challenges for, scientists)
+27. (Venus, is a planet that has been studied from space using, orbiters and satellites)
+28. (Venus, is a planet that has been studied for, five years)
+29. (Venus, is a planet that has been studied by, the Magellan spacecraft)
+30. (Venus, is a planet that has been studied by, NASA's Venus Express spacecraft)
+31. (Venus, is a planet that has been studied by, scientists from around the world)
+32. (Venus, is a planet that has been observed and admired from ancient times)
+33. (Venus, is a planet that has been a subject of, fascination and exploration)
+34. (Venus, is a planet that has been a subject of, research)
+35. (Venus, is a planet that has been a subject of, scientific studies)
+36. (Venus, is a planet that has been a subject of, recent discoveries)
+37. (Venus, is a planet that has been a subject of, human exploration)
+38. (Venus, is a planet that has been a subject of, exploration and discovery)
+39. (Venus, is a planet that has been a subject of, scientific inquiry)
+40. (Venus, is a planet that has been a subject of, exploration and understanding)
+41. (Venus, is a planet that has been a subject of, scientific advancement)
+42. (Venus, is a planet that has been a subject of, scientific progress)
+43. (Venus, is a planet that has been a subject of, scientific knowledge)
+44. (Venus, is a planet that has been a subject of, scientific curiosity)
+45. (Venus, is a planet that has been a subject of, scientific investigation)
+46. (Venus, is a planet that has been a subject of, scientific research and1. (Venus, is a planet, null)
 2. (Venus, has a thick atmosphere, null)
 3. (Venus, lacks liquid water on the surface, null)
 4. (Venus, has hazards and unknowns for travel and exploration, null)
-5. (Venus, has Venusian winds, null)
-6. (Venusian winds, reach speeds of up to 2,500 kilometers per hour, null)
-7. (Scientists, are determined to explore Venus, null)
-8. (InSight mission, landed on Mars in 2018, null)
-9. (InSight mission, collected data and samples from the Martian surface, InSight mission)
-10. (InSight mission, studied the deep interior of Venus, InSight mission)
-11. (NASA, is planning a mission to Venus, null)
-12. (NASA, Discovery Orbiter mission, null)
-13. (Discovery Orbiter mission, is set to launch in 2026, null)
-14. (Discovery Orbiter mission, will circle Venus for three years, null)
-15. (Discovery Orbiter mission, will study Venus's atmosphere, surface, and geological features, Discovery Orbiter mission)
-16. (Discovery Orbiter mission, will be equipped with a suite of instruments, Discovery Orbiter mission)
-17. (Discovery Orbiter mission, has a laser altimeter, Discovery Orbiter mission)
-18. (Discovery Orbiter mission, has a thermal infrared mapper, Discovery Orbiter mission)
-19. (Discovery Orbiter mission, has an ultraviolet spectrometer, Discovery Orbiter mission)
-20. (Exploring Venus, is a complex and challenging endeavor, null)
-21. (Exploring Venus, has immense potential rewards, null)
-22. (Scientists, are studying Venus using radio waves, null)
-23. (Magellan spacecraft, has instruments to study Venus's atmosphere, Magellan spacecraft)
-24. (Venus, has extreme temperatures, null)
-25. (Venus, has a toxic atmosphere, null)
-26. (Studying Venus, can help understand the origins of the solar system, null)
-27. (Studying Venus, can contribute to new technologies and discoveries, null)
-28. (Studying Venus, is a necessary step towards exploring other planets, null)
-29. (Venus, has similar geological features to Earth, null)
-30. (Venus, has an abundance of heavy iron and metallic compounds, null)1. ("Venus", "has discovered", "liquid water in its subsurface oceans")
-2. ("Venus", "has an average planetary surface pressure of", "92 times that of Earth")
-3. ("Venus' atmosphere", "is primarily composed of", "carbon dioxide")
-4. ("Venus' atmosphere", "contains significant amounts of", "sulfuric acid")
-5. ("Venus' atmosphere", "contains significant amounts of", "nitric acid")
-6. ("Scientists", "believe that Venus might have been home to", "liquid water and perhaps even life in the past")
-7. ("Venus", "is the second planet from the Sun and the closest planet to the Sun from Earth")
-8. ("Venus", "has a surface temperature that can reach up to", "900 degrees Fahrenheit")
-9. ("Venus' atmosphere", "creates a runaway greenhouse effect")
-10. ("Venus' surface temperature", "can reach up to", "864 degrees Fahrenheit")
-11. ("Venus", "has a fast and dense atmosphere")
-12. ("Venus' atmosphere", "has winds that can reach speeds of", "240 miles per hour")
-13. ("European Space Agency", "launched the Venus Express spacecraft")
-14. ("Venus Express", "orbited Venus for seven years")
-15. ("Venus Express", "conducted a variety of measurements to study Venus’ atmosphere")
-16. ("Venus Express", "discovered new chemical compounds in the atmosphere")
-17. ("Venus Express", "provided evidence of geological activity on the planet’s surface")
-18. ("Scientists", "use detailed mathematical models to create simulations of Venus’ atmosphere and climate")
-19. ("Computer simulations and models", "have been used to test and refine the equipment used in space missions to Venus")1. ("Emily Lander", "argues", "studying Venus is a worthy pursuit")
-2. ("Studying Venus", "provides", "insights into our planet's climate, atmosphere, and geology")
-3. ("Studying Venus", "essential for space exploration")
-4. ("Understanding Venus's environment and atmosphere", "helps develop technologies for exploring other planets and moons")
-5. ("Venus", "is the closest planet to Earth")
-6. ("Studying Venus", "has many practical applications")
-7. ("Studying Venus's greenhouse effect", "helps us better understand climate change")
-8. ("Missions to Venus", "necessary for developing technology for deep space exploration")
-9. ("Venus", "similar to Earth in many ways")
-10. ("Studying Venus", "provides insights about the origins of life on Earth and other planets")
-11. ("James Peterson", "argues", "studying Venus is a worthy pursuit")
-12. ("Venus", "presents unique challenges that scientists can learn from")
-13. ("Studying Venus", "could help us better understand the processes that have led to the formation of planets")
-14. ("Past missions to Venus", "have gathered valuable data")
-15. ("Technologies developed for Venus missions", "could be applied to other areas")1. (James Peterson, supports, Exploring Venus)
-2. (Exploring Venus, has_benefit, Learning about early stages of planetary development)
-3. (Exploring Venus, has_benefit, Learning about potential for life beyond Earth)
-4. (Venus, is_similar_to, Earth)
-5. (Venus, has_challenge, Extreme temperatures)
-6. (Venus, has_challenge, Toxic atmosphere)
-7. (Scientists, are_exploring, Venus)
-8. (Magellan spacecraft, is_used_for, Studying Venus' surface)
-9. (European Space Agency, launched, Venus Express spacecraft)
-10. (Venus Express spacecraft, is_used_for, Studying Venus' atmosphere)1. (Venus, is the second planet from the sun in our solar system, Solar System)
-2. (Venus, is known for its extreme conditions, Extreme Conditions)
-3. (Venus, has a thick, toxic atmosphere, Atmosphere)
-4. (Carbon Dioxide, is the main component of Venus's atmosphere, Venus)
-5. (Venus, has clouds of sulfuric acid, Venus)
-6. (Venus, has surface temperatures that can reach up to 900 degrees Fahrenheit, Temperature)
-7. (Venus, is believed to have microbial life forms living in the deep underground, Possible Life)
-8. (Venus, is a fascinating planet, Venus)
-9. (Venus, is sometimes described as Earth's sister planet, Earth)
-10. (Venus, has a retrograde rotation, Rotation)
-11. (Venus, has a dense atmosphere that traps heat, Atmosphere)
-12. (Venus, has evidence of ancient riverbeds and lake beds, Ancient Water Bodies)
-13. (Venus, has vast volcanic regions, Volcanic Regions)
-14. (Venus, has massive mountains, Mountains)
-15. (Magellan spacecraft, orbited Venus for over seven years, Spacecraft)
-16. (Magellan spacecraft, mapped over 100% of Venus's surface, Spacecraft)
-17. (Venus, has a thick layer of clouds that cover the entire planet, Clouds)
-18. (Future missions to Venus, will likely focus on investigating its surface directly, Future Missions)
-19. (Venus, has evidence of ancient rivers and lakes, suggesting that the planet may have had a more Earth-like climate in the past, Ancient Water Bodies)
-20. (Venus, is worth exploring, Venus)1. (Exploring Venus, 1, Space probes and orbiters)
-2. (Exploring Venus, 1, Atmosphere)
-3. (Exploring Venus, 1, Surface)
-4. (Exploring Venus, 1, Magellan spacecraft)
-5. (Exploring Venus, 1, Mountains)
-6. (Exploring Venus, 1, Valleys)
-7. (Exploring Venus, 1, Ancient riverbeds)
-8. (Venus, 1, Thick atmosphere)
-9. (Venus, 1, Toxic atmosphere)
-10. (Venus, 1, Carbon dioxide)
-11. (Venus, 1, Sulfuric acid)
-12. (Venus, 1, Liquid sulfur)
-13. (Venus, 1, Climate)
-14. (Venus, 1, Volcanic activity)
-15. (Venus, 1, Fascinating geological features)
-16. (Venus, 1, Vast mountain ranges)
-17. (Venus, 1, Deep canyons)
-18. (NASA, 6, Developing new techniques)
-19. (NASA, 6, Studying Venus' atmosphere)
-20. (NASA, 6, Space probes)
-21. (NASA, 6, Orbiters)
-22. (NASA, 6, Specialized instruments)
-23. (NASA, 6, Light reflected and absorbed)
-24. (Solar system, 1, Venus' sister planet)
-25. (Solar system, 1, Hostile environment)
-26. (Solar system, 1, Unique geological features)
-27. (Solar system, 1, Life-threatening conditions)
-28. (Solar system, 1, Significant strides)
-29. (Solar system, 1, Continue to uncover secrets)
-30. (Solar system, 1, Home to life)
-31. (Gehrlich, 1, Author)
-32. (Gehrlich, 1, Argues for importance)
-33. (Gehrlich, 1, Studies Venus)
-34. (Gehrlich, 1, Future lunar missions)
-35. (Gehrlich, 1, Similarity to Earth)
-36. (Gehrlich, 1, Potential for life)
-37. (Gehrlich, 1, Rich in minerals)
-38. (Gehrlich, 1, Extreme temperatures)
-39. (Gehrlich, 1, New technologies)
-40. (Gehrlich, 1, Potential risks)
-41. (Gehrlich, 1, Earth-based microbes)
-42. (Gehrlich, 1, Volatile compounds)
-43. (Gehrlich, 1, Outweighed benefits)
-44. (Gehrlich, 1, Compelling case)1. ("Venus", "is the second planet from the sun", null)
-2. ("Venus", "is known as Earth's 'sister planet'", null)
-3. ("Venus' atmosphere", "is composed mostly of carbon dioxide", null)
-4. ("Venus' surface", "is covered in a layer of solid rock", null)
-5. ("Venus", "has a retrograde rotation", null)
-6. ("Venus", "is one of the hottest planets in our solar system", null)
-7. ("Venus' atmosphere", "creates a greenhouse effect", null)
-8. ("NASA's Venus Express spacecraft", "has been orbiting Venus since 2005", null)
-9. ("NASA's Magellan spacecraft", "completed its mission in 2004", null)
-10. ("Scientists", "are exploring Venus to learn more about the planet", "Venus")
-11. ("Venus' atmosphere", "is believed to be made up mostly of carbon dioxide", null)
-12. ("Venus' surface", "is home to enormous volcanoes", null)
-13. ("Venus' surface", "has sunk below the surface in some places", null)
-14. ("Venus' surface", "is covered in vast, rolling plateaus", null)
-15. ("Scientists", "are exploring the possibility of sending robotic missions to Venus", "Venus")
-16. ("Venus", "has potential for life", null)
-17. ("Venus", "is home to blazing white clouds that obscure the planet entirely", null)
-18. ("Venus", "is home to dazzling lightning storms", null)1. ("Venus", "is the second planet from the sun", "Sun")
-2. ("Venus", "is named after the Roman goddess of love, beauty, fertility, and war", "Venus (goddess)")
-3. ("Venus", "has a dense atmosphere composed mostly of carbon dioxide", "Carbon dioxide")
-4. ("Venus", "has clouds made of sulfuric acid", "Sulfuric acid")
-5. ("Venus", "has a surface temperature of over 460 degrees Celsius", "Temperature")
-6. ("Venus", "has a retrograde rotation", "Rotation")
-7. ("Venus", "has the largest volcano in our solar system", "Olympus Mons")
-8. ("Venus", "has a surface covered in volcanoes, mountains, and vast plains", "Surface")
-9. ("Venus", "has a thick, toxic atmosphere that makes it the hottest planet in our solar system", "Heat")
-10. ("Venus", "is the focus of numerous studies and missions", "Studies and missions")
-11. ("Sun", "is the center of our solar system", "Solar system")
-12. ("Carbon dioxide", "is the main component of Venus's atmosphere", "Venus")
-13. ("Sulfuric acid", "forms clouds in Venus's atmosphere", "Venus")
-14. ("Temperature", "reaches over 460 degrees Celsius on Venus's surface", "Venus")
-15. ("Rotation", "is retrograde in Venus's case", "Venus")
-16. ("Olympus Mons", "is the largest volcano in our solar system", "Venus")
-17. ("Surface", "is covered in volcanoes, mountains, and vast plains on Venus", "Venus")
-18. ("Heat", "is caused by Venus's thick atmosphere trapping heat in a runaway greenhouse effect", "Venus")
-19. ("Studies and missions", "are focused on understanding Venus's characteristics and potential for hosting life", "Venus")
-20. ("Water", "exists in the form of liquid lava flows, lakes and underground reservoirs on Venus", "Venus")
-21. ("Phosphorus", "is detected in traces on Venus", "Venus")
-22. ("Methane", "is detected in traces on Venus", "Venus")1. (Venus, has_property, is_a_fascinating_planet)
-2. (Venus, has_property, is_similar_in_size_and_mass_to_Earth)
-3. (Venus, has_property, has_extreme_temperatures)
-4. (Venus, has_property, has_thick_atmosphere)
-5. (Venus, has_property, has_runaway_greenhouse_effect)
-6. (Venus, has_property, is_shrouded_in_mystery)
-7. (Venus, has_property, has_thick_atmosphere_comprised_of_carbon_dioxide)
-8. (Venus, has_property, has_clouds_of_sulfuric_acid)
-9. (Venus, has_property, has_retrograde_rotation)
-10. (Venus, has_property, is_located_just_a_few_kilometers_from_Earth)
-11. (Magellan_spacecraft, performed_action_on, orbited_Venus)
-12. (NASA, sent_mission, Magellan_spacecraft)
-13. (Japanese_space_probe_Akatsuki, performed_action_on, studied_Venus_atmosphere)
-14. (NASA, upcoming_mission, DAVINCI_mission)
-15. (DAVINCI_mission, set_to_do, lands_on_Venus_in_2026)
-16. (Venus, has_property, may_have_once_had_conditions_suitable_for_life)
-17. (Scientists, have_been_working_on, exploring_Venus)
-18. (Space_agencies, have_sent, several_missions_to_Venus)
-19. (Magellan_spacecraft, provided, invaluable_information_about_Venus)
-20. (Akatsuki, encountered, extreme_heat_during_its_mission)
-21. (Venus, has_property, unique_rotation)
-22. (Venus, has_property, interaction_with_Earth_and_the_Moon_during_its_formation)
-23. (Scientists, are_still_studying, how_Venus_rotation_affects_its_climate_and_geology)
-24. (Venus, is_a_world_unlike_any_other_in_our_solar_system)
-25. (Continued_exploration, may_yet_reveal_Venus_secrets)
-26. (Exploration, provides, a_deeper_understanding_of_our_own_planet_and_the_universe_around_us)1. ("Venus", "has a rotation period of", "approximately 244 Earth days")
-2. ("Venus", "has a dense atmosphere that causes", "extreme temperature")
-3. ("Venus", "is believed to have had a more Earth-like climate in the past", "ancient Venus")
-4. ("Venus", "is currently being studied by", "MAVEN mission")
-5. ("MAVEN mission", "is currently providing valuable data on", "Venus's atmosphere")
-6. ("Venus", "is a planet with many mysteries that have yet to be unraveled", "future discoveries about Venus")
-7. ("Venus", "is often referred to as the ‘sister planet’ to Earth", "Earth")
-8. ("Venus", "has a thick atmosphere that traps heat in a runaway greenhouse effect", "greenhouse effect on Venus")
-9. ("Venus", "has evidence of ancient riverbeds, lakes, and seas on its surface", "geological features of Venus")
-10. ("Venus", "has a unique rotation period due to tidal locking", "tidal locking effect on Venus")
-11. ("Venus", "is currently being explored by various spacecraft missions", "space exploration of Venus")
-12. ("Venus", "is one of the few planets in our solar system capable of supporting life", "potential for life on Venus")
-13. ("Venus", "has a magnetic field much weaker than Earth's", "magnetic field of Venus")
-14. ("Venus", "has been the subject of several failed landing attempts", "previous landing attempts on Venus")
-15. ("Venus", "is a fascinating and complex world", "characteristics of Venus")1. ("Venus", "is known as", "Earth's sister planet")
-2. ("Venus", "has", "a rocky surface")
-3. ("Venus", "has", "an atmosphere")
-4. ("Venus", "has", "presence of water in the form of oceans and clouds")
-5. ("Venus", "has", "extreme greenhouse effect")
-6. ("Venus", "has", "thick, toxic atmosphere")
-7. ("Venus", "has", "natural greenhouse effect")
-8. ("Venus", "is home to", "strongest winds in the solar system")
-9. ("Venus", "is currently being studied", "scientists")
-10. ("Venus", "may have once been covered in oceans")
-11. ("Venus", "may be home to", "unique forms of life")
-12. ("Venus", "may have once supported life")
-13. ("Scientists", "are working on", "new, advanced spacecraft")
-14. ("Scientists", "are working on", "new methods of studying Venus")
-15. ("Venus", "presents", "challenges for scientists and explorers")
-16. ("Venus", "presents", "opportunities for scientific discovery")1. (Exploring Venus, 1, Venus)
-2. (Venus, 1, second planet from the Sun)
-3. (Venus, 6, closest planet to Earth)
-4. (Venus, 1, Earth's "sister planet")
-5. (Venus, 1, hottest planet in the solar system)
-6. (Venus, 1, planet with a thick, dense atmosphere)
-7. (Venus, 1, planet with a runaway greenhouse effect)
-8. (Venus, 1, planet with a surface temperature of about 860 degrees Fahrenheit)
-9. (Venus, 1, planet covered in thick layers of volcanic rock)
-10. (Venus, 1, planet covered in acidic clouds)
-11. (Magellan spacecraft, 1, launched in 1990)
-12. (Magellan spacecraft, 1, orbited Venus five times)
-13. (Magellan spacecraft, 1, mapped almost 100% of Venus' surface)
-14. (NASA, 1, sent Venus Express mission)
-15. (Venus Express mission, 1, sent to orbit Venus)
-16. (Venus Express mission, 1, collects data on Venus' atmosphere)
-17. (Magellan spacecraft, 6, created a detailed map of Venus' surface)
-18. (Magellan spacecraft, 1, used radar to determine Venus' topography)
-19. (Scientists, 1, studying Venus' atmosphere)
-20. (Scientists, 1, learning more about Venus' history)
-21. (Venus, 1, has volcanoes)
-22. (Venus, 1, has mountains)
-23. (Venus, 1, has vast oceans)
-24. (Venus, 1, has evidence of ancient river channels)
-25. (Akatsuki spaceprobe, 1, launched in 2012)
-26. (Akatsuki spaceprobe, 1, arrived at Venus in 2015)
-27. (Akatsuki spaceprobe, 1, began collecting data on Venus' atmosphere)
-28. (Magellan spacecraft, 1, discovered evidence of liquid water on Venus' surface)
-29. (NASA, 1, discovered liquid water on Venus' surface in 1970)
-30. (Venus, 1, has an atmosphere composed mostly of carbon dioxide)
-31. (Venus, 1, has very little nitrogen or oxygen in its atmosphere)
-32. (Venus, 1, has extreme temperatures)
-33. (Venus, 1, has over 90 times greater pressure than Earth)
-34. (Scientists, 1, studying Venus' potential habitability in its atmosphere)
-35. (Scientists, 1, searching for signs of trace gases in Venus' atmosphere)
-36. (Venus, 1, may have a more dynamic and varied climate than previously thought)1. ("Deep learning", "is a subset of", "Machine learning methods"),
-2. ("Deep learning", "uses", "Artificial neural networks"),
-3. ("Artificial neural networks", "are inspired by", "Biological systems"),
-4. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Computer vision"),
-5. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Speech recognition"),
-6. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Natural language processing"),
-7. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Machine translation"),
-8. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Bioinformatics"),
-9. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Drug design"),
-10. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Medical image analysis"),
-11. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Climate science"),
-12. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Material inspection"),
-13. ("Deep learning", "has produced results comparable to or surpassing human expert performance in", "Board game programs").1. ["Deep learning", "is a subset of", "Machine learning methods"],
-2. ["Deep learning", "uses", "Artificial neural networks (ANNs)"],
-3. ["Artificial neural networks (ANNs)", "are inspired by", "Biological systems"],
-4. ["Deep learning", "produces results comparable to or surpassing human expert performance in", "Various fields"],
-5. ["Various fields", "include", "Computer vision"],
-6. ["Various fields", "include", "Speech recognition"],
-7. ["Various fields", "include", "Natural language processing"],
-8. ["Various fields", "include", "Machine translation"],
-9. ["Various fields", "include", "Bioinformatics"],
-10. ["Various fields", "include", "Drug design"],
-11. ["Various fields", "include", "Medical image analysis"],
-12. ["Various fields", "include", "Climate science"],
-13. ["Various fields", "include", "Material inspection"],
-14. ["Various fields", "include", "Board game programs"].
+5. (Venusian winds, reach speeds of up to 2,500 kilometers per hour, null)
+6. (Scientists, are determined to explore Venus, null)
+7. (InSight mission, landed on Mars in 2018, null)
+8. (InSight mission, studied the deep interior of Venus, null)
+9. (InSight mission, used seismic waves to detect possible water underground, null)
+10. (NASA's Lockheed Martin, is set to launch in 2026, null)
+11. (Discovery Orbiter mission, will circle Venus for three years, null)
+12. (Discovery Orbiter mission, will study Venus's atmosphere, surface, and geological features, null)
+13. (Discovery Orbiter mission, is equipped with a suite of instruments, null)
+14. (Exploring Venus, is a complex and challenging endeavor, null)
+15. (Exploring Venus, has immense potential rewards, null)
+16. (Studying Venus, can help us understand the Earth's place in the solar system, null)
+17. (Studying Venus, can shed light on the possibility of life on other planets, null)
+18. (Studying Venus, can provide insights into the formation of the solar system, null)
+19. (Studying Venus, can contribute to new technologies and discoveries, null)
+20. (Studying Venus, is a necessary step towards exploring other planets, null)1. ("Venus", "has discovered", "liquid water in its subsurface oceans")
+2. ("Venus", "has an average planetary surface pressure", "92 times that of Earth")
+3. ("Atmosphere of Venus", "is primarily composed of", "carbon dioxide")
+4. ("Atmosphere of Venus", "contains significant amounts of", "sulfuric acid")
+5. ("Atmosphere of Venus", "contains significant amounts of", "nitric acid")
+6. ("Venus", "has geological activity")
+7. ("Venus", "has signs of past water erosion on its surface")
+8. ("Scientists", "are eager to learn more about", "Venus")
+9. ("Exploration missions to Venus", "are currently underway")
+10. ("Venus", "has a surface temperature that can reach up to", "900 degrees Fahrenheit")
+11. ("Venus", "is the second planet from the Sun")
+12. ("Venus", "is the closest planet to the Sun from Earth")
+13. ("Venus", "is often referred to as the ‘Queen of the Planets’")
+14. ("Venus", "has a thick, cloudy atmosphere")
+15. ("Venus", "has extreme weather conditions")
+16. ("Venus", "has a fast and dense atmosphere")
+17. ("Venus", "has winds that can reach speeds of 240 miles per hour")
+18. ("European Space Agency", "launched", "Venus Express spacecraft")
+19. ("Venus Express spacecraft", "orbited", "Venus")
+20. ("Venus Express spacecraft", "conducted a variety of measurements to study", "Venus’ atmosphere")
+21. ("Venus Express", "discovered new chemical compounds in the atmosphere")
+22. ("Venus Express", "provided evidence of geological activity on the planet’s surface")
+23. ("Scientists", "use detailed mathematical models to create simulations of", "Venus’ atmosphere and climate")
+24. ("Computer simulations and models", "can help researchers understand how", "Venus’ extreme conditions developed")
+25. ("Computer simulations and models", "can help refine the equipment used in space missions to Venus")1. ("Emily Lander", "argues", "Venus"),
+2. ("Venus", "provides", "insights into our planet's climate, atmosphere, and geology"),
+3. ("Venus", "is essential for space exploration"),
+4. ("Venus", "has many practical applications"),
+5. ("Venus", "is necessary for developing technology for deep space exploration"),
+6. ("Venus", "can provide insights about the origins of life on Earth and other planets"),
+7. ("Emily Lander", "presents strong evidence to support her claim"),
+8. ("Studying Venus", "is essential for understanding our planet's climate and geology"),
+9. ("Studying Venus", "developing technologies for space exploration"),
+10. ("Studying Venus", "provides insights into how life may have developed on Earth and other planets"),
+11. ("James Peterson", "argues that studying Venus is a worthy pursuit"),
+12. ("Venus", "presents unique challenges that scientists can learn from"),
+13. ("Venus", "could help us better understand the processes that have led to the formation of planets like our own"),
+14. ("Past missions to Venus", "have been successful in gathering valuable data"),
+15. ("Technologies developed for Venus missions", "could be applied to other areas"),
+16. ("James Peterson", "suggests that studying Venus is worth the risks and efforts involved"),
+17. ("James Peterson", "argues that many of the technologies developed for Venus missions could be applied to other areas"),
+18. ("Venus", "is a similar size and mass to Earth"),
+19. ("Venus", "is home to several potential resources"),
+20. ("Studying Venus", "is a key step in understanding the potential for life beyond Earth").1. ("James Peterson", "writes about", "Exploring Venus")
+2. ("Venus", "is similar in size and composition to", "Earth")
+3. ("Venus", "has an incredibly thick and toxic atmosphere", "")
+4. ("Venus", "has extremely high surface temperatures", "")
+5. ("Venus", "rotates in the opposite direction to Earth on its axis", "")
+6. ("Scientists and engineers", "believe that it is possible to develop technology to explore Venus")
+7. ("Venus", "could help us learn more about the early stages of planetary development", "")
+8. ("Venus", "could help us learn more about the potential for life beyond Earth", "")
+9. ("Venus", "has the hottest surface temperature of any planet in our solar system", "")
+10. ("Venus", "is believed to have undergone significant changes in its atmosphere over billions of years", "")
+11. ("Venus", "is believed to have had liquid water in its past", "")
+12. ("Scientists", "believe that it may still have some underground reservoirs of water today", "Venus")
+13. ("Missions to Venus", "would need to be equipped with a very advanced cooling system to survive the extreme temperatures", "")
+14. ("Venus' atmosphere", "is composed primarily of carbon dioxide with very high levels of sulfuric acid", "")
+15. ("Any mission to Venus", "would need to have a very advanced life-support system to protect any crew from the toxic atmosphere", "")
+16. ("Advanced cooling technology", "needs to be developed to withstand the extreme temperatures on Venus' surface", "")
+17. ("Advanced propulsion systems", "need to be developed to efficiently transport spacecraft to Venus", "")
+18. ("Scientists", "have been working hard to explore Venus in hopes of uncovering more about its secrets", "")
+19. ("Magellan spacecraft", "has provided a wealth of data about Venus' surface", "")
+20. ("Venus Express spacecraft", "is still busy studying Venus' atmosphere", "")

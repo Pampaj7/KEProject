@@ -1,143 +1,464 @@
-<Deep learning, is the subset of, machine learning methods>
-<Deep learning, based on, artificial neural networks>
-<Artificial neural networks, with, representation learning>
-<The adjective "deep", refers to, the use of multiple layers in the network>
-<Methods, can be, supervised>
-<Methods, can be, semi-supervised>
-<Methods, can be, unsupervised>
-<Deep-learning architectures, have been applied to, fields including computer vision>
-<Deep-learning architectures, have been applied to, speech recognition>
-<Deep-learning architectures, have been applied to, natural language processing>
-<Deep-learning architectures, have been applied to, machine translation>
-<Deep-learning architectures, have been applied to, bioinformatics>
-<Deep-learning architectures, have been applied to, drug design>
-<Deep-learning architectures, have been applied to, medical image analysis>
-<Deep-learning architectures, have been applied to, climate science>
-<Deep-learning architectures, have been applied to, material inspection>
-<Deep-learning architectures, have been applied to, board game programs>
-<Artificial neural networks, were inspired by, information processing>
-<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
-<Artificial neural networks, have, various differences from biological brains>
-<Artificial neural networks, tend to be, static and symbolic>
-<The biological brain of most living organisms, is, dynamic (plastic) and analog>
-<ANNs, are generally seen as, low quality models for brain function><Deep learning, is the subset of, machine learning methods>
-<Deep learning, based on, artificial neural networks>
-<Artificial neural networks, with, representation learning>
-<The adjective "deep", refers to, the use of multiple layers in the network>
-<Methods, can be, supervised>
-<Methods, can be, semi-supervised>
-<Methods, can be, unsupervised>
-<Deep-learning architectures, have been applied to, fields including computer vision>
-<Deep-learning architectures, have been applied to, speech recognition>
-<Deep-learning architectures, have been applied to, natural language processing>
-<Deep-learning architectures, have been applied to, machine translation>
-<Deep-learning architectures, have been applied to, bioinformatics>
-<Deep-learning architectures, have been applied to, drug design>
-<Deep-learning architectures, have been applied to, medical image analysis>
-<Deep-learning architectures, have been applied to, climate science>
-<Deep-learning architectures, have been applied to, material inspection>
-<Deep-learning architectures, have been applied to, board game programs>
-<Artificial neural networks, were inspired by, information processing>
-<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
-<Artificial neural networks, have, various differences from biological brains>
-<Artificial neural networks, tend to be, static and symbolic>
-<The biological brain of most living organisms, is, dynamic (plastic) and analog>
-<ANNs, are generally seen as, low quality models for brain function><Deep learning, is the subset of, machine learning methods>
-<Deep learning, based on, artificial neural networks>
-<Artificial neural networks, with, representation learning>
-<The adjective "deep", refers to, the use of multiple layers in the network>
-<Deep-learning architectures, have been applied to, fields including computer vision>
-<Deep-learning architectures, have been applied to, speech recognition>
-<Deep-learning architectures, have been applied to, natural language processing>
-<Deep-learning architectures, have been applied to, machine translation>
-<Deep-learning architectures, have been applied to, bioinformatics>
-<Deep-learning architectures, have been applied to, drug design>
-<Deep-learning architectures, have been applied to, medical image analysis>
-<Deep-learning architectures, have been applied to, climate science>
-<Deep-learning architectures, have been applied to, material inspection>
-<Deep-learning architectures, have been applied to, board game programs>
-<Artificial neural networks, were inspired by, information processing>
-<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
-<Artificial neural networks, have, various differences from biological brains>
-<Artificial neural networks, tend to be, static and symbolic>
-<The biological brain of most living organisms, is, dynamic (plastic) and analog>
-<ANNs, are generally seen as, low quality models for brain function><Deep learning, is the subset of, machine learning methods>
-<Deep learning, based on, artificial neural networks>
-<Artificial neural networks, with, representation learning>
-<The adjective "deep", refers to, the use of multiple layers in the network>
-<Deep-learning architectures, have been applied to, fields including computer vision>
-<Deep-learning architectures, have been applied to, speech recognition>
-<Deep-learning architectures, have been applied to, natural language processing>
-<Deep-learning architectures, have been applied to, machine translation>
-<Deep-learning architectures, have been applied to, bioinformatics>
-<Deep-learning architectures, have been applied to, drug design>
-<Deep-learning architectures, have been applied to, medical image analysis>
-<Deep-learning architectures, have been applied to, climate science>
-<Deep-learning architectures, have been applied to, material inspection>
-<Deep-learning architectures, have been applied to, board game programs>
-<Artificial neural networks, were inspired by, information processing>
-<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
-<Artificial neural networks, have, various differences from biological brains>
-<Artificial neural networks, tend to be, static and symbolic>
-<The biological brain of most living organisms, is, dynamic (plastic) and analog>
-<ANNs, are generally seen as, low quality models for brain function><Deep learning, is the subset of, machine learning methods>
-<Deep learning, based on, artificial neural networks>
-<Artificial neural networks, with, representation learning>
-<The adjective "deep", refers to, the use of multiple layers in the network>
-<Deep-learning architectures, have been applied to, fields including computer vision>
-<Deep-learning architectures, have been applied to, speech recognition>
-<Deep-learning architectures, have been applied to, natural language processing>
-<Deep-learning architectures, have been applied to, machine translation>
-<Deep-learning architectures, have been applied to, bioinformatics>
-<Deep-learning architectures, have been applied to, drug design>
-<Deep-learning architectures, have been applied to, medical image analysis>
-<Deep-learning architectures, have been applied to, climate science>
-<Deep-learning architectures, have been applied to, material inspection>
-<Deep-learning architectures, have been applied to, board game programs>
-<Artificial neural networks, were inspired by, information processing>
-<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
-<Artificial neural networks, have, various differences from biological brains>
-<Artificial neural networks, tend to be, static and symbolic>
-<The biological brain of most living organisms, is, dynamic (plastic) and analog>
-<ANNs, are generally seen as, low quality models for brain function><Deep learning, is the subset of, machine learning methods>
-<Deep learning, based on, artificial neural networks>
-<Artificial neural networks, with, representation learning>
-<The adjective "deep", refers to, the use of multiple layers in the network>
-<Deep-learning architectures, have been applied to, fields including computer vision>
-<Deep-learning architectures, have been applied to, speech recognition>
-<Deep-learning architectures, have been applied to, natural language processing>
-<Deep-learning architectures, have been applied to, machine translation>
-<Deep-learning architectures, have been applied to, bioinformatics>
-<Deep-learning architectures, have been applied to, drug design>
-<Deep-learning architectures, have been applied to, medical image analysis>
-<Deep-learning architectures, have been applied to, climate science>
-<Deep-learning architectures, have been applied to, material inspection>
-<Deep-learning architectures, have been applied to, board game programs>
-<Artificial neural networks, were inspired by, information processing>
-<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
-<Artificial neural networks, have, various differences from biological brains>
-<Artificial neural networks, tend to be, static and symbolic>
-<The biological brain of most living organisms, is, dynamic (plastic) and analog>
-<ANNs, are generally seen as, low quality models for brain function><Deep learning, is the subset of, machine learning methods>
-<Deep learning, based on, artificial neural networks>
-<Artificial neural networks, with, representation learning>
-<The adjective "deep", refers to, the use of multiple layers in the network>
-<Methods, can be, supervised>
-<Methods, can be, semi-supervised>
-<Methods, can be, unsupervised>
-<Deep-learning architectures, have been applied to, fields including computer vision>
-<Deep-learning architectures, have been applied to, speech recognition>
-<Deep-learning architectures, have been applied to, natural language processing>
-<Deep-learning architectures, have been applied to, machine translation>
-<Deep-learning architectures, have been applied to, bioinformatics>
-<Deep-learning architectures, have been applied to, drug design>
-<Deep-learning architectures, have been applied to, medical image analysis>
-<Deep-learning architectures, have been applied to, climate science>
-<Deep-learning architectures, have been applied to, material inspection>
-<Deep-learning architectures, have been applied to, board game programs>
-<Artificial neural networks, were inspired by, information processing>
-<Artificial neural networks, were inspired by, distributed communication nodes in biological systems>
-<Artificial neural networks, have, various differences from biological brains>
-<Artificial neural networks, tend to be, static and symbolic>
-<The biological brain of most living organisms, is, dynamic (plastic) and analog>
-<ANNs, are generally seen as, low quality models for brain function>
+<Venus, is one of, the most famous planets in our solar system>
+<Venus, has, extreme temperature>
+<Venus, has, atmospheric pressure>
+<Venus, has, volcanic activity>
+<scientists, are interested in studying, Venus>
+<author, supports, the idea that studying Venus is a worthy pursuit>
+<Dava Sobel, argues, that studying Venus is a worthy pursuit>
+<Sobel, describes, the planet's extreme conditions>
+<Sobel, describes, the difficulties involved in exploring Venus>
+<Sobel, highlights, the potential benefits of studying Venus>
+<author, provides, several examples of successful missions to Venus>
+<Magellan spacecraft, mapped, nearly 100% of the planet's surface>
+<Venera spacecraft series, explored, the surface of Venus>
+<Sobel, mentions, the challenges scientists have faced while studying Venus>
+<Sobel, argues, that studying Venus is still worthwhile>
+<Sobel, notes, that the planet's extreme conditions are not unique to it>
+<Sobel, argues, that there is potential for extraterrestrial life on Venus>
+<Dava Sobel, does an excellent job of supporting, the idea that studying Venus is a worthy pursuit>
+<Venus, is referred to as, Earth’s “sister planet”>
+<James Orr, argues, that studying Venus is a worthy pursuit>
+<Orr, acknowledges, that Venus is one of the hottest planets in our solar system>
+<Orr, contends, that studying Venus will help scientists gain a better understanding of our planet and the universe>
+<Orr, presents, the most compelling arguments>
+<Orr, contends, scientists can gain a deeper understanding of the Earth’s own geological and climate systems>
+<Orr, argues, that studying Venus is worthwhile>
+<Orr, suggests, that studying Venus could provide clues about the conditions needed for life to thrive>
+<James Orr, presents, a compelling case for why studying Venus is a worthy pursuit>
+<Venus, is referred to as, the Earth's "sister planet">
+<Venus, has, extreme weather>
+<Venus, has, atmospheric composition>
+<Venus' atmosphere, is made up almost entirely of, carbon dioxide>
+<Venus' atmosphere, has, clouds of sulfuric acid>
+<Venus, is, the hottest planet in our solar system>
+<Venus, has, surface temperatures reaching up to 900 degrees Fahrenheit>
+<Venus, lacks, liquid water on its surface>
+<Venus, is covered in, a thick layer><Venus, may not be completely devoid of, life>
+<researchers, have detected signs of, phosphine in Venus' atmosphere>
+<phosphine, is produced by, living organisms>
+<Venus, is, Earth's sister planet>
+<Venus, is similar in size to, Earth>
+<Venus, has, a significantly different atmospheric composition>
+<Venus, has, a thick atmosphere>
+<atmosphere, is composed primarily of, carbon dioxide>
+<Venus's surface, is, rocky and mountainous>
+<Venus, is the second planet from, the Sun>
+<Venus, goes through phases similar to, the Moon>
+<Venus, rotates in the opposite direction of, its orbit around the Sun>
+<The Mariner 10 mission, was the first successful deep-space spacecraft to study, Venus>
+<The Magellan orbiter, mapped about 98% of, the planet's surface>
+<Venus, is a candidate for, future human missions>
+<Venus, is roughly the same size as, Earth>
+<Venus, has, a similar atmosphere>
+<Venusian atmosphere, is, incredibly dense and suffocating>
+<scientists, believe that there may be, liquid water beneath Venus' thick crust>
+<NASA's Magellan spacecraft, was able to map almost 100% of, Venus' surface>
+<Venus, may have had, a much more Earth-like climate in the past>
+<NASA, has plans to launch, a new spacecraft>
+<the Dragonfly, to explore the surface of, Venus>
+<spacecraft, must be able to withstand, the harsh conditions of the planet><Venus, is, the second planet from the sun>
+<Venus, has, bright and enchanting visibility>
+<Venus, has, rich atmosphere>
+<Venus, has, hostile environment>
+<Venus, has, thick atmosphere composed primarily of carbon dioxide>
+<Venus, has, surface temperature around 865 degrees Fahrenheit>
+<Venus, has, toxic atmosphere>
+<Venus, has, water in its atmosphere>
+<Venus, has, retrograde rotation>
+<Venus, has, signs of geological activity>
+<Venus, may once have had, more Earth-like climate>
+<Venus, is, Earth's closest twin planet>
+<Venus, has, similar atmosphere, size, and gravity to Earth>
+<Nicolaus Copernicus, was one of the first to observe, Venus>
+<Soviet Union, sent, the first spacecraft to Venus>
+<Soviet Union, tried again with, Venera 2>
+<NASA, launched, the Magellan spacecraft>
+<Magellan, was to map, Venus's surface>
+<Magellan, showed, Venus has mountains, volcanoes, and vast oceans of lava>
+<European Space Agency, launched, Venus Express>
+<Venus Express, was designed to study, the planet's atmosphere>
+<Venus, has, thick atmosphere composed mostly of carbon dioxide>
+<Venus, has, clouds of sulfuric acid>
+<NASA's DAVINCI spacecraft, proposed a mission to search for, signs of past liquid water on Venus>
+<Venus, is also known as, the Earth's sister planet>
+<Venus, has, potential for supporting life>
+<Venus, has, thick atmosphere that is 95% carbon dioxide>
+<Venus, has, surface temperature up to 864 degrees Fahrenheit>
+<Venus, has, runaway greenhouse effect><probes, provide, detailed maps of Venus' surface>
+<probes, gather, data about the planet's atmosphere>
+<advancements in technology, make possible, venture into Venus' hostile environment>
+<exploration of Venus, contribute to, our understanding of the universe>
+<Venus, referred to as, Earth's sister planet>
+<Venus, is, the second planet from the sun>
+<Venus, has, thick and dense atmosphere>
+<Soviet Union, launched, Venera 2>
+<Magellan spacecraft, orbited, Venus>
+<European Space Agency (ESA), launched, the Venus Express spacecraft>
+<Russian Federal Space Agency ( Roscosmos), launched, the Venus Express spacecraft>
+<NASA's Venus Reconnaissance Orbiter (VRO), began sending, high-resolution images of the planet's surface>
+<VRO, is equipped with, specialized cameras and instruments>
+<scientists, study, Venus>
+<Venus, is, a vital piece of the puzzle when it comes to understanding our own solar system>
+<Venus, provides, a unique opportunity to study extreme conditions>
+<Venus, referred to as, Earth's "sister planet">
+<Venus, is, a very dense planet>
+<Venus, has, a thick atmosphere>
+<atmosphere of Venus, is composed primarily of, carbon dioxide>
+<atmosphere of Venus, has, clouds of sulfuric acid>
+<temperature on Venus, reaches, an average of 864 degrees Fahrenheit (462 degrees Celsius)>
+<scientists, have discovered, evidence that water might exist on the planet>
+<Venus, has, a very slow rotation period>
+<NASA, launched, the Perseverance rover to Mars>
+<Perseverance rover, will be sent, to Venus><Venus, is the second planet from, the sun>
+<Venus, is the Earth's sister planet, Earth>
+<Venus, is similar in size and composition to, Earth>
+<Venus, has, extreme temperatures>
+<Venus, has, a thick layer of clouds of sulfuric acid>
+<Venus, traps heat in, a runaway greenhouse effect>
+<Venus, is much hotter and more hostile to life than, Earth>
+<Venus, is believed to play a crucial role in the formation of, planets in the solar system>
+<Venus, has a similar geological makeup to, Earth>
+<Scientists, use indirect methods to study, Venus's geology>
+<Scientists, are exploring the possibility that Venus may have once had, conditions suitable for life>
+<Venus, is a rich source of information for, scientists studying our solar system>
+<Venus, is often called the Earth's, "sister planet">
+<Venus, has, a thick, toxic atmosphere>
+<Venus, is one of the hottest planets in, our solar system>
+<Venus, has, the planet's volcanoes>
+<Venus, has, mysterious rocky mountains>
+<Venus, is still a fascinating world to explore for, Scientists>
+<Venus, is essential to studying our own planet's climate and geology, Earth>
+<Venus, may also help us learn about the potential for habitability on, other planets in our solar system><Venus, has, thick atmosphere>
+<thick atmosphere, traps, heat>
+<Venus, is, hot>
+<Venus, is shrouded in, thick layer of clouds>
+<scientists, have been able to gather, information about Venus>
+<planet's atmosphere, is made up of, carbon dioxide>
+<atmosphere, means, very little oxygen>
+<Venus, has, unique rotation period>
+<Venus, takes, 243 Earth days to rotate on its axis>
+<rotation period, causes, daylight on Venus to last for several Earth weeks>
+<scientists, have seen, evidence of volcanic activity on Venus>
+<volcanic activity, suggests, heat sources within the planet's interior>
+<Venus, may have had, an ocean in the past>
+<Scientists, have found, rocks on the planet's surface>
+<rocks, are covered in, layers of salt>
+<Scientists, believe, there is still much to learn about the planet>
+<Venus, closest to, the sun>
+<Scientists, have been observing, Venus>
+<telescopic observations, have allowed scientists to determine, the planet's orbit>
+<telescopic observations, have allowed scientists to study, the planet's atmosphere>
+<first successful mission to Venus, was in, 1975>
+<Magellan mission, mapped, over 98% of Venus' surface>
+<first successful orbiter mission to Venus, was in, 1986>
+<scientists, have developed, a new way to study Venus>
+<Venus, is of particular interest to, astrobiologists>
+<scientists, are still trying to understand, why Venus has such an extreme atmosphere>
+<Venus, has, a dense atmosphere>
+<dense atmosphere, makes, it difficult for us to study directly>
+<scientists, are also trying to determine, what causes the planet's volcanic activity>.<Earth's atmosphere, is, thinner and less dense>
+<Earth's atmosphere, allows for, heat dissipation>
+<Earth's atmosphere, keeps, temperatures relatively stable>
+<Extreme temperatures, affect, Venus' environment>
+<Heat, creates, thick layer of clouds>
+<Clouds, made of, sulfuric acid>
+<Clouds, block out, sunlight>
+<Clouds, make, it difficult for scientists to observe the planet>
+<Clouds, provide, some protection for Venus' surface>
+<Clouds, absorb, some of the sun's harmful radiation>
+<Scientists, have found, evidence of geological activity on Venus>
+<Geological activity, includes, mountains and volcanoes>
+<Planet, may have once had, a more hospitable environment>
+<Scientists, face, intense atmosphere pressure>
+<Surface of Venus, has, pressure 92 times greater than on Earth>
+<Pressure, makes, it impossible for humans to explore>
+<Scientists, have found ways to study, Venus>
+<Scientists, use, space-based telescopes and probes>
+<Instruments, have allowed, them to observe Venus' atmosphere and climate>
+<Instruments, have allowed, them to study its geology from a distance>
+<Venus, is, roughly 10% larger than Earth>
+<Venus, has, a similar composition of rock and metal>
+<Scientists, believe, Venus may have once had much in common with Earth>
+<Scientists, have speculated, Venus may have once had life>
+<Venus, is, a fascinating and mysterious planet>
+<Venus, has, a lot to offer us>
+<Venus, serves as, a reminder that even in the face of extreme conditions, life can find a way to thrive>
+<Exploration of Venus, can provide, us with invaluable insights into our own planet's past and future>
+<Venus, is, the second planet from the sun>
+<Venus, is often called, Earth's "sister planet">
+<Venus, has, extreme heat and pressure on the planet's surface>
+<Venus, has, a thick atmosphere composed primarily of carbon dioxide>
+<Surface temperature on Venus, can reach, up to 900 degrees Fahrenheit>
+<Atmosphere on Venus, exerts, a crushing pressure of about 92 times greater than that on Earth>
+<Scientists, have relied on, remote sensing technologies to study Venus from orbit>
+<Scientists, have used, radar technology to map the surface of Venus>
+<Scientists, have detected, water vapor in the atmosphere of Venus>
+<Water on Venus, suggests, the planet may have had liquid water in the past>
+<Venus, has, unusual rotation>
+<Venus, rotates, on its axis in the opposite direction of most other planets in the solar system>
+<Venus, is, a fascinating and largely unexplored planet>
+<Venus, has, thick atmosphere>
+<Thick atmosphere, traps, heat from the Sun>
+<Thick atmosphere, creates, a runaway greenhouse effect>
+<Surface temperatures, reach, up to 900 degrees Fahrenheit>
+<Scientists, have discovered, rocks on the planet's surface that are rich in water>
+<Rocks, suggest, Venus may have once had an ocean on its surface>
+<NASA, is planning, a mission to explore Venus>
+<Venus Atmospheric Probe, is set to, launch in 2070>
+<Venus Atmospheric Probe, will use, a balloon-powered lander to study Venus' atmosphere>
+<Probe, is designed to, descend deep into the atmosphere>
+<Probe, will study, the clouds and atmospheric conditions>
+<Venus, has, the potential to teach us a lot about life in the universe><we, focus on, Mars>
+<Mars, has, potential for supporting life>
+<Venus, is, planet in our system>
+<Venus, is, closest planet to the Sun in our solar system>
+<Venus, has, average distance of 225 million miles>
+<Venus, has, surface temperatures up to 900 degrees Fahrenheit>
+<Venus, has, thick atmosphere>
+<Venus, is, sister planet to Earth>
+<NASA, has sent, several missions to Venus>
+<Magellan spacecraft, orbited, Venus>
+<Magellan spacecraft, mapped, 70% of the planet's surface>
+<Japanese space probe Akatsuki, orbited, Venus>
+<Japanese space probe Akatsuki, collected, data on the planet's atmosphere and surface conditions>
+<NASA, has proposed, plans for a new mission called the Venus Atmosphere and Magellan-Like Explorer (VAMLEX)>
+<Venus Atmosphere and Magellan-Like Explorer (VAMLEX), incorporates, several innovative features>
+<Venus, is, target for exploration in our solar system>
+<Venus, is, planet of love and beauty>
+<Venus, is, second planet from the sun>
+<Venus, is, brightest planet in the sky>
+<Venus, has, surface temperatures up to 900 degrees Fahrenheit>
+<Venus, has, atmosphere with pressures over 90 times greater than those on Earth>
+<Venus, has, massive volcanoes>
+<Venus, has, vast mountains>
+<Venus, has, icy polar caps>
+<Venus, has, potential to sustain life>
+<Venus, has, discovery of organic molecules>
+<Venus, is, Earth's sister planet>
+<Venus, is, dangerous planet>
+<Venus, is, hottest planet in our solar system>
+<Venus, has, thick atmosphere>
+<Magellan probe, orbited, Venus>
+<Magellan probe, provided, scientists with a wealth of data about the planet's atmosphere>
+<studying Venus, is, crucial step towards deep space exploration><The author, cites, potential benefits of studying Venus>
+<The author, provides, evidence of previous successful missions>
+<The author, emphasizes, importance of studying Venus in the context of deep space exploration>
+<The author, advocates, studying Venus>
+<Venus, is, the second planet in our solar system>
+<Venus, has, a thick and dense atmosphere>
+<The pressure on Venus, is, around 100 times greater than that on Earth>
+<The temperature on Venus, can reach, up to 460-degree Celsius>
+<Earth's atmosphere, is, relatively thin>
+<Earth's atmosphere, consists of, nitrogen and oxygen>
+<The pressure on Earth, is, only around 1,000 times greater>
+<The temperature on Earth, is, a comfortable 15-degree Celsius>
+<Venus, has, incredibly fast tropical climate>
+<Venus, rotates on its axis, in the opposite direction of most planets>
+<Venus, has, a day that lasts almost 24 Earth hours>
+<Venus, has, a runaway greenhouse effect>
+<Venus, is, much hotter than Earth>
+<The Magellan spacecraft, is orbiting, Venus>
+<The Magellan spacecraft, has discovered, vast, sweeping patterns of dark and light regions on the planet's surface>
+<The Magellan spacecraft, has discovered, Venetian continents>
+<Researchers, have recently discovered, evidence of geysers on Venus>
+<Venus, may have, underground water oceans>
+<Venus, is, a planet unlike any other in our solar system>
+<Venus, is characterized by, its thick atmosphere, fast tropical climate, and unique geological features>
+<Venus, is, inhospitable to humans>
+<Venus, offers, a wealth of knowledge about the formation and evolution of planets in our solar system>
+<Venus, is, one of the most fascinating planets in our solar system>
+<Venus, is often referred to as, the Earth's "sister planet">
+<Venus, is, the second planet from the sun>
+<Venus, is roughly, the same size as Earth>
+<Venus, has, a thick atmosphere>
+<Venus, is, one of the hottest planets in our solar system>
+<Venus, has, surface temperatures that can reach up to 460-degree Celsius>
+<Scientists, have discovered, there may be microbial life forms on the planet>
+<Venus, rotates, clockwise>
+<Venus, has, a retrograde rotation>
+<Venus, has, an interesting orbit>
+<Venus, moves through the sky, in a pattern known as "regression">
+<Venus, was once covered in, thick, flowing lava>
+<Venus, is, a rocky planet with a thick atmosphere>
+<Venus, is covered in, a thick layer of clouds><Earth, has, an atmosphere that is thin and breathable>
+<Venus, has, an atmosphere that is dense and toxic>
+<Venus, has, surface temperatures that can reach as high as 864 degrees Fahrenheit>
+<Venus, is, one of the hottest planets in our solar system>
+<The thick atmosphere of Venus, is responsible for, trapping heat from the sun>
+<Venus, is, almost uninhabitable to life as we know it>
+<NASA's Magellan spacecraft, has been, orbiting Venus>
+<NASA's Magellan spacecraft, has been, collecting data about its topography>
+<Venus, has, mountains>
+<Venus, has, vast plains>
+<Venus, has, a large volcano>
+<Venus Exploration Rover, have provided, a closer look at the planet's surface>
+<Venus Exploration Rover, have discovered, evidence of volcanic activity>
+<Venus, may have once had, an environment that was more like Earth>
+<Venus, may have once had, liquid water on its surface>
+<Venus, may have once had, a thin, breathable atmosphere>
+<Venus, evolved into, the hostile planet we see today>
+<Venus, has, a thick atmosphere>
+<Venus, has, extreme heat>
+<Venus, has, possible history of a more habitable environment>
+<Venus, is, the second planet from the sun>
+<Venus, is, the largest planet in our solar system>
+<Venus, is, the hottest planet in our solar system>
+<Venus, has, a thick atmosphere that traps heat and creates a greenhouse effect>
+<Venus, has, signs of ancient oceans and rivers>
+<Venus, has, evidence of volcanic activity>
+<Venus, experiences, massive storms>
+<Venus, is home to, some of the most interesting geological features in our solar system>
+<Venus, has, vast, dry lakes>
+<Venus, has, towering volcanoes>
+<Venus, has, deep canyons>
+<Venus, has, intense volcanic activity>
+<Venus, has, extreme climate>
+<John Doe, presents, a compelling argument for why studying Venus is a worthy pursuit>
+<John Doe, acknowledges, the risks of exploring Venus>
+<John Doe, argues, that the potential benefits of studying Venus outweigh the risks>
+<John Doe, cites, evidence from successful missions to Venus>
+<Magellan mission, mapped, 100% of the planet's surface>
+<John Doe, points out, that studying Venus has practical applications>
+<Venus, is, the second planet from the sun>
+<Venus, is, often referred to as the "sister planet" of Earth>
+<Venus, is, located in the "inner solar system">
+<Venus, is, about 70 miles larger than Earth>
+<Venus, has, a thick atmosphere>
+<Venus, has, surface temperatures reaching><Venus, is enveloped in, a thick layer of sulfuric clouds>
+<Scientists, have made, discoveries about Venus>
+<Scientists, have studied, Venus from space>
+<The Magellan spacecraft, orbited, Venus>
+<The Magellan spacecraft, provided, detailed images of the planet's entire surface>
+<Scientists, identify, features such as impact craters, volcanoes, and mountains>
+<NASA's Venus Express spacecraft, discovered, evidence of water vapor in the atmosphere>
+<Venus, might have, an ocean>
+<Scientists, continue to make, new discoveries about Venus>
+<Venus, presents, challenges for scientists>
+<Scientists, have made, many interesting discoveries>
+<Venus, has been, one of the most studied planets in our solar system>
+<Venus, is located in, our solar system>
+<Venus, is, the closest planet to earth>
+<The atmosphere of Venus, is composed of, carbon dioxide>
+<The atmosphere of Venus, is made of, sulfuric acid>
+<The atmospheric pressure on Venus, is over, 90 times that on Earth>
+<The planet, has, an extremely intense greenhouse effect>
+<The surface of Venus, is full of, fascinating features>
+<Scientists, have discovered, evidence of water on Venus>
+<Studying Venus, is important for, several reasons>
+<Scientists, hope to sent, spacecraft to Venus>
+<Venus, is, the second planet from the sun>
+<Venus, is, the closest planet to Earth>
+<Venus, is, incredibly dense>
+<The surface temperatures on Venus, can reach up to, 464 degrees Celsius><scientists, trying to explore, Venus>
+<Venus, has, thick atmosphere>
+<Venus, lacks, liquid water on the surface>
+<Venusian winds, reach, speeds of up to 2,500 kilometers per hour>
+<scientists, are determined to explore, Venus>
+<InSight mission, landed on, Mars in 2018>
+<InSight mission, designed to study, deep interior of Venus>
+<InSight mission, used, seismic waves>
+<InSight mission, detect, possible water underground>
+<InSight mission, made, important discoveries about the planet's structure and composition>
+<upcoming mission to Venus, by, NASA's Lockheed Martin>
+<Discovery Orbiter mission, set to launch in, 2026>
+<Discovery Orbiter mission, will circle, Venus>
+<Discovery Orbiter mission, studying, its atmosphere, surface, and geological features>
+<Discovery Orbiter mission, will be equipped with, a suite of exciting instruments>
+<exploring Venus, is, a complex and challenging endeavor>
+<advances in technology, commitment to exploration, Venus>
+<author, put forth, argument for the importance of studying Venus>
+<studying Venus, is essential to understand, the Earth's place in the solar system>
+<studying Venus, could lead to, important scientific discoveries>
+<studying Venus, could shed light on, the possibility of life on other planets>
+<studying Venus, using, radio waves>
+<studying Venus, using, instruments on the Magellan spacecraft>
+<studying Venus, is, a worthy pursuit>
+<Venus, is known for, its extreme temperatures and toxic atmosphere>
+<exploration, helps us understand, the universe better>
+<exploration, can contribute to, new technologies and discoveries>
+<studying Venus, can help us understand, the origins of the solar system>
+<studying Venus, can provide, insights into the formation of the system>
+<studying Venus, can help develop, new materials for spacecraft components, batteries and electronics>
+<studying Venus, is a necessary step towards, exploring other planets in the solar system>
+<Venus, has, similar geological features to Earth>
+<Venus, has, an abundance of heavy iron and metallic compounds>
+<Venus, is, the second planet from the sun>
+<Venus, is, the closest planet to Earth>
+<Venus, is shrouded in, thick clouds of sulfuric acid><Venus, can reach up to, 900 degrees Fahrenheit>
+<space exploration missions, have uncovered, information about Venus's atmosphere>
+<space exploration missions, have uncovered, potential habitability>
+<Venus, is the existence of, liquid water in its subsurface oceans>
+<Venus, may have once harbored, life>
+<researchers, believe, there may still be life on Venus>
+<scientists, have made measurements about, Venus's atmosphere>
+<atmosphere on Venus, is, thick and pressurized>
+<average planetary surface pressure of Venus, is, 92 times that of Earth>
+<atmosphere on Venus, is primarily composed of, carbon dioxide>
+<atmosphere on Venus, contains, sulfuric acid>
+<atmosphere on Venus, contains, nitric acid>
+<Venus, has, several volcanoes>
+<Venus, has, mountains>
+<Venus, shows signs of, past water erosion>
+<space exploration missions, are currently underway to, Venus>
+<scientists, believe, Venus still holds the potential for habitability>
+<Venus, is the second planet from, the sun>
+<Venus, has been called, an Earth-like>
+<Venus, has been called, a scorching hellhole>
+<atmosphere of Venus, is full of, carbon dioxide>
+<clouds on Venus, are made of, sulfuric acid>
+<scientists, are able to study, Venus>
+<NASA’s Magellan spacecraft, orbited, Venus>
+<Japanese space probe Akatsuki, was launched into orbit and began collecting data on, Venus’ atmosphere>
+<Japanese space probe Akatsuki, was launched into orbit and began collecting data on, Venus’ surface>
+<NASA’s Perseverance rover, landed on, Mars>
+<Venus, might have been home to, liquid water>
+<Venus, might have been home to, life>
+<Venus, is the second planet from, the Sun>
+<Venus, is the closest planet to the Sun from, Earth>
+<atmosphere of Venus, can create, a runaway greenhouse effect>
+<surface temperature of Venus, can reach up to, 864 degrees Fahrenheit>
+<Venus, has, a fast and dense atmosphere>
+<winds on Venus, can reach speeds of, 240 miles per hour>
+<European Space Agency, launched, the Venus Express spacecraft>
+<Venus Express spacecraft, orbited, Venus>
+<Venus Express, discovered, new chemical compounds in the atmosphere>
+<Venus Express, provided evidence of, geological activity on the planet’s surface>
+<scientists, use, computer simulations and models>
+<scientists, use, detailed mathematical models>
+<scientists, create, simulations of the planet’s atmosphere>
+<scientists, create, simulations of the planet’s climate><Emily Lander, presents, argument in her article "The Challenge of Exploring Venus">
+<Emily Lander, argues, studying Venus is a valuable project>
+<Emily Lander, argues, studying Venus is essential for space exploration>
+<Emily Lander, points out, Venus is the closest planet to Earth>
+<Emily Lander, argues, studying Venus can provide us with insights about the origins of life on Earth>
+<Emily Lander, supports, her claim that studying Venus is a worthy pursuit>
+<Emily Lander, presents, strong evidence to support her claim>
+<The study of Venus, has been, a subject of fascination and interest>
+<The author, argues, studying Venus is a worthy pursuit despite the dangers it presents>
+<Venus, is, a similar size and mass to Earth>
+<Venus, is home to, several potential resources>
+<The author, acknowledges, the dangers that come with exploring Venus>
+<The author, suggests, these dangers should not deter us from studying Venus>
+<James Peterson, argues, studying Venus is a worthy pursuit>
+<James Peterson, points out, Venus presents unique challenges that scientists can learn from>
+<James Peterson, argues, studying Venus could help us better understand the processes that have led to the formation of planets like our own>
+<James Peterson, presents, the success of past missions to Venus>
+<James Peterson, suggests, these successes demonstrate that studying Venus is worth the risks and efforts involved>
+<James Peterson, turns to, the potential impact of Venus research on human society><James Peterson, supports, studying Venus>
+<Venus, is, second planet from the sun>
+<Venus, has, thick and toxic atmosphere>
+<Venus, has, high surface temperatures>
+<Venus, rotates in, opposite direction to Earth>
+<Scientists and engineers, believe, it is possible to develop technology for Venus exploration>
+<Venus, could help us learn more about, early stages of planetary development>
+<Venus, believed to have, liquid water in its past>
+<Venus, believed to have, underground reservoirs today>
+<Venus, has, hottest surface temperature of any planet in our solar system>
+<Venus, caused by, runaway greenhouse effect>
+<Venus' atmosphere, composed primarily of, carbon dioxide>
+<Venus' atmosphere, has, high levels of sulfuric acid>
+<Advanced cooling technology, need to be developed for, Venus exploration>
+<Advanced propulsion systems, need to be developed for, Venus exploration>
+<Soviet Union, sent, first space probe to Venus in 1970>
+<Magellan spacecraft, provided, data about the planet's surface>
+<European Space Agency's Venus Express spacecraft, studying, the planet's atmosphere>

@@ -17,6 +17,7 @@ def process_text(text):
         # Here, you call GPTResponse or modelsResponse for each chunk
         # Assuming GPTResponse is adapted to handle a text chunk and store its output
         te.modelsResponse(chunk)
+        te.GPTResponse(chunk)
         # modelsResponse could be similarly adapted if needed
 
 
