@@ -1,38 +1,40 @@
-@prefix ns1: <http://example.org/myontology/> .
-@prefix ns2: <http://example.org/myontology/itseemslikeyouwouldlikemetoextracttriplesfromthetextyouprovidedIsthatcorrect?> .
-@prefix ns3: <http://example.org/myontology/Idbehappytohelp!> .
+@prefix ns1: <http://example.org/myontology/Idbehappytohelp!> .
+@prefix ns2: <http://example.org/myontology/> .
+@prefix ns3: <http://example.org/myontology/itseemslikeyouwouldlikemetoextracttriplesfromthetextyouprovidedIsthatcorrect?> .
 
-<http://example.org/myontology/Hello!ImheretohelpyouwithanyquestionsortasksyoumayhaveBasedonyourpreviousmessage> ns2:Ifso ns3: .
+<http://example.org/myontology/Hello!ImheretohelpyouwithanyquestionsortasksyoumayhaveBasedonyourpreviousmessage> ns3:Ifso ns1: .
 
-<http://example.org/myontology/Ihopethathelps!LetmeknowifyouhaveanyotherquestionsoriftheresanythingelseIcanassistyouwithSure!IllbehappytohelpyouextracttriplesfromthetextyouprovidedHerearethetriplesformattedasnamedentityA> ns1:relation ns1:namedentityBbasedonthetext .
+<http://example.org/myontology/Ihopethathelps!LetmeknowifyouhaveanyotherquestionsoriftheresanythingelseIcanassistyouwithSure!IllbehappytohelpyouextracttriplesfromthetextyouprovidedHerearethetriplesformattedasnamedentityA> ns2:relation ns2:namedentityBbasedonthetext .
 
-<http://example.org/myontology/Ihopethishelps!LetmeknowifyouhaveanyotherquestionsSure> ns3:Basedontheprovidedtestimony ns1:Ihaveextractedthefollowingtriples ;
-    ns3:Basedontheprovidedtext ns1:Icanextractthefollowingtriples .
+<http://example.org/myontology/Ihopethishelps!LetmeknowifyouhaveanyotherquestionsSure> ns1:Basedontheprovidedtestimony ns2:Ihaveextractedthefollowingtriples ;
+    ns1:Basedontheprovidedtext ns2:Icanextractthefollowingtriples .
 
-ns1:Venushasmountains ns1:volcanoes ns1:andvastoceansoflavaEarth .
+<http://example.org/myontology/PleaseletmeknowiftheresanythingelseIcanhelpwith!Hello!ImheretohelpyouwithanyquestionsortasksyoumayhaveBasedonyourpreviousmessage> ns3:Ifso ns1: .
 
-ns1:Venus ns1:extremetemperatures ns1:Earth ;
-    ns1:geology ns1:uniquefeatures ;
-    ns1:has ns1:challengingenvironmentforlife,
-        ns1:intensegreenhouseeffect,
-        ns1:surfacetemperaturesofuptodegreesCelsius,
-        ns1:thickatmosphere,
-        ns1:uniquefeatures ;
-    ns1:hasacrushingpressure ns1:withatmosphericpressuretimesgreaterthanEarth ;
-    ns1:hasasimilarcompositiontoEarth ns1:withasimilarsizeandrockycomposition ;
-    ns1:hasathickatmosphere ns1:composedofcarbondioxide ;
-    ns1:hasevidenceofgeologicalactivity ns1:includingmountainsandvolcanoes ;
-    ns1:hasextremetemperatures ns1:withsurfacetemperaturesreachingdegreesFahrenheit ;
-    ns1:inhospitableenvironment ns1:challengingtostudy ;
-    ns1:is ns1:closestplanettoEarth,
-        ns1:fascinatingandmysteriousplanet,
-        ns1:targetforresearch ;
-    ns1:mountains ns1:highelevation ;
-    ns1:mysteriousrockymountains ns1:oldformation ;
-    ns1:potentialforhabitability ns1:otherplanetsinthesolarsystem ;
-    ns1:similarity ns1:Earth ;
-    ns1:thickatmosphere ns1:runawaygreenhouseeffect ;
-    ns1:volcanoes ns1:activegeology .
+ns2:Venushasmountains ns2:volcanoes ns2:andvastoceansoflavaEarth .
 
-ns1:Earth ns1:islargerthan ns1:Venus .
+ns2:Venus ns2:extremetemperatures ns2:Earth ;
+    ns2:geology ns2:uniquefeatures ;
+    ns2:has ns2:challengingenvironmentforlife,
+        ns2:intensegreenhouseeffect,
+        ns2:surfacetemperaturesofuptodegreesCelsius,
+        ns2:thickatmosphere,
+        ns2:uniquefeatures ;
+    ns2:hasacrushingpressure ns2:withatmosphericpressuretimesgreaterthanEarth ;
+    ns2:hasasimilarcompositiontoEarth ns2:withasimilarsizeandrockycomposition ;
+    ns2:hasathickatmosphere ns2:composedofcarbondioxide ;
+    ns2:hasevidenceofgeologicalactivity ns2:includingmountainsandvolcanoes ;
+    ns2:hasextremetemperatures ns2:withsurfacetemperaturesreachingdegreesFahrenheit ;
+    ns2:inhospitableenvironment ns2:challengingtostudy ;
+    ns2:is ns2:closestplanettoEarth,
+        ns2:fascinatingandmysteriousplanet,
+        ns2:targetforresearch ;
+    ns2:mountains ns2:highelevation ;
+    ns2:mysteriousrockymountains ns2:oldformation ;
+    ns2:potentialforhabitability ns2:otherplanetsinthesolarsystem ;
+    ns2:similarity ns2:Earth ;
+    ns2:thickatmosphere ns2:runawaygreenhouseeffect ;
+    ns2:volcanoes ns2:activegeology .
+
+ns2:Earth ns2:islargerthan ns2:Venus .
 

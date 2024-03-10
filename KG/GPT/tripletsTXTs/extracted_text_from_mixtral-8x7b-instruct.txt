@@ -275,4 +275,51 @@
 26. <Magellan spacecraft, sent to, Venus in 1990>
 27. <Venus Express spacecraft, launched in, 2004>
 28. <Magellan spacecraft, still in, operation>
-29. <Venus Express spacecraft, still studying, Venus' atmosphere>
+29. <Venus Express spacecraft, still studying, Venus' atmosphere>1. <Venus, is referred to as, Earth's "sister planet">
+2. <Venus, is the second planet from, the sun>
+3. <Venus, has extreme temperatures, up to 460 degrees Celsius>
+4. <Venus, has atmospheric pressure, 92 times greater than Earth's>
+5. <Venus, has similarities in geological history, with Earth>
+6. <Venus, has potential to support, life>
+7. <Venus, has atmosphere composed of, almost entirely carbon dioxide>
+8. <Venus, has clouds of, sulfuric acid>
+9. <Venus, has surface temperatures reaching up to, 900 degrees Fahrenheit>
+10. <Venus, lacks, liquid water on its surface>
+11. <Venus, has a runaway greenhouse effect, in its atmosphere>
+12. <Venus, has a thick layer, on its surface>
+13. <Studying Venus, provides insights into, Earth's geological and climate systems>
+14. <Studying Venus, provides clues about, the conditions needed for life>
+15. <Studying Venus, helps develop strategies to sustain, life on Earth and Mars>1. <Venus, is referred to as, Earth's "sister planet">
+2. <Venus, is the second planet from, the sun>
+3. <Venus, has extreme temperatures, up to 460 degrees Celsius>
+4. <Venus, has atmospheric pressure, 92 times greater than Earth's>
+5. <Venus, has similarities with, Earth's geological history>
+6. <Venus, has potential to support, life>
+7. <Venus, has atmosphere composed of, almost entirely carbon dioxide>
+8. <Venus, has clouds of, sulfuric acid>
+9. <Venus, has surface temperatures reaching up to, 900 degrees Fahrenheit>
+10. <Venus, lacks, liquid water on its surface>
+11. <Venus, has a thick layer covering its surface, a thick layer>
+12. <Studying Venus, provides insights into, Earth's geological and climate systems>
+13. <Studying Venus, provides clues about, the conditions needed for life to thrive>
+14. <Studying Venus, helps develop strategies to sustain, life on Earth and Mars>
+15. <The study of Venus, unlocks new insights into, our own planet and the universe>1. <Venus, is known as, Earth's sister planet>, 
+2. <Venus, has, extreme temperatures>, 
+3. <Venus, has, a thick atmosphere composed primarily of carbon dioxide>, 
+4. <Venus, has, clouds made of sulfuric acid>, 
+5. <Venus, has, a rocky and mountainous surface>, 
+6. <Venus, has, volcanoes and craters scattered across the planet>, 
+7. <Venus, has, an average surface temperature reaching up to 460°C (860°F)>, 
+8. <Venus, was observed telescopically, in the 17th century>, 
+9. <Venus, goes through phases, similar to those of the Moon>, 
+10. <Venus, has a retrograde rotation, which means that it rotates in the opposite direction of its orbit around the Sun>, 
+11. <Venus, was studied by the Mariner 10 mission, in 1973>, 
+12. <Venus, was mapped by the Magellan orbiter, in 1990>, 
+13. <Venus, is a target, for future exploration>, 
+14. <Venus, has plans, to send rovers to explore its surface>, 
+15. <Venus, is a candidate, for future human missions>, 
+16. <Venus, has, ongoing efforts to develop technologies for safe and efficient exploration>, 
+17. <Venus, may have, liquid water beneath its thick crust>, 
+18. <Venus, may have had, a much more Earth-like climate in the past>, 
+19. <Venus, has, a runaway greenhouse effect>, 
+20. <Venus, may have, extraterrestrial life on the planet>.

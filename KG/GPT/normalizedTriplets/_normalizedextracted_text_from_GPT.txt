@@ -1,438 +1,470 @@
-Venus, isoneof, themostfamousplanetsinoursolarsystem
-Venus, has, extremetemperature
-Venus, has, atmosphericpressure
-Venus, has, volcanicactivity
-scientists, areinterestedinstudying, Venus
-author, supports, theideathatstudyingVenusisaworthypursuit
-DavaSobel, argues, thatstudyingVenusisaworthypursuit
-Sobel, describes, theplanetsextremeconditions
-Sobel, describes, thedifficultiesinvolvedinexploringVenus
-Sobel, highlights, thepotentialbenefitsofstudyingVenus
-author, provides, severalexamplesofsuccessfulmissionstoVenus
-Magellanspacecraft, mapped, nearly%oftheplanetssurface
-Veneraspacecraftseries, explored, thesurfaceofVenus
-Sobel, mentions, thechallengesscientistshavefacedwhilestudyingVenus
-Sobel, argues, thatstudyingVenusisstillworthwhile
-Sobel, notes, thattheplanetsextremeconditionsarenotuniquetoit
-Sobel, argues, thatthereispotentialforextraterrestriallifeonVenus
-DavaSobel, doesanexcellentjobofsupporting, theideathatstudyingVenusisaworthypursuit
-Venus, isreferredtoas, Earth’s“sisterplanet”
-JamesOrr, argues, thatstudyingVenusisaworthypursuit
-Orr, acknowledges, thatVenusisoneofthehottestplanetsinoursolarsystem
-Orr, contends, thatstudyingVenuswillhelpscientistsgainabetterunderstandingofourplanetandtheuniverse
-Orr, presents, themostcompellingarguments
-Orr, contends, scientistscangainadeeperunderstandingoftheEarth’sowngeologicalandclimatesystems
-Orr, argues, thatstudyingVenusisworthwhile
-Orr, suggests, thatstudyingVenuscouldprovidecluesabouttheconditionsneededforlifetothrive
-JamesOrr, presents, acompellingcaseforwhystudyingVenusisaworthypursuit
-Venus, isreferredtoas, theEarthssisterplanet
-Venus, has, extremeweather
-Venus, has, atmosphericcomposition
-Venusatmosphere, ismadeupalmostentirelyof, carbondioxide
-Venusatmosphere, has, cloudsofsulfuricacid
-Venus, is, thehottestplanetinoursolarsystem
-Venus, has, surfacetemperaturesreachinguptodegreesFahrenheit
-Venus, lacks, liquidwateronitssurface
-researchers, havedetectedsignsof, phosphineinVenusatmosphere
-phosphine, isproducedby, livingorganisms
-Venus, is, Earthssisterplanet
-Venus, issimilarinsizeto, Earth
-Venus, has, asignificantlydifferentatmosphericcomposition
-Venus, has, athickatmosphere
-atmosphere, iscomposedprimarilyof, carbondioxide
-Venusssurface, is, rockyandmountainous
-Venus, isthesecondplanetfrom, theSun
-Venus, goesthroughphasessimilarto, theMoon
-Venus, rotatesintheoppositedirectionof, itsorbitaroundtheSun
-TheMarinermission, wasthefirstsuccessfuldeepspacespacecrafttostudy, Venus
-TheMagellanorbiter, mappedabout%of, theplanetssurface
-Venus, isacandidatefor, futurehumanmissions
-Venus, isroughlythesamesizeas, Earth
-Venus, has, asimilaratmosphere
-Venusianatmosphere, is, incrediblydenseandsuffocating
-scientists, believethattheremaybe, liquidwaterbeneathVenusthickcrust
-NASAsMagellanspacecraft, wasabletomapalmost%of, Venussurface
-Venus, mayhavehad, amuchmoreEarthlikeclimateinthepast
-NASA, hasplanstolaunch, anewspacecraft
-theDragonfly, toexplorethesurfaceof, Venus
-Venus, has, brightandenchantingvisibility
-Venus, has, richatmosphere
-Venus, has, hostileenvironment
-Venus, has, thickatmospherecomposedprimarilyofcarbondioxide
-Venus, has, surfacetemperaturearounddegreesFahrenheit
-Venus, has, toxicatmosphere
-Venus, has, waterinitsatmosphere
-Venus, has, retrograderotation
-Venus, has, signsofgeologicalactivity
-Venus, mayoncehavehad, moreEarthlikeclimate
-Venus, is, Earthsclosesttwinplanet
-NicolausCopernicus, wasoneofthefirsttoobserve, Venus
-SovietUnion, sent, thefirstspacecrafttoVenus
-SovietUnion, triedagainwith, Venera
-NASA, launched, theMagellanspacecraft
-Magellan, wastomap, Venusssurface
-EuropeanSpaceAgency, launched, VenusExpress
-VenusExpress, wasdesignedtostudy, theplanetsatmosphere
-Venus, has, thickatmospherecomposedmostlyofcarbondioxide
-Venus, has, cloudsofsulfuricacid
-NASAsDAVINCIspacecraft, proposedamissiontosearchfor, signsofpastliquidwateronVenus
-Venus, isalsoknownas, theEarthssisterplanet
-Venus, has, potentialforsupportinglife
-Venus, has, thickatmospherethatis%carbondioxide
-Venus, has, surfacetemperatureuptodegreesFahrenheit
-probes, gather, dataabouttheplanetsatmosphere
-advancementsintechnology, makepossible, ventureintoVenushostileenvironment
-explorationofVenus, contributeto, ourunderstandingoftheuniverse
-Venus, referredtoas, Earthssisterplanet
-Venus, is, thesecondplanetfromthesun
-Venus, has, thickanddenseatmosphere
-SovietUnion, launched, Venera
-Magellanspacecraft, orbited, Venus
-EuropeanSpaceAgencyESA, launched, theVenusExpressspacecraft
-RussianFederalSpaceAgencyRoscosmos, launched, theVenusExpressspacecraft
-NASAsVenusReconnaissanceOrbiterVRO, begansending, highresolutionimagesoftheplanetssurface
-VRO, isequippedwith, specializedcamerasandinstruments
+Venus, is one of, the most famous planets in our solar system
+Venus, has, extreme temperature
+Venus, has, atmospheric pressure
+Venus, has, volcanic activity
+scientists, are interested in studying, Venus
+author, supports, the idea that studying Venus is a worthy pursuit
+Dava Sobel, argues, that studying Venus is a worthy pursuit
+Sobel, describes, the planets extreme conditions
+Sobel, describes, the difficulties involved in exploring Venus
+Sobel, highlights, the potential benefits of studying Venus
+author, provides, several examples of successful missions to Venus
+Magellan spacecraft, mapped, nearly % of the planets surface
+Venera spacecraft series, explored, the surface of Venus
+Sobel, mentions, the challenges scientists have faced while studying Venus
+Sobel, argues, that studying Venus is still worthwhile
+Sobel, notes, that the planets extreme conditions are not unique to it
+Sobel, argues, that there is potential for extraterrestrial life on Venus
+Dava Sobel, does an excellent job of supporting, the idea that studying Venus is a worthy pursuit
+Venus, is referred to as, Earth’s “sister planet”
+James Orr, argues, that studying Venus is a worthy pursuit
+Orr, acknowledges, that Venus is one of the hottest planets in our solar system
+Orr, contends, that studying Venus will help scientists gain a better understanding of our planet and the universe
+Orr, presents, the most compelling arguments
+Orr, contends, scientists can gain a deeper understanding of the Earth’s own geological and climate systems
+Orr, argues, that studying Venus is worthwhile
+Orr, suggests, that studying Venus could provide clues about the conditions needed for life to thrive
+James Orr, presents, a compelling case for why studying Venus is a worthy pursuit
+Venus, is referred to as, the Earths sister planet
+Venus, has, extreme weather
+Venus, has, atmospheric composition
+Venus atmosphere, is made up almost entirely of, carbon dioxide
+Venus atmosphere, has, clouds of sulfuric acid
+Venus, is, the hottest planet in our solar system
+Venus, has, surface temperatures reaching up to  degrees Fahrenheit
+Venus, lacks, liquid water on its surface
+researchers, have detected signs of, phosphine in Venus atmosphere
+phosphine, is produced by, living organisms
+Venus, is, Earths sister planet
+Venus, is similar in size to, Earth
+Venus, has, a significantly different atmospheric composition
+Venus, has, a thick atmosphere
+atmosphere, is composed primarily of, carbon dioxide
+Venuss surface, is, rocky and mountainous
+Venus, is the second planet from, the Sun
+Venus, goes through phases similar to, the Moon
+Venus, rotates in the opposite direction of, its orbit around the Sun
+The Mariner  mission, was the first successful deepspace spacecraft to study, Venus
+The Magellan orbiter, mapped about % of, the planets surface
+Venus, is a candidate for, future human missions
+Venus, is roughly the same size as, Earth
+Venus, has, a similar atmosphere
+Venusian atmosphere, is, incredibly dense and suffocating
+scientists, believe that there may be, liquid water beneath Venus thick crust
+NASAs Magellan spacecraft, was able to map almost % of, Venus surface
+Venus, may have had, a much more Earthlike climate in the past
+NASA, has plans to launch, a new spacecraft
+the Dragonfly, to explore the surface of, Venus
+Venus, has, bright and enchanting visibility
+Venus, has, rich atmosphere
+Venus, has, hostile environment
+Venus, has, thick atmosphere composed primarily of carbon dioxide
+Venus, has, surface temperature around  degrees Fahrenheit
+Venus, has, toxic atmosphere
+Venus, has, water in its atmosphere
+Venus, has, retrograde rotation
+Venus, has, signs of geological activity
+Venus, may once have had, more Earthlike climate
+Venus, is, Earths closest twin planet
+Nicolaus Copernicus, was one of the first to observe, Venus
+Soviet Union, sent, the first spacecraft to Venus
+Soviet Union, tried again with, Venera 
+NASA, launched, the Magellan spacecraft
+Magellan, was to map, Venuss surface
+European Space Agency, launched, Venus Express
+Venus Express, was designed to study, the planets atmosphere
+Venus, has, thick atmosphere composed mostly of carbon dioxide
+Venus, has, clouds of sulfuric acid
+NASAs DAVINCI spacecraft, proposed a mission to search for, signs of past liquid water on Venus
+Venus, is also known as, the Earths sister planet
+Venus, has, potential for supporting life
+Venus, has, thick atmosphere that is % carbon dioxide
+Venus, has, surface temperature up to  degrees Fahrenheit
+probes, gather, data about the planets atmosphere
+advancements in technology, make possible, venture into Venus hostile environment
+exploration of Venus, contribute to, our understanding of the universe
+Venus, referred to as, Earths sister planet
+Venus, is, the second planet from the sun
+Venus, has, thick and dense atmosphere
+Soviet Union, launched, Venera 
+Magellan spacecraft, orbited, Venus
+European Space Agency ESA, launched, the Venus Express spacecraft
+Russian Federal Space Agency  Roscosmos, launched, the Venus Express spacecraft
+NASAs Venus Reconnaissance Orbiter VRO, began sending, highresolution images of the planets surface
+VRO, is equipped with, specialized cameras and instruments
 scientists, study, Venus
-Venus, is, avitalpieceofthepuzzlewhenitcomestounderstandingourownsolarsystem
-Venus, provides, auniqueopportunitytostudyextremeconditions
-Venus, referredtoas, Earthssisterplanet
-Venus, is, averydenseplanet
-Venus, has, athickatmosphere
-atmosphereofVenus, iscomposedprimarilyof, carbondioxide
-atmosphereofVenus, has, cloudsofsulfuricacid
-temperatureonVenus, reaches, anaverageofdegreesFahrenheitdegreesCelsius
-scientists, havediscovered, evidencethatwatermightexistontheplanet
-Venus, has, averyslowrotationperiod
-NASA, launched, thePerseverancerovertoMars
-Venus, istheEarthssisterplanet, Earth
-Venus, issimilarinsizeandcompositionto, Earth
-Venus, has, extremetemperatures
-Venus, has, athicklayerofcloudsofsulfuricacid
-Venus, trapsheatin, arunawaygreenhouseeffect
-Venus, ismuchhotterandmorehostiletolifethan, Earth
-Venus, isbelievedtoplayacrucialroleintheformationof, planetsinthesolarsystem
-Venus, hasasimilargeologicalmakeupto, Earth
-Scientists, useindirectmethodstostudy, Venussgeology
-Scientists, areexploringthepossibilitythatVenusmayhaveoncehad, conditionssuitableforlife
-Venus, isarichsourceofinformationfor, scientistsstudyingoursolarsystem
-Venus, isoftencalledtheEarths, sisterplanet
-Venus, isoneofthehottestplanetsin, oursolarsystem
-Venus, has, theplanetsvolcanoes
-Venus, has, mysteriousrockymountains
-Venus, isstillafascinatingworldtoexplorefor, Scientists
-Venus, isessentialtostudyingourownplanetsclimateandgeology, Earth
-thickatmosphere, traps, heat
+Venus, is, a vital piece of the puzzle when it comes to understanding our own solar system
+Venus, provides, a unique opportunity to study extreme conditions
+Venus, referred to as, Earths sister planet
+Venus, is, a very dense planet
+Venus, has, a thick atmosphere
+atmosphere of Venus, is composed primarily of, carbon dioxide
+atmosphere of Venus, has, clouds of sulfuric acid
+temperature on Venus, reaches, an average of  degrees Fahrenheit  degrees Celsius
+scientists, have discovered, evidence that water might exist on the planet
+Venus, has, a very slow rotation period
+NASA, launched, the Perseverance rover to Mars
+Venus, is the Earths sister planet, Earth
+Venus, is similar in size and composition to, Earth
+Venus, has, extreme temperatures
+Venus, has, a thick layer of clouds of sulfuric acid
+Venus, traps heat in, a runaway greenhouse effect
+Venus, is much hotter and more hostile to life than, Earth
+Venus, is believed to play a crucial role in the formation of, planets in the solar system
+Venus, has a similar geological makeup to, Earth
+Scientists, use indirect methods to study, Venuss geology
+Scientists, are exploring the possibility that Venus may have once had, conditions suitable for life
+Venus, is a rich source of information for, scientists studying our solar system
+Venus, is often called the Earths, sister planet
+Venus, is one of the hottest planets in, our solar system
+Venus, has, the planets volcanoes
+Venus, has, mysterious rocky mountains
+Venus, is still a fascinating world to explore for, Scientists
+Venus, is essential to studying our own planets climate and geology, Earth
+thick atmosphere, traps, heat
 Venus, is, hot
-Venus, isshroudedin, thicklayerofclouds
-scientists, havebeenabletogather, informationaboutVenus
-planetsatmosphere, ismadeupof, carbondioxide
-atmosphere, means, verylittleoxygen
-Venus, has, uniquerotationperiod
-Venus, takes, Earthdaystorotateonitsaxis
-rotationperiod, causes, daylightonVenustolastforseveralEarthweeks
-scientists, haveseen, evidenceofvolcanicactivityonVenus
-volcanicactivity, suggests, heatsourceswithintheplanetsinterior
-Venus, mayhavehad, anoceaninthepast
-Scientists, havefound, rocksontheplanetssurface
-rocks, arecoveredin, layersofsalt
-Scientists, believe, thereisstillmuchtolearnabouttheplanet
-Venus, closestto, thesun
-Scientists, havebeenobserving, Venus
-telescopicobservations, haveallowedscientiststodetermine, theplanetsorbit
-telescopicobservations, haveallowedscientiststostudy, theplanetsatmosphere
-firstsuccessfulmissiontoVenus, wasin, 
-Magellanmission, mapped, over%ofVenussurface
-firstsuccessfulorbitermissiontoVenus, wasin, 
-scientists, havedeveloped, anewwaytostudyVenus
-Venus, isofparticularinterestto, astrobiologists
-scientists, arestilltryingtounderstand, whyVenushassuchanextremeatmosphere
-Venus, has, adenseatmosphere
-denseatmosphere, makes, itdifficultforustostudydirectly
-Earthsatmosphere, allowsfor, heatdissipation
-Earthsatmosphere, keeps, temperaturesrelativelystable
-Extremetemperatures, affect, Venusenvironment
-Heat, creates, thicklayerofclouds
-Clouds, madeof, sulfuricacid
-Clouds, blockout, sunlight
-Clouds, make, itdifficultforscientiststoobservetheplanet
-Clouds, provide, someprotectionforVenussurface
-Clouds, absorb, someofthesunsharmfulradiation
-Scientists, havefound, evidenceofgeologicalactivityonVenus
-Geologicalactivity, includes, mountainsandvolcanoes
-Planet, mayhaveoncehad, amorehospitableenvironment
-Scientists, face, intenseatmospherepressure
-SurfaceofVenus, has, pressuretimesgreaterthanonEarth
-Pressure, makes, itimpossibleforhumanstoexplore
-Scientists, havefoundwaystostudy, Venus
-Scientists, use, spacebasedtelescopesandprobes
-Instruments, haveallowed, themtoobserveVenusatmosphereandclimate
-Instruments, haveallowed, themtostudyitsgeologyfromadistance
-Venus, is, roughly%largerthanEarth
-Venus, has, asimilarcompositionofrockandmetal
-Scientists, believe, VenusmayhaveoncehadmuchincommonwithEarth
-Scientists, havespeculated, Venusmayhaveoncehadlife
-Venus, is, afascinatingandmysteriousplanet
-Venus, has, alottoofferus
-ExplorationofVenus, canprovide, uswithinvaluableinsightsintoourownplanetspastandfuture
-Venus, is, thesecondplanetfromthesun
-Venus, isoftencalled, Earthssisterplanet
-Venus, has, extremeheatandpressureontheplanetssurface
-Venus, has, athickatmospherecomposedprimarilyofcarbondioxide
-SurfacetemperatureonVenus, canreach, uptodegreesFahrenheit
-AtmosphereonVenus, exerts, acrushingpressureofabouttimesgreaterthanthatonEarth
-Scientists, havereliedon, remotesensingtechnologiestostudyVenusfromorbit
-Scientists, haveused, radartechnologytomapthesurfaceofVenus
-Scientists, havedetected, watervaporintheatmosphereofVenus
-WateronVenus, suggests, theplanetmayhavehadliquidwaterinthepast
-Venus, has, unusualrotation
-Venus, rotates, onitsaxisintheoppositedirectionofmostotherplanetsinthesolarsystem
-Venus, is, afascinatingandlargelyunexploredplanet
-Venus, has, thickatmosphere
-Thickatmosphere, traps, heatfromtheSun
-Thickatmosphere, creates, arunawaygreenhouseeffect
-Surfacetemperatures, reach, uptodegreesFahrenheit
-Scientists, havediscovered, rocksontheplanetssurfacethatarerichinwater
-Rocks, suggest, Venusmayhaveoncehadanoceanonitssurface
-NASA, isplanning, amissiontoexploreVenus
-VenusAtmosphericProbe, issetto, launchin
-VenusAtmosphericProbe, willuse, aballoonpoweredlandertostudyVenusatmosphere
-Probe, isdesignedto, descenddeepintotheatmosphere
-Probe, willstudy, thecloudsandatmosphericconditions
-Mars, has, potentialforsupportinglife
-Venus, is, planetinoursystem
-Venus, is, closestplanettotheSuninoursolarsystem
-Venus, has, averagedistanceofmillionmiles
-Venus, has, surfacetemperaturesuptodegreesFahrenheit
-Venus, has, thickatmosphere
-Venus, is, sisterplanettoEarth
-NASA, hassent, severalmissionstoVenus
-Magellanspacecraft, orbited, Venus
-Magellanspacecraft, mapped, %oftheplanetssurface
-JapanesespaceprobeAkatsuki, orbited, Venus
-JapanesespaceprobeAkatsuki, collected, dataontheplanetsatmosphereandsurfaceconditions
-NASA, hasproposed, plansforanewmissioncalledtheVenusAtmosphereandMagellanLikeExplorerVAMLEX
-VenusAtmosphereandMagellanLikeExplorerVAMLEX, incorporates, severalinnovativefeatures
-Venus, is, targetforexplorationinoursolarsystem
-Venus, is, planetofloveandbeauty
-Venus, is, secondplanetfromthesun
-Venus, is, brightestplanetinthesky
-Venus, has, surfacetemperaturesuptodegreesFahrenheit
-Venus, has, atmospherewithpressuresovertimesgreaterthanthoseonEarth
-Venus, has, massivevolcanoes
-Venus, has, vastmountains
-Venus, has, icypolarcaps
-Venus, has, potentialtosustainlife
-Venus, has, discoveryoforganicmolecules
-Venus, is, Earthssisterplanet
-Venus, is, dangerousplanet
-Venus, is, hottestplanetinoursolarsystem
-Venus, has, thickatmosphere
-Magellanprobe, orbited, Venus
-Magellanprobe, provided, scientistswithawealthofdataabouttheplanetsatmosphere
-Theauthor, provides, evidenceofprevioussuccessfulmissions
-Theauthor, emphasizes, importanceofstudyingVenusinthecontextofdeepspaceexploration
-Theauthor, advocates, studyingVenus
-Venus, is, thesecondplanetinoursolarsystem
-Venus, has, athickanddenseatmosphere
-ThepressureonVenus, is, aroundtimesgreaterthanthatonEarth
-ThetemperatureonVenus, canreach, uptodegreeCelsius
-Earthsatmosphere, is, relativelythin
-Earthsatmosphere, consistsof, nitrogenandoxygen
-ThepressureonEarth, is, onlyaround,timesgreater
-ThetemperatureonEarth, is, acomfortabledegreeCelsius
-Venus, has, incrediblyfasttropicalclimate
-Venus, rotatesonitsaxis, intheoppositedirectionofmostplanets
-Venus, has, adaythatlastsalmostEarthhours
-Venus, has, arunawaygreenhouseeffect
-Venus, is, muchhotterthanEarth
-TheMagellanspacecraft, isorbiting, Venus
-TheMagellanspacecraft, hasdiscovered, Venetiancontinents
-Researchers, haverecentlydiscovered, evidenceofgeysersonVenus
-Venus, mayhave, undergroundwateroceans
-Venus, is, aplanetunlikeanyotherinoursolarsystem
-Venus, is, inhospitabletohumans
-Venus, offers, awealthofknowledgeabouttheformationandevolutionofplanetsinoursolarsystem
-Venus, is, oneofthemostfascinatingplanetsinoursolarsystem
-Venus, isoftenreferredtoas, theEarthssisterplanet
-Venus, is, thesecondplanetfromthesun
-Venus, isroughly, thesamesizeasEarth
-Venus, has, athickatmosphere
-Venus, is, oneofthehottestplanetsinoursolarsystem
-Venus, has, surfacetemperaturesthatcanreachuptodegreeCelsius
-Scientists, havediscovered, theremaybemicrobiallifeformsontheplanet
+Venus, is shrouded in, thick layer of clouds
+scientists, have been able to gather, information about Venus
+planets atmosphere, is made up of, carbon dioxide
+atmosphere, means, very little oxygen
+Venus, has, unique rotation period
+Venus, takes,  Earth days to rotate on its axis
+rotation period, causes, daylight on Venus to last for several Earth weeks
+scientists, have seen, evidence of volcanic activity on Venus
+volcanic activity, suggests, heat sources within the planets interior
+Venus, may have had, an ocean in the past
+Scientists, have found, rocks on the planets surface
+rocks, are covered in, layers of salt
+Scientists, believe, there is still much to learn about the planet
+Venus, closest to, the sun
+Scientists, have been observing, Venus
+telescopic observations, have allowed scientists to determine, the planets orbit
+telescopic observations, have allowed scientists to study, the planets atmosphere
+first successful mission to Venus, was in, 
+Magellan mission, mapped, over % of Venus surface
+first successful orbiter mission to Venus, was in, 
+scientists, have developed, a new way to study Venus
+Venus, is of particular interest to, astrobiologists
+scientists, are still trying to understand, why Venus has such an extreme atmosphere
+Venus, has, a dense atmosphere
+dense atmosphere, makes, it difficult for us to study directly
+Earths atmosphere, allows for, heat dissipation
+Earths atmosphere, keeps, temperatures relatively stable
+Extreme temperatures, affect, Venus environment
+Heat, creates, thick layer of clouds
+Clouds, made of, sulfuric acid
+Clouds, block out, sunlight
+Clouds, make, it difficult for scientists to observe the planet
+Clouds, provide, some protection for Venus surface
+Clouds, absorb, some of the suns harmful radiation
+Scientists, have found, evidence of geological activity on Venus
+Geological activity, includes, mountains and volcanoes
+Planet, may have once had, a more hospitable environment
+Scientists, face, intense atmosphere pressure
+Surface of Venus, has, pressure  times greater than on Earth
+Pressure, makes, it impossible for humans to explore
+Scientists, have found ways to study, Venus
+Scientists, use, spacebased telescopes and probes
+Instruments, have allowed, them to observe Venus atmosphere and climate
+Instruments, have allowed, them to study its geology from a distance
+Venus, is, roughly % larger than Earth
+Venus, has, a similar composition of rock and metal
+Scientists, believe, Venus may have once had much in common with Earth
+Scientists, have speculated, Venus may have once had life
+Venus, is, a fascinating and mysterious planet
+Venus, has, a lot to offer us
+Exploration of Venus, can provide, us with invaluable insights into our own planets past and future
+Venus, is, the second planet from the sun
+Venus, is often called, Earths sister planet
+Venus, has, extreme heat and pressure on the planets surface
+Venus, has, a thick atmosphere composed primarily of carbon dioxide
+Surface temperature on Venus, can reach, up to  degrees Fahrenheit
+Atmosphere on Venus, exerts, a crushing pressure of about  times greater than that on Earth
+Scientists, have relied on, remote sensing technologies to study Venus from orbit
+Scientists, have used, radar technology to map the surface of Venus
+Scientists, have detected, water vapor in the atmosphere of Venus
+Water on Venus, suggests, the planet may have had liquid water in the past
+Venus, has, unusual rotation
+Venus, rotates, on its axis in the opposite direction of most other planets in the solar system
+Venus, is, a fascinating and largely unexplored planet
+Venus, has, thick atmosphere
+Thick atmosphere, traps, heat from the Sun
+Thick atmosphere, creates, a runaway greenhouse effect
+Surface temperatures, reach, up to  degrees Fahrenheit
+Scientists, have discovered, rocks on the planets surface that are rich in water
+Rocks, suggest, Venus may have once had an ocean on its surface
+NASA, is planning, a mission to explore Venus
+Venus Atmospheric Probe, is set to, launch in 
+Venus Atmospheric Probe, will use, a balloonpowered lander to study Venus atmosphere
+Probe, is designed to, descend deep into the atmosphere
+Probe, will study, the clouds and atmospheric conditions
+Mars, has, potential for supporting life
+Venus, is, planet in our system
+Venus, is, closest planet to the Sun in our solar system
+Venus, has, average distance of  million miles
+Venus, has, surface temperatures up to  degrees Fahrenheit
+Venus, has, thick atmosphere
+Venus, is, sister planet to Earth
+NASA, has sent, several missions to Venus
+Magellan spacecraft, orbited, Venus
+Magellan spacecraft, mapped, % of the planets surface
+Japanese space probe Akatsuki, orbited, Venus
+Japanese space probe Akatsuki, collected, data on the planets atmosphere and surface conditions
+NASA, has proposed, plans for a new mission called the Venus Atmosphere and MagellanLike Explorer VAMLEX
+Venus Atmosphere and MagellanLike Explorer VAMLEX, incorporates, several innovative features
+Venus, is, target for exploration in our solar system
+Venus, is, planet of love and beauty
+Venus, is, second planet from the sun
+Venus, is, brightest planet in the sky
+Venus, has, surface temperatures up to  degrees Fahrenheit
+Venus, has, atmosphere with pressures over  times greater than those on Earth
+Venus, has, massive volcanoes
+Venus, has, vast mountains
+Venus, has, icy polar caps
+Venus, has, potential to sustain life
+Venus, has, discovery of organic molecules
+Venus, is, Earths sister planet
+Venus, is, dangerous planet
+Venus, is, hottest planet in our solar system
+Venus, has, thick atmosphere
+Magellan probe, orbited, Venus
+Magellan probe, provided, scientists with a wealth of data about the planets atmosphere
+The author, provides, evidence of previous successful missions
+The author, emphasizes, importance of studying Venus in the context of deep space exploration
+The author, advocates, studying Venus
+Venus, is, the second planet in our solar system
+Venus, has, a thick and dense atmosphere
+The pressure on Venus, is, around  times greater than that on Earth
+The temperature on Venus, can reach, up to degree Celsius
+Earths atmosphere, is, relatively thin
+Earths atmosphere, consists of, nitrogen and oxygen
+The pressure on Earth, is, only around , times greater
+The temperature on Earth, is, a comfortable degree Celsius
+Venus, has, incredibly fast tropical climate
+Venus, rotates on its axis, in the opposite direction of most planets
+Venus, has, a day that lasts almost  Earth hours
+Venus, has, a runaway greenhouse effect
+Venus, is, much hotter than Earth
+The Magellan spacecraft, is orbiting, Venus
+The Magellan spacecraft, has discovered, Venetian continents
+Researchers, have recently discovered, evidence of geysers on Venus
+Venus, may have, underground water oceans
+Venus, is, a planet unlike any other in our solar system
+Venus, is, inhospitable to humans
+Venus, offers, a wealth of knowledge about the formation and evolution of planets in our solar system
+Venus, is, one of the most fascinating planets in our solar system
+Venus, is often referred to as, the Earths sister planet
+Venus, is, the second planet from the sun
+Venus, is roughly, the same size as Earth
+Venus, has, a thick atmosphere
+Venus, is, one of the hottest planets in our solar system
+Venus, has, surface temperatures that can reach up to degree Celsius
+Scientists, have discovered, there may be microbial life forms on the planet
 Venus, rotates, clockwise
-Venus, has, aretrograderotation
-Venus, has, aninterestingorbit
-Venus, movesthroughthesky, inapatternknownasregression
-Venus, is, arockyplanetwithathickatmosphere
-Venus, has, anatmospherethatisdenseandtoxic
-Venus, has, surfacetemperaturesthatcanreachashighasdegreesFahrenheit
-Venus, is, oneofthehottestplanetsinoursolarsystem
-ThethickatmosphereofVenus, isresponsiblefor, trappingheatfromthesun
-Venus, is, almostuninhabitabletolifeasweknowit
-NASAsMagellanspacecraft, hasbeen, orbitingVenus
-NASAsMagellanspacecraft, hasbeen, collectingdataaboutitstopography
+Venus, has, a retrograde rotation
+Venus, has, an interesting orbit
+Venus, moves through the sky, in a pattern known as regression
+Venus, is, a rocky planet with a thick atmosphere
+Venus, has, an atmosphere that is dense and toxic
+Venus, has, surface temperatures that can reach as high as  degrees Fahrenheit
+Venus, is, one of the hottest planets in our solar system
+The thick atmosphere of Venus, is responsible for, trapping heat from the sun
+Venus, is, almost uninhabitable to life as we know it
+NASAs Magellan spacecraft, has been, orbiting Venus
+NASAs Magellan spacecraft, has been, collecting data about its topography
 Venus, has, mountains
-Venus, has, vastplains
-Venus, has, alargevolcano
-VenusExplorationRover, haveprovided, acloserlookattheplanetssurface
-VenusExplorationRover, havediscovered, evidenceofvolcanicactivity
-Venus, mayhaveoncehad, anenvironmentthatwasmorelikeEarth
-Venus, mayhaveoncehad, liquidwateronitssurface
-Venus, evolvedinto, thehostileplanetweseetoday
-Venus, has, athickatmosphere
-Venus, has, extremeheat
-Venus, has, possiblehistoryofamorehabitableenvironment
-Venus, is, thesecondplanetfromthesun
-Venus, is, thelargestplanetinoursolarsystem
-Venus, is, thehottestplanetinoursolarsystem
-Venus, has, athickatmospherethattrapsheatandcreatesagreenhouseeffect
-Venus, has, signsofancientoceansandrivers
-Venus, has, evidenceofvolcanicactivity
-Venus, experiences, massivestorms
-Venus, ishometo, someofthemostinterestinggeologicalfeaturesinoursolarsystem
-Venus, has, toweringvolcanoes
-Venus, has, deepcanyons
-Venus, has, intensevolcanicactivity
-Venus, has, extremeclimate
-JohnDoe, presents, acompellingargumentforwhystudyingVenusisaworthypursuit
-JohnDoe, acknowledges, therisksofexploringVenus
-JohnDoe, argues, thatthepotentialbenefitsofstudyingVenusoutweightherisks
-JohnDoe, cites, evidencefromsuccessfulmissionstoVenus
-Magellanmission, mapped, %oftheplanetssurface
-JohnDoe, pointsout, thatstudyingVenushaspracticalapplications
-Venus, is, thesecondplanetfromthesun
-Venus, is, oftenreferredtoasthesisterplanetofEarth
-Venus, is, locatedintheinnersolarsystem
-Venus, is, aboutmileslargerthanEarth
-Venus, has, athickatmosphere
-Scientists, havemade, discoveriesaboutVenus
-Scientists, havestudied, Venusfromspace
-TheMagellanspacecraft, orbited, Venus
-TheMagellanspacecraft, provided, detailedimagesoftheplanetsentiresurface
-NASAsVenusExpressspacecraft, discovered, evidenceofwatervaporintheatmosphere
-Venus, mighthave, anocean
-Scientists, continuetomake, newdiscoveriesaboutVenus
-Venus, presents, challengesforscientists
-Scientists, havemade, manyinterestingdiscoveries
-Venus, hasbeen, oneofthemoststudiedplanetsinoursolarsystem
-Venus, islocatedin, oursolarsystem
-Venus, is, theclosestplanettoearth
-TheatmosphereofVenus, iscomposedof, carbondioxide
-TheatmosphereofVenus, ismadeof, sulfuricacid
-TheatmosphericpressureonVenus, isover, timesthatonEarth
-Theplanet, has, anextremelyintensegreenhouseeffect
-ThesurfaceofVenus, isfullof, fascinatingfeatures
-Scientists, havediscovered, evidenceofwateronVenus
-StudyingVenus, isimportantfor, severalreasons
-Scientists, hopetosent, spacecrafttoVenus
-Venus, is, thesecondplanetfromthesun
-Venus, is, theclosestplanettoEarth
-Venus, is, incrediblydense
-Venus, has, thickatmosphere
-Venus, lacks, liquidwateronthesurface
-Venusianwinds, reach, speedsofupto,kilometersperhour
-scientists, aredeterminedtoexplore, Venus
-InSightmission, landedon, Marsin
-InSightmission, designedtostudy, deepinteriorofVenus
-InSightmission, used, seismicwaves
-InSightmission, detect, possiblewaterunderground
-InSightmission, made, importantdiscoveriesabouttheplanetsstructureandcomposition
-upcomingmissiontoVenus, by, NASAsLockheedMartin
-DiscoveryOrbitermission, settolaunchin, 
-DiscoveryOrbitermission, willcircle, Venus
-DiscoveryOrbitermission, willbeequippedwith, asuiteofexcitinginstruments
-exploringVenus, is, acomplexandchallengingendeavor
-advancesintechnology, commitmenttoexploration, Venus
-author, putforth, argumentfortheimportanceofstudyingVenus
-studyingVenus, isessentialtounderstand, theEarthsplaceinthesolarsystem
-studyingVenus, couldleadto, importantscientificdiscoveries
-studyingVenus, couldshedlighton, thepossibilityoflifeonotherplanets
-studyingVenus, using, radiowaves
-studyingVenus, using, instrumentsontheMagellanspacecraft
-studyingVenus, is, aworthypursuit
-Venus, isknownfor, itsextremetemperaturesandtoxicatmosphere
-exploration, helpsusunderstand, theuniversebetter
-exploration, cancontributeto, newtechnologiesanddiscoveries
-studyingVenus, canhelpusunderstand, theoriginsofthesolarsystem
-studyingVenus, canprovide, insightsintotheformationofthesystem
-studyingVenus, isanecessarysteptowards, exploringotherplanetsinthesolarsystem
-Venus, has, similargeologicalfeaturestoEarth
-Venus, has, anabundanceofheavyironandmetalliccompounds
-Venus, is, thesecondplanetfromthesun
-Venus, is, theclosestplanettoEarth
-spaceexplorationmissions, haveuncovered, informationaboutVenussatmosphere
-spaceexplorationmissions, haveuncovered, potentialhabitability
-Venus, istheexistenceof, liquidwaterinitssubsurfaceoceans
-Venus, mayhaveonceharbored, life
-researchers, believe, theremaystillbelifeonVenus
-scientists, havemademeasurementsabout, Venussatmosphere
-atmosphereonVenus, is, thickandpressurized
-averageplanetarysurfacepressureofVenus, is, timesthatofEarth
-atmosphereonVenus, isprimarilycomposedof, carbondioxide
-atmosphereonVenus, contains, sulfuricacid
-atmosphereonVenus, contains, nitricacid
-Venus, has, severalvolcanoes
+Venus, has, vast plains
+Venus, has, a large volcano
+Venus Exploration Rover, have provided, a closer look at the planets surface
+Venus Exploration Rover, have discovered, evidence of volcanic activity
+Venus, may have once had, an environment that was more like Earth
+Venus, may have once had, liquid water on its surface
+Venus, evolved into, the hostile planet we see today
+Venus, has, a thick atmosphere
+Venus, has, extreme heat
+Venus, has, possible history of a more habitable environment
+Venus, is, the second planet from the sun
+Venus, is, the largest planet in our solar system
+Venus, is, the hottest planet in our solar system
+Venus, has, a thick atmosphere that traps heat and creates a greenhouse effect
+Venus, has, signs of ancient oceans and rivers
+Venus, has, evidence of volcanic activity
+Venus, experiences, massive storms
+Venus, is home to, some of the most interesting geological features in our solar system
+Venus, has, towering volcanoes
+Venus, has, deep canyons
+Venus, has, intense volcanic activity
+Venus, has, extreme climate
+John Doe, presents, a compelling argument for why studying Venus is a worthy pursuit
+John Doe, acknowledges, the risks of exploring Venus
+John Doe, argues, that the potential benefits of studying Venus outweigh the risks
+John Doe, cites, evidence from successful missions to Venus
+Magellan mission, mapped, % of the planets surface
+John Doe, points out, that studying Venus has practical applications
+Venus, is, the second planet from the sun
+Venus, is, often referred to as the sister planet of Earth
+Venus, is, located in the inner solar system
+Venus, is, about  miles larger than Earth
+Venus, has, a thick atmosphere
+Scientists, have made, discoveries about Venus
+Scientists, have studied, Venus from space
+The Magellan spacecraft, orbited, Venus
+The Magellan spacecraft, provided, detailed images of the planets entire surface
+NASAs Venus Express spacecraft, discovered, evidence of water vapor in the atmosphere
+Venus, might have, an ocean
+Scientists, continue to make, new discoveries about Venus
+Venus, presents, challenges for scientists
+Scientists, have made, many interesting discoveries
+Venus, has been, one of the most studied planets in our solar system
+Venus, is located in, our solar system
+Venus, is, the closest planet to earth
+The atmosphere of Venus, is composed of, carbon dioxide
+The atmosphere of Venus, is made of, sulfuric acid
+The atmospheric pressure on Venus, is over,  times that on Earth
+The planet, has, an extremely intense greenhouse effect
+The surface of Venus, is full of, fascinating features
+Scientists, have discovered, evidence of water on Venus
+Studying Venus, is important for, several reasons
+Scientists, hope to sent, spacecraft to Venus
+Venus, is, the second planet from the sun
+Venus, is, the closest planet to Earth
+Venus, is, incredibly dense
+Venus, has, thick atmosphere
+Venus, lacks, liquid water on the surface
+Venusian winds, reach, speeds of up to , kilometers per hour
+scientists, are determined to explore, Venus
+InSight mission, landed on, Mars in 
+InSight mission, designed to study, deep interior of Venus
+InSight mission, used, seismic waves
+InSight mission, detect, possible water underground
+InSight mission, made, important discoveries about the planets structure and composition
+upcoming mission to Venus, by, NASAs Lockheed Martin
+Discovery Orbiter mission, set to launch in, 
+Discovery Orbiter mission, will circle, Venus
+Discovery Orbiter mission, will be equipped with, a suite of exciting instruments
+exploring Venus, is, a complex and challenging endeavor
+advances in technology, commitment to exploration, Venus
+author, put forth, argument for the importance of studying Venus
+studying Venus, is essential to understand, the Earths place in the solar system
+studying Venus, could lead to, important scientific discoveries
+studying Venus, could shed light on, the possibility of life on other planets
+studying Venus, using, radio waves
+studying Venus, using, instruments on the Magellan spacecraft
+studying Venus, is, a worthy pursuit
+Venus, is known for, its extreme temperatures and toxic atmosphere
+exploration, helps us understand, the universe better
+exploration, can contribute to, new technologies and discoveries
+studying Venus, can help us understand, the origins of the solar system
+studying Venus, can provide, insights into the formation of the system
+studying Venus, is a necessary step towards, exploring other planets in the solar system
+Venus, has, similar geological features to Earth
+Venus, has, an abundance of heavy iron and metallic compounds
+Venus, is, the second planet from the sun
+Venus, is, the closest planet to Earth
+space exploration missions, have uncovered, information about Venuss atmosphere
+space exploration missions, have uncovered, potential habitability
+Venus, is the existence of, liquid water in its subsurface oceans
+Venus, may have once harbored, life
+researchers, believe, there may still be life on Venus
+scientists, have made measurements about, Venuss atmosphere
+atmosphere on Venus, is, thick and pressurized
+average planetary surface pressure of Venus, is,  times that of Earth
+atmosphere on Venus, is primarily composed of, carbon dioxide
+atmosphere on Venus, contains, sulfuric acid
+atmosphere on Venus, contains, nitric acid
+Venus, has, several volcanoes
 Venus, has, mountains
-Venus, showssignsof, pastwatererosion
-spaceexplorationmissions, arecurrentlyunderwayto, Venus
-scientists, believe, Venusstillholdsthepotentialforhabitability
-Venus, isthesecondplanetfrom, thesun
-Venus, hasbeencalled, anEarthlike
-Venus, hasbeencalled, ascorchinghellhole
-atmosphereofVenus, isfullof, carbondioxide
-cloudsonVenus, aremadeof, sulfuricacid
-scientists, areabletostudy, Venus
-NASA’sMagellanspacecraft, orbited, Venus
-JapanesespaceprobeAkatsuki, waslaunchedintoorbitandbegancollectingdataon, Venus’atmosphere
-JapanesespaceprobeAkatsuki, waslaunchedintoorbitandbegancollectingdataon, Venus’surface
-NASA’sPerseverancerover, landedon, Mars
-Venus, mighthavebeenhometo, liquidwater
-Venus, mighthavebeenhometo, life
-Venus, isthesecondplanetfrom, theSun
-Venus, istheclosestplanettotheSunfrom, Earth
-atmosphereofVenus, cancreate, arunawaygreenhouseeffect
-surfacetemperatureofVenus, canreachupto, degreesFahrenheit
-Venus, has, afastanddenseatmosphere
-windsonVenus, canreachspeedsof, milesperhour
-EuropeanSpaceAgency, launched, theVenusExpressspacecraft
-VenusExpressspacecraft, orbited, Venus
-VenusExpress, discovered, newchemicalcompoundsintheatmosphere
-VenusExpress, providedevidenceof, geologicalactivityontheplanet’ssurface
-scientists, use, computersimulationsandmodels
-scientists, use, detailedmathematicalmodels
-scientists, create, simulationsoftheplanet’satmosphere
-EmilyLander, argues, studyingVenusisavaluableproject
-EmilyLander, argues, studyingVenusisessentialforspaceexploration
-EmilyLander, pointsout, VenusistheclosestplanettoEarth
-EmilyLander, argues, studyingVenuscanprovideuswithinsightsabouttheoriginsoflifeonEarth
-EmilyLander, supports, herclaimthatstudyingVenusisaworthypursuit
-EmilyLander, presents, strongevidencetosupportherclaim
-ThestudyofVenus, hasbeen, asubjectoffascinationandinterest
-Theauthor, argues, studyingVenusisaworthypursuitdespitethedangersitpresents
-Venus, is, asimilarsizeandmasstoEarth
-Venus, ishometo, severalpotentialresources
-Theauthor, acknowledges, thedangersthatcomewithexploringVenus
-Theauthor, suggests, thesedangersshouldnotdeterusfromstudyingVenus
-JamesPeterson, argues, studyingVenusisaworthypursuit
-JamesPeterson, pointsout, Venuspresentsuniquechallengesthatscientistscanlearnfrom
-JamesPeterson, argues, studyingVenuscouldhelpusbetterunderstandtheprocessesthathaveledtotheformationofplanetslikeourown
-JamesPeterson, presents, thesuccessofpastmissionstoVenus
-JamesPeterson, suggests, thesesuccessesdemonstratethatstudyingVenusisworththerisksandeffortsinvolved
-Venus, is, secondplanetfromthesun
-Venus, has, thickandtoxicatmosphere
-Venus, has, highsurfacetemperatures
-Venus, rotatesin, oppositedirectiontoEarth
-Scientistsandengineers, believe, itispossibletodeveloptechnologyforVenusexploration
-Venus, couldhelpuslearnmoreabout, earlystagesofplanetarydevelopment
-Venus, believedtohave, liquidwaterinitspast
-Venus, believedtohave, undergroundreservoirstoday
-Venus, has, hottestsurfacetemperatureofanyplanetinoursolarsystem
-Venus, causedby, runawaygreenhouseeffect
-Venusatmosphere, composedprimarilyof, carbondioxide
-Venusatmosphere, has, highlevelsofsulfuricacid
-Advancedcoolingtechnology, needtobedevelopedfor, Venusexploration
-Advancedpropulsionsystems, needtobedevelopedfor, Venusexploration
-SovietUnion, sent, firstspaceprobetoVenusin
-Magellanspacecraft, provided, dataabouttheplanetssurface
-EuropeanSpaceAgencysVenusExpressspacecraft, studying, theplanetsatmosphere
+Venus, shows signs of, past water erosion
+space exploration missions, are currently underway to, Venus
+scientists, believe, Venus still holds the potential for habitability
+Venus, is the second planet from, the sun
+Venus, has been called, an Earthlike
+Venus, has been called, a scorching hellhole
+atmosphere of Venus, is full of, carbon dioxide
+clouds on Venus, are made of, sulfuric acid
+scientists, are able to study, Venus
+NASA’s Magellan spacecraft, orbited, Venus
+Japanese space probe Akatsuki, was launched into orbit and began collecting data on, Venus’ atmosphere
+Japanese space probe Akatsuki, was launched into orbit and began collecting data on, Venus’ surface
+NASA’s Perseverance rover, landed on, Mars
+Venus, might have been home to, liquid water
+Venus, might have been home to, life
+Venus, is the second planet from, the Sun
+Venus, is the closest planet to the Sun from, Earth
+atmosphere of Venus, can create, a runaway greenhouse effect
+surface temperature of Venus, can reach up to,  degrees Fahrenheit
+Venus, has, a fast and dense atmosphere
+winds on Venus, can reach speeds of,  miles per hour
+European Space Agency, launched, the Venus Express spacecraft
+Venus Express spacecraft, orbited, Venus
+Venus Express, discovered, new chemical compounds in the atmosphere
+Venus Express, provided evidence of, geological activity on the planet’s surface
+scientists, use, computer simulations and models
+scientists, use, detailed mathematical models
+scientists, create, simulations of the planet’s atmosphere
+Emily Lander, argues, studying Venus is a valuable project
+Emily Lander, argues, studying Venus is essential for space exploration
+Emily Lander, points out, Venus is the closest planet to Earth
+Emily Lander, argues, studying Venus can provide us with insights about the origins of life on Earth
+Emily Lander, supports, her claim that studying Venus is a worthy pursuit
+Emily Lander, presents, strong evidence to support her claim
+The study of Venus, has been, a subject of fascination and interest
+The author, argues, studying Venus is a worthy pursuit despite the dangers it presents
+Venus, is, a similar size and mass to Earth
+Venus, is home to, several potential resources
+The author, acknowledges, the dangers that come with exploring Venus
+The author, suggests, these dangers should not deter us from studying Venus
+James Peterson, argues, studying Venus is a worthy pursuit
+James Peterson, points out, Venus presents unique challenges that scientists can learn from
+James Peterson, argues, studying Venus could help us better understand the processes that have led to the formation of planets like our own
+James Peterson, presents, the success of past missions to Venus
+James Peterson, suggests, these successes demonstrate that studying Venus is worth the risks and efforts involved
+Venus, is, second planet from the sun
+Venus, has, thick and toxic atmosphere
+Venus, has, high surface temperatures
+Venus, rotates in, opposite direction to Earth
+Scientists and engineers, believe, it is possible to develop technology for Venus exploration
+Venus, could help us learn more about, early stages of planetary development
+Venus, believed to have, liquid water in its past
+Venus, believed to have, underground reservoirs today
+Venus, has, hottest surface temperature of any planet in our solar system
+Venus, caused by, runaway greenhouse effect
+Venus atmosphere, composed primarily of, carbon dioxide
+Venus atmosphere, has, high levels of sulfuric acid
+Advanced cooling technology, need to be developed for, Venus exploration
+Advanced propulsion systems, need to be developed for, Venus exploration
+Soviet Union, sent, first space probe to Venus in 
+Magellan spacecraft, provided, data about the planets surface
+Venus, has, extreme temperature
+Venus, has, atmospheric pressure
+Venus, has, volcanic activity
+scientists, are interested in studying, Venus
+Dava Sobel, argues, studying Venus is a worthy pursuit
+Dava Sobel, describes, the planets extreme conditions
+Dava Sobel, describes, the difficulties involved in exploring Venus
+Dava Sobel, highlights, the potential benefits of studying Venus
+Magellan spacecraft, mapped, nearly % of the planets surface
+Venera spacecraft series, explored, the surface of Venus
+scientists, have faced, challenges while studying Venus
+Dava Sobel, notes, the planets extreme conditions are not unique to Venus
+Dava Sobel, argues, there is potential for extraterrestrial life on Venus
+Venus, is referred to as, Earth’s “sister planet”
+James Orr, argues, studying Venus is a worthy pursuit
+Venus, is, the second planet from the sun
+Venus, has, surface temperatures that can reach up to  degrees Celsius
+Venus, has, atmospheric pressure that is  times greater than Earth’s
+James Orr, contends, studying Venus will help scientists gain a better understanding of our planet and the universe
+Venus, is a mirror image of, Earth’s own geological history
+Venus, has undergone, volcanic activity
+Venus, has undergone, magnetic field fluctuations
+Venus, has undergone, climatic changes
+James Orr, suggests, studying Venus could provide clues about the conditions needed for life to thrive
+Venus, is often referred to as, the Earths sister planet
+Venus, has, extreme weather
+Venus, has, atmospheric composition
+Venus, is made up almost entirely of, carbon dioxide
+Venus, has, clouds of sulfuric acid
+Venus, is, the hottest planet in our solar system
+Venus, has, surface temperatures reaching up to  degrees Fahrenheit
+Venus, lacks, liquid water on its surface
+Venus, is covered in, a thick layer

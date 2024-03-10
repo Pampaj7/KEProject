@@ -461,4 +461,37 @@
 <Advanced propulsion systems, need to be developed for, Venus exploration>
 <Soviet Union, sent, first space probe to Venus in 1970>
 <Magellan spacecraft, provided, data about the planet's surface>
-<European Space Agency's Venus Express spacecraft, studying, the planet's atmosphere>
+<European Space Agency's Venus Express spacecraft, studying, the planet's atmosphere><Venus, is one of, the most famous planets in our solar system>
+<Venus, has, extreme temperature>
+<Venus, has, atmospheric pressure>
+<Venus, has, volcanic activity>
+<scientists, are interested in studying, Venus>
+<Dava Sobel, argues, studying Venus is a worthy pursuit>
+<Dava Sobel, describes, the planet's extreme conditions>
+<Dava Sobel, describes, the difficulties involved in exploring Venus>
+<Dava Sobel, highlights, the potential benefits of studying Venus>
+<Magellan spacecraft, mapped, nearly 100% of the planet's surface>
+<Venera spacecraft series, explored, the surface of Venus>
+<scientists, have faced, challenges while studying Venus>
+<Dava Sobel, notes, the planet's extreme conditions are not unique to Venus>
+<Dava Sobel, argues, there is potential for extraterrestrial life on Venus>
+<Venus, is referred to as, Earth’s “sister planet”>
+<James Orr, argues, studying Venus is a worthy pursuit>
+<Venus, is, the second planet from the sun>
+<Venus, has, surface temperatures that can reach up to 460 degrees Celsius>
+<Venus, has, atmospheric pressure that is 92 times greater than Earth’s>
+<James Orr, contends, studying Venus will help scientists gain a better understanding of our planet and the universe>
+<Venus, is a mirror image of, Earth’s own geological history>
+<Venus, has undergone, volcanic activity>
+<Venus, has undergone, magnetic field fluctuations>
+<Venus, has undergone, climatic changes>
+<James Orr, suggests, studying Venus could provide clues about the conditions needed for life to thrive>
+<Venus, is often referred to as, the Earth's "sister planet">
+<Venus, has, extreme weather>
+<Venus, has, atmospheric composition>
+<Venus, is made up almost entirely of, carbon dioxide>
+<Venus, has, clouds of sulfuric acid>
+<Venus, is, the hottest planet in our solar system>
+<Venus, has, surface temperatures reaching up to 900 degrees Fahrenheit>
+<Venus, lacks, liquid water on its surface>
+<Venus, is covered in, a thick layer>

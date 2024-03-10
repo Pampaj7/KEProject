@@ -12,8 +12,14 @@ ns1:Clouds ns1:absorb ns1:someofthesunsharmfulradiation ;
     ns1:make ns1:itdifficultforscientiststoobservetheplanet ;
     ns1:provide ns1:someprotectionforVenussurface .
 
-ns1:DavaSobel ns1:argues ns1:thatstudyingVenusisaworthypursuit ;
-    ns1:doesanexcellentjobofsupporting ns1:theideathatstudyingVenusisaworthypursuit .
+ns1:DavaSobel ns1:argues ns1:studyingVenusisaworthypursuit,
+        ns1:thatstudyingVenusisaworthypursuit,
+        ns1:thereispotentialforextraterrestriallifeonVenus ;
+    ns1:describes ns1:thedifficultiesinvolvedinexploringVenus,
+        ns1:theplanetsextremeconditions ;
+    ns1:doesanexcellentjobofsupporting ns1:theideathatstudyingVenusisaworthypursuit ;
+    ns1:highlights ns1:thepotentialbenefitsofstudyingVenus ;
+    ns1:notes ns1:theplanetsextremeconditionsarenotuniquetoVenus .
 
 ns1:DiscoveryOrbitermission ns1:settolaunchin ns1: ;
     ns1:willbeequippedwith ns1:asuiteofexcitinginstruments ;
@@ -36,8 +42,6 @@ ns1:EuropeanSpaceAgency ns1:launched ns1:VenusExpress,
 
 ns1:EuropeanSpaceAgencyESA ns1:launched ns1:theVenusExpressspacecraft .
 
-ns1:EuropeanSpaceAgencysVenusExpressspacecraft ns1:studying ns1:theplanetsatmosphere .
-
 ns1:ExplorationofVenus ns1:canprovide ns1:uswithinvaluableinsightsintoourownplanetspastandfuture .
 
 ns1:Extremetemperatures ns1:affect ns1:Venusenvironment .
@@ -55,8 +59,11 @@ ns1:InSightmission ns1:designedtostudy ns1:deepinteriorofVenus ;
 ns1:Instruments ns1:haveallowed ns1:themtoobserveVenusatmosphereandclimate,
         ns1:themtostudyitsgeologyfromadistance .
 
-ns1:JamesOrr ns1:argues ns1:thatstudyingVenusisaworthypursuit ;
-    ns1:presents ns1:acompellingcaseforwhystudyingVenusisaworthypursuit .
+ns1:JamesOrr ns1:argues ns1:studyingVenusisaworthypursuit,
+        ns1:thatstudyingVenusisaworthypursuit ;
+    ns1:contends ns1:studyingVenuswillhelpscientistsgainabetterunderstandingofourplanetandtheuniverse ;
+    ns1:presents ns1:acompellingcaseforwhystudyingVenusisaworthypursuit ;
+    ns1:suggests ns1:studyingVenuscouldprovidecluesabouttheconditionsneededforlifetothrive .
 
 ns1:JamesPeterson ns1:argues ns1:studyingVenuscouldhelpusbetterunderstandtheprocessesthathaveledtotheformationofplanetslikeourown,
         ns1:studyingVenusisaworthypursuit ;
@@ -280,6 +287,7 @@ ns1:scientists ns1:areabletostudy ns1:Venus ;
     ns1:havebeenabletogather ns1:informationaboutVenus ;
     ns1:havedeveloped ns1:anewwaytostudyVenus ;
     ns1:havediscovered ns1:evidencethatwatermightexistontheplanet ;
+    ns1:havefaced ns1:challengeswhilestudyingVenus ;
     ns1:havemademeasurementsabout ns1:Venussatmosphere ;
     ns1:haveseen ns1:evidenceofvolcanicactivityonVenus ;
     ns1:study ns1:Venus ;
@@ -377,6 +385,7 @@ ns1:Venus ns1:believedtohave ns1:liquidwaterinitspast,
         ns1:atmospherewithpressuresovertimesgreaterthanthoseonEarth,
         ns1:atmosphericcomposition,
         ns1:atmosphericpressure,
+        <http://example.org/myontology/atmosphericpressurethatistimesgreaterthanEarth’s>,
         ns1:averagedistanceofmillionmiles,
         ns1:averyslowrotationperiod,
         ns1:brightandenchantingvisibility,
@@ -412,6 +421,7 @@ ns1:Venus ns1:believedtohave ns1:liquidwaterinitspast,
         ns1:surfacetemperaturesreachinguptodegreesFahrenheit,
         ns1:surfacetemperaturesthatcanreachashighasdegreesFahrenheit,
         ns1:surfacetemperaturesthatcanreachuptodegreeCelsius,
+        ns1:surfacetemperaturesthatcanreachuptodegreesCelsius,
         ns1:surfacetemperaturesuptodegreesFahrenheit,
         ns1:surfacetemperatureuptodegreesFahrenheit,
         ns1:theplanetsvolcanoes,
@@ -433,6 +443,9 @@ ns1:Venus ns1:believedtohave ns1:liquidwaterinitspast,
     ns1:hasbeen ns1:oneofthemoststudiedplanetsinoursolarsystem ;
     ns1:hasbeencalled ns1:anEarthlike,
         ns1:ascorchinghellhole ;
+    ns1:hasundergone ns1:climaticchanges,
+        ns1:magneticfieldfluctuations,
+        ns1:volcanicactivity ;
     ns1:is ns1:Earthsclosesttwinplanet,
         ns1:Earthssisterplanet,
         ns1:aboutmileslargerthanEarth,
@@ -470,13 +483,16 @@ ns1:Venus ns1:believedtohave ns1:liquidwaterinitspast,
         ns1:thesecondplanetinoursolarsystem ;
     ns1:isacandidatefor ns1:futurehumanmissions ;
     ns1:isalsoknownas ns1:theEarthssisterplanet ;
+    ns1:isamirrorimageof <http://example.org/myontology/Earth’sowngeologicalhistory> ;
     ns1:isarichsourceofinformationfor ns1:scientistsstudyingoursolarsystem ;
     ns1:isbelievedtoplayacrucialroleintheformationof ns1:planetsinthesolarsystem ;
+    ns1:iscoveredin ns1:athicklayer ;
     ns1:isessentialtostudyingourownplanetsclimateandgeology ns1:Earth ;
     ns1:ishometo ns1:severalpotentialresources,
         ns1:someofthemostinterestinggeologicalfeaturesinoursolarsystem ;
     ns1:isknownfor ns1:itsextremetemperaturesandtoxicatmosphere ;
     ns1:islocatedin ns1:oursolarsystem ;
+    ns1:ismadeupalmostentirelyof ns1:carbondioxide ;
     ns1:ismuchhotterandmorehostiletolifethan ns1:Earth ;
     ns1:isofparticularinterestto ns1:astrobiologists ;
     ns1:isoftencalled ns1:Earthssisterplanet ;

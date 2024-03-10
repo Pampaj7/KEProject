@@ -393,4 +393,79 @@ Note: These triples are based on the provided text and may not be exhaustive or 
 * Soviet Union, sent, first space probe
 * Magellan spacecraft, still, in operation
 * European Space Agency, launched, Venus Express spacecraft
-* Venus Express spacecraft, still, studying, atmosphere.
+* Venus Express spacecraft, still, studying, atmosphere.* Venus, planet, solar system
+* Dava Sobel, author, "The Challenge of Exploring Venus"
+* James Orr, author, "The Challenge of Exploring Venus"
+* Magellan spacecraft, spacecraft, surface, Venus
+* Venera spacecraft series, spacecraft, surface, Venus
+* Earth, planet, geological history, Venus
+* Sun, star, solar system
+
+The triples can be read as follows:
+
+* Venus (planet) is part of the solar system.
+* Dava Sobel (author) wrote "The Challenge of Exploring Venus"
+* James Orr (author) wrote "The Challenge of Exploring Venus"
+* Magellan spacecraft (spacecraft) mapped the surface of Venus.
+* Venera spacecraft series (spacecraft) explored the surface of Venus.
+* Earth (planet) has a geological history similar to Venus.
+* Sun (star) is the center of the solar system.* Venus, planet, solar system
+* Dava Sobel, author, "The Challenge of Exploring Venus"
+* James Orr, author, "The Challenge of Exploring Venus"
+* Magellan spacecraft, spacecraft, surface, Venus
+* Venera spacecraft series, spacecraft, surface, Venus
+* Earth, planet, geological history, Venus
+* Sun, star, solar system
+
+The triples can be read as follows:
+
+* Venus (planet) is part of the solar system.
+* Dava Sobel (author) wrote "The Challenge of Exploring Venus"
+* James Orr (author) wrote "The Challenge of Exploring Venus"
+* Magellan spacecraft (spacecraft) mapped the surface of Venus.
+* Venera spacecraft series (spacecraft) explored the surface of Venus.
+* Earth (planet) has a geological history similar to Venus.
+* Sun (star) is the center of the solar system.* Venus, also known as Earth's sister planet, is a fascinating topic that has been explored by scientists, researchers, and space agencies for years.
+* Venus is the second planet from the Sun and is similar in size to Earth, but with a significantly different atmospheric composition.
+* The planet has a thick atmosphere that is composed primarily of carbon dioxide, with clouds made of sulfuric acid.
+* Venus's surface is rocky and mountainous, with volcanoes and craters scattered across the planet.
+* The temperature on Venus is extreme, with average surface temperatures reaching up to 460°C (860°F), making it the hottest planet in our solar system.
+* The study of Venus dates back to ancient times when it was seen as a bright star in the night sky.
+* The first telescopic observations of the planet were made in the 17th century, and astronomers discovered that Venus goes through phases similar to those of the Moon.
+* Venus's phases are caused by its retrograde rotation, which means that it rotates in the opposite direction of its orbit around the Sun.
+* In the 20th century, space exploration provided a wealth of information about Venus.
+* The Mariner 10 mission in 1973 was the first successful deep-space spacecraft to study the planet.
+* It took hundreds of images of the planet's surface and provided important information about its atmosphere and features.
+* Later, the Magellan orbiter in 1990 mapped about 98% of the planet's surface, providing even more detailed information about the planet's topography.
+* Today, Venus continues to be a topic of interest for scientists and space agencies.
+* The planet's extreme conditions and potential for habitability make it a target for future exploration.
+* There have been plans to send rovers to the planet to explore its surface and search for evidence of life.
+* Venus is also a candidate for future human missions, and there are ongoing efforts to develop technologies for safe and efficient exploration of the planet.
+* Venus is a mysterious and fascinating planet that has already been explored for decades.
+* The planet's unique characteristics and environment make it a target for future exploration, and there is still much to learn about this sister planet of Earth.
+* As space exploration continues, it is likely that we will uncover even more about Venus and its potential habitability.
+
+The extracted triples formatted as <named entity A, relation, named entity B> are:
+
+* Venus, exploration, Earth
+* Venus, composition, carbon dioxide
+* Venus, surface, rocky
+* Venus, temperature, hot
+* Venus, study, ancient times
+* Venus, phases, Moon
+* Venus, rotation, retrograde
+* Venus, exploration, spacecraft
+* Venus, mission, Mariner 10
+* Venus, mapping, Magellan orbiter
+* Venus, interest, scientists
+* Venus, conditions, extreme
+* Venus, potential, habitability
+* Venus, rovers, surface
+* Venus, human missions, future
+* Venus, technologies, safe
+* Venus, exploration, decades
+* Venus, characteristics, unique
+* Venus, environment, target
+* Venus, future, uncover
+
+I hope this helps! Let me know if you have any other questions.

@@ -55,6 +55,8 @@
 
 <http://example.org/myontology/*Sun> ns1:star ns1:solarsystem .
 
+<http://example.org/myontology/*Sunstaristhecenterofthesolarsystem*Venus> ns1:planet ns1:solarsystem .
+
 <http://example.org/myontology/*Technology> ns1:advancement ns1:possibility .
 
 <http://example.org/myontology/*TheChallengeofExploringVenus> ns1:author ns1:suggests .

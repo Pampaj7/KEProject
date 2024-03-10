@@ -45,9 +45,11 @@ ns1:SovietUnion ns1:sent ns1:firstspaceprobetoVenus .
 
 ns1:StudyingVenus ns1:canhelpusunderstand ns1:thepossibilityoflifeelsewhereintheuniverse ;
     ns1:couldhelpusunderstand ns1:ourownplanetsclimate ;
+    ns1:helpsdevelopstrategiestosustain ns1:lifeonEarthandMars ;
     ns1:helpsusunderstand ns1:ourownplanetanditsenvironment ;
     ns1:isessentialfor ns1:spaceexploration ;
-    ns1:providescluesabout ns1:theconditionsneededforlife ;
+    ns1:providescluesabout ns1:theconditionsneededforlife,
+        ns1:theconditionsneededforlifetothrive ;
     ns1:providesinsightsinto ns1:Earthsgeologicalandclimatesystems .
 
 ns1:Sulfuricacidandnitricacid ns1:arepresentin ns1:significantamountsinVenussatmosphere .
@@ -132,7 +134,8 @@ ns1:Venus ns1:canhelp ns1:understandhowplanetscandevelopandmaintainhostileenviro
     ns1:hasaretrograderotation ns1:,
         ns1:onitsaxis,
         <http://example.org/myontology/whichmeansthatitrotatesintheoppositedirectionofitsorbitaroundtheSun,> ;
-    ns1:hasarunawaygreenhouseeffect ns1: ;
+    ns1:hasarunawaygreenhouseeffect ns1:,
+        ns1:initsatmosphere ;
     ns1:hasasurfacecoveredby ns1:athicklayeroflava ;
     ns1:hasasurfacetemperature ns1:thatcanreachuptodegreeCelsius ;
     ns1:hasatemperature ns1:uptodegreeCelsius ;
@@ -145,8 +148,10 @@ ns1:Venus ns1:canhelp ns1:understandhowplanetscandevelopandmaintainhostileenviro
     ns1:hasathickatmospherethattrapsheatandcreates ns1:agreenhouseeffect ;
     ns1:hasathickblanketofclouds ns1:thattrapsheatintheatmosphere ;
     ns1:hasathicklayer ns1:onitssurface ;
+    ns1:hasathicklayercoveringitssurface ns1:athicklayer ;
     ns1:hasathicklayerofcloudsofsulfuricacidthatblocksmostofthesunsrays <http://example.org/myontology/makingitnearlyimpossibletosurviveontheplanetssurface,> ;
-    ns1:hasatmospherecomposedof ns1:carbondioxide ;
+    ns1:hasatmospherecomposedof ns1:almostentirelycarbondioxide,
+        ns1:carbondioxide ;
     ns1:hasatmosphericpressure ns1:timesgreaterthanEarths ;
     ns1:hasaveryslowrotationperiod ns1:takingEarthdaystocompleteonerotation ;
     ns1:hasavolcaniclandscape ns1:withmassiveshieldvolcanoes ;
@@ -175,10 +180,12 @@ ns1:Venus ns1:canhelp ns1:understandhowplanetscandevelopandmaintainhostileenviro
         ns1:geologicalactivity ;
     ns1:hassimilarconditionsto ns1:theouterplanetsharshenvironments ;
     ns1:hassimilaritiesingeologicalhistory ns1:withEarth ;
+    ns1:hassimilaritieswith ns1:Earthsgeologicalhistory ;
     ns1:hassulfuricacid ns1:clouds ;
     ns1:hassurfacetemperatures ns1:ashighasdegreesFahrenheit,
         ns1:uptodegreesCelsius ;
     ns1:hassurfacetemperaturesreaching ns1:uptodegreesFahrenheit ;
+    ns1:hassurfacetemperaturesreachingupto ns1:degreesFahrenheit ;
     ns1:hasthepotentialfor ns1:microbiallifeforms ;
     ns1:haswaterinitsatmosphere ns1: ;
     ns1:is ns1:Earthssisterplanet,
@@ -201,8 +208,10 @@ ns1:Venus ns1:canhelp ns1:understandhowplanetscandevelopandmaintainhostileenviro
     ns1:istheclosest ns1:planettoEarth ;
     ns1:istheclosestplanetto ns1:Earth ;
     ns1:isthesecondplanetfrom ns1:thesun ;
-    ns1:lacks ns1:liquidwater ;
-    ns1:mayhave <http://example.org/myontology/liquidwaterbeneathitsthickcrust,> ;
+    ns1:lacks ns1:liquidwater,
+        ns1:liquidwateronitssurface ;
+    ns1:mayhave ns1:extraterrestriallifeontheplanet,
+        <http://example.org/myontology/liquidwaterbeneathitsthickcrust,> ;
     ns1:mayhavehad <http://example.org/myontology/amuchmoreEarthlikeclimateinthepast,> ;
     ns1:mayhavehadanoceaninthepast ns1:indicatedbyrocksontheplanetssurfacecoveredinlayersofsalt ;
     ns1:mayhavehadliquidwaterinthepast ns1: ;
@@ -229,8 +238,7 @@ ns1:VenusExpress ns1:conducted ns1:avarietyofmeasurementstostudyVenussatmosphere
     ns1:orbited ns1:Venusforsevenyears ;
     ns1:studiestheplanetsatmosphere ns1: .
 
-ns1:VenusExpressspacecraft ns1:launchedin ns1: ;
-    ns1:stillstudying ns1:Venusatmosphere .
+ns1:VenusExpressspacecraft ns1:launchedin ns1: .
 
 ns1:Venusatmospherepressure ns1:is ns1:timesgreaterthanonEarth .
 
@@ -261,10 +269,10 @@ ns1:studyingVenus ns1:canprovideinsightsabout ns1:theoriginsoflifeonEarth ;
     ns1:hasmanypracticalapplications ns1:suchasunderstandingclimatechange ;
     ns1:isessentialfor ns1:developingtechnologiesforexploringotherplanetsandmoons .
 
-ns1:Venera ns1:alsofailed ns1: ;
-    ns1:failedtoreachVenus ns1: .
-
 ns1:Venusatmosphere ns1:hasverylittle ns1:watervapororothergases ;
     ns1:isalmostentirelymadeupof ns1:carbondioxide ;
     ns1:thereisverylittleoxygenin ns1:makingithardforanylifeformstosurvive .
+
+ns1:Venera ns1:alsofailed ns1: ;
+    ns1:failedtoreachVenus ns1: .
 

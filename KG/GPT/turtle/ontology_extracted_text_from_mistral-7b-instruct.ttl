@@ -141,7 +141,6 @@ ns1:VenusAtmosphericProbeVAP ns1: ns1:Venus,
         ns1:studyVenusatmosphere .
 
 ns1:VenusExpressspacecraft ns1:conductedavarietyofmeasurementstostudy <http://example.org/myontology/Venus’atmosphere> ;
-    ns1:isstillbusystudyingVenusatmosphere ns1: ;
     ns1:orbited ns1:Venus .
 
 ns1:VenusTheFascinatingExplorationofOurSisterPlanetVenus ns1: ns1:ExploringVenus,
