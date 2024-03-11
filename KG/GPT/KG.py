@@ -8,7 +8,7 @@ from pyvis.network import Network
 
 def normalize_name(name):
     # Replace spaces with unpleasant characters
-    name = (name.replace(" ", "").replace("<", "").replace(">", "").
+    name = (name.replace(" ", "_").replace("<", "").replace(">", "").
             replace(".", "").replace("-", "").replace("'", "").
             replace('"', "").replace("(", "").replace(")", "").replace(":", "").replace(";", ""))
     name = re.sub(r'\d+', '', name)

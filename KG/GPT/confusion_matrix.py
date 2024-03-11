@@ -30,7 +30,7 @@ def calculate_matrix(path):
     print(f"Precision: {precision:.2f}")
     print(f"Recall: {recall:.2f}")
     print(f"F1 Score: {f1_score:.2f}")"""
-    #TODO can work but need to postprocess the text
+    # TODO can work but need to postprocess the text
 
     return true_positives, false_positives, false_negatives
 
@@ -44,6 +44,7 @@ def calculate_evaluation_metrics(true_positives, false_positives, false_negative
     f1_score = 2 * (precision * recall) / (precision + recall)
 
     return precision, recall, f1_score
+
 
 def draw_confusion_matrix(true_positives, false_positives, false_negatives):
     """

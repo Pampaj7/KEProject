@@ -3,6 +3,8 @@ import KG as kg
 import ontology_interrogation as oi
 import graph_stats as gs
 import confusion_matrix as cm
+import matplotlib.pyplot as plt
+import numpy as np
 
 filename = ["extracted_text_from_GPT.txt", "extracted_text_from_llama-13b-chat.txt",
             "extracted_text_from_llama-70b-chat.txt",
@@ -18,11 +20,23 @@ filename = ["extracted_text_from_GPT.txt", "extracted_text_from_llama-13b-chat.t
 
 # Create KG from triplets
 graphs = []
-for file in filename:
+cosine_sim = []
+
+gpt_graph = kg.KG_creation(filename[0])
+gpt_embeddings = gs.generate_embeddings(gpt_graph)
+
+for file in filename[1:]:
     g = kg.KG_creation(file)
     graphs.append(g)
-    gs.test_graphs(gs.generate_embeddings(graphs[0]), g, file)
+    current_embeddings = gs.generate_embeddings(g)
+    similarity_score = gs.compare_embeddings(gpt_embeddings, current_embeddings)
+    cosine_sim.append(similarity_score)
     cm.calculate_matrix(file)
+
+similarity_percentages = [score * 100 for score in cosine_sim]
+
+for file, score, percentage in zip(filename, cosine_sim, similarity_percentages):
+    print(f"File: {file}, Cosine Similarity: {score:.4f}, Similarity Percentage: {percentage:.2f}%")
 
 #some basic interrogation
 #oi.interrogate()
