@@ -110,7 +110,7 @@ def KG_creation(filename):
 
 def visualize_with_pyvis(g, output_file, filename_without_extension):
     """Convert networkx graph to a pyvis network graph and visualize it."""
-    nt = Network("1200px", "1600px", notebook=True)  # if problem with this line try change notebook = false
+    nt = Network("1200px", "1600px", notebook=False)  # if problem with this line try change notebook = false
     # networkx graph to pyvis network conversion
     nt.from_nx(g)
     nt.save_graph('plots/knowledge_graph_' + filename_without_extension + '.html')

@@ -28,7 +28,7 @@ for file in filename[1:]:
     current_embeddings = gs.generate_embeddings(g)
     similarity_score = gs.compare_embeddings(gpt_embeddings, current_embeddings)
     cosine_sim.append(similarity_score)
-    cm.calculate_matrix(file)
+    cm.calculate_matrix(file, similarity_score)
 
 similarity_percentages = [score * 100 for score in cosine_sim]
 

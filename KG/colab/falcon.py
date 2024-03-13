@@ -12,7 +12,7 @@ def ai_response(prompt):
         prompt,
         min_new_tokens=2,
         max_new_tokens=1024,
-        do_sample=False,
+        do_sample=True,
         num_beams=1,
         temperature=float(0.3),
         repetition_penalty=float(1.2),

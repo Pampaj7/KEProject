@@ -1,11 +1,15 @@
+import os
+from concurrent.futures import ProcessPoolExecutor, as_completed
+import matplotlib.pyplot as plt
+import numpy as np
 import spacy
 from tqdm import tqdm
-from concurrent.futures import ProcessPoolExecutor, as_completed
-import numpy as np
-import matplotlib.pyplot as plt
+import warnings
 
 nlp = spacy.load("en_core_web_lg")
-threshold = 0.96
+threshold = 0.95
+
+warnings.filterwarnings("ignore", category=UserWarning, message="set_ticklabels\(\) should only be used with a fixed number of ticks")
 
 
 def nlp_similarity(task):
@@ -25,6 +29,7 @@ def nlp_similarity(task):
     return False
 
 
+
 def read_triplets_from_file(file_path):
     """
     Reads triplets from a given file path.
@@ -39,13 +44,11 @@ def read_triplets_from_file(file_path):
     return triplets
 
 
-def calculate_matrix(path):
+def calculate_matrix(path, similarity_score):
     correct_triplets = read_triplets_from_file("normalizedTriplets/_normalizedextracted_text_from_GPT.txt")
     predicted_triplets = read_triplets_from_file("normalizedTriplets/_normalized" + path)
-    title = path.split("_")[-1].split(".")[0]
 
-    print("Triplets generated:", len(predicted_triplets), "Triplets GT:", len(correct_triplets))
-
+    print("Triplets generated", len(predicted_triplets), "Triplets GT:", len(correct_triplets))
     tasks = [(triplet_p, correct_triplets) for triplet_p in predicted_triplets]
 
     true_positives = 0
@@ -58,11 +61,22 @@ def calculate_matrix(path):
     false_positives = len(predicted_triplets) - true_positives
     false_negatives = len(correct_triplets) - true_positives
 
-    draw_confusion_matrix(true_positives, false_positives, false_negatives, title)
+    draw_confusion_matrix(true_positives, false_positives, false_negatives, os.path.splitext(os.path.basename(path))[0])
     precision, recall, f1_score = calculate_evaluation_metrics(true_positives, false_positives, false_negatives)
+    print("True Positive", true_positives, "False Positive", false_positives, "False negative", false_negatives)
+    print(f"Precision: {precision:.2f}")
+    print(f"Recall: {recall:.2f}")
+    print(f"F1 Score: {f1_score:.2f}")
 
-    print("True Positive:", true_positives, "False Positive:", false_positives, "False Negative:", false_negatives)
-    print(f"Precision: {precision:.2f}\nRecall: {recall:.2f}\nF1 Score: {f1_score:.2f}")
+    file_name = "TXT_Matrix/" + os.path.splitext(os.path.basename(path))[0] + ".txt"
+    with open(file_name, 'w') as file:
+        file.write("True Positives: " + str(true_positives) + "\n")
+        file.write("False Positive: " + str(false_positives) + "\n")
+        file.write("False negative: " + str(false_negatives) + "\n")
+        file.write("Precision: " + str(precision) + "\n")
+        file.write("Recall: " + str(recall) + "\n")
+        file.write("F1 Score: " + str(f1_score) + "\n")
+        file.write("Similarity score: " + str(similarity_score) + "\n")
 
     return true_positives, false_positives, false_negatives
 
@@ -78,30 +92,22 @@ def calculate_evaluation_metrics(true_positives, false_positives, false_negative
     return precision, recall, f1_score
 
 
-def draw_confusion_matrix(true_positives, false_positives, false_negatives, title):
+def draw_confusion_matrix(true_positives, false_positives, false_negatives, name):
     """
     Draws a confusion matrix using Matplotlib.
     """
-    # Calculate true negatives (assuming it's not directly relevant and set to 0 for visualization)
     true_negatives = 0
-
-    # Create a confusion matrix
     confusion_matrix = np.array([[true_positives, false_positives],
                                  [false_negatives, true_negatives]])
-
     fig, ax = plt.subplots()
     cax = ax.matshow(confusion_matrix, cmap=plt.cm.Blues)
-    plt.title('Confusion Matrix for ' + title)
+    plt.title('Confusion Matrix')
     fig.colorbar(cax)
-
-    # Set axis labels
-    ax.set_xticklabels([''] + ['Predicted Positive', 'Predicted Negative'])
-    ax.set_yticklabels([''] + ['Actual Positive', 'Actual Negative'])
-
-    # Display the numbers in the cells
+    ax.set_xticklabels(['Predicted Positive', 'Predicted Negative'])
+    ax.set_yticklabels(['Actual Positive', 'Actual Negative'])
     for (i, j), val in np.ndenumerate(confusion_matrix):
         ax.text(j, i, f'{val}', ha='center', va='center')
-
     plt.xlabel('Predicted labels')
     plt.ylabel('True labels')
-    plt.show()
+    # plt.show()
+    plt.savefig("TXT_Matrix/" + name + ".png")

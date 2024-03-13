@@ -1,6 +1,6 @@
 @prefix ns1: <http://example.org/myontology/> .
-@prefix ns2: <http://example.org/myontology/reach_speeds_of_up_to_,> .
-@prefix ns3: <http://example.org/myontology/has_a_diameter_of_approximately_,> .
+@prefix ns2: <http://example.org/myontology/has_a_diameter_of_approximately_,> .
+@prefix ns3: <http://example.org/myontology/reach_speeds_of_up_to_,> .
 
 ns1:These_triples_represent_various_named_entities_and_their_relationships_as_described_in_the_text_Venus ns1:_is_known_for ns1:the_second_planet_from_the_sun .
 
@@ -506,7 +506,7 @@ ns1:_Venus ns1: ns1:Earth,
     ns1:has_a_dense_atmosphere_composed_mostly_of_carbon_dioxide_with_clouds_of_sulfuric_acid ns1:Has_a_dense_atmosphere_composed_mostly_of_carbon_dioxide_with_clouds_of_sulfuric_acid ;
     ns1:has_a_dense_atmosphere_composed_primarily_of_carbon_dioxide ns1:Venus ;
     ns1:has_a_dense_atmosphere_that_creates_a ns1:greenhouse_effect ;
-    ns3:_miles ns1:Venus ;
+    ns2:_miles ns1:Venus ;
     ns1:has_a_greenhouse_effect_on_the_planet ns1:Atmosphere ;
     ns1:has_a_habitable_environment_potential <http://example.org/myontology/,> ;
     ns1:has_a_highly_toxic_atmosphere ns1: ;
@@ -738,7 +738,7 @@ ns1:_Venus_surface ns1:has_sunk_below_the_surface_in_some_places <http://example
     ns1:is_covered_in_a_layer_of_solid_rock <http://example.org/myontology/,> ;
     ns1:is_home_to_enormous_volcanoes <http://example.org/myontology/,> .
 
-ns1:_Venusian_winds ns2:_kilometers_per_hour ns1:null .
+ns1:_Venusian_winds ns3:_kilometers_per_hour ns1:null .
 
 ns1:_Venuss_atmosphere ns1:blocks_out_most_of_the_Suns_light <http://example.org/myontology/null,> ;
     ns1:creates_a_thick_layer_that_traps_heat_and_creates_a_runaway_greenhouse_effect <http://example.org/myontology/null,> ;
