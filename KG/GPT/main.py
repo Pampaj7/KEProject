@@ -1,10 +1,6 @@
-import tripletsExtractor as te
 import KG as kg
-import ontology_interrogation as oi
 import graph_stats as gs
 import confusion_matrix as cm
-import matplotlib.pyplot as plt
-import numpy as np
 
 filename = ["extracted_text_from_GPT.txt", "extracted_text_from_llama-13b-chat.txt",
             "extracted_text_from_llama-70b-chat.txt",
@@ -13,10 +9,10 @@ filename = ["extracted_text_from_GPT.txt", "extracted_text_from_llama-13b-chat.t
 
 # Extract triplets from Wikipedia
 # Split extraction to kg creation
-#topic = "deep learning"
-#text_from_wikipedia = te.get_wikipedia_text(topic)
-#te.modelsResponse(text_from_wikipedia)
-#te.GPTResponse(text_from_wikipedia)
+# topic = "deep learning"
+# text_from_wikipedia = te.get_wikipedia_text(topic)
+# te.modelsResponse(text_from_wikipedia)
+# te.GPTResponse(text_from_wikipedia)
 
 # Create KG from triplets
 graphs = []
@@ -38,5 +34,5 @@ similarity_percentages = [score * 100 for score in cosine_sim]
 for file, score, percentage in zip(filename, cosine_sim, similarity_percentages):
     print(f"File: {file}, Cosine Similarity: {score:.4f}, Similarity Percentage: {percentage:.2f}%")
 
-#some basic interrogation
-#oi.interrogate()
+# some basic interrogation
+# oi.interrogate()

@@ -79,6 +79,7 @@ for filename in os.listdir(folder_path):
         jSONlist.append(folder_path + filename)
 
 for i in jSONlist:
+    print("-------------"+os.path.splitext(os.path.basename(i))[0]+"-------------")
     rdf_graph = load_rdf_graph(i)
 
     # Convert to NetworkX graph for matplotlib visualization

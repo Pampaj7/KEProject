@@ -4,12 +4,12 @@
         {
             "@id": "http://example.com/algorithm",
             "@type": "schema:Thing",
-            "schema:name": "Algorithm"
+            "name": "Algorithm"
         },
         {
             "@id": "http://example.com/deep-learning",
             "@type": "schema:Thing",
-            "schema:name": "Deep learning"
+            "name": "Deep learning"
         }
     ]
 }

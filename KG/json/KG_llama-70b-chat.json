@@ -6,107 +6,26 @@
         {
             "@id": "#algorithm",
             "@type": "schema:Thing",
-            "schema:name": "Algorithm"
+            "schema:name": "Algorithm",
+            "schema:description": "Deep learning is the subset of machine learning methods based on artificial neural networks (ANNs) with representation learning."
         },
         {
-            "@id": "#deepLearning",
+            "@id": "#deep-learning",
             "@type": "schema:Thing",
-            "schema:name": "Deep learning"
+            "schema:name": "Deep Learning",
+            "schema:description": "Deep learning architectures such as deep neural networks, deep belief networks, recurrent neural networks, convolutional neural networks and transformers have been applied to fields including computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, climate science, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance."
         },
         {
-            "@id": "#artificialNeuralNetworks",
+            "@id": "#artificial-neural-networks",
             "@type": "schema:Thing",
-            "schema:name": "Artificial neural networks (ANNs)"
+            "schema:name": "Artificial Neural Networks",
+            "schema:description": "Artificial neural networks were inspired by information processing and distributed communication nodes in biological systems. ANNs have various differences from biological brains. Specifically, artificial neural networks tend to be static and symbolic, while the biological brain of most living organisms is dynamic (plastic) and analog."
         },
         {
-            "@id": "#representationLearning",
+            "@id": "#biological-brain",
             "@type": "schema:Thing",
-            "schema:name": "Representation learning"
-        },
-        {
-            "@id": "#supervisedLearning",
-            "@type": "schema:Thing",
-            "schema:name": "Supervised learning"
-        },
-        {
-            "@id": "#semiSupervisedLearning",
-            "@type": "schema:Thing",
-            "schema:name": "Semi-supervised learning"
-        },
-        {
-            "@id": "#unsupervisedLearning",
-            "@type": "schema:Thing",
-            "schema:name": "Unsupervised learning"
-        },
-        {
-            "@id": "#deepNeuralNetworks",
-            "@type": "schema:Thing",
-            "schema:name": "Deep neural networks"
-        },
-        {
-            "@id": "#deepBeliefNetworks",
-            "@type": "schema:Thing",
-            "schema:name": "Deep belief networks"
-        },
-        {
-            "@id": "#recurrentNeuralNetworks",
-            "@type": "schema:Thing",
-            "schema:name": "Recurrent neural networks"
-        },
-        {
-            "@id": "#convolutionalNeuralNetworks",
-            "@type": "schema:Thing",
-            "schema:name": "Convolutional neural networks"
-        },
-        {
-            "@id": "#transformers",
-            "@type": "schema:Thing",
-            "schema:name": "Transformers"
-        },
-        {
-            "@id": "#computerVision",
-            "@type": "schema:Thing",
-            "schema:name": "Computer vision"
-        },
-        {
-            "@id": "#speechRecognition",
-            "@type": "schema:Thing",
-            "schema:name": "Speech recognition"
-        },
-        {
-            "@id": "#naturalLanguageProcessing",
-            "@type": "schema:Thing",
-            "schema:name": "Natural language processing"
-        },
-        {
-            "@id": "#machineTranslation",
-            "@type": "schema:Thing",
-            "schema:name": "Machine translation"
-        },
-        {
-            "@id": "#bioinformatics",
-            "@type": "schema:Thing",
-            "schema:name": "Bioinformatics"
-        },
-        {
-            "@id": "#drugDesign",
-            "@type": "schema:Thing",
-            "schema:name": "Drug design"
-        },
-        {
-            "@id": "#medicalImageAnalysis",
-            "@type": "schema:Thing",
-            "schema:name": "Medical image analysis"
-        },
-        {
-            "@id": "#climateScience",
-            "@type": "schema:Thing",
-            "schema:name": "Climate science"
-        },
-        {
-            "@id": "#materialInspection",
-            "@type": "schema:Thing",
-            "schema:name": "Material inspection"
+            "schema:name": "Biological Brain",
+            "schema:description": "The biological brain of most living organisms is dynamic (plastic) and analog."
         }
     ]
 }

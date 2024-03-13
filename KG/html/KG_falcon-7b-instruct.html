@@ -88,8 +88,8 @@
                   
 
                   // parsing and collecting nodes and edges from the python
-                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_falcon-7b-instruct.json", "label": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_falcon-7b-instruct.json", "shape": "dot", "title": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_falcon-7b-instruct.json"}, {"color": "#97c2fc", "id": "schema:name", "label": "schema:name", "shape": "dot", "title": "schema:name"}]);
-                  edges = new vis.DataSet([{"from": "file:///home/mirko/PycharmProjects/KEProject/KG/json/KG_falcon-7b-instruct.json", "title": "http://schema.org/Thing", "to": "schema:name"}]);
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Nd18d3c2280044b57a7a47b6367cb3376", "label": "Nd18d3c2280044b57a7a47b6367cb3376", "shape": "dot", "title": "Nd18d3c2280044b57a7a47b6367cb3376"}, {"color": "#97c2fc", "id": "N0977162118da42eda85592557fce7e22", "label": "N0977162118da42eda85592557fce7e22", "shape": "dot", "title": "N0977162118da42eda85592557fce7e22"}, {"color": "#97c2fc", "id": "http://schema.org/Thing", "label": "http://schema.org/Thing", "shape": "dot", "title": "http://schema.org/Thing"}]);
+                  edges = new vis.DataSet([{"from": "Nd18d3c2280044b57a7a47b6367cb3376", "title": "http://schema.org/name", "to": "N0977162118da42eda85592557fce7e22"}, {"from": "N0977162118da42eda85592557fce7e22", "title": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "to": "http://schema.org/Thing"}]);
 
                   nodeColors = {};
                   allNodes = nodes.get({ returnType: "Object" });

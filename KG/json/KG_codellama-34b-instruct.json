@@ -6,25 +6,11 @@
         {
             "@id": "#algorithm",
             "@type": "schema:Thing",
-            "schema:name": "Algorithm"
-        },
-        {
-            "@id": "#deep-learning",
-            "@type": "schema:Thing",
             "schema:name": "Deep Learning",
-            "schema:description": "Deep learning is the subset of machine learning methods based on artificial neural networks (ANNs) with representation learning. The adjective 'deep' refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised."
-        },
-        {
-            "@id": "#deep-learning-architectures",
-            "@type": "schema:Thing",
-            "schema:name": "Deep Learning Architectures",
-            "schema:description": "Deep-learning architectures such as deep neural networks, deep belief networks, recurrent neural networks, convolutional neural networks and transformers have been applied to fields including computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, climate science, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance."
-        },
-        {
-            "@id": "#artificial-neural-networks",
-            "@type": "schema:Thing",
-            "schema:name": "Artificial Neural Networks",
-            "schema:description": "Artificial neural networks were inspired by information processing and distributed communication nodes in biological systems. ANNs have various differences from biological brains. Specifically, artificial neural networks tend to be static and symbolic, while the biological brain of most living organisms is dynamic (plastic) and analog."
+            "schema:description": "The subset of machine learning methods based on artificial neural networks (ANNs) with representation learning. The adjective 'deep' refers to the use of multiple layers in the network.",
+            "schema:applicationCategory": "Computer Vision, Speech Recognition, Natural Language Processing, Machine Translation, Bioinformatics, Drug Design, Medical Image Analysis, Climate Science, Material Inspection, Board Game Programs",
+            "schema:method": "Supervised, Semi-supervised, Unsupervised",
+            "schema:inspiration": "Artificial Neural Networks inspired by information processing and distributed communication nodes in biological systems."
         }
     ]
 }

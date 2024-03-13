@@ -1,6 +1,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-from rdflib import Graph, URIRef, RDF, Namespace
+from rdflib import Graph, URIRef, Namespace
 import re
 import os
 from pyvis.network import Network
@@ -14,6 +14,7 @@ def normalize_name(name):
     name = re.sub(r'\d+', '', name)
 
     return name
+
 
 def normalize_file(input_file, output_file):
     triplets = []
@@ -70,7 +71,7 @@ def KG_creation(filename):
             parts = cleaned_line.split(', ')
             if len(parts) != 3:
                 continue
-                
+
             # Normalize names for each part of the triplet -- works all the time
             normalized_subject = normalize_name(parts[0])
             normalized_relation = normalize_name(parts[1])
@@ -101,7 +102,7 @@ def KG_creation(filename):
     # Now also create the ontology with normalized names
     create_ontology(triplets, filename)
 
-    #interactive visualization
+    # interactive visualization
     visualize_with_pyvis(G, 'knowledge_graph' + filename_without_extension + '.html', filename_without_extension)
 
     return G

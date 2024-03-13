@@ -24,19 +24,9 @@
             "schema:name": "Artificial Neural Networks"
         },
         {
-            "@id": "#biological-brains",
+            "@id": "#representation-learning",
             "@type": "schema:Thing",
-            "schema:name": "Biological Brains"
-        },
-        {
-            "@id": "#differences-between-biological-brains-and-artificial-neural-networks",
-            "@type": "schema:Thing",
-            "schema:name": "Differences Between Biological Brains and Artificial Neural Networks"
-        },
-        {
-            "@id": "#deep-learning-architectures",
-            "@type": "schema:Thing",
-            "schema:name": "Deep Learning Architectures"
+            "schema:name": "Representation Learning"
         },
         {
             "@id": "#computer-vision",
@@ -87,6 +77,61 @@
             "@id": "#board-game-programs",
             "@type": "schema:Thing",
             "schema:name": "Board Game Programs"
+        },
+        {
+            "@id": "#brain",
+            "@type": "schema:Thing",
+            "schema:name": "Brain"
+        },
+        {
+            "@id": "#biological-brains",
+            "@type": "schema:Thing",
+            "schema:name": "Biological Brains"
+        },
+        {
+            "@id": "#artificial-brains",
+            "@type": "schema:Thing",
+            "schema:name": "Artificial Brains"
+        },
+        {
+            "@id": "#differences-between-biological-and-artificial-brains",
+            "@type": "schema:Thing",
+            "schema:name": "Differences Between Biological and Artificial Brains"
+        },
+        {
+            "@id": "#static-and-symbolic-brains",
+            "@type": "schema:Thing",
+            "schema:name": "Static and Symbolic Brains"
+        },
+        {
+            "@id": "#dynamic-and-plastic-brains",
+            "@type": "schema:Thing",
+            "schema:name": "Dynamic and Plastic Brains"
+        },
+        {
+            "@id": "#artificial-neural-networks-vs-biological-brains",
+            "@type": "schema:Thing",
+            "schema:name": "Artificial Neural Networks vs Biological Brains"
+        },
+        {
+            "@id": "#artificial-neural-networks-vs-biological-brains-comparison",
+            "@type": "schema:Thing",
+            "schema:name": "Artificial Neural Networks vs Biological Brains Comparison"
+        },
+        {
+            "@id": "#artificial-neural-networks-vs-biological-brains-differences",
+            "@type": "schema:Thing",
+            "schema:name": "Artificial Neural Networks vs Biological Brains Differences"
+        },
+        {
+            "@id": "#artificial-neural-networks-vs-biological-brains-similarities",
+            "@type": "schema:Thing",
+            "schema:name": "Artificial Neural Networks vs Biological Brains Similarities"
+        },
+        {
+            "@id": "#artificial-neural-networks-vs-biological-brains-conclusion",
+            "@type": "schema:Thing",
+            "schema:name": "Artificial Neural Networks vs Biological Brains Conclusion"
         }
     ]
 }

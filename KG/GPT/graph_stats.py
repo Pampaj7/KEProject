@@ -1,13 +1,12 @@
 import networkx as nx
-from networkx.algorithms import isomorphism
 import numpy as np
-from scipy.linalg import eigh
 from node2vec import Node2Vec
 import matplotlib.pyplot as plt
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.manifold import TSNE
 
 np.random.seed(42)
+
 
 def calculate_and_plot_metrics(G, title):
     nodes = G.number_of_nodes()
