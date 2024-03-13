@@ -58,6 +58,7 @@ class H2OTextGenerationPipeline(TextGenerationPipeline):
         return records
 
 
+
 tokenizer = AutoTokenizer.from_pretrained(
     "h2oai/h2ogpt-gm-oasst1-en-2048-falcon-7b-v3",
     use_fast=False,
@@ -68,7 +69,7 @@ tokenizer = AutoTokenizer.from_pretrained(
 model = AutoModelForCausalLM.from_pretrained(
     "h2oai/h2ogpt-gm-oasst1-en-2048-falcon-7b-v3",
     torch_dtype=torch.float16,
-    device_map={"": "cpu"},
+    device_map="auto",
     trust_remote_code=True,
 )
 
