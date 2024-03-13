@@ -17,6 +17,10 @@ def load_rdf_graph(file_path, format="json-ld"):
 
 def visualize_with_matplotlib(G):
     """Visualize the RDF graph using matplotlib."""
+    if len(G) == 0:
+        print("Graph is empty. Skipping visualization.")
+        return
+
     node_degrees = dict(G.degree())
     most_important_node = max(node_degrees, key=node_degrees.get)
 

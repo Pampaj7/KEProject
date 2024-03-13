@@ -8,6 +8,25 @@ from tqdm import tqdm
 nlp = spacy.load("en_core_web_lg")
 threshold = 0.95
 
+
+def nlp_similarity(task):
+    """
+    A wrapper function to compute similarity using spaCy.
+    It loads the spaCy model as needed.
+    """
+    global nlp
+    if nlp is None:
+        nlp = spacy.load("en_core_web_lg")
+    predicted_triplet, correct_triplets = task
+    doc1 = nlp(predicted_triplet)
+    for triplet_c in correct_triplets:
+        doc2 = nlp(triplet_c)
+        if doc1.similarity(doc2) >= threshold:
+            return True
+    return False
+
+
+
 def read_triplets_from_file(file_path):
     """
     Reads triplets from a given file path.

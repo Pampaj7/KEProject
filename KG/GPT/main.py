@@ -22,6 +22,7 @@ gpt_graph = kg.KG_creation(filename[0])
 gpt_embeddings = gs.generate_embeddings(gpt_graph)
 
 for file in filename[1:]:
+    print("RUNNING FILE: ", file)
     g = kg.KG_creation(file)
     graphs.append(g)
     current_embeddings = gs.generate_embeddings(g)
