@@ -29,7 +29,6 @@ def nlp_similarity(task):
     return False
 
 
-
 def read_triplets_from_file(file_path):
     """
     Reads triplets from a given file path.
