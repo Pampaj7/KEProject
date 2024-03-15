@@ -48,13 +48,8 @@ class H2OTextGenerationPipeline(TextGenerationPipeline):
             clean_up_tokenization_spaces=clean_up_tokenization_spaces,
         )
         for rec in records:
-            rec["generated_text"] = (
-                rec["generated_text"]
-                .split("<|answer|>")[1]
-                .strip()
-                .split("<|prompt|>")[0]
-                .strip()
-            )
+            rec["generated_text"] = rec["generated_text"].strip()
+
         return records
 
 
