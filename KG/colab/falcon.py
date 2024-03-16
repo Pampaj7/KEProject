@@ -5,6 +5,7 @@ from transformers import TextGenerationPipeline
 from transformers.pipelines.text_generation import ReturnType
 
 STYLE = "<|prompt|>{instruction}<|endoftext|><|answer|>"
+filename = "testi/Mistral7B_CME_v1.csv"
 
 
 def ai_response(prompt):
@@ -20,13 +21,14 @@ def ai_response(prompt):
     )
     return res[0]["generated_text"]
 
+
 class H2OTextGenerationPipeline(TextGenerationPipeline):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.prompt = STYLE
 
     def preprocess(
-        self, prompt_text, prefix="", handle_long_generation=None, **generate_kwargs
+            self, prompt_text, prefix="", handle_long_generation=None, **generate_kwargs
     ):
         prompt_text = self.prompt.format(instruction=prompt_text)
         return super().preprocess(
@@ -37,10 +39,10 @@ class H2OTextGenerationPipeline(TextGenerationPipeline):
         )
 
     def postprocess(
-        self,
-        model_outputs,
-        return_type=ReturnType.FULL_TEXT,
-        clean_up_tokenization_spaces=True,
+            self,
+            model_outputs,
+            return_type=ReturnType.FULL_TEXT,
+            clean_up_tokenization_spaces=True,
     ):
         records = super().postprocess(
             model_outputs,
@@ -51,7 +53,6 @@ class H2OTextGenerationPipeline(TextGenerationPipeline):
             rec["generated_text"] = rec["generated_text"].strip()
 
         return records
-
 
 
 tokenizer = AutoTokenizer.from_pretrained(
@@ -67,7 +68,6 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="auto",
     trust_remote_code=True,
 )
-
 
 generate_text = H2OTextGenerationPipeline(model=model, tokenizer=tokenizer)
 
