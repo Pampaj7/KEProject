@@ -1,37 +1,21 @@
-from awq import AutoAWQForCausalLM
-from transformers import AutoTokenizer
-import torch
-import os
+from transformers import AutoModelForCausalLM, AutoTokenizer
 
-model_name_or_path = "TheBloke/Mistral-7B-v0.1-AWQ"
-filename = "testi/Mistral7B_CME_v1.csv"
+device = "cuda"  # the device to load the model onto
 
-# Set the device dynamically
-device = "cuda" if torch.cuda.is_available() else "cpu"
+#DO NOT SET .TO(DEVICE) IT WILL CRASH
+model = AutoModelForCausalLM.from_pretrained("mistralai/Mistral-7B-Instruct-v0.1", load_in_4bit=True, device_map="auto")
+tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.1")
 
-# Load model and tokenizer
-model = AutoAWQForCausalLM.from_quantized(model_name_or_path, fuse_layers=True, safetensors=True).to(device)
-tokenizer = AutoTokenizer.from_pretrained(model_name_or_path, trust_remote_code=False)
+messages = [
+    {"role": "user", "content": "What is your favourite condiment?"},
+    {"role": "assistant", "content": "Well, I'm quite partial to a good squeeze of fresh lemon juice. It adds just the right amount of zesty flavour to whatever I'm cooking up in the kitchen!"},
+    {"role": "user", "content": "Do you have mayonnaise recipes?"}
 
-with open(filename, 'r') as f:
-    text = f.read()
+]
 
-prompt = (f"You will perform the open information extraction task. You will identify the named "
-          f"entities in the content and then extract the relations between them. Use the same words. "
-          f"Based on the provided testimony, you will return triples which is formatted as <named "
-          f"entity A, relation, named entity B>. {text} The extracted triples formatted as <named entity A, ")
+# HERE SEEMS THAT .TO(DEVICE) MOTHING CHANGES
+model_inputs = tokenizer.apply_chat_template(messages, return_tensors="pt")
 
-tokens = tokenizer(prompt, return_tensors='pt').input_ids.to(device)
-
-# Generate output
-generation_output = model.generate(
-    tokens,
-    do_sample=True,
-    temperature=0.7,
-    top_p=0.95,
-    top_k=40,
-    max_new_tokens=32,
-    use_cache=True,
-)
-
-print("Output: ", tokenizer.decode(generation_output[0]))
+generated_ids = model.generate(model_inputs, max_new_tokens=1000, do_sample=True)
+decoded = tokenizer.batch_decode(generated_ids)
+print(decoded[0])
