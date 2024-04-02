@@ -1,181 +1,181 @@
 @prefix ns1: <http://example.org/myontology/> .
 
-ns1:_Advanced_propulsion_systems_are_needed_for_efficient_transport_to_Venus_Venus ns1:is_a_planet ns1:in_our_solar_system .
+ns1:AdvancedpropulsionsystemsareneededforefficienttransporttoVenusVenus ns1:isaplanet ns1:inoursolarsystem .
 
-ns1:_Advancements_in_remote_sensing_techniques_have_allowed_researchers_to_study_Venus_from_a_safe_distance_Venus ns1:the_second_planet_from_the_Sun ns1:is_the_closest_planet_to_Earth_that_can_be_seen_with_the_naked_eye .
+ns1:AdvancementsinremotesensingtechniqueshaveallowedresearcherstostudyVenusfromasafedistanceVenus ns1:thesecondplanetfromtheSun ns1:istheclosestplanettoEarththatcanbeseenwiththenakedeye .
 
-ns1:_Despite_these_discoveries ns1:there_is_still_much_that_is_unknown_about_Venus ns1:and_further_exploration_is_necessary_to_understand_our_own_planet_and_its_place_in_the_universe .
+ns1:Despitethesediscoveries ns1:thereisstillmuchthatisunknownaboutVenus ns1:andfurtherexplorationisnecessarytounderstandourownplanetanditsplaceintheuniverse .
 
-ns1:_Despite_these_similarities ns1:Venus_is_a_very_different_planet ns1:with_some_of_the_most_extreme_conditions_in_the_solar_system .
+ns1:Despitethesesimilarities ns1:Venusisaverydifferentplanet ns1:withsomeofthemostextremeconditionsinthesolarsystem .
 
-ns1:_Exploring_Venus_has_provided_scientists_with_valuable_insights_into_the_planets_geology ns1:atmosphere ns1:and_potential_habitability .
+ns1:ExploringVenushasprovidedscientistswithvaluableinsightsintotheplanetsgeology ns1:atmosphere ns1:andpotentialhabitability .
 
-ns1:_Exploring_Venus_is_a_challenging_task ns1:given_its_extreme_conditions ns1:but_the_potential_rewards_are_enormous .
+ns1:ExploringVenusisachallengingtask ns1:givenitsextremeconditions ns1:butthepotentialrewardsareenormous .
 
-ns1:_Exploring_Venus_is_an_ongoing_endeavor ns1:and_there_is_still_much_we_do_not_know_about_the_planet ns1:but_advances_in_technology_and_our_understanding_of_planetary_science_may_lead_to_a_better_understanding_of_this_mysterious_planet_in_the_future_Venus_is_a_planet_in_our_solar_system .
+ns1:ExploringVenusisanongoingendeavor ns1:andthereisstillmuchwedonotknowabouttheplanet ns1:butadvancesintechnologyandourunderstandingofplanetarysciencemayleadtoabetterunderstandingofthismysteriousplanetinthefutureVenusisaplanetinoursolarsystem .
 
-ns1:_Exploring_Venus_is_challenging_due_to_extreme_temperatures ns1:surface_pressure ns1:and_lack_of_liquid_water .
+ns1:ExploringVenusischallengingduetoextremetemperatures ns1:surfacepressure ns1:andlackofliquidwater .
 
-ns1:_Exploring_Venus_presents_a_unique_challenge_for_scientist_and_researchers ns1:as_the_planets_surface_is_shrouded_in_thick_clouds_of_sulfuric_acid ns1:making_it_difficult_to_study_directly .
+ns1:ExploringVenuspresentsauniquechallengeforscientistandresearchers ns1:astheplanetssurfaceisshroudedinthickcloudsofsulfuricacid ns1:makingitdifficulttostudydirectly .
 
-ns1:_However ns1:despite_the_extreme_conditions ns1:scientists_have_been_able_to_explore_Venus_through_the_use_of_unmanned_spacecraft ;
-    ns1:despite_these_similarities ns1:Venus_is_still_shrouded_in_mystery_and_has_yet_to_be_fully_explored ;
-    ns1:it_has_not_been_able_to_confirm_whether_there_is_liquid_water_on_the_surface ns1:which_is_a_key_ingredient_for_life ;
-    ns1:over_time ns1:the_planet_cooled_and_its_surface_solidified .
+ns1:However ns1:despitetheextremeconditions ns1:scientistshavebeenabletoexploreVenusthroughtheuseofunmannedspacecraft ;
+    ns1:despitethesesimilarities ns1:Venusisstillshroudedinmysteryandhasyettobefullyexplored ;
+    ns1:ithasnotbeenabletoconfirmwhetherthereisliquidwateronthesurface ns1:whichisakeyingredientforlife ;
+    ns1:overtime ns1:theplanetcooledanditssurfacesolidified .
 
-ns1:_In_recent_years ns1:however ns1:advancements_in_space_technology_have_allowed_us_to_explore_Venus_in_greater_detail .
+ns1:Inrecentyears ns1:however ns1:advancementsinspacetechnologyhaveallowedustoexploreVenusingreaterdetail .
 
-ns1:_In_the_s ns1:the_Soviet_Union_sent_the_first_spacecraft_to_Venus ns1:called_Venera_ .
+ns1:Inthes ns1:theSovietUnionsentthefirstspacecrafttoVenus ns1:calledVenera .
 
-ns1:_It_has_a_similar_atmosphere ns1:size ns1:and_gravity .
+ns1:Ithasasimilaratmosphere ns1:size ns1:andgravity .
 
-ns1:_It_is_the_closest_planet_to_Earth ns1:and_due_to_its_proximity ns1:scientists_have_been_able_to_study_it_in_greater_detail_than_any_of_the_other_planets_in_the_solar_system .
+ns1:ItistheclosestplanettoEarth ns1:andduetoitsproximity ns1:scientistshavebeenabletostudyitingreaterdetailthananyoftheotherplanetsinthesolarsystem .
 
-ns1:_Magellan_spacecraft ns1:Venus ns1:surface_mapping .
+ns1:Magellanspacecraft ns1:Venus ns1:surfacemapping .
 
-ns1:_Manned_missions_to_Venus_would_face_significant_challenges ns1:including_the_extreme_heat_and_pressure_on_the_planets_surface ns1:as_well_as_the_hostile_radiation_environment .
+ns1:MannedmissionstoVenuswouldfacesignificantchallenges ns1:includingtheextremeheatandpressureontheplanetssurface ns1:aswellasthehostileradiationenvironment .
 
-ns1:_NASA_has_sent_several_missions_to_Venus ns1:including_the_Venus_Atmospheric_Probe ns1:which_was_launched_in_October__and_is_expected_to_land_on_Venus_in_ .
+ns1:NASAhassentseveralmissionstoVenus ns1:includingtheVenusAtmosphericProbe ns1:whichwaslaunchedinOctoberandisexpectedtolandonVenusin .
 
-ns1:_Often_compared_to_Earth ns1:Venus_is_a_rocky_planet_with_a_thick_atmosphere ns1:and_it_is_covered_in_a_thick_layer_of_clouds .
+ns1:OftencomparedtoEarth ns1:Venusisarockyplanetwithathickatmosphere ns1:anditiscoveredinathicklayerofclouds .
 
-ns1:_Olympus_Mons ns1:a_volcano_on_Venus ns1:has_altered_Venuss_topography,
-        ns1:is_twice_as_high_as_Mount_Everest .
+ns1:OlympusMons ns1:avolcanoonVenus ns1:hasalteredVenusstopography,
+        ns1:istwiceashighasMountEverest .
 
-ns1:_Overall ns1:the_author_makes_a_compelling_case_for_the_importance_of_studying_Venus ns1:and_their_arguments_are_wellsupported_by_evidence_from_the_article .
+ns1:Overall ns1:theauthormakesacompellingcasefortheimportanceofstudyingVenus ns1:andtheirargumentsarewellsupportedbyevidencefromthearticle .
 
-ns1:_Previous_Venus_missions ns1:such_as_the_Magellan_mission ns1:have_been_successful .
+ns1:PreviousVenusmissions ns1:suchastheMagellanmission ns1:havebeensuccessful .
 
-ns1:_Recent_evidence ns1:suggests_that_Venus ns1:might_have_had_oceans_in_its_past .
+ns1:Recentevidence ns1:suggeststhatVenus ns1:mighthavehadoceansinitspast .
 
-ns1:_Remote_sensing_missions_have_already_provided_valuable_data_about_the_planets_geology ns1:atmosphere ns1:and_climate .
+ns1:Remotesensingmissionshavealreadyprovidedvaluabledataabouttheplanetsgeology ns1:atmosphere ns1:andclimate .
 
-ns1:_Researchers_have_used_radar_and_other_remote_sensing_techniques_to_monitor_Venus_weather_patterns ns1:clouds ns1:and_temperatures .
+ns1:ResearchershaveusedradarandotherremotesensingtechniquestomonitorVenusweatherpatterns ns1:clouds ns1:andtemperatures .
 
-ns1:_Scientists ns1:determined ns1:continue_exploring_Venus ;
-    ns1:want_to_study_Venus ns1:because_its_geology_and_climate_resembles_those_of_Earth .
+ns1:Scientists ns1:determined ns1:continueexploringVenus ;
+    ns1:wanttostudyVenus ns1:becauseitsgeologyandclimateresemblesthoseofEarth .
 
-ns1:_Scientists_have_discovered_evidence_of_ancient_oceans ns1:volcanic_activity ns1:and_potential_habitats_for_extremophile_life_on_Venus .
+ns1:Scientistshavediscoveredevidenceofancientoceans ns1:volcanicactivity ns1:andpotentialhabitatsforextremophilelifeonVenus .
 
-ns1:_Scientists_have_identified_features_such_as_impact_craters ns1:volcanoes ns1:and_mountains_on_Venus .
+ns1:Scientistshaveidentifiedfeaturessuchasimpactcraters ns1:volcanoes ns1:andmountainsonVenus .
 
-ns1:_Studies_have_shown_that_Venus_has_volcanoes ns1:mountains ns1:and_even_vast_oceans .
+ns1:StudieshaveshownthatVenushasvolcanoes ns1:mountains ns1:andevenvastoceans .
 
-ns1:_Studying_Venus ns1:can_provide_insights_into_the_history_of_our_own_planet ns1:including_its_past_climate_change_and_volcanic_activity ;
-    ns1:could_give_scientists_insights_into_other_planets_with_similar_characteristics ns1:including_Mars_and_exoplanets ;
-    ns1:the_author_argues ns1:can_help_us_prepare_for_future_missions_to_these_planets_and_increase_our_chances_of_finding_extraterrestrial_life .
+ns1:StudyingVenus ns1:canprovideinsightsintothehistoryofourownplanet ns1:includingitspastclimatechangeandvolcanicactivity ;
+    ns1:couldgivescientistsinsightsintootherplanetswithsimilarcharacteristics ns1:includingMarsandexoplanets ;
+    ns1:theauthorargues ns1:canhelpusprepareforfuturemissionstotheseplanetsandincreaseourchancesoffindingextraterrestriallife .
 
-ns1:_Studying_Venus_can_provide_valuable_information_about_our_planets_climate ns1:atmosphere ns1:and_geology .
+ns1:StudyingVenuscanprovidevaluableinformationaboutourplanetsclimate ns1:atmosphere ns1:andgeology .
 
-ns1:_Studying_Venus_is_important_for_the_sake_of_future_human_exploration_of_space ns1:as_understanding_Venus_is_key_to_developing_the_technologies_and_strategies_needed_to_safely_and_effectively_explore_other_planets_in_our_solar_system ns1:including_Earths_own_moon .
+ns1:StudyingVenusisimportantforthesakeoffuturehumanexplorationofspace ns1:asunderstandingVenusiskeytodevelopingthetechnologiesandstrategiesneededtosafelyandeffectivelyexploreotherplanetsinoursolarsystem ns1:includingEarthsownmoon .
 
-ns1:_The_MAVEN_mission ns1:recently_arrived ns1:at_Venus .
+ns1:TheMAVENmission ns1:recentlyarrived ns1:atVenus .
 
-ns1:_The_VAE_mission_would_provide_valuable_insight_into_Venus_atmosphere_and_surface_Venus ns1:the_second_planet_from_the_Sun ns1:has_captured_humanitys_imagination_for_centuries .
+ns1:TheVAEmissionwouldprovidevaluableinsightintoVenusatmosphereandsurfaceVenus ns1:thesecondplanetfromtheSun ns1:hascapturedhumanitysimaginationforcenturies .
 
-ns1:_The_Venus_Magellan_orbiter ns1:which_was_launched_in_ ns1:has_provided_measurements_and_images_of_the_planets_surface .
+ns1:TheVenusMagellanorbiter ns1:whichwaslaunchedin ns1:hasprovidedmeasurementsandimagesoftheplanetssurface .
 
-ns1:_The_author_acknowledges_the_challenges_of_studying_Venus ns1:such_as_the_planets_hostile_atmosphere ns1:but_suggests_that_addressing_these_challenges_is_essential_for_future_exploration_missions .
+ns1:TheauthoracknowledgesthechallengesofstudyingVenus ns1:suchastheplanetshostileatmosphere ns1:butsuggeststhataddressingthesechallengesisessentialforfutureexplorationmissions .
 
-ns1:_The_author_also_points_out_that_Venuss_extreme_conditions ns1:such_as_its_scorching_temperatures_and_toxic_atmosphere ns1:are_similar_to_those_we_might_find_on_other_planets_in_our_solar_system .
+ns1:TheauthoralsopointsoutthatVenussextremeconditions ns1:suchasitsscorchingtemperaturesandtoxicatmosphere ns1:aresimilartothosewemightfindonotherplanetsinoursolarsystem .
 
-ns1:_The_author_cites_several_examples_of_successful_Venus_missions ns1:such_as_the_Magellan_spacecraft_and_the_Mars_Exploration_Rover ns1:to_support_the_idea_that_studying_Venus_is_possible_and_beneficial .
+ns1:TheauthorcitesseveralexamplesofsuccessfulVenusmissions ns1:suchastheMagellanspacecraftandtheMarsExplorationRover ns1:tosupporttheideathatstudyingVenusispossibleandbeneficial .
 
-ns1:_The_author_discusses_the_various_ways_in_which_Venus_is_being_studied ns1:including_using_radio_waves_to_map_the_planets_surface ns1:and_studying_the_atmosphere_with_instruments_on_the_Magellan_spacecraft .
+ns1:TheauthordiscussesthevariouswaysinwhichVenusisbeingstudied ns1:includingusingradiowavestomaptheplanetssurface ns1:andstudyingtheatmospherewithinstrumentsontheMagellanspacecraft .
 
-ns1:_The_author_mentions_that_Venuss_dense_atmosphere ns1:which_is_composed_mostly_of_carbon_dioxide ns1:can_be_used_to_study_past_climate_change_on_Earth .
+ns1:TheauthormentionsthatVenussdenseatmosphere ns1:whichiscomposedmostlyofcarbondioxide ns1:canbeusedtostudypastclimatechangeonEarth .
 
-ns1:_The_data_collected_by_the_Magellan_showed_that_Venus_has_mountains ns1:volcanoes ns1:and_vast_oceans_of_lava .
+ns1:ThedatacollectedbytheMagellanshowedthatVenushasmountains ns1:volcanoes ns1:andvastoceansoflava .
 
-ns1:_The_planet_has_an_atmosphere_composed_mostly_of_carbon_dioxide ns1:with_very_little_nitrogen_or_oxygen ns1:and_extreme_temperatures .
+ns1:Theplanethasanatmospherecomposedmostlyofcarbondioxide ns1:withverylittlenitrogenoroxygen ns1:andextremetemperatures .
 
-ns1:_The_planets_thick_atmosphere ns1:composed_primarily_of_carbon_dioxide ns1:traps_heat_and_makes_the_surface_temperature_soar_to_around__degrees_Fahrenheit .
+ns1:Theplanetsthickatmosphere ns1:composedprimarilyofcarbondioxide ns1:trapsheatandmakesthesurfacetemperaturesoartoarounddegreesFahrenheit .
 
-ns1:_The_scientific_discoveries_that_have_already_been_made_on_Venus ns1:the_potential_for_future_discoveries ns1:and_the_importance_of_understanding_Venus_for_future_human_space_exploration_are_all_reasons_to_support_the_value_of_studying_Venus_Venus_planet .
+ns1:ThescientificdiscoveriesthathavealreadybeenmadeonVenus ns1:thepotentialforfuturediscoveries ns1:andtheimportanceofunderstandingVenusforfuturehumanspaceexplorationareallreasonstosupportthevalueofstudyingVenusVenusplanet .
 
-ns1:_The_spacecraft ns1:called_the_Venus_Atmospheric_Probe ns1:is_scheduled_to_launch_in_ .
+ns1:Thespacecraft ns1:calledtheVenusAtmosphericProbe ns1:isscheduledtolaunchin .
 
-ns1:_The_thick_atmosphere ns1:high_temperatures ns1:and_lack_of_water_make_it_a_hostile_environment_for_human_life .
+ns1:Thethickatmosphere ns1:hightemperatures ns1:andlackofwatermakeitahostileenvironmentforhumanlife .
 
-ns1:_Venus ns1:atmosphere ns1:greenhouse_effect ;
-    ns1:challenges ns1:space_exploration ;
+ns1:VenusAtmosphericProbeVAPisdesignedtodescenddeepintotheatmosphereandstudythecloudsandatmosphericconditionsthatcouldpotentiallysupportlifeontheplanetVenus ns1:theplanetofloveandbeauty ns1:hasfascinatedhumansforcenturies .
+
+ns1:VenusVenus ns1:thesecondplanetfromthesun ns1:isafascinatingbodythathascapturedtheimaginationofhumansforcenturies .
+
+ns1:Venushasathick ns1:toxicatmospherecomposedprimarilyofcarbondioxideandsulfuricacid ns1:whichcreatesathicklayerthattrapsheatandcreatesarunawaygreenhouseeffect .
+
+ns1:Venushasextremeheat ns1:pressure ns1:andradiation .
+
+ns1:Venushasextremetemperature ns1:atmosphericpressure ns1:andvolcanicactivity .
+
+ns1:Venushasmountains ns1:volcanoes ns1:andimpactcraters .
+
+ns1:Venushasresourcesthatcanhelphumanitysurviveinspace ns1:suchaswatericethatcanbeconvertedintooxygen ns1:whichwillserveasavitalcomponentinfuturespacemissions .
+
+ns1:Venusisfamousforitsextremetemperatures ns1:withtemperaturesreachinguptodegreesFahrenheitonthesurface ns1:andathicklayerofcloudsofsulfuricacidthatblocksmostofthesunsrays .
+
+ns1:Venusisknownforitsextremetemperatures ns1:thickclouds ns1:andhostileenvironment .
+
+ns1:VenusisoftenreferredtoasEarthssisterplanetduetoitssimilaritiesinsize ns1:composition ns1:andatmosphere .
+
+ns1:Venusissimilarinsize ns1:density ns1:andatmosphericpressuretoEarth .
+
+ns1:Venussatmosphereisdenseandfilledwithcarbondioxide ns1:sulfuricacid ns1:andcloudsofsulfuricaciddroplets .
+
+ns1:Venusthickatmosphere ns1:mostlycomposedofcarbondioxidewithcloudsofsulfuricacid ns1:createsarunawaygreenhouseeffectandsurfacetemperaturesthatcanreachuptodegreesCelsius .
+
+ns1:Venusuniquerotation ns1:whichspinsclockwiseretrograderotation ns1:isbelievedtobeduetoitsinteractionwithEarthandtheMoonduringitsformation .
+
+ns1:Venus ns1:atmosphere ns1:greenhouseeffect ;
+    ns1:challenges ns1:spaceexploration ;
     ns1:climate ns1:weather ;
-    ns1:has ns1:carbon_dioxide_atmosphere,
-        ns1:chemical_compounds_in_the_atmosphere,
-        ns1:clouds_made_of_sulfuric_acid,
-        ns1:dense_atmosphere,
-        ns1:evidence_of_past_water_erosion,
-        ns1:extreme_atmosphere,
-        ns1:extreme_weather_conditions,
-        ns1:fast_atmosphere,
-        ns1:geological_activity,
-        ns1:harsh_conditions,
+    ns1:has ns1:carbondioxideatmosphere,
+        ns1:chemicalcompoundsintheatmosphere,
+        ns1:cloudsmadeofsulfuricacid,
+        ns1:denseatmosphere,
+        ns1:evidenceofpastwatererosion,
+        ns1:extremeatmosphere,
+        ns1:extremeweatherconditions,
+        ns1:fastatmosphere,
+        ns1:geologicalactivity,
+        ns1:harshconditions,
         ns1:mountains,
-        ns1:nitric_acid,
-        ns1:past_water_erosion,
-        ns1:potential_habitability,
-        ns1:potential_to_support_life,
-        ns1:runaway_greenhouse_effect,
-        ns1:signs_of_past_surface_water,
-        ns1:sulfuric_acid,
-        ns1:sulfuric_acid_clouds,
-        ns1:surface_temperature,
-        ns1:surface_temperature_of_up_to__degrees_Fahrenheit,
-        ns1:surface_temperatures_that_can_reach_up_to_degree_Celsius,
-        ns1:thick_atmosphere,
-        ns1:thick_atmosphere_Venus_is_a_challenging_and_fascinating_place_to_explore,
-        ns1:thick_clouds_of_sulfuric_acid,
+        ns1:nitricacid,
+        ns1:pastwatererosion,
+        ns1:potentialhabitability,
+        ns1:potentialtosupportlife,
+        ns1:runawaygreenhouseeffect,
+        ns1:signsofpastsurfacewater,
+        ns1:sulfuricacid,
+        ns1:sulfuricacidclouds,
+        ns1:surfacetemperature,
+        ns1:surfacetemperatureofuptodegreesFahrenheit,
+        ns1:surfacetemperaturesthatcanreachuptodegreeCelsius,
+        ns1:thickatmosphere,
+        ns1:thickatmosphereVenusisachallengingandfascinatingplacetoexplore,
+        ns1:thickcloudsofsulfuricacid,
         ns1:volcanoes,
-        ns1:winds_that_can_reach_speeds_of__miles_per_hour ;
-    ns1:has_a_surface_temperature_of__degrees_Fahrenheit ns1:making_it_difficult_for_humans_to_set_foot_on_it ;
-    ns1:has_an_average_surface_temperature_of ns1:_degrees_Fahrenheit ;
-    ns1:has_clouds_of ns1:sulfuric_acid ;
-    ns1:has_some_areas_reaching_temperatures_of ns1:_degrees ;
-    ns1:has_thick_atmosphere ns1:blocks_sunlight ;
-    ns1:is ns1:called_both_Earthlike_and_a_scorching_hellhole,
-        ns1:the_second_planet_from_the_sun ;
-    ns1:is_composed_of ns1:carbon_dioxide ;
-    ns1:is_more_than__times_denser_than ns1:Earths_atmosphere ;
-    ns1:is_one_of_the_hottest_planets ns1:in_our_solar_system ;
-    ns1:proposed_mission ns1:VAVENE,
-        ns1:Venus_Exploration_and_Magnetosphere_Investigations ;
-    ns1:search_for_life ns1:biosignatures ;
+        ns1:windsthatcanreachspeedsofmilesperhour ;
+    ns1:hasanaveragesurfacetemperatureof ns1:degreesFahrenheit ;
+    ns1:hasasurfacetemperatureofdegreesFahrenheit ns1:makingitdifficultforhumanstosetfootonit ;
+    ns1:hascloudsof ns1:sulfuricacid ;
+    ns1:hassomeareasreachingtemperaturesof ns1:degrees ;
+    ns1:hasthickatmosphere ns1:blockssunlight ;
+    ns1:is ns1:calledbothEarthlikeandascorchinghellhole,
+        ns1:thesecondplanetfromthesun ;
+    ns1:iscomposedof ns1:carbondioxide ;
+    ns1:ismorethantimesdenserthan ns1:Earthsatmosphere ;
+    ns1:isoneofthehottestplanets ns1:inoursolarsystem ;
+    ns1:proposedmission ns1:VAVENE,
+        ns1:VenusExplorationandMagnetosphereInvestigations ;
+    ns1:searchforlife ns1:biosignatures ;
     ns1:similarities ns1:Earth ;
-    ns1:the_planet ns1:experiences_a_runaway_greenhouse_effect,
-        ns1:has_a_high_pressure_due_to_its_thick_atmosphere,
-        ns1:is_shrouded_in_a_thick_layer_of_clouds_that_make_it_difficult_to_see_the_surface_below,
-        ns1:is_similar_in_size_and_composition_to_Earth,
-        ns1:is_so_warm_that_it_is_hot_enough_to_melt_lead,
-        ns1:may_have_some_form_of_life ;
-    ns1:the_second_planet_from_the_sun ns1:is_known_for_being_Earths_closest_twin_planet ;
-    ns1:the_second_planet_in_the_solar_system ns1:has_always_been_a_subject_of_fascination_for_scientists_and_space_enthusiasts_alike ;
-    ns1:traps_heat_on ns1:Venus .
-
-ns1:_Venus_Atmospheric_Probe_VAP_is_designed_to_descend_deep_into_the_atmosphere_and_study_the_clouds_and_atmospheric_conditions_that_could_potentially_support_life_on_the_planet_Venus ns1:the_planet_of_love_and_beauty ns1:has_fascinated_humans_for_centuries .
-
-ns1:_Venus_Venus ns1:the_second_planet_from_the_sun ns1:is_a_fascinating_body_that_has_captured_the_imagination_of_humans_for_centuries .
-
-ns1:_Venus__has_extreme_temperature ns1:atmospheric_pressure ns1:and_volcanic_activity .
-
-ns1:_Venus_has_a_thick ns1:toxic_atmosphere_composed_primarily_of_carbon_dioxide_and_sulfuric_acid ns1:which_creates_a_thick_layer_that_traps_heat_and_creates_a_runaway_greenhouse_effect .
-
-ns1:_Venus_has_extreme_heat ns1:pressure ns1:and_radiation .
-
-ns1:_Venus_has_mountains ns1:volcanoes ns1:and_impact_craters .
-
-ns1:_Venus_has_resources_that_can_help_humanity_survive_in_space ns1:such_as_water_ice_that_can_be_converted_into_oxygen ns1:which_will_serve_as_a_vital_component_in_future_space_missions .
-
-ns1:_Venus_is_famous_for_its_extreme_temperatures ns1:with_temperatures_reaching_up_to__degrees_Fahrenheit_on_the_surface ns1:and_a_thick_layer_of_clouds_of_sulfuric_acid_that_blocks_most_of_the_suns_rays .
-
-ns1:_Venus_is_known_for_its_extreme_temperatures ns1:thick_clouds ns1:and_hostile_environment .
-
-ns1:_Venus_is_often_referred_to_as_Earths_sister_planet_due_to_its_similarities_in_size ns1:composition ns1:and_atmosphere .
-
-ns1:_Venus_is_similar_in_size ns1:density ns1:and_atmospheric_pressure_to_Earth .
-
-ns1:_Venus_thick_atmosphere ns1:mostly_composed_of_carbon_dioxide_with_clouds_of_sulfuric_acid ns1:creates_a_runaway_greenhouse_effect_and_surface_temperatures_that_can_reach_up_to__degrees_Celsius .
-
-ns1:_Venus_unique_rotation ns1:which_spins_clockwise_retrograde_rotation ns1:is_believed_to_be_due_to_its_interaction_with_Earth_and_the_Moon_during_its_formation .
-
-ns1:_Venuss_atmosphere_is_dense_and_filled_with_carbon_dioxide ns1:sulfuric_acid ns1:and_clouds_of_sulfuric_acid_droplets .
+    ns1:theplanet ns1:experiencesarunawaygreenhouseeffect,
+        ns1:hasahighpressureduetoitsthickatmosphere,
+        ns1:isshroudedinathicklayerofcloudsthatmakeitdifficulttoseethesurfacebelow,
+        ns1:issimilarinsizeandcompositiontoEarth,
+        ns1:issowarmthatitishotenoughtomeltlead,
+        ns1:mayhavesomeformoflife ;
+    ns1:thesecondplanetfromthesun ns1:isknownforbeingEarthsclosesttwinplanet ;
+    ns1:thesecondplanetinthesolarsystem ns1:hasalwaysbeenasubjectoffascinationforscientistsandspaceenthusiastsalike ;
+    ns1:trapsheaton ns1:Venus .
 

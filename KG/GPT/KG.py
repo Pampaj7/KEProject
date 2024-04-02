@@ -21,7 +21,7 @@ def normalize_file(input_file, output_file):
     with open(input_file, 'r') as file:
         for line in file:
             parts = line.strip().split(', ')
-            if len(parts) != 3:
+            if len(parts) != 3 or parts[0] == "_" or parts[1] == "_" or parts[2] == "_":
                 continue
             normalized_subject = normalize_name(parts[0])
             normalized_relation = normalize_name(parts[1])
@@ -100,7 +100,7 @@ def KG_creation(filename):
     plt.savefig('plots/knowledge_graph_' + filename_without_extension + '.png')
 
     # Now also create the ontology with normalized names
-    create_ontology(triplets, filename)
+    #create_ontology(triplets, filename) TODO fix this
 
     # interactive visualization
     visualize_with_pyvis(G, 'knowledge_graph' + filename_without_extension + '.html', filename_without_extension)

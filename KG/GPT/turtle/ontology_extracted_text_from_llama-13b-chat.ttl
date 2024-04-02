@@ -1,95 +1,97 @@
-@prefix ns1: <http://example.org/myontology/> .
-@prefix ns2: <http://example.org/myontology/Id_be_happy_to_help!> .
-@prefix ns3: <http://example.org/myontology/it_seems_like_you_would_like_me_to_extract_triples_from_the_text_you_provided_Is_that_correct?> .
+@prefix ns1: <http://example.org/myontology/Idbehappytohelp!> .
+@prefix ns2: <http://example.org/myontology/> .
+@prefix ns3: <http://example.org/myontology/itseemslikeyouwouldlikemetoextracttriplesfromthetextyouprovidedIsthatcorrect?> .
 
-<http://example.org/myontology/Hello!_Im_here_to_help_you_with_any_questions_or_tasks_you_may_have_Based_on_your_previous_message> ns3:_If_so ns2: .
+ns2:ExploringVenusnamedentityAischallengingduetotheextremeconditionsontheplanetssurfacerelationincludingheat ns2:pressure ns2:andhostileradiationnamedentityB .
 
-<http://example.org/myontology/I_hope_that_helps!_Let_me_know_if_you_have_any_other_questions_or_if_theres_anything_else_I_can_assist_you_withSure!_Ill_be_happy_to_help_you_extract_triples_from_the_text_you_provided_Here_are_the_triples_formatted_as_named_entity_A> ns1:relation ns1:named_entity_B_based_on_the_text .
+<http://example.org/myontology/Hello!ImheretohelpyouwithanyquestionsortasksyoumayhaveBasedonyourpreviousmessage> ns3:Ifso ns1: .
 
-<http://example.org/myontology/I_hope_this_helps!_Let_me_know_if_you_have_any_further_questionsSure> ns2:_Based_on_the_provided_text ns1:I_can_extract_the_following_triples .
+<http://example.org/myontology/Ihopethathelps!LetmeknowifyouhaveanyotherquestionsoriftheresanythingelseIcanassistyouwithSure!IllbehappytohelpyouextracttriplesfromthetextyouprovidedHerearethetriplesformattedasnamedentityA> ns2:relation ns2:namedentityBbasedonthetext .
 
-<http://example.org/myontology/I_hope_this_helps!_Let_me_know_if_you_have_any_further_questions_or_if_theres_anything_else_I_can_assist_you_withSure> ns2:_Based_on_the_provided_testimony ns1:I_have_extracted_the_following_triples ;
-    ns2:_Based_on_the_provided_text ns1:I_can_extract_the_following_triples .
+<http://example.org/myontology/Ihopethishelps!LetmeknowifyouhaveanyfurtherquestionsSure> ns1:Basedontheprovidedtext ns2:Icanextractthefollowingtriples .
 
-<http://example.org/myontology/I_hope_this_helps!_Let_me_know_if_you_have_any_further_questions_or_if_theres_anything_else_I_can_assist_you_withSure!_Id_be_happy_to_help_you_extract_triples_from_the_text_you_provided_Here_are_the_triples_formatted_as_named_entity_A> ns1:relation ns1:named_entity_B .
+<http://example.org/myontology/Ihopethishelps!LetmeknowifyouhaveanyfurtherquestionsoriftheresanythingelseIcanassistyouwithHello!ImheretohelpyouwithanyquestionsortasksyoumayhaveBasedonyourpreviousmessage> ns3:Ifso ns1: .
 
-<http://example.org/myontology/I_hope_this_helps!_Let_me_know_if_you_have_any_other_questionsSure> ns2:_Based_on_the_provided_testimony ns1:I_have_extracted_the_following_triples ;
-    ns2:_Based_on_the_provided_text ns1:I_can_extract_the_following_triples .
+<http://example.org/myontology/Ihopethishelps!LetmeknowifyouhaveanyfurtherquestionsoriftheresanythingelseIcanassistyouwithSure> ns1:Basedontheprovidedtestimony ns2:Ihaveextractedthefollowingtriples ;
+    ns1:Basedontheprovidedtext ns2:Icanextractthefollowingtriples .
 
-<http://example.org/myontology/I_hope_this_helps!_Let_me_know_if_you_have_any_other_questionsSure!_Here_are_the_extracted_triples_formatted_as_named_entity_A> ns1:relation ns1:named_entity_B_based_on_the_provided_text .
+<http://example.org/myontology/Ihopethishelps!LetmeknowifyouhaveanyfurtherquestionsoriftheresanythingelseIcanassistyouwithSure!IdbehappytohelpyouextracttriplesfromthetextyouprovidedHerearethetriplesformattedasnamedentityA> ns2:relation ns2:namedentityB .
 
-<http://example.org/myontology/Please_let_me_know_if_theres_anything_else_I_can_help_with!Sure> ns2:_Based_on_the_provided_text ns1:I_have_extracted_the_following_triples .
+<http://example.org/myontology/Ihopethishelps!LetmeknowifyouhaveanyotherquestionsSure> ns1:Basedontheprovidedtestimony ns2:Ihaveextractedthefollowingtriples ;
+    ns1:Basedontheprovidedtext ns2:Icanextractthefollowingtriples .
 
-<http://example.org/myontology/Please_let_me_know_if_you_need_any_further_assistance!Sure> ns2:_Based_on_the_provided_testimony ns1:I_have_extracted_the_following_triples ;
-    ns2:_Based_on_the_provided_text ns1:I_can_extract_the_following_triples .
+<http://example.org/myontology/Ihopethishelps!LetmeknowifyouhaveanyotherquestionsSure!HerearetheextractedtriplesformattedasnamedentityA> ns2:relation ns2:namedentityBbasedontheprovidedtext .
 
-<http://example.org/myontology/Please_let_me_know_if_you_need_any_further_assistance!Sure!_Here_are_the_extracted_triples_formatted_as_named_entity_A> ns1:relation ns1:named_entity_B_based_on_the_provided_text .
+<http://example.org/myontology/PleaseletmeknowiftheresanythingelseIcanhelpwith!Sure> ns1:Basedontheprovidedtext ns2:Ihaveextractedthefollowingtriples .
 
-ns1:_Earth ns1:is_larger_than ns1:Venus .
+<http://example.org/myontology/Pleaseletmeknowifyouneedanyfurtherassistance!Sure> ns1:Basedontheprovidedtestimony ns2:Ihaveextractedthefollowingtriples ;
+    ns1:Basedontheprovidedtext ns2:Icanextractthefollowingtriples .
 
-ns1:_Exploring_Venus_named_entity_A_is_challenging_due_to_the_extreme_conditions_on_the_planets_surface_relation_including_heat ns1:pressure ns1:and_hostile_radiation_named_entity_B .
+<http://example.org/myontology/Pleaseletmeknowifyouneedanyfurtherassistance!Sure!HerearetheextractedtriplesformattedasnamedentityA> ns2:relation ns2:namedentityBbasedontheprovidedtext .
 
-ns1:_Scientists_are_interested_in_exploring_Venus_named_entity_A_using_remote_sensing_missions_relation_to_study_the_planets_geology ns1:atmosphere ns1:and_climate_named_entity_B .
+ns2:ScientistsareinterestedinexploringVenusnamedentityAusingremotesensingmissionsrelationtostudytheplanetsgeology ns2:atmosphere ns2:andclimatenamedentityB .
 
-ns1:_Surface__has_features_such_as__mountains ns1:valleys ns1:and_oceans_of_molten_lava .
+ns2:Surfacehasfeaturessuchasmountains ns2:valleys ns2:andoceansofmoltenlava .
 
-ns1:_Venus ns1:atmosphere ns1:carbon_dioxide_and_sulfuric_acid_clouds,
-        ns1:traps_heat ;
-    ns1:climate ns1:liquid_water_ocean_in_the_past ;
-    ns1:experiences ns1:greenhouse_effect ;
-    ns1:exploration_challenges ns1:surface_temperature ;
-    ns1:explored ns1:Earth ;
-    ns1:extreme_greenhouse_effect ns1:sulfuric_acid_clouds ;
-    ns1:extreme_temperatures ns1:Earth ;
-    ns1:geology ns1:unique_features ;
-    ns1:habitability ns1:potential_for_life ;
-    ns1:has ns1:challenging_environment_for_life,
-        ns1:dense_atmosphere,
-        ns1:extreme_atmosphere,
-        ns1:extreme_greenhouse_effect,
-        ns1:geological_features,
-        ns1:hot_surface_temperatures,
-        ns1:intense_greenhouse_effect,
-        ns1:sulfuric_acid_clouds,
-        ns1:surface_temperatures_of_up_to__degrees_Celsius,
-        ns1:thick_atmosphere,
-        ns1:unique_features ;
-    ns1:has_a_crushing_pressure ns1:with_atmospheric_pressure__times_greater_than_Earth ;
-    ns1:has_a_similar_composition_to_Earth ns1:with_a_similar_size_and_rocky_composition ;
-    ns1:has_a_thick_atmosphere ns1:carbon_dioxide,
-        ns1:composed_of_carbon_dioxide ;
-    ns1:has_evidence_of_geological_activity ns1:including_mountains_and_volcanoes ;
-    ns1:has_extreme_conditions ns1:heat_and_pressure ;
-    ns1:has_extreme_temperatures ns1:with_surface_temperatures_reaching__degrees_Fahrenheit ;
-    ns1:has_geological_features ns1:such_as_mountains_and_volcanoes ;
-    ns1:hostile_environment ns1:Earthlike_climate ;
-    ns1:is ns1:closest_planet_to_Earth,
-        ns1:fascinating_and_mysterious_planet,
-        ns1:target_for_research ;
-    ns1:is_composed_of ns1:carbon_dioxide ;
-    ns1:is_difficult_to_explore_directly ns1:atmosphere ;
-    ns1:is_similar_to ns1:Earth ;
-    ns1:is_the_second_planet_from_the_sun ns1:Earth ;
-    ns1:may_have ns1:once_supported_life,
-        ns1:unique_forms_of_life ;
-    ns1:may_have_had ns1:liquid_water ;
-    ns1:mountains ns1:oldest_in_solar_system ;
-    ns1:retrograde_rotation ns1:other_celestial_bodies ;
-    ns1:similarities ns1:Earth ;
-    ns1:similarity ns1:Earth ;
-    ns1:surface ns1:may_have_once_been_covered_in_oceans ;
-    ns1:thick_atmosphere ns1:runaway_greenhouse_effect ;
-    ns1:volcanic_activity ns1:past_climate ;
-    ns1:volcanoes ns1:geological_features ;
-    ns1:winds ns1:reach_speeds_of_up_to__miles_per_hour .
+ns2:Venushasancientriverbeds ns2:lakes ns2:andseasonitssurface .
 
-ns1:_Venus__has__ancient_riverbeds ns1:lakes ns1:and_seas_on_its_surface .
+ns2:Venushasmountains ns2:volcanoes ns2:andvastoceansoflavaEarth .
 
-ns1:_Venus__has_mountains ns1:volcanoes ns1:and_vast_oceans_of_lava__Earth .
+ns2:VenusnamedentityA ns2:hasrelation ns2:agreenhouseeffectnamedentityB,
+        ns2:extremeheatnamedentityB,
+        ns2:thickatmospherenamedentityB ;
+    ns2:isrelation ns2:thehottestplanetinoursolarsystemnamedentityB,
+        ns2:thesecondplanetfromthesunnamedentityB .
 
-ns1:_Venus_named_entity_A ns1:has_relation ns1:a_greenhouse_effect_named_entity_B,
-        ns1:extreme_heat_named_entity_B,
-        ns1:thick_atmosphere_named_entity_B ;
-    ns1:is_relation ns1:the_hottest_planet_in_our_solar_system_named_entity_B,
-        ns1:the_second_planet_from_the_sun_named_entity_B .
+ns2:Venus ns2:atmosphere ns2:carbondioxideandsulfuricacidclouds,
+        ns2:trapsheat ;
+    ns2:climate ns2:liquidwateroceaninthepast ;
+    ns2:experiences ns2:greenhouseeffect ;
+    ns2:explorationchallenges ns2:surfacetemperature ;
+    ns2:explored ns2:Earth ;
+    ns2:extremegreenhouseeffect ns2:sulfuricacidclouds ;
+    ns2:extremetemperatures ns2:Earth ;
+    ns2:geology ns2:uniquefeatures ;
+    ns2:habitability ns2:potentialforlife ;
+    ns2:has ns2:challengingenvironmentforlife,
+        ns2:denseatmosphere,
+        ns2:extremeatmosphere,
+        ns2:extremegreenhouseeffect,
+        ns2:geologicalfeatures,
+        ns2:hotsurfacetemperatures,
+        ns2:intensegreenhouseeffect,
+        ns2:sulfuricacidclouds,
+        ns2:surfacetemperaturesofuptodegreesCelsius,
+        ns2:thickatmosphere,
+        ns2:uniquefeatures ;
+    ns2:hasacrushingpressure ns2:withatmosphericpressuretimesgreaterthanEarth ;
+    ns2:hasasimilarcompositiontoEarth ns2:withasimilarsizeandrockycomposition ;
+    ns2:hasathickatmosphere ns2:carbondioxide,
+        ns2:composedofcarbondioxide ;
+    ns2:hasevidenceofgeologicalactivity ns2:includingmountainsandvolcanoes ;
+    ns2:hasextremeconditions ns2:heatandpressure ;
+    ns2:hasextremetemperatures ns2:withsurfacetemperaturesreachingdegreesFahrenheit ;
+    ns2:hasgeologicalfeatures ns2:suchasmountainsandvolcanoes ;
+    ns2:hostileenvironment ns2:Earthlikeclimate ;
+    ns2:is ns2:closestplanettoEarth,
+        ns2:fascinatingandmysteriousplanet,
+        ns2:targetforresearch ;
+    ns2:iscomposedof ns2:carbondioxide ;
+    ns2:isdifficulttoexploredirectly ns2:atmosphere ;
+    ns2:issimilarto ns2:Earth ;
+    ns2:isthesecondplanetfromthesun ns2:Earth ;
+    ns2:mayhave ns2:oncesupportedlife,
+        ns2:uniqueformsoflife ;
+    ns2:mayhavehad ns2:liquidwater ;
+    ns2:mountains ns2:oldestinsolarsystem ;
+    ns2:retrograderotation ns2:othercelestialbodies ;
+    ns2:similarities ns2:Earth ;
+    ns2:similarity ns2:Earth ;
+    ns2:surface ns2:mayhaveoncebeencoveredinoceans ;
+    ns2:thickatmosphere ns2:runawaygreenhouseeffect ;
+    ns2:volcanicactivity ns2:pastclimate ;
+    ns2:volcanoes ns2:geologicalfeatures ;
+    ns2:winds ns2:reachspeedsofuptomilesperhour .
+
+ns2:Earth ns2:islargerthan ns2:Venus .
 

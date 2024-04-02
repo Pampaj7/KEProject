@@ -32,7 +32,7 @@ def calculate_and_plot_metrics(G, title):
 
 # make the graph as a vector
 def generate_embeddings(G):
-    node2vec = Node2Vec(G, dimensions=64, walk_length=30, num_walks=200, workers=8, seed=42)
+    node2vec = Node2Vec(G, dimensions=64, walk_length=30, num_walks=200, workers=20, seed=42)
     model = node2vec.fit(window=10, min_count=1, batch_words=4)
     embeddings = np.array([model.wv[str(node)] for node in G.nodes()])
     return embeddings

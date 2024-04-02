@@ -14,8 +14,6 @@ def process_text(text):
     chunks = split_text_into_chunks(text, chunk_size=1000)
 
     for chunk in chunks:
-        # Here, you call GPTResponse or modelsResponse for each chunk
-        # Assuming GPTResponse is adapted to handle a text chunk and store its output
         te.modelsResponse(chunk)
         te.GPTResponse(chunk)
         # modelsResponse could be similarly adapted if needed

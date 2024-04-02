@@ -4,4 +4,4 @@ False negative: 970
 Precision: 0.9747899159663865
 Recall: 0.10681399631675875
 F1 Score: 0.19253112033195022
-Similarity score: 0.40749213
+Similarity score: 0.45861113
