@@ -1,0 +1,12 @@
+*_Venus, planet, solar_system
+*_Dava_Sobel, author, The_Challenge_of_Exploring_Venus
+*_James_Orr, author, The_Challenge_of_Exploring_Venus
+*_Sun, star, solar_system
+*_Sun_star_is_the_center_of_the_solar_system*_Venus, planet, solar_system
+*_Dava_Sobel, author, The_Challenge_of_Exploring_Venus
+*_James_Orr, author, The_Challenge_of_Exploring_Venus
+*_Sun, star, solar_system
+*_Sun_star_is_the_center_of_the_solar_system*_Venus, planet, solar_system
+*_Dava_Sobel, author, The_Challenge_of_Exploring_Venus
+*_James_Orr, author, The_Challenge_of_Exploring_Venus
+*_Sun, star, solar_system

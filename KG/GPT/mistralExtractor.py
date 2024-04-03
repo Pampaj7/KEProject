@@ -2,7 +2,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import textSplitter as ts
 import KG as kg
 
-filename = "testi/Mistral7B_CME_v1.csv"
+filename = "textSamples/marsDiary.csv"
 
 
 def take_text(file):

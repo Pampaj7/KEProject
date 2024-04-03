@@ -5,7 +5,7 @@ from transformers import TextGenerationPipeline
 from transformers.pipelines.text_generation import ReturnType
 
 STYLE = "<|prompt|>{instruction}<|endoftext|><|answer|>"
-filename = "testi/Mistral7B_CME_v1.csv"
+filename = "textSamples/marsDiary.csv"
 
 
 def ai_response(prompt):

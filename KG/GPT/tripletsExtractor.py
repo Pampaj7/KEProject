@@ -11,31 +11,7 @@ os.environ["OPENAI_API_KEY"] = "sk-JOhc8jz8YPwMR2Y6lMNYT3BlbkFJ7A0W6KnE2OEWBoDLi
 openai.api_key = "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"
 
 
-def summarize_text(text, max_length=10000):
-    return text[:max_length]
-
-
-def get_wikipedia_text(topic):
-    search_results = wikipedia.search(topic)
-    if not search_results:
-        return "No results found for the topic."
-
-    # Get the top search result's title
-    top_result_title = search_results[0]
-
-    try:
-        # Get the summary of the top result
-        summary = wikipedia.summary(top_result_title)
-        return summary
-    except wikipedia.exceptions.DisambiguationError as e:
-        # Handle disambiguation pages
-        return f"Multiple pages found for the topic. Consider being more specific. Suggestions: {e.options}"
-    except wikipedia.exceptions.PageError:
-        # Handle pages not found
-        return "Page not found for the topic."
-
-
-def GPTResponse(testimony):
+def GPTResponse(testimony, file):
     prompt_template = """
     You will perform the open information extraction task. You will identify the named entities in the content and then extract the relations between them.
     Based on the provided testimony, you will return triples which are formatted as <named entity A, relation, named entity B> without enumerating them.
@@ -48,14 +24,15 @@ def GPTResponse(testimony):
     """
     prompt = prompt_template.format(testimony=testimony)
 
-    chat = ChatOpenAI(model_name="gpt-4", temperature=0)
+    chat = ChatOpenAI(model_name="gpt-3", temperature=0)  # TODO  cazz si mette?
     res = chat.predict(prompt)
-    save_text_to_file(res, "extracted_text_from_GPT.txt", "tripletsTXTs")
+    filename = f'extracted_text_from_GPT_{file}.txt'
+    save_text_to_file(res, filename, "tripletsTXTs")
     kg.normalize_file("tripletsTXTs/extracted_text_from_GPT.txt",
                       "normalizedTriplets/_normalizedextracted_text_from_GPT.txt")
 
 
-def modelsResponse(text):
+def modelsResponse(text, file):
     output_directory_not_norm = "tripletsTXTs"
     output_directory_norm = "normalizedTriplets"
 
@@ -98,7 +75,7 @@ def modelsResponse(text):
         )
 
         # Define the filename based on the model name
-        filename = f'extracted_text_from_{model.replace("/", "_")}.txt'
+        filename = f'extracted_text_from_{model.replace("/", "_")}_{file}.txt'
 
         # Save the response to a file
         save_text_to_file(response.choices[0].message.content, filename, output_directory_not_norm)
