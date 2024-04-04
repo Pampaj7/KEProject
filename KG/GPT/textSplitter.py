@@ -2,7 +2,7 @@ import wikipedia
 import tripletsExtractor as te
 
 filename = "textSamples/marsDiary.csv"
-filename_human = "textSamples/human.csv"
+filename_human = "textSamples/human.txt"
 
 
 def split_text_into_chunks(text, chunk_size=1000):
@@ -19,7 +19,7 @@ def process_text(text, file, max_iterations=5):
         if iteration_count >= max_iterations:
             break
         te.modelsResponse(chunk, file)
-        te.GPTResponse(chunk, file)
+        #te.GPTResponse(chunk, file)
         iteration_count += 1
 
 

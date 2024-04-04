@@ -1,0 +1,11 @@
+_Café, is_located_in, heart_of_the_city
+_Café, has, quaint_facade
+_Café, is, sanctuary
+_Café, welcomes, weary_souls
+_Café, has, rich_aroma_of_freshly_ground_beans
+_Café, has, sweet_scent_of_pastries_baking_in_the_oven
+_Patrons, find_refuge, within_its_walls
+_Elderly_couple, shares, lifetime_of_memories
+_Group_of_friends, laughs, uproariously
+_Solitary_writer, finds, inspiration
+_Café, has, magical_quality
