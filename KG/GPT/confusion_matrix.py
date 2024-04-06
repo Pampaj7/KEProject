@@ -7,7 +7,7 @@ from tqdm import tqdm
 import warnings
 
 nlp = spacy.load("en_core_web_lg")
-threshold = 0.95
+threshold = 0.95 # TODO with this similarity we ha division by 0 in human text -- too small
 
 warnings.filterwarnings("ignore", category=UserWarning, message="set_ticklabels\(\) should only be used with a fixed number of ticks")
 
@@ -30,10 +30,6 @@ def nlp_similarity(task):
 
 
 def read_triplets_from_file(file_path):
-    """
-    Reads triplets from a given file path.
-    Each triplet is expected to be on a separate line in the format: subject, relation, object.
-    """
     triplets = set()
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
@@ -43,8 +39,8 @@ def read_triplets_from_file(file_path):
     return triplets
 
 
-def calculate_matrix(path, similarity_score):
-    correct_triplets = read_triplets_from_file("normalizedTriplets/_normalizedextracted_text_from_GPT.txt")
+def calculate_matrix(path, similarity_score, ground_truth_file):
+    correct_triplets = read_triplets_from_file(ground_truth_file)
     predicted_triplets = read_triplets_from_file("normalizedTriplets/_normalized" + path)
 
     print("Triplets generated", len(predicted_triplets), "Triplets GT:", len(correct_triplets))

@@ -2,8 +2,11 @@ import KG as kg
 import graph_stats as gs
 import confusion_matrix as cm
 
+GTai = "normalizedTriplets/_normalizedextracted_text_from_GPT.txt"
+GThuman = "tripletsTXTs/extracted_text_from_human.txt"  # not in normalized triplets because it's handmade
 
-def process_files(files):
+
+def process_files(files, gtfiles):
     graphs = []
     cosine_sim = []
 
@@ -17,7 +20,7 @@ def process_files(files):
         current_embeddings = gs.generate_embeddings(g)
         similarity_score = gs.compare_embeddings(gpt_embeddings, current_embeddings)
         cosine_sim.append(similarity_score)
-        cm.calculate_matrix(file, similarity_score)
+        cm.calculate_matrix(file, similarity_score, gtfiles)
 
 
 filename = [
@@ -39,8 +42,8 @@ filename_human = [
     "extracted_text_from_vicuna-13b_Human.txt"
 ]
 
-process_files(filename)
-process_files(filename_human)
+#process_files(filename, GTai)
+process_files(filename_human, GThuman)
 
 # some basic interrogation
 # oi.interrogate()
