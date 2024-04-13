@@ -1,0 +1,565 @@
+@prefix ns1: <http://example.org/myontology/> .
+@prefix ns2: <http://example.org/myontology/with_average_surface_temperatures_reaching_up_to_°C_°> .
+
+ns1:Here_are_the_extracted_triples_formatted_as_named_entity_A ns1:relation ns1:named_entity_B .
+
+<http://example.org/myontology/I_hope_this_helps!_Let_me_know_if_you_need_anything_elseHere_are_the_extracted_triples_formatted_as_named_entity_A> ns1:relation ns1:named_entity_B .
+
+ns1:_Adrenalin ns1:descended ns1:Venus_surface .
+
+ns1:_Akatsuki ns1:spacecraft ns1:Venus .
+
+ns1:_Atmospheric_Composition_Data_collected_by_the_Venus_Express_mission_has_shown_that_the_atmosphere_is_actually_composed_primarily_of_carbon_dioxide ns1:with_only_small_amounts_of_sulfuric_acid_This_suggests_that_Venus_may_not_be_as_inhospitable_as_previously_thought ns1:and_has_led_to_new_discussions_about_the_possibility_of_life_on_the_planet .
+
+ns1:_David_Meister ns1:author ns1:The_Challenge_of_Exploring_Venus .
+
+ns1:_Earth ns1:atmosphere ns1:carbon_dioxide,
+        ns1:nitrogen,
+        ns1:oxygen ;
+    ns1:comparison ns1:Venus ;
+    ns1:has ns1:atmosphere,
+        ns1:clouds,
+        ns1:oceans,
+        ns1:surface_temperature ;
+    ns1:planet ns1:solar_system ;
+    ns1:sister_planet ns1:Venus .
+
+ns1:_Exploring_Venus ns1:challenging ns1:exciting_opportunity ;
+    ns1:is ns1:challenging,
+        ns1:complex ;
+    ns1:opens ns1:opportunities ;
+    ns1:pushes ns1:boundaries .
+
+ns1:_Extreme_Temperature_Venuss_surface_temperature_can_reach_up_to__degrees_Fahrenheit ns1:making_it_one_of_the_hottest_planets_in_our_solar_system_This_is_due_to_its_dense_atmosphere ns1:which_traps_heat_in_a_runaway_greenhouse_effect .
+
+ns1:_Giovanni_Schiaparelli ns1:discovered ns1:channels_or_canali .
+
+ns1:_InSight_mission ns1:Mars ns1:Venus .
+
+ns1:_James_Peterson ns1:supports ns1:idea_of_exploring_Venus .
+
+ns1:_Japanese_Mars_Atmosphere_and_Volatile_EvolutioN_MAVEN_spacecraft ns1:launched ns1:Venus .
+
+ns1:_Lockheed_Martin ns1:Discovery_Orbiter_mission ns1:NASA .
+
+ns1:_Magellan ns1:mission ns1:NASA ;
+    ns1:orbit ns1:Venus ;
+    ns1:orbited ns1:Venus .
+
+ns1:_Magellan_mission ns1:successful_exploration ns1:Venus_surface_mapping .
+
+ns1:_Magellan_probe ns1:orbited ns1:Venus .
+
+ns1:_Magellan_spacecraft ns1:orbited ns1:Venus ;
+    ns1:provided ns1:Venus ;
+    ns1:successful_mission ns1:Venus .
+
+ns1:_Manned_missions_would_face_significant_challenges ns1:including_the_extreme_heat_and_pressure_on_the_planets_surface ns1:as_well_as_the_hostile_radiation_environment .
+
+ns1:_Mars_Exploration_Rover ns1:studied ns1:Venus .
+
+ns1:_Missions ns1:need ns1:advanced_cooling_system,
+        ns1:advanced_propulsion_systems .
+
+ns1:_NASA ns1:discovery ns1:water_vapor ;
+    ns1:exploration ns1:Venus ;
+    ns1:launched ns1:VMAREX ;
+    ns1:robotic_mission ns1:Venus_exploration ;
+    ns1:sent ns1:Venus_Atmospheric_Orbiter_VARO .
+
+ns1:_NASA_has_plans_to_launch_a_new_spacecraft ns1:the_Dragonfly ns1:to_explore_the_surface_of_Venus_and_search_for_signs_of_life .
+
+ns1:_NASAs_Magellan_mission ns1:orbited ns1:Venus .
+
+ns1:_NASAs_Magellan_spacecraft ns1:data_collection ns1:Venus_topography ;
+    ns1:mapped ns1:surface ;
+    ns1:which_was_launched_in_ ns1:was_the_first_successful_mission_to_Venus .
+
+ns1:_Planet_Venus ns1:our_closest_neighbor_to_Earth ns1:has_long_been_a_subject_of_fascination_for_humans .
+
+ns1:_Scientists ns1:believe ns1:technology ;
+    ns1:research ns1:Venus ;
+    ns1:study ns1:Venus,
+        ns1:atmosphere,
+        ns1:geology,
+        ns1:potential_habitability ;
+    ns1:use ns1:radar_imaging,
+        ns1:remote_sensing_techniques,
+        ns1:spectroscopy ;
+    ns1:work ns1:advanced_spacecraft,
+        ns1:laser_altimetry,
+        ns1:new_methods,
+        ns1:radar ;
+    ns1:working_hard ns1:explore_Venus .
+
+ns1:_SpaceX ns1:proposed ns1:Venus .
+
+ns1:_Space_probes ns1:main_way ns1:explore_Venus .
+
+ns1:_Spacecraft ns1:exploration ns1:Venus ;
+    ns1:explore ns1:Venus ;
+    ns1:withstand ns1:extreme_conditions .
+
+ns1:_Unique_Rotation_Period_Venus_takes_almost__Earth_days_to_complete_one_rotation ns1:which_is_much_slower_than_Earths_rotation_period_of__hours_This_unique_rotation_period_is_thought_to_be_caused_by_a_phenomenon_known_as_tidal_locking ns1:in_which_the_gravitational_forces_of_the_two_planets_cause_them_to_slowly_align_in_the_same_orientation_over_time .
+
+ns1:_Universe ns1:potential ns1:life .
+
+ns1:_Venera_missions ns1:Soviet_Union ns1:Venus_exploration ;
+    ns1:crashed ns1:Venus .
+
+ns1:_Venus ns1:Earths_sister_planet ns1:planetary_similarity ;
+    ns1:Sun ns1:light ;
+    ns1:a_prime_target_for_exploration ns1:a_unique_planet_with_its_own_set_of_challenges ;
+    ns1:also_known_as_Earths_sister_planet ns1:is_the_second_planet_from_the_sun ;
+    ns1:ancient_climate ns1:liquid_water ;
+    ns1:ancient_times ns1:regarded ;
+    ns1:atmosphere ns1:Earth,
+        ns1:carbon_dioxide,
+        ns1:composed_primarily_of_carbon_dioxide,
+        ns1:dense,
+        ns1:greenhouse_effect,
+        ns1:liquid_water,
+        ns1:pressure,
+        ns1:runaway_greenhouse_effect,
+        ns1:search,
+        ns1:similar,
+        ns1:sulfuric_acid,
+        ns1:sulfuric_acid_clouds,
+        ns1:sulfuric_acid_haze,
+        ns1:thick,
+        ns1:toxic,
+        ns1:traps_heat ;
+    ns1:atmospheric_composition ns1:carbon_dioxide ;
+    ns1:atmospheric_structure ns1:Earth ;
+    ns1:benefits ns1:minerals,
+        ns1:resources ;
+    ns1:can_unlock ns1:understanding_of_our_own_planet,
+        ns1:understanding_of_our_universe ;
+    ns1:captured ns1:humanitys_imagination ;
+    ns1:celestial_phenomena ns1:blazing_white_clouds ;
+    ns1:challenges ns1:dangers,
+        ns1:extreme_temperatures,
+        ns1:high_temperatures,
+        ns1:human_exploration,
+        ns1:scientists,
+        ns1:technology,
+        ns1:toxic_atmosphere ;
+    ns1:climate ns1:ancient_lakes,
+        ns1:ancient_rivers,
+        ns1:extreme_greenhouse_effect,
+        ns1:geology,
+        ns1:hospitable,
+        ns1:liquid_water_ocean,
+        ns1:runaway_greenhouse_effect,
+        ns1:understanding ;
+    ns1:clouds ns1:ammonia_ices,
+        ns1:atmospheric_conditions,
+        ns1:sulfuric_acid,
+        ns1:weeks ;
+    ns1:composition ns1:Earth,
+        ns1:carbon_dioxide,
+        ns1:metal,
+        ns1:rock_and_metal,
+        ns1:rocks,
+        ns1:similarities,
+        ns1:sulfuric_acid ;
+    ns1:conditions ns1:extreme,
+        ns1:habitable_environment ;
+    ns1:core ns1:mantle ;
+    ns1:danger_planet ns1:hottest_planet,
+        ns1:thick_atmosphere ;
+    ns1:data ns1:scientists ;
+    ns1:data_collection ns1:space_probes ;
+    ns1:dense_atmosphere ns1:carbon_dioxide ;
+    ns1:density ns1:atmosphere,
+        ns1:thick_atmosphere ;
+    ns1:development ns1:planetary ;
+    ns1:diverse_surface ns1:planetary_exploration ;
+    ns1:environment ns1:hospitable,
+        ns1:hostile ;
+    ns1:essential_elements ns1:phosphorus ;
+    ns1:evolution ns1:Earth ;
+    ns1:experiences ns1:extreme_daynight_cycles ;
+    ns1:exploration ns1:Earth,
+        ns1:European_Space_Agency,
+        ns1:Magellan_spacecraft,
+        ns1:Mars,
+        ns1:NASA,
+        ns1:NASAs_Magellan_spacecraft,
+        ns1:Venus_Atmospheric_Probe,
+        ns1:a_challenging_and_exciting_prospect,
+        ns1:a_mission_to_search_for_signs_of_past_liquid_water,
+        ns1:a_mission_to_understand_our_closest_planet,
+        ns1:ambition,
+        ns1:ambitions,
+        ns1:challenging,
+        ns1:deep_space_exploration,
+        ns1:drones,
+        ns1:future_of_our_own_planet,
+        ns1:geological_processes,
+        ns1:impossible,
+        ns1:ongoing_endeavor,
+        ns1:robots,
+        ns1:rover_mission,
+        ns1:rovers,
+        ns1:scientists,
+        ns1:spacebased,
+        ns1:spacebased_telescopes_and_probes,
+        ns1:spacecraft,
+        ns1:technology,
+        ns1:unlocking_its_secrets,
+        ns1:valuable,
+        ns1:vital_knowledge ;
+    ns1:exploration_challenges ns1:extreme_environment,
+        ns1:thick_layer_of_clouds ;
+    ns1:explored ns1:Earth,
+        ns1:Earths_sister_planet,
+        ns1:Magellan,
+        ns1:NASA ;
+    ns1:extreme_atmosphere ns1:space_technology_advancements ;
+    ns1:extreme_climate ns1:volcanic_activity ;
+    ns1:extreme_conditions ns1:hostile_environment,
+        ns1:humans,
+        ns1:lead ;
+    ns1:extreme_greenhouse_effect ns1:sulfuric_acid_clouds ;
+    ns1:extreme_temperature ns1:surface ;
+    ns1:extreme_temperatures ns1:planetary_conditions_for_life,
+        ns1:surface ;
+    ns1:extreme_weather ns1:massive_storms ;
+    ns1:fiery_atmosphere ns1:greenhouse_effect ;
+    ns1:formation ns1:evolution,
+        ns1:solar_system ;
+    ns1:future ns1:exploration ;
+    ns1:geologic_history ns1:volcanism ;
+    ns1:geological_activity ns1:mountains_and_volcanoes,
+        ns1:volcanic_eruptions,
+        ns1:volcanoes ;
+    ns1:geological_features ns1:ancient_riverbeds_and_lakes,
+        ns1:deep_canyons,
+        ns1:mountains,
+        ns1:vast_mountain_ranges ;
+    ns1:geology ns1:mountains,
+        ns1:volcanic_regions,
+        ns1:volcanoes ;
+    ns1:greenhouse_effect ns1:Venusian_thunderclouds,
+        ns1:climate_change,
+        ns1:heat,
+        ns1:runaway_greenhouse_effect,
+        ns1:suns_energy ;
+    ns1:habitability ns1:trace_gases ;
+    ns1:had ns1:liquid_water ;
+    ns1:has ns1:a_slow_rotation_period,
+        ns1:an_average_temperature_of__degrees_Fahrenheit,
+        ns1:ancient_riverbeds,
+        ns1:atmosphere,
+        ns1:carbon_dioxide,
+        ns1:challenges,
+        ns1:challenging_conditions,
+        ns1:conditions,
+        ns1:day_and_night_cycle,
+        ns1:dense_atmosphere,
+        ns1:environment,
+        ns1:extreme_climate,
+        ns1:extreme_environments,
+        ns1:extreme_pressure,
+        ns1:extreme_temperature,
+        ns1:extreme_weather_conditions,
+        ns1:fast_and_dense_atmosphere,
+        ns1:geological_activity,
+        ns1:geological_features,
+        ns1:hostile_conditions,
+        ns1:hostile_environment,
+        ns1:lava_flows,
+        ns1:many_similarities_with_Earth,
+        ns1:mountains,
+        ns1:nitric_acid,
+        ns1:past_water_erosion,
+        ns1:phosphine,
+        ns1:planet,
+        ns1:possible_evolution_of_life,
+        ns1:potential_for_life,
+        ns1:scorching_surface,
+        ns1:secrets,
+        ns1:sulfuric_acid,
+        ns1:sulfuric_acid_clouds,
+        ns1:surface,
+        ns1:surface_temperature,
+        ns1:surface_temperatures_that_can_reach_up_to__degrees_Fahrenheit,
+        ns1:technology,
+        ns1:thick_and_dense_atmosphere,
+        ns1:thick_atmosphere,
+        ns1:toxic_atmosphere,
+        ns1:unique_features,
+        ns1:valleys,
+        ns1:volcanoes,
+        ns1:water_erosion,
+        ns1:water_ice,
+        ns1:water_molecules_in_the_clouds_of_sulfuric_acid_that_cover_the_planet,
+        ns1:weather,
+        ns1:winds ;
+    ns1:heat ns1:extreme,
+        ns1:sunlight ;
+    ns1:history ns1:lava,
+        ns1:liquid_water,
+        ns1:past,
+        ns1:solidified_surface ;
+    ns1:host ns1:life ;
+    ns1:hostile_atmosphere ns1:Earth ;
+    ns1:hostile_conditions ns1:life ;
+    ns1:hostile_environment ns1:life,
+        ns1:thick_atmosphere ;
+    ns1:hottest_planet ns1:solar_system ;
+    ns1:impact ns1:society ;
+    ns1:inhospitable_environment ns1:scientists ;
+    ns1:intense_atmosphere_pressure ns1:surface ;
+    ns1:intense_radiation ns1:heat ;
+    ns1:interior ns1:heat_sources,
+        ns1:seismic_waves,
+        ns1:volcanic_activity ;
+    ns1:internal_structure ns1:planet ;
+    ns1:intriguing ns1:planet ;
+    ns1:intriguing_planet ns1:mysterious ;
+    ns1:is ns1:Earthlike,
+        ns1:a_vital_piece_of_the_puzzle_when_it_comes_to_understanding_our_own_solar_system_and_even_our_own_planet,
+        ns1:fascinating_planet,
+        ns1:hot,
+        ns1:scorching_hellhole,
+        ns1:second_planet_from_the_sun,
+        ns1:sister_planet,
+        ns1:the_hottest_planet_in_our_solar_system ;
+    ns1:known ns1:Earths_twin_planet ;
+    ns1:landers ns1:Venera_missions ;
+    ns1:largest_volcano ns1:Olympus_Mons ;
+    ns1:life ns1:biosignatures,
+        ns1:existed,
+        ns1:microbial_life,
+        ns1:potential,
+        ns1:survive,
+        ns1:unlikely ;
+    ns1:liquid_water ns1:absent ;
+    ns1:location ns1:inner_solar_system ;
+    ns1:magnetic_field ns1:Earth ;
+    ns1:mass ns1:Earth ;
+    ns1:massive_volcanoes ns1:geological_features ;
+    ns1:may_have ns1:life,
+        ns1:liquid_water ;
+    ns1:mission ns1:Venus_Atmospheric_Probe,
+        ns1:Venus_Atmospheric_Probe_VAP,
+        ns1:deep_space_exploration ;
+    ns1:mysteries ns1:captivate,
+        ns1:scientists ;
+    ns1:mysterious_mountains ns1:tectonic_activity ;
+    ns1:neighbor ns1:Earth ;
+    ns1:orbit ns1:elliptical,
+        ns1:retrograde ;
+    ns1:past ns1:oceān,
+        ns1:volcanic_activity,
+        ns1:volcanoes ;
+    ns1:past_environment ns1:capable_of_supporting_life ;
+    ns1:perpetual_darkness ns1:surface ;
+    ns1:planet ns1:Earth,
+        ns1:Earths_sister_planet,
+        ns1:solar_system ;
+    ns1:possible_history ns1:habitable_environment ;
+    ns1:potential ns1:life ;
+    ns1:potential_benefits ns1:early_stages_of_planetary_development,
+        ns1:life_beyond_Earth ;
+    ns1:potential_for_supporting_life ns1:an_exciting_possibility ;
+    ns1:potential_habitability ns1:planets ;
+    ns1:potential_life ns1:organic_molecules ;
+    ns1:practical_applications ns1:potentially_habitable_environments ;
+    ns1:present ns1:life,
+        ns1:scientific_discovery ;
+    ns1:pressure ns1:_times_greater_than_Earth,
+        ns1:crushing,
+        ns1:intense ;
+    ns1:probe ns1:balloonpowered_lander ;
+    ns1:protective_gear ns1:human ;
+    ns1:provides ns1:a_unique_opportunity_to_study_extreme_conditions_that_are_not_found_on_Earth,
+        ns1:insights ;
+    ns1:pursuit ns1:worthy ;
+    ns1:radiation ns1:harmful ;
+    ns1:recent_years ns1:advances ;
+    ns1:represents ns1:a_mysterious_and_fascinating_frontier ;
+    ns1:resources ns1:precious_metals,
+        ns1:water ;
+    ns1:retrograde_rotation ns1:Venuss_axis,
+        ns1:a_mystery ;
+    ns1:risks ns1:contamination,
+        ns1:dangerous_atmosphere,
+        ns1:volatile_compounds ;
+    ns1:rocky_core ns1:planetary_composition ;
+    ns1:role ns1:solar_system ;
+    ns1:rotates ns1:opposite_direction,
+        ns1:retrograde,
+        ns1:slowly ;
+    ns1:rotation ns1:Earth,
+        ns1:Phobos,
+        ns1:Venuss_orbit,
+        ns1:clockwise,
+        ns1:opposite,
+        ns1:opposite_direction,
+        ns1:retrograde,
+        ns1:retrograde_rotation,
+        ns1:retrograde_spin,
+        ns1:slow ;
+    ns1:rotation_period ns1:Earth ;
+    ns1:runaway_greenhouse_effect ns1:heat,
+        ns1:heat_trap,
+        ns1:inhospitable_to_life ;
+    ns1:satellite_missions ns1:NASA ;
+    ns1:search ns1:extraterrestrial_life ;
+    ns1:second_planet ns1:Sun,
+        ns1:sun ;
+    ns1:shares ns1:Earth,
+        ns1:similarities ;
+    ns1:sheds_light ns1:space_environments ;
+    ns1:significance ns1:scientific ;
+    ns1:similar ns1:Earth ;
+    ns1:similar_size_and_composition ns1:Earth ;
+    ns1:similarities ns1:Earth,
+        ns1:Earths_sister_planet ;
+    ns1:similarities_to_Earth ns1:Earths_closest_twin_planet ;
+    ns1:similarity ns1:Earth ;
+    ns1:sister_planet ns1:Earth ;
+    ns1:size ns1:Earth,
+        ns1:Earths_sister_planet,
+        ns1:composition,
+        ns1:larger ;
+    ns1:solar_system ns1:planet ;
+    ns1:studied ns1:scientists ;
+    ns1:study ns1:Earth,
+        ns1:advanced_technology,
+        ns1:astrobiology,
+        ns1:exploration,
+        ns1:importance,
+        ns1:important,
+        ns1:insights_into_extreme_environments,
+        ns1:life,
+        ns1:orbiters,
+        ns1:space_probes,
+        ns1:spacecraft_missions,
+        ns1:telescopic_observations ;
+    ns1:sulfuric_acid_clouds ns1:atmospheric_composition ;
+    ns1:surface ns1:Magellan_spacecraft,
+        ns1:Venetian_continents,
+        ns1:acidity,
+        ns1:ancient_riverbeds,
+        ns1:canyons,
+        ns1:challenging_environment,
+        ns1:craters,
+        ns1:detailed_maps,
+        ns1:direct,
+        ns1:directly,
+        ns1:dry,
+        ns1:exploration,
+        ns1:extreme_temperatures,
+        ns1:hot,
+        ns1:inhospitable,
+        ns1:large_volcanic_features,
+        ns1:lead,
+        ns1:mountains,
+        ns1:obscure,
+        ns1:overheating,
+        ns1:plateaus,
+        ns1:radar,
+        ns1:rocks,
+        ns1:rocky,
+        ns1:solid_rock,
+        ns1:sulfuric_acid,
+        ns1:sun,
+        ns1:temperature,
+        ns1:underground_oceans,
+        ns1:underground_water_oceans,
+        ns1:valleys,
+        ns1:vast_plains,
+        ns1:volcanic_activity,
+        ns1:volcanoes ;
+    ns1:surface_pressure ns1:planetary_exploration_challenges ;
+    ns1:surface_temperature ns1:_degrees_Fahrenheit,
+        ns1:hot_enough_to_melt_lead,
+        <http://example.org/myontology/°C_°F> ;
+    ns1:symbol ns1:beauty ;
+    ns1:target ns1:lunar_missions,
+        ns1:research ;
+    ns1:technologies ns1:space_exploration ;
+    ns1:technology ns1:new_data ;
+    ns1:temperature ns1:_degrees_Celsius,
+        ns1:_degrees_Fahrenheit,
+        ns1:extreme,
+        ns1:hot ;
+    ns1:the_second_planet_from_the_sun ns1:is_a_fascinating_body_that_has_captured_the_imagination_of_humans_for_centuries ;
+    ns1:thick_atmosphere ns1:atmospheric_formation_and_evolution,
+        ns1:carbon_dioxide,
+        ns1:extreme_heat,
+        ns1:hot,
+        ns1:sulfuric_acid,
+        ns1:toxic ;
+    ns1:topography ns1:geological_features ;
+    ns1:toxic_atmosphere ns1:incompatible_with_human_life,
+        ns1:life_development,
+        ns1:sulfuric_acid ;
+    ns1:traps ns1:heat ;
+    ns1:twin_planet ns1:Earth ;
+    ns1:underground_oceans ns1:lakes ;
+    ns1:understanding ns1:a_mission_to_understand_our_closest_planet,
+        ns1:complexities ;
+    ns1:unique ns1:planet ;
+    ns1:universe ns1:life ;
+    ns1:volcanic_activity ns1:Earth,
+        ns1:geological_processes,
+        ns1:massive_eruptions,
+        ns1:volcanoes,
+        ns1:weather_patterns ;
+    ns1:volcanic_rock ns1:acidic_clouds ;
+    ns1:volcano ns1:Olympus_Mons ;
+    ns1:volcanoes ns1:eruptions ;
+    ns1:was ns1:the_subject_of_fascination_for_centuries ;
+    ns1:water ns1:evidence,
+        ns1:lakes,
+        ns1:liquid_lava_flows,
+        ns1:ocean,
+        ns1:underground_reservoirs,
+        ns1:vapor ;
+    ns1:water_in_its_atmosphere ns1:scientific_estimates ;
+    ns1:water_vapor ns1:atmosphere ;
+    ns1:weather ns1:climate ;
+    ns1:weather_patterns ns1:atmosphere ;
+    ns1:winds ns1:lightning .
+
+ns1:_Venus_Atmosphere_and_MagellanLike_Explorer_VAMLEX ns1:studied ns1:Venus_atmosphere_and_surface .
+
+ns1:_Venus_Exploration_Rover ns1:closer_look ns1:planets_surface .
+
+ns1:_Venus_Express ns1:orbited ns1:Venus .
+
+ns1:_Venus_Reconnaissance_Orbiter ns1:studied ns1:Venus .
+
+ns1:_Venus_is_known_as_the_Earths_sister_planet_due_to_its_dense_atmosphere ns1:similar_size_and_weight ns1:and_rocky_surface .
+
+ns1:_Venuss_extreme_conditions ns2:F ns1:make_it_the_hottest_planet_in_our_solar_system .
+
+ns1:_extremophiles ns1:organisms ns1:Venus .
+
+ns1:_greenhouse_effect ns1:atmospheric_phenomenon ns1:Venus .
+
+ns1:_magnetosphere ns1:atmospheric_phenomenon ns1:Earth .
+
+ns1:_organic_molecules ns1:chemical_compounds ns1:Venus .
+
+ns1:_retrograde_rotation ns1:astronomical_phenomenon ns1:Venus .
+
+ns1:_space_probes ns1:spacecraft ns1:Venus .
+
+ns1:_sulfuric_acid ns1:chemical_compound ns1:Venus .
+
+ns1:_sun ns1:star ns1:solar_system .
+
+ns1:_technology ns1:field_of_study ns1:space_exploration .
+
+ns1:_telescopic_observations ns1:method_of_research ns1:Venus .
+
+ns1:_volcanic_activity ns1:geological_process ns1:Venus .
+
+ns1:_water ns1:liquid ns1:Venus .
+

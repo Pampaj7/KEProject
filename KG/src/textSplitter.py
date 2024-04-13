@@ -24,9 +24,9 @@ def process_text(text, file, max_iterations=100):
 
 
 if __name__ == "__main__":
-    # with open(filename, 'r') as f:
-    #    full_text = f.read()
-    #    process_text(full_text, "MarsDiary")
+    with open(filename, 'r') as f:
+        full_text = f.read()
+        process_text(full_text, "MarsDiary")
 
     with open(filename_human, 'r') as f:
         full_text = f.read()

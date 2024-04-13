@@ -102,7 +102,7 @@ def KG_creation(filename):
     plt.savefig('plots/knowledge_graph_' + filename_without_extension + '.png')
 
     # Now also create the ontology with normalized names
-    #create_ontology(triplets, filename) TODO fix this
+    create_ontology(triplets, filename)
 
     # interactive visualization
     visualize_with_pyvis(G, 'knowledge_graph' + filename_without_extension + '.html', filename_without_extension)

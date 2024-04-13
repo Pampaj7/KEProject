@@ -62,6 +62,5 @@ def mistral_model(filename):
                               "normalizedTriplets/_normalizedextracted_text_from_Mistral7B_CME_v1_LOCAL_" + name + ".txt")
 
 
-#cant run both at the same time
 mistral_model(filename)
-#mistral_model(filename_human)
+mistral_model(filename_human)

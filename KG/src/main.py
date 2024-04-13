@@ -1,9 +1,10 @@
 import KG as kg
 import graph_stats as gs
 import confusion_matrix as cm
+import ontology_interrogation as oi
 
 GTai = "normalizedTriplets/_normalizedextracted_text_from_GPT_MarsDiary.txt"
-GThuman = "normalizedTriplets/extracted_text_from_human.txt" #handmade
+GThuman = "normalizedTriplets/extracted_text_from_human.txt"  #handmade
 
 
 def process_files(files, gtfiles):
@@ -45,8 +46,7 @@ filename_human = [
     "_normalizedextracted_text_from_vicuna-13b_Human.txt"
 ]
 
-#process_files(filename, GTai)
+process_files(filename, GTai)
 process_files(filename_human, GThuman)
 
-# some basic interrogation
-# oi.interrogate()
+oi.interrogate()  # just to show it works

@@ -1,0 +1,679 @@
+@prefix ns1: <http://example.org/myontology/> .
+@prefix ns2: <http://example.org/myontology/,> .
+@prefix ns3: <http://example.org/myontology/often_referred_to_as_Earths_sister_planet,> .
+
+<http://example.org/myontology/*_Atmosphere> ns1:greenhouse_effect ns1:Venus .
+
+<http://example.org/myontology/*_Geological_activity> ns1:possibility_of ns1:Venus .
+
+<http://example.org/myontology/*_Phases_of_Venus> ns1:relative_phases ns1:Sun .
+
+<http://example.org/myontology/*_Surface_conditions> ns1:volcanoes_and_craters ns1:Venus .
+
+<http://example.org/myontology/*_Venus> ns1:has ns1:causes_extreme_seasonal_changes,
+        ns1:challenging_environment,
+        ns1:complex_environment,
+        ns1:could_be_similar_to_the_Great_Storms_of_Jupiter,
+        ns1:evidence_of_liquid_water,
+        ns1:evidence_of_water,
+        ns1:extreme_atmosphere,
+        ns1:extreme_conditions,
+        ns1:extreme_seasonal_changes,
+        ns1:extreme_surface_temperature,
+        ns1:extreme_tilted_axis,
+        ns1:fascinated_scientists_for_centuries,
+        ns1:gradually_slowing_down_over_time,
+        ns1:has_a_perpetual_twilight,
+        ns1:has_a_thick_atmosphere_composed_almost_entirely_of_carbon_dioxide,
+        <http://example.org/myontology/has_been_a_captivating_subject_that_has_captivated_scientists_and_explorers_for_centuries/s>,
+        ns1:has_been_difficult_to_send_spacecraft_into_orbit,
+        ns1:has_been_slowing_down_over_time,
+        ns1:has_exposed_by_volcanic_eruptions_and_impacts_from_meteorites,
+        ns1:has_some_evidence_of_water,
+        ns1:high_surface_temperature,
+        ns1:hot_surface_temperature,
+        ns1:intense_atmosphere,
+        ns1:intense_greenhouse_effect,
+        ns1:oceans_in_its_past,
+        ns1:perpetual_twilight,
+        ns1:possible_future,
+        ns1:possibly_support_life_in_such_extreme_conditions,
+        ns1:runaway_greenhouse_effect,
+        ns1:sedimentary_rocks,
+        ns1:similar_composition_to_Earth,
+        ns1:slowing_rotation,
+        ns1:strong_gravitational_pull,
+        ns1:the_potential_for_life,
+        ns1:thick_atmosphere,
+        ns1:unique_world,
+        ns1:volcanic_formations ;
+    ns1:may_have_had ns1:liquid_water_at_some_point_in_the_past ;
+    ns1:poses ns1:challenges_for_human_exploration_due_to_extreme_temperatures_and_hostile_environment ;
+    ns1:serves ns1:as_a_benchmark_for_studying_space_environments ;
+    ns1:shares ns1:similarities_with_Earth .
+
+ns1:A_Venus ns1:relation_has_extreme_temperatures ns1:B_Earth ;
+    ns1:relation_has_lack_of_liquid_water <http://example.org/myontology/B_Earth/s> ;
+    ns1:relation_has_toxic_atmosphere ns1:B_Earth .
+
+ns1:Another_interesting_aspect_of_Venus_is_its_rotation_The_planet_rotates_on_its_axis_in_the_opposite_direction_to_most_planets_in_the_solar_system ns1:including_Earth_This_is_thought_to_be_due_to_tidal_forces_from_the_sun <http://example.org/myontology/which_caused_the_planets_rotation_to_gradually_reverse_over_billions_of_years/s> .
+
+<http://example.org/myontology/Clouds_of_sulfuric_acid,,_Volatility,_> ns1:_The_clouds_of_sulfuric_acid_are_so_dense_that_they_can_obscure_the_planets_surface <http://example.org/myontology/making_it_difficult_to_study,> .
+
+<http://example.org/myontology/Existence_of_volcanoes_on_Venus,,_Largest_in_the_solar_system,_> ns1:_These_volcanoes_can_spew_out_massive_amounts_of_sulfuric_acid <http://example.org/myontology/creating_new_land_and_altering_the_planets_topography,> .
+
+<http://example.org/myontology/Extreme_heat_and_pressure_on_Venus,,_Difficult_for_humans_or_rovers_to_explore,_> ns1:_Despite_these_challenges <http://example.org/myontology/scientists_have_been_able_to_gather_information_about_Venuss_geology_and_structure_through_orbital_missions,> .
+
+<http://example.org/myontology/Extreme_heat_and_pressure_on_Venus,,_Hostile_environment,_> ns1:_However ns1:much .
+
+<http://example.org/myontology/Few_hypotheses_for_retrograde_rotation_on_Venus,,_Possible_reasons_include_collision_with_a_massive_asteroid_or_comet> ns1:or_a_greenhouse_effect_that_causes_the_planets_temperature_to_rise_so_high_that_it_becomes_uninhabitable ns2: .
+
+<http://example.org/myontology/Greenhouse_effect,,_Runaway_warming_effect,_> ns1:_The_gases_in_the_atmosphere_also_contribute_to_the_greenhouse_effect <http://example.org/myontology/creating_a_runaway_warming_effect_that_makes_it_difficult_for_scientists_to_study_the_planets_climate,> .
+
+<http://example.org/myontology/Greenhouse_effect_on_Venus,,_Runaway_warming_effect,_> ns1:_The_gases_in_Venuss_atmosphere_also_contribute_to_the_greenhouse_effect <http://example.org/myontology/creating_a_runaway_warming_effect_that_makes_it_difficult_for_scientists_to_study_the_planets_climate,> .
+
+ns1:However ns1:despite_its_proximity ns1:Venus_remains_one_of_the_least_explored_planets_in_our_solar_system .
+
+ns1:In_recent_years ns1:there_have_been_some_fascinating_discoveries_about_Venus_atmosphere ns1:such_as_evidence_of_water_vapor_in_the_planets_atmosphere .
+
+ns1:Magellan ns1:studies ns1:Venus_surface .
+
+ns1:Magellan_spacecraft ns1:orbited ns1:Venus_from_ ;
+    ns1:orbited_Venus_for_over_seven_years ns1:mapped_over_%_of_the_planets_surface_at_high_resolution .
+
+<http://example.org/myontology/Melting_and_flowing_rocks_on_Venus,,_High_temperatures_and_pressure,_> ns1:_The_high_temperatures_and_pressure_on_Venus_also_cause_the_rocks_on_the_planets_surface_to_melt_and_flow_like_liquid <http://example.org/myontology/creating_vast_lava_flows_that_can_cover_entire_regions_of_the_planet,> .
+
+ns1:Overall ns1:Venus_remains_one_of_the_most_mysterious_planets_in_our_solar_system_Despite_being_incredibly_close ns1:we_still_have_so_much_to_learn_about_it .
+
+<http://example.org/myontology/Scientists_eager_to_learn_more_about_Venus,,_Importance_of_studying_Venus,_> ns1:_Despite_these_challenges <http://example.org/myontology/scientists_are_eager_to_learn_more_about_Venus,> .
+
+ns1:Studying_Venus ns1:Relation ns1:Understanding_the_geological_processes_on_other_planets,
+        <http://example.org/myontology/Understanding_the_potential_risks_of_interplanetary_travel/s> .
+
+<http://example.org/myontology/Studying_Venuss_atmosphere_and_weather_system,,_Better_understanding_of_atmospheric_conditions,_> ns1:_By_studying_this_planets_atmosphere_and_weather_system <http://example.org/myontology/we_can_gain_a_better_understanding_of_the_conditions_that_contributed_to_the_development_of_life_on_Earth,> .
+
+<http://example.org/myontology/Surface_temperature_on_Venus,,_Hottest_planet_in_our_solar_system,_> ns1:_The_surface_temperature_on_Venus_can_reach_up_to__degrees_Fahrenheit <http://example.org/myontology/making_it_one_of_the_hottest_planets_in_our_solar_system,> .
+
+<http://example.org/myontology/The_study_of_Venus_has_provided_significant_insights,,_Understanding_of_atmospheric_conditions,_> ns1:_Despite_its_hostile_environment_and_dense_atmosphere <http://example.org/myontology/scientists_have_made_significant_progress_in_exploring_the_planet_and_learning_more_about_its_unique_features,> .
+
+<http://example.org/myontology/Thick_atmosphere_on_Venus,,_Hostile_atmosphere,_> ns1:_The_planets_atmosphere_is_dominated_by_carbon_dioxide <http://example.org/myontology/with_clouds_made_of_sulfuric_acid_that_make_the_surface_temperature_hot_and_inhospitable,> .
+
+ns1:This_strange_rotation ns1:combined_with_Venuss_thick_atmosphere ns1:makes_it_difficult_to_observe_the_planets_surface_from_space .
+
+ns1:Venus_Atmospheric_Probe ns1:launched <http://example.org/myontology/_and_currently_descending_through_the_planets_atmosphere/s> .
+
+ns1:Venus_has_a_thick_atmosphere_that_is_made_up_of_carbon_dioxide ns1:sulfuric_acid ns1:and_clouds_of_sulfuric_acid_droplets .
+
+<http://example.org/myontology/Venus_is_an_extreme_environment,,_Unique_opportunity_for_scientists,_> ns1:_However <http://example.org/myontology/much_remains_unknown_about_this_mysterious_planet,> .
+
+ns1:Venus_is_the_second_planet_from_the_sun ns1:and_it_is_similar_in_size_to_Earth <http://example.org/myontology/but_with_some_key_differences/s> .
+
+<http://example.org/myontology/Volatility_of_atmosphere_on_Venus,,_Challenges_in_studying,_> ns1:_However <http://example.org/myontology/scientists_have_a_few_hypotheses,> .
+
+ns1:_All_the_extracted_triples_formatted_as_named_entity_A ns1:relation <http://example.org/myontology/named_entity_B/s> .
+
+ns1:_Ancient_weather_patterns ns1:relation ns1:Venus .
+
+ns1:_Applying ns1:relation ns1:technology_to_space_exploration .
+
+ns1:_Atmosphere ns1:relation ns1:Venus .
+
+ns1:_Blazing_white_clouds ns1:relation ns1:Venus .
+
+ns1:_Challenges ns1:relation ns1:Venus .
+
+ns1:_Climate ns1:relation ns1:Venus .
+
+ns1:_Climate_changes_on_Earth ns1:studied_on_Venus ns1:help_us_predict .
+
+ns1:_Clouds_of_sulfuric_acid ns1:relation ns1:Venus .
+
+ns1:_Counterclockwise_rotation ns1:retrograde_rotation ns1:Venus .
+
+ns1:_Dense_atmosphere ns1:relation ns1:Venus .
+
+ns1:_Developing ns1:relation ns1:scientific_technology .
+
+ns1:_Earth ns1:planet ns1:Venus .
+
+ns1:_Exploring ns1:studying ns1:Venus .
+
+ns1:_Extreme_heat ns1:runaway_greenhouse_effect ns1:Venus .
+
+ns1:_Extreme_temperatures ns1:relation <http://example.org/myontology/Venus/s> .
+
+ns1:_Extreme_temperatures_of_Venus ns1:relation ns1:extreme_temperatures_of_Earth .
+
+ns1:_Extreme_weather_system ns1:relation ns1:Venus .
+
+ns1:_For_example ns1:there_are_traces_of_sulfur_compounds_in_the_atmosphere ns1:which_could_indicate_the_presence_of_living_organisms .
+
+ns1:_Formation_and_evolution_of_our_solar_system ns1:studied_on_Venus ns1:hold_valuable_information_about .
+
+ns1:_Geological_activity_of_Venus ns1:relation ns1:geological_activity_of_Earth .
+
+ns1:_Greenhouse_effect ns1:composition_of_Venuss_atmosphere ns1:possible_lessons_for_Earth .
+
+ns1:_Greenhouse_gases ns1:atmosphere ns1:may_be_due_to .
+
+ns1:_Hostile_conditions_of_Venus ns1:relation <http://example.org/myontology/hostile_conditions_of_Earth/s> .
+
+ns1:_Hottest_planet_in_our_solar_system ns1:atmosphere ns1:Venus .
+
+ns1:_However ns1:it_also_creates_a_unique_environment_for_life ns1:which_is_why_scientists_believe_that_there_might_be_some_form_of_life_on_Venus ;
+    ns1:with_each_new_mission ns1:scientists_are_gaining_valuable_insights_into_the_extreme_conditions_that_exist_on_Venuss_surface ;
+    ns1:with_the_use_of_future_missions_and_technological_advancements ns1:we_will_be_able_to_continue_studying_this_fascinating_planet_and_discover_even_more_about_its_past_and_present .
+
+ns1:_Intense_atmospheric_pressure_of_Venus ns1:relation ns1:atmospheric_pressure_of_Earth .
+
+ns1:_It_has_surface_temperatures_that_can_reach_up_to__degrees_Celsius ns1:named_Entity_K ns1:named_Entity_L .
+
+ns1:_Its_atmosphere_is_incredibly_thick_and_dense ns1:named_Entity_E ns1:named_Entity_F .
+
+ns1:_Knowledge ns1:relation ns1:humanity .
+
+ns1:_Lightning_storms ns1:relation <http://example.org/myontology/Venus/s> .
+
+ns1:_Liquid_water ns1:relation ns1:Venus ;
+    ns1:signs_of_water_on_Venuss_surface ns1:possibility_of_more_hospitable_environment_in_past .
+
+ns1:_May_make_Venus_habitable_in_the_future ns1:named_Entity_Q ns1:named_Entity_R .
+
+ns1:_Microorganisms_on_Earth ns1:potential_for_life_on_Venus ns1:existence_of_life .
+
+ns1:_Mineral_complexes ns1:relation ns1:Venus .
+
+ns1:_Moons ns1:relation ns1:Venus .
+
+ns1:_Multiple_moons_of_Venus ns1:relation ns1:Earths_moon .
+
+ns1:_NASA ns1:Magellan_spacecraft ns1:Venus_surface_imaging ;
+    ns1:Venus_Atmospheric_Orbiter <http://example.org/myontology/studying_Venus_atmosphere_in_detail/s> .
+
+ns1:_NASA_has_sent_several_missions_to_the_planet ns1:named_Entity_S ns1:named_Entity_T .
+
+ns1:_NASAs_Magellan_Mars_orbiter ns1:relation ns1:Mars .
+
+ns1:_NASAs_Venus_Express_spacecraft ns1:relation ns1:Venus .
+
+ns1:_NASAs_newest_mission_to_Venus ns1:mission ns1:Venus_Magellan_mission .
+
+ns1:_Name_Venus ns1:Relation_Causes_the_planet_to_be_one_of_the_hottest_planets_in_our_solar_system ns1:Namesake_Earth ;
+    ns1:Relation_Discovered_evidence_of_volcanic_activity_on_the_planet ns1:Namesake_Earth ;
+    ns1:Relation_Has_a_hostile_environment_that_makes_it_nearly_impossible_for_any_life_to_exist_on_Venus ns1:Namesake_Earth ;
+    ns1:Relation_Has_a_planetarywide_retrograde_rotation ns1:Namesake_None ;
+    ns1:Relation_Is_shrouded_in_a_thick_layer_of_clouds_that_make_it_incredibly_difficult_to_study_directly ns1:Namesake_Carbon_Dioxide ;
+    ns1:Relation_Is_the_closest_planet_to_Earth_in_our_solar_system ns1:Namesake_Earth ;
+    ns1:Relation_Presents_a_unique_and_fascinating_opportunity_for_us_to_learn_more_about_our_own_planet_and_the_universe ns1:Namesake_Earth ;
+    ns1:Relation_Presents_scientists_with_endless_opportunities_for_exploration_and_discovery ns1:Namesake_Earth ;
+    ns1:Relation_Scientists_still_are_trying_to_determine_the_exact_cause_of_Venuss_retrograde_rotation <http://example.org/myontology/Namesake_Earth/s> .
+
+ns1:_Observing ns1:relation <http://example.org/myontology/planetary_geology/s> .
+
+ns1:_Philip_Metzger ns1:notes_that_we_cant_simply_replicate_these_conditions_on_Earth ns1:so_understanding_how_they_developed_on_Venus_could_be_essential_in_determining_the_possibilities_for_life_elsewhere_in_the_universe .
+
+ns1:_Possibility_of_hidden_oceans_beneath_Venuss_surface ns1:relation ns1:existence_of_life_forms_in_the_ocean .
+
+ns1:_Potential_for_life_on_other_planets ns1:studied_on_Venus ns1:provide_insights_into .
+
+ns1:_Recent_discoveries_have_hinted_at_the_presence_of_underground_oceans ns1:named_Entity_O ns1:named_Entity_P .
+
+ns1:_Releasing ns1:relation ns1:Venus .
+
+ns1:_Remote_sensing_technologies ns1:relation ns1:Venus .
+
+ns1:_Robotic_missions ns1:relation ns1:Venus .
+
+ns1:_Rock_and_soil ns1:relation ns1:Venus .
+
+ns1:_Samples ns1:relation ns1:Venus .
+
+ns1:_Scientific_discoveries ns1:relation ns1:Venus .
+
+ns1:_Scientific_studies ns1:NASAs_Magellan_spacecraft ns1:mapping_Venus .
+
+ns1:_Scientists ns1:studying ns1:Earths_atmosphere_and_climate .
+
+ns1:_Scientists_believe_that_the_planet_may_have_once_had_liquid_water_on_its_surface ns1:named_Entity_M ns1:named_Entity_N .
+
+ns1:_Scientists_future_missions_to_Venus ns1:missions ns1:_Venus_Express_spacecraft .
+
+ns1:_Scientists_hope_that_studying_the_planets_geology ns1:atmosphere ns1:and_composition_will_provide_them_with_clues_about_our_own_planets_history_and_future .
+
+ns1:_Scientists_past_discoveries_of_water_and_molten_rock_on_Venus ns1:geological_feature ns1:evidence_of_both .
+
+ns1:_Similar_in_size_and_composition_to_Earth ns1:named_Entity_C ns1:named_Entity_D .
+
+ns1:_Similarities_and_composition ns1:relation ns1:Earth .
+
+ns1:_Sister_planet ns1:relation <http://example.org/myontology/Earth/s> .
+
+ns1:_Solar_radiation ns1:relation ns1:Venus .
+
+ns1:_Solar_radiation_damage ns1:relation ns1:Venus .
+
+ns1:_Space_agencies ns1:private_companies ns1:Venus_exploration .
+
+ns1:_Studying ns1:relation ns1:Venus,
+        ns1:planetary_environments .
+
+ns1:_Studying_Venus ns1:learning <http://example.org/myontology/Earth/s> .
+
+ns1:_Studying_Venus_is_a_worthy_pursuit_due_to_its_extreme_weather_conditions ns1:toxic_atmosphere <http://example.org/myontology/and_potential_benefits_to_scientific_research_typename=Relationvalue=Worthy> .
+
+ns1:_Surface ns1:relation ns1:Venus .
+
+ns1:_Surface_temperature_of_Venus ns1:_degrees_Celsius ns1:Venus .
+
+ns1:_Technological_advancements_for_space_exploration ns1:studied_on_Venus <http://example.org/myontology/develop_new_technologies_for/s> .
+
+ns1:_Temperature_and_pressure_conditions ns1:relation ns1:Venus .
+
+ns1:_The_European_Space_Agencys_Venus_Express_mission ns1:mission ns1:radio_spectrometer .
+
+ns1:_The_Magellan_spacecraft ns1:spacecraft ns1:camera_captured_highresolution_images,
+        ns1:revealed_vast_expanses_of_lava_flows,
+        ns1:revolutionized_our_understanding_of_Venus .
+
+ns1:_The_Mars_Science_Laboratory_MSL ns1:rover ns1:collected_data_ever_since ;
+    ns1:spacecraft ns1:rover_that_landed_on_the_surface_of_Mars_in_ .
+
+ns1:_The_article_provides_several_reasons_why_the_author_believes_that_studying_Venus_is_still_a_worthy_pursuit_Firstly ns1:the_author_suggests_that_studying_Venus_will_help_us_better_understand_the_origins_of_life_on_Earth_The_author_believes_that_studying_Venus_can_provide_us_with_insights_into_how_life_can_survive_in_extreme_environments <http://example.org/myontology/which_can_significantly_improve_our_understanding_of_the_origins_and_evolution_of_life_on_Earth__Studying_Venus,benefits,understanding> .
+
+ns1:_The_combination_of_Venus_retrograde_rotation ns1:retrograde_orbit_around_the_sun <http://example.org/myontology/and_dense_atmosphere_make_it_a_unique_and_fascinating_planet_to_study_the_origins_of_life_in_the_universe/s> .
+
+ns1:_The_hostile_environment_of_Venus ns1:its_mysteries <http://example.org/myontology/and_its_potential_benefits_to_scientific_research_make_it_a_valuable_target_for_future_exploration_typename=Relationvalue=Important> .
+
+ns1:_The_hottest_planet_in_our_solar_system ns1:named_Entity_I ns1:named_Entity_J .
+
+ns1:_The_mission_would_involve_two_rovers ns1:one_equipped_with_an_Xray_diffractometer_to_study_the_mineral_composition_of_the_rocks ns1:while_the_other_would_be_equipped_with_spectrometers_to_examine_the_composition_of_Venuss_atmosphere .
+
+ns1:_The_thick_atmosphere_of_Venus ns1:atmosphere ns1:blocks_out_most_of_the_Suns_light .
+
+ns1:_The_thick_clouds_of_sulfuric_acid_on_Venus ns1:entity ns1:surface_temperatures_some_of_the_hottest_on_Earth .
+
+ns1:_These_have_given_us_valuable_insights_into_the_planets_atmosphere ns1:geological_features ns1:and_potential_for_hosting_life .
+
+ns1:_Thick_atmosphere ns1:relation ns1:Venus .
+
+ns1:_Thick_atmosphere_of_Venus ns1:relation ns1:dense_atmosphere_of_Earth .
+
+ns1:_Through_data_collected_by_satellites_and_spacecraft ns1:we_have_learned_that_Venus_has_a_very_extreme_climate ns1:with_temperatures_on_the_surface_reaching_up_to__degrees_Fahrenheit .
+
+ns1:_Trapped_heat_in_a_runaway_greenhouse_effect ns1:named_Entity_G ns1:named_Entity_H .
+
+ns1:_Ultimately ns1:the_goal_of_exploring_Venus_is_to_better_understand_our_own_planet_and_our_place_in_the_universe <http://example.org/myontology/and_to_see_if_life_exists_elsewhere_in_the_cosmos/s> .
+
+ns1:_Understanding ns1:relation ns1:Venus .
+
+ns1:_Venus ns2:_despite_its_extreme_conditions <http://example.org/myontology//s> ;
+    ns1:also_known_as_Earths_sister_planet_because_of_its_similarities_to_our_planet ns1:is_the_second_planet_from_the_sun ;
+    ns1:atmosphere ns1:Earth,
+        ns1:outermost_layer_of_sulfuric_acid_haze ;
+    ns1:challenges_posed_by ns1:understanding_Venus_for_future_human_space_exploration ;
+    ns1:challenging_conditions ns1:Earth ;
+    ns1:climate ns1:Earth ;
+    ns1:closest_planet_to_the_Sun ns1:primary_target_for_study ;
+    ns1:composition ns1:Earth ;
+    ns1:crucial_to_expanding_knowledge_of_the_universe ns1:exploring ;
+    ns1:density ns1:Earth ;
+    ns1:detection_of_volcanic_activity ns1:Earth ;
+    ns1:exploration_plans ns1:Earth ;
+    ns1:extreme_atmosphere ns1:Earth ;
+    ns1:formation_and_evolution_of_the_solar_system ns1:insights ;
+    ns1:geology ns1:Earth ;
+    ns1:greenhouse_effect ns1:Earth ;
+    ns1:has ns1:a_dense_atmosphere,
+        ns1:a_greenhouse_effect,
+        ns1:ancient_lakes_and_rivers,
+        ns1:atmospheric_pressure__times_greater_than_Earth,
+        ns1:conditions,
+        ns1:dense_and_rocky_crust,
+        ns1:dense_atmosphere,
+        ns1:essential_for_life,
+        <http://example.org/myontology/evidence/s>,
+        ns1:extreme_pressure,
+        ns1:extreme_surface_temperatures,
+        ns1:geological_features_similar_to_Earth,
+        ns1:greenhouse_effect,
+        ns1:lakes_of_liquid_water,
+        ns1:large_size,
+        ns1:lava_flows,
+        ns1:liquid_magma_on_surface,
+        ns1:many_volcanoes,
+        ns1:potential,
+        ns1:potential_for_life,
+        ns1:retrograde_rotation,
+        ns1:runaway_greenhouse_effect,
+        ns1:severe_greenhouse_effect,
+        ns1:strong_winds_reaching_speeds_of__miles_per_hour,
+        ns1:sulfuric_acid_clouds,
+        ns1:tallest_volcano_in_our_solar_system,
+        ns1:temperature_can_reach_up_to__degrees_Fahrenheit,
+        ns1:the_strongest_winds_in_the_solar_system,
+        ns1:thick_and_toxic_atmosphere,
+        ns1:thick_atmosphere,
+        ns1:thick_atmosphere_that_traps_heat,
+        ns1:thick_clouds,
+        ns1:thick_clouds_of_sulfuric_acid,
+        ns1:thick_greenhouse_atmosphere,
+        ns1:thick_greenhouse_effect,
+        ns1:unique_atmosphere,
+        ns1:volcanic_activity ;
+    ns1:has_a_greenhouse_effect ns1:which_means_that_it_traps_heat_and_warms_up_the_planets_surface_to_potentially_lethal_temperatures ;
+    ns1:has_a_metallic_core ns1:over_%_of_its_radius ;
+    ns1:has_a_rotational_period_that_is_shorter_than_ours ns1:meaning_that_it_rotates_on_its_axis_in_just_over__hours ;
+    ns1:has_an_average_surface_temperature_of_around__degrees_Fahrenheit ns1:which_is_hot_enough_to_melt_lead ;
+    ns1:has_relation ns1:dense_atmosphere,
+        ns1:extreme_weather,
+        ns1:high_surface_temperatures,
+        ns1:potentially_uncovering_clues_about_its_origins_and_geological_history,
+        ns1:thick_atmosphere,
+        ns1:toxic_atmosphere,
+        ns1:volatile_surface ;
+    ns1:has_significant_mountain_ranges <http://example.org/myontology/including_one_that_is_over_,_miles_long> ;
+    ns1:has_volcanic_activity_on_it_that_could_mean_that_there_is_still_geological_activity_on_the_planet ns1:and_hints_water_may_exist ;
+    ns1:heat ns1:atmosphere ;
+    ns1:identification_of_potential_habitats_for_extremophile_life ns1:Earth ;
+    ns1:importance_of_studying_for ns1:future_human_space_exploration ;
+    ns1:is ns1:closest_planet_to_Earth,
+        ns1:composed,
+        ns1:difficult,
+        ns1:enveloped,
+        ns1:known,
+        ns1:mysterious_planet,
+        ns1:second_closest_planet_to_the_sun,
+        ns1:shrouded,
+        ns1:studied,
+        ns1:subject_of_many_scientific_studies,
+        ns1:valuable_destination_to_explore ;
+    ns1:is_a_planet ns1:closer_to_the_sun ;
+    ns1:is_covered_in_thick_volcanic_rocks_and_craters ns1:similar_to_the_moon ;
+    ns1:is_less_hot_than_expected_due_to_its_thick_atmosphere_that_traps_all_incoming_solar_radiation ns1:resulting_in_a_greenhouse_effect ;
+    ns1:is_the_closest_planet_to_Earth ns1:studying_its_atmosphere_and_climate_could_give_us_valuable_insights_into_the_conditions_that_led_to_the_development_of_life_here_on_Earth ;
+    ns1:life ns1:study ;
+    ns1:lightning <http://example.org/myontology/atmosphere/s> ;
+    ns1:massive ns1:Earth ;
+    ns1:most_exciting ns1:intriguing_planet_in_the_solar_system ;
+    ns3:_is_located_in_planetary_orbit_at_an_average_distance_of_around__million_miles_from_our_Sun ns1:making_it_the_closest_planet_to_us_in_our_solar_system ;
+    ns1:planet ns1:Davinci_Mars_,
+        ns1:Earths_sister_planet,
+        ns1:Mars,
+        <http://example.org/myontology/Venus_Magellaner/s>,
+        ns1:astronomy,
+        ns1:carbon_dioxide,
+        ns1:closer_to_the_sun_than_Earth,
+        <http://example.org/myontology/closer_to_the_sun_than_Earth/s>,
+        ns1:complex_geology,
+        ns1:crushing_atmosphere,
+        ns1:extreme_temperatures,
+        ns1:geological_processes,
+        ns1:greenhouse_effect,
+        ns1:has_a_retrograde_rotation,
+        ns1:has_a_thick_layer_of_clouds_made_of_sulfuric_acid,
+        <http://example.org/myontology/has_a_thick_layer_of_clouds_made_of_sulfuric_acid_which_traps_heat/s>,
+        ns1:has_a_thick_pressure,
+        ns1:has_water_ice,
+        ns1:hotter_than_the_surface_of_the_Sun,
+        <http://example.org/myontology/impact_basins/s>,
+        ns1:is_known_for_its_extreme_heat_and_acidic_atmosphere,
+        ns1:is_the_closest_planet_to_the_Sun,
+        ns1:is_the_second_planet_from_the_Sun,
+        ns1:lava_flows,
+        ns1:located_in_the_solar_system,
+        ns1:planet_formation,
+        <http://example.org/myontology/potential_place_to_support_life/s>,
+        ns1:second_planet_from_the_Sun,
+        ns1:seismic_activity,
+        ns1:solar_system,
+        ns1:space_travel,
+        ns1:sulfuric_acid,
+        ns1:surface_temperature_can_reach_up_to__degrees_Fahrenheit,
+        ns1:surface_temperatures,
+        ns1:water_vapor,
+        ns1:weather_balloon ;
+    ns1:potential_rewards ns1:Earth ;
+    ns1:potentially_uncovering_clues ns1:potentially_,
+        <http://example.org/myontology/potentially_/s> ;
+    ns1:retrograde_rotation ns1:Earth ;
+    ns1:risks_associated_with_exploring <http://example.org/myontology/scientific_knowledge_and_technological_advancements/s> ;
+    ns1:robot ns1:Earth ;
+    ns1:shimmering_planes ns1:Earth ;
+    ns1:similar ns1:Earth ;
+    ns1:similar_planets ns1:universe ;
+    ns1:similarities ns1:Earths_atmosphere_and_climate ;
+    ns1:similarities_to_Earth ns1:laboratory_for_studying_life_development ;
+    ns1:size ns1:Earth ;
+    ns1:study ns1:climate_change,
+        ns1:environmental_conditions,
+        ns1:geological_formation_and_evolution,
+        ns1:planetary_processes,
+        ns1:planetary_science,
+        ns1:potential_for_extraterrestrial_life,
+        ns1:solar_system_history,
+        <http://example.org/myontology/technology_development/s> ;
+    ns1:sulfuric_acid ns1:Earth ;
+    ns1:surface ns1:Earth ;
+    ns1:surface_temperature ns1:Earth ;
+    ns1:temperature ns1:Earth ;
+    ns1:the_second_planet_from_the_Sun ns1:has_a_retrograde_rotation,
+        ns1:has_a_thick_atmosphere_that_is_composed_mostly_of_carbon_dioxide_and_sulfuric_acid_clouds ;
+    ns1:thick_atmosphere ns1:Earth,
+        ns1:volcanic_activity ;
+    ns1:volcanoes ns1:Earth ;
+    ns1:weather ns1:study .
+
+ns1:_Venus_Atmospheric_Explorer_VAE ns1:atmosphere ns1:Earth ;
+    ns1:challenging_conditions ns1:Earth ;
+    ns1:implications ns1:universe ;
+    ns1:insight ns1:Earth ;
+    ns1:knowledge <http://example.org/myontology/Earth/s> ;
+    ns1:mission ns1:Earth ;
+    ns1:surface ns1:Earth ;
+    ns1:temperature ns1:Earth .
+
+ns1:_Venus_has_a_thick_atmosphere_that_produces_sulfuric_acid_clouds ns1:extreme_temperatures ns1:and_heavy_rainfall .
+
+ns1:_Venus_has_anything_but_a_beautiful_reputation_It_is_known_for_its_extremely_hot_and_hostile_environment ns1:with_surface_temperatures_that_could_reach_up_to__degrees_Fahrenheit ns1:making_it_one_of_the_hottest_planets_in_the_solar_system .
+
+ns1:_Venus_is_known_as_the_planet_of_love ns1:beauty <http://example.org/myontology/and_pleasure_typename=Fact> .
+
+ns1:_Venus_thick_atmosphere ns1:relation ns1:Venus .
+
+ns1:_Venus_topographic_map ns1:geological_feature ns1:first .
+
+ns1:_Venus_volcanic_islands ns1:geological_features ns1:scattered_across_the_surface .
+
+ns1:_Venuss_cloud_formations ns1:relation ns1:Earths_cloud_formations .
+
+ns1:_Venuss_retrograde_rotation ns1:relation ns1:Earths_rotation_direction .
+
+ns1:_Volcanic_activity ns1:relation ns1:Venus .
+
+ns1:_While_the_challenges_are_significant ns1:the_potential_rewards_are_even_greater ns1:and_the_pursuit_of_knowledge_of_Venus_is_well_worth_it .
+
+ns1:_Will_study_the_planets_atmosphere_and_search_for_evidence_of_past_or_present_water ns1:named_Entity_W ns1:named_Entity_X .
+
+ns1:_ancient_rivers_and_lakes ns1:feature <http://example.org/myontology/planet/s> .
+
+ns1:_atmosphere ns1:feature ns1:planet ;
+    ns1:thick_and_dense ns1:Venus .
+
+ns1:_challenges ns1:space_exploration ns1:Venus .
+
+ns1:_exploration ns1:Venus ns1:complex_topic .
+
+ns1:_future ns1:humans_to_Venus ns1:possibility .
+
+ns1:_greenhouse_effect ns1:feature ns1:planet ;
+    ns1:runaway ns1:Venus .
+
+ns1:_liquid_water ns1:feature ns1:planet .
+
+ns1:_mountains ns1:feature ns1:planet .
+
+ns1:_mysteries ns1:geological_history ns1:Venus .
+
+ns1:_named_entity_A_climate ns1:relation_understanding ns1:named_entity_B_Venus .
+
+ns1:_named_entity_A_composition ns1:relation_lack_of_information_on <http://example.org/myontology/named_entity_B_Venus_atmosphere/s> .
+
+ns1:_named_entity_A_surface_temperature ns1:relation_estimated_to_be ns1:named_entity_B_Venus .
+
+ns1:_planetary_studies ns1:Venus ns1:importance .
+
+ns1:_retrograde_rotation ns1:feature ns1:planet .
+
+ns1:_rewards ns1:scientific_knowledge ns1:Venus .
+
+ns1:_rocks_and_soil_samples ns1:analyzed ns1:Venus_Exploration_Rover_VER .
+
+ns1:_spacecraft ns1:collected_data_on ns1:Venus_atmosphere ;
+    ns1:designed_to_withstand ns1:Venus_extreme_conditions .
+
+ns1:_studied ns1:has_led_to ns1:significant_advances_in_understanding_of_the_solar_system_and_its_origins ;
+    ns1:has_revealed_that_it_is_an_incredibly_different_and_fascinating_planet ns1:with_its_own_unique_characteristics_and_mysteries_waiting_to_be_discovered .
+
+ns1:_surface ns1:feature ns1:planet .
+
+ns1:_temperature ns1:extreme ns1:Venus .
+
+ns1:_volcanoes ns1:feature ns1:planet .
+
+ns1:_weather_conditions ns1:studied ns1:Venus .
+
+ns1:gas ns1:dense ns1:atmosphere ;
+    ns1:incredible_density ns1:atmosphere ;
+    ns1:produced ns1:extreme_conditions,
+        ns1:life ;
+    ns1:released ns1:atmosphere ;
+    ns1:suffocating ns1:atmosphere ;
+    ns1:trapped ns1:warming ;
+    ns1:traps ns1:heat .
+
+ns1:landscape ns1:deep_craters ns1:surface ;
+    ns1:volcanic ns1:surface .
+
+ns1:life ns1:supported ns1:climate .
+
+ns1:water ns1:past ns1:climate .
+
+ns1:surface ns1:extreme_temperatures ns1:planet ;
+    ns1:land ns1:planet .
+
+ns1:planet ns1:has ns1:runaway_greenhouse_effect,
+        ns1:similar_size_to_Earth,
+        ns1:thick_crust .
+
+ns1:Venus ns1: <http://example.org/myontology/Essential_for_scientists_because_it_allows_them_to_learn_more_about_the_conditions_that_led_to_the_development_of_life_on_Earth,>,
+        <http://example.org/myontology/causes_the_planet_to_experience_a_runaway_greenhouse_effect,>,
+        <http://example.org/myontology/has_a_dense_atmosphere_filled_with_carbon_dioxide,>,
+        <http://example.org/myontology/has_been_studied_for_decades,>,
+        <http://example.org/myontology/has_thick_lava_flows,>,
+        <http://example.org/myontology/has_water_in_the_form_of_liquid_and_gases_on_its_surface,>,
+        <http://example.org/myontology/is_a_unique_planet,>,
+        <http://example.org/myontology/is_estimated_to_have_pressures__times_greater_than_on_Earth,>,
+        <http://example.org/myontology/is_home_to_some_form_of_life,>,
+        <http://example.org/myontology/makes_it_the_hottest_planet_in_our_solar_system,>,
+        <http://example.org/myontology/scientists_believe_that_the_study_of_Olympus_Mons_to_learn_about_the_planet’s_geologic_history_and_its_processes_of_volcanism,>,
+        <http://example.org/myontology/some_researchers_believe_that_there_may_be_some_form_of_life_that_can_survive_in_the_extreme_conditions,>,
+        <http://example.org/myontology/surface_temperature_reaches_up_to__degrees_Fahrenheit,>,
+        <http://example.org/myontology/use_remote_sensing_technology_to_search_for_signs_of_life_on_Venus,>,
+        <http://example.org/myontology/with_many_differences_from_Earth,> ;
+    ns1:can_lead_to ns1:significant_advances_in_understanding_of_life ;
+    ns1:can_provide ns1:insights_into_the_origins_of_life_on_Earth ;
+    ns1:challengingToExploreDueTo ns1:incredibly_dense_atmosphere_and_extreme_temperatures ;
+    ns1:encased_in_a_thick ns1:toxic_atmosphere_that_traps_heat_in_a_runaway_greenhouse_effect ;
+    ns1:essential <http://example.org/myontology/understand/s> ;
+    ns1:evidenceOfVolcanicActivityOnThePlanet ns1:discovered_by_a_team_of_researchers_from_NASAs_Jet_Propulsion_Laboratory ;
+    ns1:evidenceOfWaterVaporInTheAtmosphere <http://example.org/myontology/found_by_the_European_Space_Agencys_Venus_Express_spacecraft/s> ;
+    ns1:experiences ns1:unique_day_and_night_cycle ;
+    ns1:exploredBy ns1:scientists_and_space_exploration_agencies ;
+    ns1:extreme_pressure_and_temperatures_make_it_hard_to_determine_if_it_ever_had_life ns1:Earth ;
+    ns1:has ns1:Thick_atmosphere,
+        ns1:Thick_clouds_of_sulfuric_acid,
+        ns1:difficult_to_explore_due_to_thick_atmosphere_and_extreme_temperatures,
+        ns1:extreme_surface_temperatures,
+        ns1:extreme_temperatures,
+        ns1:incidentally_fast_rotation,
+        ns1:runaway_greenhouse_effect,
+        ns1:similar_composition_and_size_to_Earth,
+        ns1:surface_geology,
+        ns1:temperatures_that_can_reach_up_to__degrees_Fahrenheit,
+        ns1:thick_clouds_of_carbon_dioxide,
+        ns1:thick_dense_atmosphere,
+        ns1:toxic_atmosphere,
+        ns1:volcanic_activity,
+        ns1:water ;
+    ns1:hasAUniqueSetOfFeatures ns1:such_as_retrograde_rotation_and_hottest_surface_temperature_in_the_solar_system ;
+    ns1:has_a_thick_atmosphere ns1:Earth,
+        ns1:Earths_greenhouse_effect,
+        ns1:with_clouds_of_sulfuric_acid ;
+    ns1:has_a_thick_atmosphere_primary_composed_of_carbon_dioxide ns1:Earth ;
+    ns1:has_a_thick_layer_of_lavalike_material_covering_its_surface ns1:Earth ;
+    ns1:has_been_studied_by_the_Magellan_spacecraft ns1:Earth ;
+    ns1:has_been_studied_by_the_Venera_missions ns1:Earth ;
+    ns1:has_been_the_subject_of_numerous_missions_to_study_it ns1:Earth ;
+    ns1:has_dense_clouds ns1:Earth ;
+    ns1:has_differences_with ns1:Earth ;
+    ns1:has_experienced ns1:runaway_greenhouse_effect ;
+    ns1:has_extreme_climate ns1:Earth ;
+    ns1:has_extreme_heat_on_one_side_and_extreme_cold_on_another <http://example.org/myontology/Earth/s> ;
+    ns1:has_extreme_temperature_and_dense_clouds ns1:Earth ;
+    ns1:has_many_differences ns1:Earth ;
+    ns1:has_presented_significant_challenges_for_space_exploration ns1:Earth ;
+    ns1:has_rocky_surface ns1:Earth ;
+    ns1:has_several_features ns1:including_volcanoes ;
+    ns1:has_shrouded_in_thick_clouds_of_sulfuric_acid ns1:Earth ;
+    ns1:has_similar_rock_and_metal_compositions ns1:Earth ;
+    ns1:has_similar_size_to_Earth ns1:Earth ;
+    ns1:has_surface_pressure_that_is_over__times_that_of_Earth ns1:Earth ;
+    ns1:has_temperatures_that_can_reach_as_high_as__F ns1:Earth ;
+    ns1:has_thick_atmosphere ns1:Earth ;
+    ns1:has_thick_atmosphere_and_lack_of_a_protective_magnetic_field_like_Earth ns1:Earth ;
+    ns1:has_traces_of_water_vapor_in_its_atmosphere ns1:Earth ;
+    ns1:has_underground_oceans ns1:Earth ;
+    ns1:has_unique ns1:geological_features ;
+    ns1:has_volcanic_lakes ns1:Earth ;
+    ns1:home_to_extreme_temperatures_and_conditions <http://example.org/myontology/studying_Venus_can_provide_clues_about_the_potential_for_life_elsewhere_in_the_solar_system/s> ;
+    ns1:is ns1:filled_with_sulfuric_acid_clouds,
+        ns1:inhospitable,
+        ns1:inhospitable_to_human_life,
+        ns1:sister_planet,
+        ns1:subject_to_extreme_pressure ;
+    ns1:is_a_planet ns1:Earth ;
+    ns1:is_an_important_subject_of_study_for_scientists ns1:Earth ;
+    ns1:is_being_studied_to_learn_more_about_the_conditions_required_for_life ns1:Earth ;
+    ns1:is_covered_in ns1:clouds_of_sulfuric_acid ;
+    ns1:is_currently_being_studied_by_the_Venus_Reconnaissance_Orbiter ns1:Earth ;
+    ns1:is_experiencing ns1:Greenhouse_effect ;
+    ns1:is_home_to ns1:volcanic_formations ;
+    ns1:is_know_as_basalt_which_is_a_result_of_volcanic_activity_that_occurred ns1:Earth ;
+    ns1:is_known_for ns1:Extreme_temperature,
+        ns1:Hostile_environment,
+        ns1:its_extreme_temperatures ;
+    ns1:is_known_for_its_many_characteristics ns1:Earth ;
+    ns1:is_not_as_hospitable_as_Earth_for_human_missions ns1:Earth ;
+    ns1:is_one_of_the_hottest_planets_in_our_solar_system ns1:Earth ;
+    ns1:is_shrouded_in_thick_clouds_of_sulfuric_acid ns1:Earth ;
+    ns1:is_similar_to ns1:Earth ;
+    ns1:is_the_only_planet_in_our_solar_system_with_a_thick_atmosphere_and_is_completely_covered_by_clouds ns1:Earth ;
+    ns1:is_trapped_by ns1:its_thick_atmosphere_in_a_runaway_greenhouse_effect ;
+    ns1:may_have_had_liquid_water_in_the_past ns1:Earth ;
+    ns1:may_have_once_been_hospitable_to_life ns1:Earths_conditions_for_life_to_develop ;
+    ns1:mysteriousBecauseOf ns1:dense_atmospheric_conditions_and_extreme_temperatures ;
+    ns1:once_may_have_had ns1:thicker_atmosphere ;
+    ns1:orbit_around ns1:Earth ;
+    ns1:possibly ns1:with_liquid_water ;
+    ns1:possibly_harbored ns1:life_in_the_past ;
+    ns1:presents ns1:opportunities_to_study_extremophiles ;
+    ns1:provides ns1:opportunity_to_study_atmospheric_conditions ;
+    ns1:relation <http://example.org/myontology/Climate,>,
+        <http://example.org/myontology/Geology,>,
+        <http://example.org/myontology/Habitability/s>,
+        <http://example.org/myontology/Universe,> ;
+    ns1:reveals ns1:previously_unknown_species ;
+    ns1:rotational_period ns1:is_shorter_than_Earths ;
+    ns1:studiedFromADistanceUsing ns1:satellites_and_telescopes ;
+    ns1:temperature ns1:can_reach_up_to__degrees_Celsius .
+
