@@ -1,7 +1,0 @@
-True Positives: 1
-False Positive: 9
-False negative: 29
-Precision: 0.1
-Recall: 0.03333333333333333
-F1 Score: 0.05
-Similarity score: 0.06365494

@@ -1,0 +1,80 @@
+1. <person, has role, profession>
+2. <person, experiences, emotion>
+3. <person, forms relationship, person>
+4. <person, has location, place>
+5. <event, occurs in, time period>
+6. <person, has characteristic, trait>
+7. <person, has belief, idea>
+8. <person, has goal, objective>
+9. <person, has influence, person>
+10. <person, has interaction, person>
+11. <person, has occupation, profession>
+12. <person, has status, role>
+13. <person, has characteristic, personality trait>
+14. <person, has education, degree>
+15. <person, has interest, hobby>
+16. <person, has relationship, family member>
+17. <person, has relationship, friend>
+18. <person, has relationship, romantic partner>
+19. <person, has relationship, colleague>
+20. <person, has relationship, mentor>
+21. <person, has relationship, student>
+22. <person, has relationship, teacher>
+23. <person, has relationship, leader>
+24. <person, has relationship, follower>
+25. <person, has relationship, collaborator>
+26. <person, has relationship, competitor>
+27. <person, has relationship, adversary>
+28. <person, has relationship, ally>
+29. <person, has relationship, sponsor>
+30. <person, has relationship, protege>
+31. <person, has relationship, caregiver>
+32. <person, has relationship, care receiver>
+33. <person, has relationship, community member>
+34. <person, has relationship, citizen>
+35. <person, has relationship, consumer>
+36. <person, has relationship, employee>
+37. <person, has relationship, employer>
+38. <person, has relationship, investor>
+39. <person, has relationship, donor>
+40. <person, has relationship, volunteer>
+41. <person, has relationship, influencer>
+42. <person, has relationship, fan>
+43. <person, has relationship, critic>
+44. <person, has relationship, supporter>
+45. <person, has relationship, opponent>
+46. <person, has relationship, collaborator>
+47. <person, has relationship, competitor>
+48. <person, has relationship, adversary>
+49. <person, has relationship, ally>
+50. <person, has relationship, sponsor>
+51. <person, has relationship, protege>
+52. <person, has relationship, caregiver>
+53. <person, has relationship, care receiver>
+54. <person, has relationship, community member>
+55. <person, has relationship, citizen>
+56. <person, has relationship, consumer>
+57. <person, has relationship, employee>
+58. <person, has relationship, employer>
+59. <person, has relationship, investor>
+60. <person, has relationship, donor>
+61. <person, has relationship, volunteer>
+62. <person, has relationship, influencer>
+63. <person, has relationship, fan>
+64. <person, has relationship, critic>
+65. <person, has relationship, supporter>
+66. <person, has relationship, opponent>
+67. <person, has relationship, collaborator>
+68. <person, has relationship, competitor>
+69. <person, has relationship, adversary>
+70. <person, has relationship, ally>
+71. <person, has relationship, sponsor>
+72. <person, has relationship, protege>
+73. <person, has relationship, caregiver>
+74. <person, has relationship, care receiver>
+75. <person, has relationship, community member>
+76. <person, has relationship, citizen>
+77. <person, has relationship, consumer>
+78. <person, has relationship, employee>
+79. <person, has relationship, employer>
+80

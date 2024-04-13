@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1600px;
+                 height: 1200px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Life", "label": "Life", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "birth", "label": "birth", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "breath", "label": "breath", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "growth", "label": "growth", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "change", "label": "change", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "rollercoaster", "label": "rollercoaster", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "learning", "label": "learning", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "quest", "label": "quest", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "pursuit", "label": "pursuit", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "transitions", "label": "transitions", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "experiences", "label": "experiences", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "enigma", "label": "enigma", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Individuals", "label": "Individuals", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "life", "label": "life", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Infancy", "label": "Infancy", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "sensations", "label": "sensations", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Adolescence", "label": "Adolescence", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "identity", "label": "identity", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Adulthood", "label": "Adulthood", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "responsibilities", "label": "responsibilities", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Choices", "label": "Choices", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "success", "label": "success", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "happiness", "label": "happiness", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Relationships", "label": "Relationships", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "comfort", "label": "comfort", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "challenge", "label": "challenge", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "companionship", "label": "companionship", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Bonds", "label": "Bonds", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "fulfillment", "label": "fulfillment", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "heartache", "label": "heartache", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Education", "label": "Education", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "perspectives", "label": "perspectives", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "skills", "label": "skills", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Society", "label": "Society", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "adaptation", "label": "adaptation", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Exploration", "label": "Exploration", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "solace", "label": "solace", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "strength", "label": "strength", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Career", "label": "Career", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "purpose", "label": "purpose", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Old_age", "label": "Old_age", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "reflection", "label": "reflection", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "reassessment", "label": "reassessment", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Events", "label": "Events", "shape": "dot", "size": 10}]);
+                  edges = new vis.DataSet([{"from": "Life", "relation": "begins", "to": "birth", "width": 1}, {"from": "Life", "relation": "ends", "to": "breath", "width": 1}, {"from": "Life", "relation": "about", "to": "growth", "width": 1}, {"from": "Life", "relation": "about", "to": "change", "width": 1}, {"from": "Life", "relation": "is", "to": "rollercoaster", "width": 1}, {"from": "Life", "relation": "challenges", "to": "learning", "width": 1}, {"from": "Life", "relation": "involves", "to": "quest", "width": 1}, {"from": "Life", "relation": "involves", "to": "pursuit", "width": 1}, {"from": "Life", "relation": "punctuated", "to": "transitions", "width": 1}, {"from": "Life", "relation": "about", "to": "experiences", "width": 1}, {"from": "Life", "relation": "remains", "to": "enigma", "width": 1}, {"from": "Individuals", "relation": "live", "to": "life", "width": 1}, {"from": "Infancy", "relation": "offers", "to": "sensations", "width": 1}, {"from": "Adolescence", "relation": "shapes", "to": "identity", "width": 1}, {"from": "Adulthood", "relation": "includes", "to": "responsibilities", "width": 1}, {"from": "Choices", "relation": "influence", "to": "success", "width": 1}, {"from": "Choices", "relation": "influence", "to": "happiness", "width": 1}, {"from": "Relationships", "relation": "provide", "to": "comfort", "width": 1}, {"from": "Relationships", "relation": "provide", "to": "challenge", "width": 1}, {"from": "Relationships", "relation": "provide", "to": "companionship", "width": 1}, {"from": "Bonds", "relation": "offer", "to": "fulfillment", "width": 1}, {"from": "Bonds", "relation": "lead", "to": "heartache", "width": 1}, {"from": "Education", "relation": "shapes", "to": "perspectives", "width": 1}, {"from": "Education", "relation": "shapes", "to": "skills", "width": 1}, {"from": "Society", "relation": "requires", "to": "adaptation", "width": 1}, {"from": "Exploration", "relation": "provides", "to": "solace", "width": 1}, {"from": "Exploration", "relation": "provides", "to": "strength", "width": 1}, {"from": "Career", "relation": "provides", "to": "purpose", "width": 1}, {"from": "Career", "relation": "provides", "to": "identity", "width": 1}, {"from": "Old_age", "relation": "brings", "to": "reflection", "width": 1}, {"from": "Old_age", "relation": "brings", "to": "reassessment", "width": 1}, {"from": "Events", "relation": "redefine", "to": "life", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
