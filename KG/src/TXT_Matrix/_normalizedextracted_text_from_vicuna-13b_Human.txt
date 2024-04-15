@@ -4,4 +4,4 @@ False negative: 32
 Precision: 0.0
 Recall: 0.0
 F1 Score: 0
-Similarity score: 0.030729085
+Similarity score: 0.030496897

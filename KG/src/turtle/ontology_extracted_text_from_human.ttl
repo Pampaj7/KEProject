@@ -1,0 +1,48 @@
+@prefix ns1: <http://example.org/myontology/> .
+
+ns1:Adolescence ns1:shapes ns1:identity .
+
+ns1:Adulthood ns1:includes ns1:responsibilities .
+
+ns1:Bonds ns1:lead ns1:heartache ;
+    ns1:offer ns1:fulfillment .
+
+ns1:Career ns1:provides ns1:identity,
+        ns1:purpose .
+
+ns1:Choices ns1:influence ns1:happiness,
+        ns1:success .
+
+ns1:Education ns1:shapes ns1:perspectives,
+        ns1:skills .
+
+ns1:Events ns1:redefine ns1:life .
+
+ns1:Exploration ns1:provides ns1:solace,
+        ns1:strength .
+
+ns1:Individuals ns1:live ns1:life .
+
+ns1:Infancy ns1:offers ns1:sensations .
+
+ns1:Life ns1:about ns1:change,
+        ns1:experiences,
+        ns1:growth ;
+    ns1:begins ns1:birth ;
+    ns1:challenges ns1:learning ;
+    ns1:ends ns1:breath ;
+    ns1:involves ns1:pursuit,
+        ns1:quest ;
+    ns1:is ns1:rollercoaster ;
+    ns1:punctuated ns1:transitions ;
+    ns1:remains ns1:enigma .
+
+ns1:Old_age ns1:brings ns1:reassessment,
+        ns1:reflection .
+
+ns1:Relationships ns1:provide ns1:challenge,
+        ns1:comfort,
+        ns1:companionship .
+
+ns1:Society ns1:requires ns1:adaptation .
+

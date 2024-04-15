@@ -1,0 +1,34 @@
+@prefix ns1: <http://example.org/myontology/> .
+@prefix ns2: <http://example.org/myontology/can_shape_the_course_of_one’> .
+
+ns1:_Adolescence ns1:where_identity_begins_to_take_shape ns1:Life .
+
+ns1:_Adulthood ns1:the_spectrum_of_responsibilities_expands ns1:Life .
+
+ns1:_Challenges_overcome ns1:are_experiences_along_the_way ns1:Life .
+
+ns1:_Choices_made_during_adulthood ns2:s_life ns1:Life .
+
+ns1:_Education ns1:shapes_perspectives_and_skills ns1:Life .
+
+ns1:_Emotions ns1:are_fundamental_to_the_emotional_experience_of_life ns1:Life .
+
+ns1:_Infancy_stages ns1:where_the_world_is_a_blur_of_sensations_and_needs ns1:Life .
+
+ns1:_Intellectual_journey ns1:drives_innovations_and_personal_growth ns1:Life .
+
+ns1:_Laughter_shared_with_friends ns1:are_experiences_along_the_way ns1:Life .
+
+ns1:_Life ns1:continues_until ns1:the_last_breath ;
+    ns1:is_a_journey_that_begins_at ns1:the_moment_of_birth ;
+    ns1:is_about ns1:growth ;
+    ns1:is_not_just_about_the_milestones_or_the_end_goals ns1:the_experiences_along_the_way .
+
+ns1:_Mornings_spent_watching_the_sunrise ns1:are_experiences_along_the_way ns1:Life .
+
+ns1:_Old_age ns1:offers_a_new_set_of_challenges_and_reflections ns1:Life .
+
+ns1:_Quiet_moments_alone ns1:are_experiences_along_the_way ns1:Life .
+
+ns1:_Society_and_technology ns1:requires_continuous_adaptation_and_learning ns1:Life .
+

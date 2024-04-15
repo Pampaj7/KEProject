@@ -1,0 +1,20 @@
+@prefix ns1: <http://example.org/myontology/> .
+
+ns1:adulthood ns1:relationships ns1:personal_aspirations ;
+    ns1:responsibilities ns1:careers .
+
+ns1:emotions ns1:rollercoaster ns1:feelings .
+
+ns1:human_relationships ns1:emotional_experience ns1:challenge,
+        ns1:comfort,
+        ns1:companionship,
+        ns1:conflict,
+        ns1:heartache .
+
+ns1:intellectual_journey ns1:challenges ns1:adaptability .
+
+ns1:life ns1:challenges ns1:adolescence ;
+    ns1:growth ns1:change ;
+    ns1:narrative ns1:individuals ;
+    ns1:tapestry ns1:experiences .
+

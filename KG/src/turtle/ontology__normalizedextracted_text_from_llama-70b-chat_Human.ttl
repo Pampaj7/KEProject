@@ -1,0 +1,63 @@
+@prefix ns1: <http://example.org/myontology/> .
+
+ns1:Here_are_the_extracted_triples_formatted_as_named_entity_A ns1:relation ns1:named_entity_B .
+
+ns1:_Adolescence ns1:stage ns1:Rebellious .
+
+ns1:_Adulthood ns1:responsibilities ns1:Expands .
+
+ns1:_Birth ns1:milestone ns1:Life .
+
+ns1:_Births ns1:transition ns1:Life .
+
+ns1:_Career ns1:aspect ns1:Professional .
+
+ns1:_Career_Changes ns1:transition ns1:Life .
+
+ns1:_Challenges ns1:overcome ns1:Life .
+
+ns1:_Friends ns1:shared ns1:Life .
+
+ns1:_Graduation ns1:transition ns1:Life .
+
+ns1:_Infancy ns1:stage ns1:Helpless .
+
+ns1:_Last_Breath ns1:milestone ns1:Life .
+
+ns1:_Laughter ns1:moment ns1:Life .
+
+ns1:_Life ns1:begins ns1:Birth ;
+    ns1:complexities ns1:Embraced ;
+    ns1:continues ns1:Last_Breath ;
+    ns1:enigma ns1:Decipher ;
+    ns1:involves ns1:Emotions,
+        ns1:Intellectual,
+        ns1:Relationships,
+        ns1:Spiritual ;
+    ns1:is ns1:Beautiful_Enigma,
+        ns1:Change,
+        ns1:Choices,
+        ns1:Complex_Tapestry,
+        ns1:Diverse,
+        ns1:Experiences,
+        ns1:Growth,
+        ns1:Journey,
+        ns1:Moments,
+        ns1:Reflections,
+        ns1:Uncertainties ;
+    ns1:journey ns1:Embrace ;
+    ns1:punctuated ns1:Transition ;
+    ns1:uncertainties ns1:Embraced .
+
+ns1:_Losses ns1:transition ns1:Life .
+
+ns1:_Marriages ns1:transition ns1:Life .
+
+ns1:_Mornings ns1:moment ns1:Life .
+
+ns1:_Person ns1:wants ns1:Life .
+
+ns1:_Quiet_moments ns1:moment ns1:Life .
+
+ns1:_Sunrise ns1:moment ns1:Life .
+

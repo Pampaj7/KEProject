@@ -7,7 +7,7 @@ from tqdm import tqdm
 import warnings
 
 nlp = spacy.load("en_core_web_lg")
-threshold = 0.90 # with this similarity we ha division by 0 in human text -- too small
+threshold = 0.96 # with this similarity we ha division by 0 in human text -- too small
 
 warnings.filterwarnings("ignore", category=UserWarning, message="set_ticklabels\(\) should only be used with a fixed number of ticks")
 

@@ -1,0 +1,49 @@
+@prefix ns1: <http://example.org/myontology/> .
+
+ns1:_event ns1:occurs_in ns1:time_period .
+
+ns1:_person ns1:experiences ns1:emotion ;
+    ns1:forms_relationship ns1:person ;
+    ns1:has_belief ns1:idea ;
+    ns1:has_characteristic ns1:personality_trait,
+        ns1:trait ;
+    ns1:has_education ns1:degree ;
+    ns1:has_goal ns1:objective ;
+    ns1:has_influence ns1:person ;
+    ns1:has_interaction ns1:person ;
+    ns1:has_interest ns1:hobby ;
+    ns1:has_location ns1:place ;
+    ns1:has_occupation ns1:profession ;
+    ns1:has_relationship ns1:adversary,
+        ns1:ally,
+        ns1:care_receiver,
+        ns1:caregiver,
+        ns1:citizen,
+        ns1:collaborator,
+        ns1:colleague,
+        ns1:community_member,
+        ns1:competitor,
+        ns1:consumer,
+        ns1:critic,
+        ns1:donor,
+        ns1:employee,
+        ns1:employer,
+        ns1:family_member,
+        ns1:fan,
+        ns1:follower,
+        ns1:friend,
+        ns1:influencer,
+        ns1:investor,
+        ns1:leader,
+        ns1:mentor,
+        ns1:opponent,
+        ns1:protege,
+        ns1:romantic_partner,
+        ns1:sponsor,
+        ns1:student,
+        ns1:supporter,
+        ns1:teacher,
+        ns1:volunteer ;
+    ns1:has_role ns1:profession ;
+    ns1:has_status ns1:role .
+
