@@ -90,21 +90,19 @@ def calculate_evaluation_metrics(tp, fp, fn):
 
 
 def draw_confusion_matrix(true_positives, false_positives, false_negatives, name):
-    """
-    Draws a confusion matrix
-    """
+
     true_negatives = 0
     confusion_matrix = np.array([[true_positives, false_positives],
-                                 [false_negatives, true_negatives]])
-    fig, ax = plt.subplots()
+                                [false_negatives, true_negatives]])
+    fig, ax = plt.subplots(figsize=(10, 8))
     cax = ax.matshow(confusion_matrix, cmap=plt.cm.Blues)
     plt.title('Confusion Matrix')
     fig.colorbar(cax)
+    ax.set_xticks(np.arange(confusion_matrix.shape[1]))
+    ax.set_yticks(np.arange(confusion_matrix.shape[0]))
     ax.set_xticklabels(['Predicted Positive', 'Predicted Negative'])
     ax.set_yticklabels(['Actual Positive', 'Actual Negative'])
+
     for (i, j), val in np.ndenumerate(confusion_matrix):
         ax.text(j, i, f'{val}', ha='center', va='center')
-    plt.xlabel('Predicted labels')
-    plt.ylabel('True labels')
-    # plt.show()
     plt.savefig("TXT_Matrix/" + name + ".png")

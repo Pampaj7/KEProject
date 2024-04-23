@@ -4,7 +4,7 @@ import confusion_matrix as cm
 import ontology_interrogation as oi
 
 GTai = "normalizedTriplets/_normalizedextracted_text_from_GPT_MarsDiary.txt"
-GThuman = "normalizedTriplets/extracted_text_from_human.txt"  #handmade
+GThuman = "normalizedTriplets/extracted_text_from_human.txt"  # handmade
 
 
 def process_files(files, gtfiles):
@@ -23,7 +23,7 @@ def process_files(files, gtfiles):
             continue
         similarity_score = gs.compare_embeddings(gpt_embeddings, current_embeddings)
         cosine_sim.append(similarity_score)
-        cm.calculate_matrix(file, similarity_score, gtfiles)  #output matrix TT ecc is calculated with cos sim
+        cm.calculate_matrix(file, similarity_score, gtfiles)  # output matrix TT ecc is calculated with cos sim
 
 
 filename = [
@@ -37,8 +37,8 @@ filename = [
 ]
 
 filename_human = [
-    "extracted_text_from_human.txt", #handmande
-    "_normalizedextracted_text_from_GPT_Human.txt" # was missing
+    "extracted_text_from_human.txt",  # handmande
+    "_normalizedextracted_text_from_GPT_Human.txt"  # was missing
     "_normalizedextracted_text_from_Mistral7B_CME_v1_LOCAL_human.txt",
     "_normalizedextracted_text_from_llama-13b-chat_Human.txt",
     "_normalizedextracted_text_from_llama-70b-chat_Human.txt",
