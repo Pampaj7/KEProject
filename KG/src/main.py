@@ -37,7 +37,8 @@ filename = [
 ]
 
 filename_human = [
-    "extracted_text_from_human.txt",
+    "extracted_text_from_human.txt", #handmande
+    "_normalizedextracted_text_from_GPT_Human.txt" # was missing
     "_normalizedextracted_text_from_Mistral7B_CME_v1_LOCAL_human.txt",
     "_normalizedextracted_text_from_llama-13b-chat_Human.txt",
     "_normalizedextracted_text_from_llama-70b-chat_Human.txt",
