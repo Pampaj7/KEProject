@@ -1,0 +1,23 @@
+@prefix ns1: <http://example.org/myontology/> .
+
+ns1:Education ns1:shapes ns1:our_perspectives_and_skills .
+
+ns1:Life ns1:begins_at ns1:moment_of_birth ;
+    ns1:brings_about ns1:reflection_and_reassessment_of_priorities ;
+    ns1:challenges_us_to ns1:learn_and_adapt ;
+    ns1:continues_until ns1:last_breath ;
+    ns1:influences ns1:career_success_to_personal_happiness ;
+    ns1:involves ns1:pursuit_of_career_and_ambitions ;
+    ns1:is_about ns1:experiences_along_the_way,
+        ns1:growth_and_change,
+        ns1:living_fully_in_each_moment ;
+    ns1:is_punctuated_by ns1:moments_of_transition ;
+    ns1:offers ns1:new_challenges_and_opportunities ;
+    ns1:remains ns1:a_beautiful_enigma .
+
+ns1:Old_age ns1:offers ns1:new_set_of_challenges_and_reflections .
+
+ns1:Professional_journey ns1:can_provide ns1:sense_of_purpose_and_identity .
+
+ns1:Society_and_technology ns1:requires ns1:continuous_adaptation_and_learning .
+
