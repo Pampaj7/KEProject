@@ -107,7 +107,7 @@ ns1:MAVEN_mission ns1:has_allowed_scientists_to_study ns1:Venuss_atmosphere ;
 ns1:Magellan ns1:was_to ns1:map_Venuss_surface .
 
 ns1:Magellan_mission ns1:mapped <http://example.org/myontology/%_of_the_planets_surface>,
-        ns1:over_%_of_Venus_surface ;
+        ns1:over_of_Venus_surface ;
     ns1:maps ns1:its_surface ;
     ns1:orbited ns1:Venus ;
     ns1:orbits ns1:the_planet .
@@ -115,7 +115,7 @@ ns1:Magellan_mission ns1:mapped <http://example.org/myontology/%_of_the_planets_
 ns1:Magellan_orbiter ns1:has_provided ns1:data_about_Venus_atmosphere,
         ns1:data_about_Venus_climate,
         ns1:data_about_Venus_surface_features ;
-    ns1:mapped ns1:about_%_of_the_planets_surface .
+    ns1:mapped ns1:about_of_the_planets_surface .
 
 ns1:Magellan_probe ns1:orbited ns1:Venus ;
     ns1:provided ns1:scientists_with_a_wealth_of_data_about_the_planets_atmosphere .
@@ -135,7 +135,7 @@ ns1:NASAs_DAVINCI_spacecraft ns1:proposed ns1:a_mission_to_search_for_signs_of_p
 
 ns1:NASAs_Magellan_Mars_orbiter ns1:took_photos_of ns1:the_planets_surface .
 
-ns1:NASAs_Magellan_mission ns1:mapped ns1:almost_%_of_the_planets_surface ;
+ns1:NASAs_Magellan_mission ns1:mapped ns1:almost_of_the_planets_surface ;
     ns1:orbited ns1:Venus .
 
 ns1:NASAs_Magellan_spacecraft ns1:has_been ns1:collecting_data_about_its_topography,
@@ -148,7 +148,7 @@ ns1:NASAs_Magellan_spacecraft ns1:has_been ns1:collecting_data_about_its_topogra
         ns1:vast_volcanic_landscapes ;
     ns1:was ns1:the_first_successful_mission_to_Venus ;
     ns1:was_able_to_create ns1:a_detailed_map_of_Venus_surface ;
-    ns1:was_able_to_map_almost_%_of ns1:Venus_surface .
+    ns1:was_able_to_map_almost_of ns1:Venus_surface .
 
 ns1:NASAs_Mariner_ ns1:discovered ns1:its_surface_was_covered_in_clouds_that_shrouded_oceans_and_lakes_of_liquid_water .
 
@@ -269,7 +269,7 @@ ns1:Surface_temperature_on_Venus ns1:can_reach ns1:up_to__degrees_Fahrenheit .
 
 ns1:Surface_temperatures ns1:reach ns1:up_to__degrees_Fahrenheit .
 
-ns1:The_Magellan_mission ns1:mapped ns1:nearly_%_of_Venus_surface .
+ns1:The_Magellan_mission ns1:mapped ns1:nearly_of_Venus_surface .
 
 ns1:The_Magellan_spacecraft ns1:orbited ns1:Venus ;
     ns1:provided ns1:detailed_images_of_the_planets_entire_surface ;
@@ -612,9 +612,9 @@ ns1:Magellan_spacecraft ns1:captured <http://example.org/myontology/over_,_image
     ns1:map ns1:its_entire_surface ;
     ns1:mapped <http://example.org/myontology/%_of_the_planets_surface>,
         ns1:Venuss_surface,
-        ns1:almost_%_of_Venuss_surface,
-        ns1:more_than_%_of_the_planets_surface,
-        ns1:nearly_%_of_the_planets_surface ;
+        ns1:almost_of_Venuss_surface,
+        ns1:more_than_of_the_planets_surface,
+        ns1:nearly_of_the_planets_surface ;
     ns1:orbited ns1:Venus,
         ns1:Venus_from__to_ ;
     ns1:orbiting ns1:Venus ;
@@ -836,7 +836,7 @@ ns1:Venuss_atmosphere ns1:allows ns1:researchers_to_study_how_extreme_conditions
         ns1:mostly_carbon_dioxide ;
     ns1:is_comprised_mostly_of ns1:carbon_dioxide ;
     ns1:is_equivalent_to ns1:the_heat_generated_by_the_suns_surface_on_a_cloudless_day ;
-    ns1:more_than_%_of ns1:carbon_dioxide ;
+    ns1:more_than_of ns1:carbon_dioxide ;
     ns1:traps ns1:heat .
 
 ns1:Earth ns1:has ns1:average_surface_temperature_of__degrees_Celsius ;
@@ -874,7 +874,7 @@ ns1:Venus ns1:also_known_as ns1:the_Earths_sister_planet ;
         ns1:a_thick_and_dense_atmosphere,
         ns1:a_thick_and_toxic_atmosphere,
         ns1:a_thick_atmosphere,
-        ns1:a_thick_atmosphere_that_is_%_carbon_dioxide,
+        ns1:a_thick_atmosphere_that_is_carbon_dioxide,
         ns1:a_thick_atmosphere_that_makes_it_extremely_hot,
         ns1:a_thick_atmosphere_that_traps_heat_and_creates_a_greenhouse_effect,
         ns1:a_thick_layer_of_clouds_of_sulfuric_acid,
@@ -1057,7 +1057,7 @@ ns1:Venus ns1:also_known_as ns1:the_Earths_sister_planet ;
         ns1:only_planet_to_have_a_thick_atmosphere,
         ns1:planet_in_our_solar_system,
         ns1:planet_in_our_system,
-        ns1:roughly_%_larger_than_Earth,
+        ns1:roughly_larger_than_Earth,
         ns1:roughly_the_same_size_as_Earth,
         ns1:second_planet_from_the_sun,
         ns1:second_planet_in_our_solar_system,

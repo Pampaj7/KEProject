@@ -44,13 +44,9 @@ def create_ontology(triplets, filename):
 
     # Add triplets to the RDF graph
     for subject, predicate, object in triplets:
-        normalized_subject = normalize_name(subject)
-        normalized_predicate = normalize_name(predicate)
-        normalized_object = normalize_name(object)
-
-        s = URIRef(ns[normalized_subject])
-        p = URIRef(ns[normalized_predicate])
-        o = URIRef(ns[normalized_object])
+        s = URIRef(ns[subject])
+        p = URIRef(ns[predicate])
+        o = URIRef(ns[object])
         g.add((s, p, o))
 
     # Serialize the graph to a turtle file
